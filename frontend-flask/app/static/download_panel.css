@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    color: #222;
+}
+
+.page-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.panel {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.panel h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px 12px;
+    margin-bottom: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+button {
+    padding: 10px 16px;
+    border: none;
+    border-radius: 8px;
+    background: #0d6efd;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+button:hover {
+    background: #0b5ed7;
+}
+
+button:disabled {
+    background: #8fb8ff;
+    cursor: not-allowed;
+}
+
+#statusMessage {
+    margin-top: 12px;
+    font-size: 14px;
+    min-height: 20px;
+}
+
+.log-box {
+    flex: 1;
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px;
+    overflow-y: auto;
+    max-height: 420px;
+    font-family: monospace;
+    font-size: 13px;
+    white-space: pre-wrap;
+}
+
+.log-box div {
+    margin-bottom: 8px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.file-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow-y: auto;
+    max-height: 420px;
+}
+
+.file-list li {
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px 12px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.empty-state {
+    color: #666;
+    font-style: italic;
+}
+
+.top-actions {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.back-link {
+    text-decoration: none;
+    color: #0d6efd;
+    font-weight: bold;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 992px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+
+    .panel {
+        min-height: auto;
+    }
+
+    .log-box,
+    .file-list {
+        max-height: 300px;
+    }
+}

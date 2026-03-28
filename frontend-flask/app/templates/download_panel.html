@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Descarga de PDFs</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='download_panel.css') }}">
+</head>
+<body>
+    <div class="page-container">
+        <div class="top-actions">
+            <a class="back-link" href="{{ url_for('main.index') }}">← Volver al inicio</a>
+        </div>
+
+        <h1>Panel de extracción y descarga de PDFs</h1>
+
+        <div class="grid-container">
+            <div class="panel">
+                <h2>URL de origen</h2>
+                <input type="text" id="urlInput" placeholder="Introduce una URL">
+                <button id="startButton">Iniciar descarga</button>
+                <p id="statusMessage"></p>
+            </div>
+
+            <div class="panel">
+                <h2>Logs del proceso</h2>
+                <div id="logBox" class="log-box">
+                    <div class="empty-state">Aún no hay logs.</div>
+                </div>
+            </div>
+
+            <div class="panel">
+                <h2>PDFs descargados</h2>
+                <ul id="fileList" class="file-list">
+                    <li class="empty-state">Aún no hay PDFs descargados.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const urlInput = document.getElementById("urlInput");
+        const startButton = document.getElementById("startButton");
+        const statusMessage = document.getElementById("statusMessage");
+        const logBox = document.getElementById("logBox");
+        const fileList = document.getElementById("fileList");
+
+        async function startDownload() {
+            const url = urlInput.value.trim();
+
+            if (!url) {
+                statusMessage.textContent = "Debes introducir una URL.";
+                return;
+            }
+
+            startButton.disabled = true;
+            statusMessage.textContent = "Iniciando proceso...";
+
+            try {
+                const response = await fetch("/start-download", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({ url: url })
+                });
+
+                const data = await response.json();
+                statusMessage.textContent = data.message || "Solicitud enviada.";
+            } catch (error) {
+                statusMessage.textContent = "Error al conectar con el frontend/backend.";
+            } finally {
+                setTimeout(() => {
+                    startButton.disabled = false;
+                }, 1000);
+            }
+        }
+
+        async function refreshStatus() {
+            try {
+                const response = await fetch("/status");
+                const data = await response.json();
+
+                logBox.innerHTML = "";
+                if (data.logs && data.logs.length > 0) {
+                    data.logs.forEach(log => {
+                        const div = document.createElement("div");
+                        div.textContent = log;
+                        logBox.appendChild(div);
+                    });
+                    logBox.scrollTop = logBox.scrollHeight;
+                } else {
+                    logBox.innerHTML = '<div class="empty-state">Aún no hay logs.</div>';
+                }
+
+                fileList.innerHTML = "";
+                if (data.files && data.files.length > 0) {
+                    data.files.forEach(file => {
+                        const li = document.createElement("li");
+                        li.textContent = file;
+                        fileList.appendChild(li);
+                    });
+                } else {
+                    fileList.innerHTML = '<li class="empty-state">Aún no hay PDFs descargados.</li>';
+                }
+
+                if (data.running) {
+                    statusMessage.textContent = "Proceso en ejecución...";
+                    startButton.disabled = true;
+                } else {
+                    if (statusMessage.textContent === "Proceso en ejecución...") {
+                        statusMessage.textContent = "Proceso finalizado.";
+                    }
+                    startButton.disabled = false;
+                }
+            } catch (error) {
+                console.error("Error refrescando estado:", error);
+            }
+        }
+
+        startButton.addEventListener("click", startDownload);
+
+        refreshStatus();
+        setInterval(refreshStatus, 2000);
+    </script>
+</body>
+</html>

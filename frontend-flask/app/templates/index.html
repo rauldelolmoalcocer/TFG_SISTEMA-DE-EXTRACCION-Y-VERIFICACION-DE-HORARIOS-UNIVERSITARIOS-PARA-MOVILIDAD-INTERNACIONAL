@@ -8,7 +8,11 @@
     <h1>Bienvenido {{ user }}</h1>
 
     <p>Has iniciado sesión correctamente.</p>
-
+    <div style="margin-top: 20px;">
+    <a href="{{ url_for('main.descargas') }}" class="btn btn-success">
+        📥 Panel de descargas
+    </a>
+</div>
     <a href="{{ url_for('main.logout') }}">Cerrar sesión</a>
 </body>
 </html>
