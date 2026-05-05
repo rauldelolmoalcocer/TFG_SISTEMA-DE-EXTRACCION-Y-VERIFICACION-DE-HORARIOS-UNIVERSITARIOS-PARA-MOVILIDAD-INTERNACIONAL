@@ -1,4 +1,4 @@
-from flask import Blueprint, render_template, request, redirect, url_for, session, jsonify
+from flask import Blueprint, render_template, request, redirect, url_for, session, jsonify, Response
 import requests
 
 bp = Blueprint("main", __name__)
@@ -126,4 +126,47 @@ def status():
             "running": False,
             "logs": ["No se pudo conectar con el backend"],
             "files": []
+        }), 500
+
+
+# =========================================================
+# ABRIR PDF DESDE EL FRONTEND (PROXY AL BACKEND)
+# =========================================================
+
+@bp.route("/pdf/<path:filename>", methods=["GET"])
+def open_pdf(filename):
+    if "user" not in session:
+        return jsonify({
+            "success": False,
+            "message": "Sesión no válida"
+        }), 401
+
+    try:
+        response = requests.get(
+            f"{BACKEND_URL}/download/file/{filename}",
+            timeout=30,
+            stream=True
+        )
+
+        if response.status_code != 200:
+            return jsonify({
+                "success": False,
+                "message": "No se pudo abrir el PDF"
+            }), response.status_code
+
+        return Response(
+            response.iter_content(chunk_size=8192),
+            content_type=response.headers.get("Content-Type", "application/pdf"),
+            headers={
+                "Content-Disposition": response.headers.get(
+                    "Content-Disposition",
+                    f'inline; filename="{filename}"'
+                )
+            }
+        )
+
+    except Exception:
+        return jsonify({
+            "success": False,
+            "message": "No se pudo abrir el PDF"
         }), 500

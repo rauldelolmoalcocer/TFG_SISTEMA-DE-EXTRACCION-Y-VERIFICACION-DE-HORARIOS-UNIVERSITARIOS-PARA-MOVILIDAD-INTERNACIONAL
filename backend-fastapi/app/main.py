@@ -1,6 +1,7 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
 import psycopg2
 import os
 import threading
@@ -51,7 +52,7 @@ def get_connection():
 # CONFIG DESCARGAS
 # =========================================================
 
-DOWNLOAD_FOLDER = "/app/downloads"
+DOWNLOAD_FOLDER = "/data/downloaded_pdfs"
 os.makedirs(DOWNLOAD_FOLDER, exist_ok=True)
 
 download_state = {
@@ -273,3 +274,21 @@ def download_status():
             "total_pdfs_found": download_state["total_pdfs_found"],
             "total_pdfs_downloaded": download_state["total_pdfs_downloaded"],
         }
+
+
+# =========================================================
+# SERVIR PDF INDIVIDUAL
+# =========================================================
+
+@app.get("/download/file/{filename:path}")
+def download_file(filename: str):
+    file_path = os.path.join(DOWNLOAD_FOLDER, filename)
+
+    if not os.path.isfile(file_path):
+        raise HTTPException(status_code=404, detail="PDF no encontrado")
+
+    return FileResponse(
+        path=file_path,
+        media_type="application/pdf",
+        filename=filename
+    )

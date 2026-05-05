@@ -38,12 +38,30 @@
         </div>
     </div>
 
+    <!-- Modal visor PDF -->
+    <div id="pdfModal" class="pdf-modal hidden">
+        <div class="pdf-modal-content">
+            <div class="pdf-modal-header">
+                <span id="pdfTitle">Visualizador PDF</span>
+                <button id="closeModalButton" class="close-button">&times;</button>
+            </div>
+            <div class="pdf-modal-body">
+                <iframe id="pdfViewer" src="" title="Visor PDF"></iframe>
+            </div>
+        </div>
+    </div>
+
     <script>
         const urlInput = document.getElementById("urlInput");
         const startButton = document.getElementById("startButton");
         const statusMessage = document.getElementById("statusMessage");
         const logBox = document.getElementById("logBox");
         const fileList = document.getElementById("fileList");
+
+        const pdfModal = document.getElementById("pdfModal");
+        const pdfViewer = document.getElementById("pdfViewer");
+        const pdfTitle = document.getElementById("pdfTitle");
+        const closeModalButton = document.getElementById("closeModalButton");
 
         async function startDownload() {
             const url = urlInput.value.trim();
@@ -76,6 +94,17 @@
             }
         }
 
+        function openPdfModal(fileName) {
+            pdfTitle.textContent = fileName;
+            pdfViewer.src = `/pdf/${encodeURIComponent(fileName)}`;
+            pdfModal.classList.remove("hidden");
+        }
+
+        function closePdfModal() {
+            pdfModal.classList.add("hidden");
+            pdfViewer.src = "";
+        }
+
         async function refreshStatus() {
             try {
                 const response = await fetch("/status");
@@ -97,7 +126,14 @@
                 if (data.files && data.files.length > 0) {
                     data.files.forEach(file => {
                         const li = document.createElement("li");
-                        li.textContent = file;
+
+                        const button = document.createElement("button");
+                        button.type = "button";
+                        button.textContent = file;
+                        button.className = "pdf-link";
+                        button.addEventListener("click", () => openPdfModal(file));
+
+                        li.appendChild(button);
                         fileList.appendChild(li);
                     });
                 } else {
@@ -119,6 +155,19 @@
         }
 
         startButton.addEventListener("click", startDownload);
+        closeModalButton.addEventListener("click", closePdfModal);
+
+        pdfModal.addEventListener("click", function (event) {
+            if (event.target === pdfModal) {
+                closePdfModal();
+            }
+        });
+
+        document.addEventListener("keydown", function (event) {
+            if (event.key === "Escape" && !pdfModal.classList.contains("hidden")) {
+                closePdfModal();
+            }
+        });
 
         refreshStatus();
         setInterval(refreshStatus, 2000);
