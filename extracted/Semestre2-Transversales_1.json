@@ -1,0 +1,1774 @@
+{
+    "schema_version": "1.0",
+    "processed_at": "2026-06-09 13:29:12",
+    "input_file": {
+        "path": "/data/downloaded_pdfs/Semestre2-Transversales_1.pdf",
+        "name": "Semestre2-Transversales_1.pdf",
+        "total_pages": 2
+    },
+    "standard_schedule": [
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "08:00",
+                "hora_fin": "08:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TIC",
+                "subgrupo": null,
+                "aula": "2C",
+                "texto_original": "TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA -"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "08:00",
+                "hora_fin": "08:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "2T",
+                "subgrupo": null,
+                "aula": "OA3",
+                "texto_original": "2T (OA3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "09:00",
+                "hora_fin": "09:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "INFORMACIÓN Y RECURSOS MULTIMEDIA",
+                "subgrupo": null,
+                "aula": "2C",
+                "texto_original": "INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T (OA3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "09:00",
+                "hora_fin": "09:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TIC",
+                "subgrupo": null,
+                "aula": "2C",
+                "texto_original": "TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA -"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "09:00",
+                "hora_fin": "09:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "2T",
+                "subgrupo": null,
+                "aula": "OA3",
+                "texto_original": "2T (OA3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "INFORMACIÓN Y RECURSOS MULTIMEDIA",
+                "subgrupo": null,
+                "aula": "2C",
+                "texto_original": "INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T (OA3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL",
+                "subgrupo": null,
+                "aula": "2C",
+                "texto_original": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B1"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TIC",
+                "subgrupo": null,
+                "aula": "2C",
+                "texto_original": "TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA -"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "2T",
+                "subgrupo": null,
+                "aula": "OA3",
+                "texto_original": "2T (OA3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T",
+                "subgrupo": "A1",
+                "aula": "OA3",
+                "texto_original": "Información y Recursos Multimedia (2C) – 2T-A1 (OA3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL",
+                "subgrupo": null,
+                "aula": "2C",
+                "texto_original": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B1"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TIC",
+                "subgrupo": null,
+                "aula": "2C",
+                "texto_original": "TIC (2C) – 2T (NL8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T",
+                "subgrupo": "A1",
+                "aula": "OA3",
+                "texto_original": "Información y Recursos Multimedia (2C) – 2T-A1 (OA3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL",
+                "subgrupo": null,
+                "aula": "2C",
+                "texto_original": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B2"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL",
+                "subgrupo": null,
+                "aula": "2C",
+                "texto_original": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B2"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "MODERNA – 2T",
+                "subgrupo": null,
+                "aula": "TRV",
+                "texto_original": "MODERNA – 2T (TRV)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-Transversales_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "2º",
+                "curso": "1º",
+                "grupo": "2ºT"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TECN. VIDEOJUEGOS - 2T",
+                "subgrupo": "B1",
+                "aula": "EL6",
+                "texto_original": "Tecn. Videojuegos - 2T-B1 (EL6)"
+            }
+        }
+    ],
+    "debug": {
+        "pages": [
+            {
+                "page": 1,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "2º",
+                    "curso": "1º",
+                    "grupo": "2ºT"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "08:00",
+                            "hora_fin": "08:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TIC",
+                            "subgrupo": null,
+                            "aula": "2C",
+                            "texto_original": "TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA -"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "08:00",
+                            "hora_fin": "08:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "2T",
+                            "subgrupo": null,
+                            "aula": "OA3",
+                            "texto_original": "2T (OA3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "09:00",
+                            "hora_fin": "09:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "INFORMACIÓN Y RECURSOS MULTIMEDIA",
+                            "subgrupo": null,
+                            "aula": "2C",
+                            "texto_original": "INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T (OA3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "09:00",
+                            "hora_fin": "09:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TIC",
+                            "subgrupo": null,
+                            "aula": "2C",
+                            "texto_original": "TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA -"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "09:00",
+                            "hora_fin": "09:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "2T",
+                            "subgrupo": null,
+                            "aula": "OA3",
+                            "texto_original": "2T (OA3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "INFORMACIÓN Y RECURSOS MULTIMEDIA",
+                            "subgrupo": null,
+                            "aula": "2C",
+                            "texto_original": "INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T (OA3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL",
+                            "subgrupo": null,
+                            "aula": "2C",
+                            "texto_original": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B1"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TIC",
+                            "subgrupo": null,
+                            "aula": "2C",
+                            "texto_original": "TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA -"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "2T",
+                            "subgrupo": null,
+                            "aula": "OA3",
+                            "texto_original": "2T (OA3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T",
+                            "subgrupo": "A1",
+                            "aula": "OA3",
+                            "texto_original": "Información y Recursos Multimedia (2C) – 2T-A1 (OA3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL",
+                            "subgrupo": null,
+                            "aula": "2C",
+                            "texto_original": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B1"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TIC",
+                            "subgrupo": null,
+                            "aula": "2C",
+                            "texto_original": "TIC (2C) – 2T (NL8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T",
+                            "subgrupo": "A1",
+                            "aula": "OA3",
+                            "texto_original": "Información y Recursos Multimedia (2C) – 2T-A1 (OA3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL",
+                            "subgrupo": null,
+                            "aula": "2C",
+                            "texto_original": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B2"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL",
+                            "subgrupo": null,
+                            "aula": "2C",
+                            "texto_original": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B2"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "MODERNA – 2T",
+                            "subgrupo": null,
+                            "aula": "TRV",
+                            "texto_original": "MODERNA – 2T (TRV)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-Transversales_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "2º",
+                            "curso": "1º",
+                            "grupo": "2ºT"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TECN. VIDEOJUEGOS - 2T",
+                            "subgrupo": "B1",
+                            "aula": "EL6",
+                            "texto_original": "Tecn. Videojuegos - 2T-B1 (EL6)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 - v0 OPTATIVIDAD TRANSVERSAL (G61) (TRV) CUATRIMESTRE 2º (Curso 1º, Semestre 2º) Curso 2025/2026 GRUPO 2ºT HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 8:00/8:55 CAPACITACIÓN EN EL USO DE LAS TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA - 2T (OA3) 9:00/9:55 BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T (OA3) CAPACITACIÓN EN EL USO DE LAS TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA - 2T (OA3) 10:00/10:55 BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T (OA3) Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B1 (NA8) CAPACITACIÓN EN EL USO DE LAS TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA - 2T (OA3) 11:00/11:55 Búsqueda y Gestión de la Información y Recursos Multimedia (2C) – 2T-A1 (OA3) Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B1 (NA8) CAPACITACIÓN EN EL USO DE LAS TIC (2C) – 2T (NL8) 12:00/12:55 Búsqueda y Gestión de la Información y Recursos Multimedia (2C) – 2T-A1 (OA3) Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B2 (NA8) 13:00/13:55 Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B2 (NA8) 14:00/14:55 15:00/15:55 SOLUCIONES INTELIGENTES Y SOSTENIBLES PARA LA SOCIEDAD MODERNA – 2T (TRV) (SL10) Tecn. Videojuegos - 2T-B1 (EL6)",
+                    "blocks": [
+                        {
+                            "page": 1,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 - v0",
+                            "bbox": {
+                                "x0": 50.099998474121094,
+                                "y0": 568.4829711914062,
+                                "x1": 258.0450439453125,
+                                "y1": 579.4629516601562,
+                                "cx": 154.0725212097168,
+                                "cy": 573.9729614257812
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "OPTATIVIDAD TRANSVERSAL (G61) (TRV) CUATRIMESTRE 2º (Curso 1º, Semestre 2º) Curso 2025/2026 GRUPO 2ºT",
+                            "bbox": {
+                                "x0": 50.099998474121094,
+                                "y0": 94.47296142578125,
+                                "x1": 791.5399169921875,
+                                "y1": 151.26295471191406,
+                                "cx": 420.8199577331543,
+                                "cy": 122.86795806884766
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 62.04999923706055,
+                                "y0": 156.67495727539062,
+                                "x1": 747.135986328125,
+                                "y1": 172.5349578857422,
+                                "cx": 404.5929927825928,
+                                "cy": 164.6049575805664
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "8:00/8:55",
+                            "bbox": {
+                                "x0": 60.0,
+                                "y0": 197.88296508789062,
+                                "x1": 96.15299987792969,
+                                "y1": 208.8629608154297,
+                                "cx": 78.07649993896484,
+                                "cy": 203.37296295166016
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "CAPACITACIÓN EN EL USO DE LAS",
+                            "bbox": {
+                                "x0": 662.9000244140625,
+                                "y0": 179.73297119140625,
+                                "x1": 787.7340087890625,
+                                "y1": 190.7129669189453,
+                                "cx": 725.3170166015625,
+                                "cy": 185.22296905517578
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA -",
+                            "bbox": {
+                                "x0": 657.4500122070312,
+                                "y0": 191.83294677734375,
+                                "x1": 793.1840209960938,
+                                "y1": 214.91294860839844,
+                                "cx": 725.3170166015625,
+                                "cy": 203.3729476928711
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "2T (OA3)",
+                            "bbox": {
+                                "x0": 708.0,
+                                "y0": 216.032958984375,
+                                "x1": 740.5880126953125,
+                                "y1": 227.01295471191406,
+                                "cx": 724.2940063476562,
+                                "cy": 221.52295684814453
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "9:00/9:55",
+                            "bbox": {
+                                "x0": 60.0,
+                                "y0": 252.43295288085938,
+                                "x1": 96.15299987792969,
+                                "y1": 263.4129333496094,
+                                "cx": 78.07649993896484,
+                                "cy": 257.9229431152344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "BÚSQUEDA Y GESTIÓN DE LA",
+                            "bbox": {
+                                "x0": 119.25,
+                                "y0": 240.33294677734375,
+                                "x1": 227.13400268554688,
+                                "y1": 251.3129425048828,
+                                "cx": 173.19200134277344,
+                                "cy": 245.82294464111328
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T (OA3)",
+                            "bbox": {
+                                "x0": 118.6500015258789,
+                                "y0": 252.43295288085938,
+                                "x1": 225.68099975585938,
+                                "y1": 275.512939453125,
+                                "cx": 172.16550064086914,
+                                "cy": 263.9729461669922
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "CAPACITACIÓN EN EL USO DE LAS",
+                            "bbox": {
+                                "x0": 662.9000244140625,
+                                "y0": 234.282958984375,
+                                "x1": 787.7340087890625,
+                                "y1": 245.26295471191406,
+                                "cx": 725.3170166015625,
+                                "cy": 239.77295684814453
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA -",
+                            "bbox": {
+                                "x0": 657.4500122070312,
+                                "y0": 246.38296508789062,
+                                "x1": 793.1840209960938,
+                                "y1": 269.46295166015625,
+                                "cx": 725.3170166015625,
+                                "cy": 257.92295837402344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "2T (OA3)",
+                            "bbox": {
+                                "x0": 708.0,
+                                "y0": 270.58294677734375,
+                                "x1": 740.5880126953125,
+                                "y1": 281.56292724609375,
+                                "cx": 724.2940063476562,
+                                "cy": 276.07293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "10:00/10:55",
+                            "bbox": {
+                                "x0": 55.45000076293945,
+                                "y0": 306.98297119140625,
+                                "x1": 100.75599670410156,
+                                "y1": 317.96295166015625,
+                                "cx": 78.10299873352051,
+                                "cy": 312.47296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "BÚSQUEDA Y GESTIÓN DE LA",
+                            "bbox": {
+                                "x0": 119.25,
+                                "y0": 294.8829650878906,
+                                "x1": 227.13400268554688,
+                                "y1": 305.8629455566406,
+                                "cx": 173.19200134277344,
+                                "cy": 300.3729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) – 2T (OA3)",
+                            "bbox": {
+                                "x0": 118.6500015258789,
+                                "y0": 306.98297119140625,
+                                "x1": 225.68099975585938,
+                                "y1": 330.06292724609375,
+                                "cx": 172.16550064086914,
+                                "cy": 318.52294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B1",
+                            "bbox": {
+                                "x0": 521.25,
+                                "y0": 294.8829650878906,
+                                "x1": 651.4840087890625,
+                                "y1": 317.96295166015625,
+                                "cx": 586.3670043945312,
+                                "cy": 306.42295837402344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "(NA8)",
+                            "bbox": {
+                                "x0": 574.5999755859375,
+                                "y0": 319.08294677734375,
+                                "x1": 596.1010131835938,
+                                "y1": 330.06292724609375,
+                                "cx": 585.3504943847656,
+                                "cy": 324.57293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "CAPACITACIÓN EN EL USO DE LAS",
+                            "bbox": {
+                                "x0": 662.9000244140625,
+                                "y0": 288.83294677734375,
+                                "x1": 787.7340087890625,
+                                "y1": 299.81292724609375,
+                                "cx": 725.3170166015625,
+                                "cy": 294.32293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "TIC (2C) – 2T (NL8) FUNDAMENTOS DE BIOINGENIERÍA -",
+                            "bbox": {
+                                "x0": 657.4500122070312,
+                                "y0": 300.9329528808594,
+                                "x1": 793.1840209960938,
+                                "y1": 324.012939453125,
+                                "cx": 725.3170166015625,
+                                "cy": 312.4729461669922
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "2T (OA3)",
+                            "bbox": {
+                                "x0": 708.0,
+                                "y0": 325.1329650878906,
+                                "x1": 740.5880126953125,
+                                "y1": 336.1129455566406,
+                                "cx": 724.2940063476562,
+                                "cy": 330.6229553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "11:00/11:55",
+                            "bbox": {
+                                "x0": 55.45000076293945,
+                                "y0": 355.48297119140625,
+                                "x1": 100.75599670410156,
+                                "y1": 366.46295166015625,
+                                "cx": 78.10299873352051,
+                                "cy": 360.97296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "Búsqueda y Gestión de la",
+                            "bbox": {
+                                "x0": 126.1500015258789,
+                                "y0": 343.3829650878906,
+                                "x1": 220.23399353027344,
+                                "y1": 354.3629455566406,
+                                "cx": 173.19199752807617,
+                                "cy": 348.8729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "Información y Recursos Multimedia (2C) – 2T-A1 (OA3)",
+                            "bbox": {
+                                "x0": 115.75,
+                                "y0": 355.48297119140625,
+                                "x1": 228.58099365234375,
+                                "y1": 378.56292724609375,
+                                "cx": 172.16549682617188,
+                                "cy": 367.02294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B1",
+                            "bbox": {
+                                "x0": 521.25,
+                                "y0": 343.3829650878906,
+                                "x1": 651.4840087890625,
+                                "y1": 366.46295166015625,
+                                "cx": 586.3670043945312,
+                                "cy": 354.92295837402344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "(NA8)",
+                            "bbox": {
+                                "x0": 574.5999755859375,
+                                "y0": 367.58294677734375,
+                                "x1": 596.1010131835938,
+                                "y1": 378.56292724609375,
+                                "cx": 585.3504943847656,
+                                "cy": 373.07293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "CAPACITACIÓN EN EL USO DE LAS",
+                            "bbox": {
+                                "x0": 662.9000244140625,
+                                "y0": 349.4329833984375,
+                                "x1": 787.7340087890625,
+                                "y1": 360.4129638671875,
+                                "cx": 725.3170166015625,
+                                "cy": 354.9229736328125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "TIC (2C) – 2T (NL8)",
+                            "bbox": {
+                                "x0": 690.4500122070312,
+                                "y0": 361.532958984375,
+                                "x1": 758.10400390625,
+                                "y1": 372.512939453125,
+                                "cx": 724.2770080566406,
+                                "cy": 367.02294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "12:00/12:55",
+                            "bbox": {
+                                "x0": 55.45000076293945,
+                                "y0": 397.9329833984375,
+                                "x1": 100.75599670410156,
+                                "y1": 408.9129638671875,
+                                "cx": 78.10299873352051,
+                                "cy": 403.4229736328125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 30,
+                            "type": 0,
+                            "text": "Búsqueda y Gestión de la",
+                            "bbox": {
+                                "x0": 126.1500015258789,
+                                "y0": 385.83294677734375,
+                                "x1": 220.23399353027344,
+                                "y1": 396.81292724609375,
+                                "cx": 173.19199752807617,
+                                "cy": 391.32293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 31,
+                            "type": 0,
+                            "text": "Información y Recursos Multimedia (2C) – 2T-A1 (OA3)",
+                            "bbox": {
+                                "x0": 115.75,
+                                "y0": 397.9329833984375,
+                                "x1": 228.58099365234375,
+                                "y1": 421.012939453125,
+                                "cx": 172.16549682617188,
+                                "cy": 409.47296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 32,
+                            "type": 0,
+                            "text": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B2",
+                            "bbox": {
+                                "x0": 521.25,
+                                "y0": 385.83294677734375,
+                                "x1": 651.4840087890625,
+                                "y1": 408.9129638671875,
+                                "cx": 586.3670043945312,
+                                "cy": 397.3729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 33,
+                            "type": 0,
+                            "text": "(NA8)",
+                            "bbox": {
+                                "x0": 574.5999755859375,
+                                "y0": 410.032958984375,
+                                "x1": 596.1010131835938,
+                                "y1": 421.012939453125,
+                                "cx": 585.3504943847656,
+                                "cy": 415.52294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 34,
+                            "type": 0,
+                            "text": "13:00/13:55",
+                            "bbox": {
+                                "x0": 55.45000076293945,
+                                "y0": 440.3829650878906,
+                                "x1": 100.75599670410156,
+                                "y1": 451.3629455566406,
+                                "cx": 78.10299873352051,
+                                "cy": 445.8729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 35,
+                            "type": 0,
+                            "text": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T-B2",
+                            "bbox": {
+                                "x0": 521.25,
+                                "y0": 428.282958984375,
+                                "x1": 651.4840087890625,
+                                "y1": 451.3629455566406,
+                                "cx": 586.3670043945312,
+                                "cy": 439.8229522705078
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 36,
+                            "type": 0,
+                            "text": "(NA8)",
+                            "bbox": {
+                                "x0": 574.5999755859375,
+                                "y0": 452.48297119140625,
+                                "x1": 596.1010131835938,
+                                "y1": 463.46295166015625,
+                                "cx": 585.3504943847656,
+                                "cy": 457.97296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 37,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 55.45000076293945,
+                                "y0": 470.73297119140625,
+                                "x1": 100.75599670410156,
+                                "y1": 481.71295166015625,
+                                "cx": 78.10299873352051,
+                                "cy": 476.22296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 38,
+                            "type": 0,
+                            "text": "15:00/15:55",
+                            "bbox": {
+                                "x0": 55.45000076293945,
+                                "y0": 507.1329345703125,
+                                "x1": 100.75599670410156,
+                                "y1": 518.1129150390625,
+                                "cx": 78.10299873352051,
+                                "cy": 512.6229248046875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 39,
+                            "type": 0,
+                            "text": "SOLUCIONES INTELIGENTES Y SOSTENIBLES PARA LA SOCIEDAD",
+                            "bbox": {
+                                "x0": 385.6499938964844,
+                                "y0": 488.98297119140625,
+                                "x1": 508.833984375,
+                                "y1": 512.0629272460938,
+                                "cx": 447.2419891357422,
+                                "cy": 500.52294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 40,
+                            "type": 0,
+                            "text": "MODERNA – 2T (TRV)",
+                            "bbox": {
+                                "x0": 406.79998779296875,
+                                "y0": 513.1829833984375,
+                                "x1": 487.6839904785156,
+                                "y1": 524.1629638671875,
+                                "cx": 447.2419891357422,
+                                "cy": 518.6729736328125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 41,
+                            "type": 0,
+                            "text": "(SL10)",
+                            "bbox": {
+                                "x0": 434.8500061035156,
+                                "y0": 525.282958984375,
+                                "x1": 457.5989990234375,
+                                "y1": 536.262939453125,
+                                "cx": 446.22450256347656,
+                                "cy": 530.77294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 42,
+                            "type": 0,
+                            "text": "Tecn. Videojuegos - 2T-B1 (EL6)",
+                            "bbox": {
+                                "x0": 527.8499755859375,
+                                "y0": 507.1329345703125,
+                                "x1": 642.8399658203125,
+                                "y1": 518.1129150390625,
+                                "cx": 585.344970703125,
+                                "cy": 512.6229248046875
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 2,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": null,
+                    "cuatrimestre": null,
+                    "curso": null,
+                    "grupo": null
+                },
+                "records": [],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 - v0 16:00/16:55 MERCADO LABORAL Y ENTORNO PROFESIONAL TIC - 2T (EA7) SOLUCIONES INTELIGENTES Y SOSTENIBLES PARA LA SOCIEDAD MODERNA – 2T (TRV) (SL10) Tecn. Videojuegos - 2T-B1 (EL6) 17:00/17:55 TECNOLOGÍA MUSICAL - 2T (SL7) MERCADO LABORAL Y ENTORNO PROFESIONAL TIC - 2T (EA7) SOLUCIONES INTELIGENTES Y SOSTENIBLES PARA LA SOCIEDAD MODERNA – 2T (TRV) (SL10) TECN. MUSICAL - 2T (SL7) TECN. VIDEOJUEGOS - 2T (EA7) 18:00/18:55 TECN MUSICAL - 2T (SL7) SOLUCIONES INTELIGENTES Y SOSTENIBLES PARA LA SOCIEDAD MODERNA – 2T (TRV) (SL10) TECN. MUSICAL - 2T (SL7) TECN. VIDEOJUEGOS - 2T (EA7) 19:00/19:55 Tecn. Musical - 2T-B1 (SL7) Tecnología Musical - 2T-B2 (SL7) Tecn. Videojuegos - 2T-B2 (EL6) 20:00/20:55 Tecn. Musical - 2T-B1 (SL7) Tecn. Musical - 2T-B2 (SL7) Tecn. De Videojuegos - 2T-B2 (EL6)",
+                    "blocks": [
+                        {
+                            "page": 2,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 - v0",
+                            "bbox": {
+                                "x0": 50.099998474121094,
+                                "y0": 568.4829711914062,
+                                "x1": 258.0450439453125,
+                                "y1": 579.4629516601562,
+                                "cx": 154.0725212097168,
+                                "cy": 573.9729614257812
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "16:00/16:55 MERCADO LABORAL Y ENTORNO",
+                            "bbox": {
+                                "x0": 55.45000076293945,
+                                "y0": 15.482964515686035,
+                                "x1": 369.28399658203125,
+                                "y1": 32.5129508972168,
+                                "cx": 212.36699867248535,
+                                "cy": 23.997957706451416
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "PROFESIONAL TIC - 2T (EA7)",
+                            "bbox": {
+                                "x0": 256.1000061035156,
+                                "y0": 27.58293914794922,
+                                "x1": 358.48699951171875,
+                                "y1": 38.56293869018555,
+                                "cx": 307.2935028076172,
+                                "cy": 33.07293891906738
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "SOLUCIONES INTELIGENTES Y SOSTENIBLES PARA LA SOCIEDAD",
+                            "bbox": {
+                                "x0": 385.6499938964844,
+                                "y0": 9.432976722717285,
+                                "x1": 508.833984375,
+                                "y1": 32.5129508972168,
+                                "cx": 447.2419891357422,
+                                "cy": 20.97296380996704
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "MODERNA – 2T (TRV) (SL10)",
+                            "bbox": {
+                                "x0": 394.45001220703125,
+                                "y0": 33.63292694091797,
+                                "x1": 498.04901123046875,
+                                "y1": 44.6129264831543,
+                                "cx": 446.24951171875,
+                                "cy": 39.12292671203613
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "Tecn. Videojuegos - 2T-B1 (EL6)",
+                            "bbox": {
+                                "x0": 527.8499755859375,
+                                "y0": 21.53295135498047,
+                                "x1": 642.8399658203125,
+                                "y1": 32.5129508972168,
+                                "cx": 585.344970703125,
+                                "cy": 27.022951126098633
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "17:00/17:55",
+                            "bbox": {
+                                "x0": 55.45000076293945,
+                                "y0": 70.03295135498047,
+                                "x1": 100.75599670410156,
+                                "y1": 81.01295471191406,
+                                "cx": 78.10299873352051,
+                                "cy": 75.52295303344727
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "TECNOLOGÍA MUSICAL - 2T (SL7) MERCADO LABORAL Y ENTORNO",
+                            "bbox": {
+                                "x0": 247.35000610351562,
+                                "y0": 57.93297576904297,
+                                "x1": 369.28399658203125,
+                                "y1": 81.01295471191406,
+                                "cx": 308.31700134277344,
+                                "cy": 69.47296524047852
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "PROFESIONAL TIC - 2T (EA7)",
+                            "bbox": {
+                                "x0": 256.1000061035156,
+                                "y0": 82.1329574584961,
+                                "x1": 358.48699951171875,
+                                "y1": 93.11296081542969,
+                                "cx": 307.2935028076172,
+                                "cy": 87.62295913696289
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "SOLUCIONES INTELIGENTES Y SOSTENIBLES PARA LA SOCIEDAD",
+                            "bbox": {
+                                "x0": 385.6499938964844,
+                                "y0": 51.88292694091797,
+                                "x1": 508.833984375,
+                                "y1": 74.96296691894531,
+                                "cx": 447.2419891357422,
+                                "cy": 63.42294692993164
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "MODERNA – 2T (TRV) (SL10)",
+                            "bbox": {
+                                "x0": 394.45001220703125,
+                                "y0": 76.08293914794922,
+                                "x1": 498.0359802246094,
+                                "y1": 87.06294250488281,
+                                "cx": 446.2429962158203,
+                                "cy": 81.57294082641602
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "TECN. MUSICAL - 2T (SL7) TECN. VIDEOJUEGOS - 2T (EA7)",
+                            "bbox": {
+                                "x0": 528.5999755859375,
+                                "y0": 63.98296356201172,
+                                "x1": 642.0869750976562,
+                                "y1": 87.06294250488281,
+                                "cx": 585.3434753417969,
+                                "cy": 75.52295303344727
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "18:00/18:55 TECN MUSICAL - 2T (SL7) SOLUCIONES INTELIGENTES Y SOSTENIBLES PARA LA SOCIEDAD",
+                            "bbox": {
+                                "x0": 55.45000076293945,
+                                "y0": 106.43294525146484,
+                                "x1": 508.833984375,
+                                "y1": 129.51295471191406,
+                                "cx": 282.1419925689697,
+                                "cy": 117.97294998168945
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "MODERNA – 2T (TRV) (SL10)",
+                            "bbox": {
+                                "x0": 394.45001220703125,
+                                "y0": 130.63296508789062,
+                                "x1": 498.0359802246094,
+                                "y1": 141.6129608154297,
+                                "cx": 446.2429962158203,
+                                "cy": 136.12296295166016
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "TECN. MUSICAL - 2T (SL7) TECN. VIDEOJUEGOS - 2T (EA7)",
+                            "bbox": {
+                                "x0": 528.5999755859375,
+                                "y0": 112.48296356201172,
+                                "x1": 642.0869750976562,
+                                "y1": 135.5629425048828,
+                                "cx": 585.3434753417969,
+                                "cy": 124.02295303344727
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "19:00/19:55 Tecn. Musical - 2T-B1 (SL7) Tecnología Musical - 2T-B2 (SL7)",
+                            "bbox": {
+                                "x0": 55.45000076293945,
+                                "y0": 148.88296508789062,
+                                "x1": 644.3319702148438,
+                                "y1": 165.91294860839844,
+                                "cx": 349.8909854888916,
+                                "cy": 157.39795684814453
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "Tecn. Videojuegos - 2T-B2 (EL6)",
+                            "bbox": {
+                                "x0": 527.8499755859375,
+                                "y0": 160.98297119140625,
+                                "x1": 642.8399658203125,
+                                "y1": 171.9629669189453,
+                                "cx": 585.344970703125,
+                                "cy": 166.47296905517578
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "20:00/20:55 Tecn. Musical - 2T-B1 (SL7) Tecn. Musical - 2T-B2 (SL7) Tecn. De Videojuegos - 2T-B2 (EL6)",
+                            "bbox": {
+                                "x0": 55.45000076293945,
+                                "y0": 179.23297119140625,
+                                "x1": 648.8899536132812,
+                                "y1": 202.3129425048828,
+                                "cx": 352.16997718811035,
+                                "cy": 190.77295684814453
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

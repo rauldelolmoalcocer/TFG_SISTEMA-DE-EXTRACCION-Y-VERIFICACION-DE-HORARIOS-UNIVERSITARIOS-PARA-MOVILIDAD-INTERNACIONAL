@@ -105,6 +105,30 @@ def start_download():
         }), 500
 
 
+@bp.route("/pause-download", methods=["POST"])
+def pause_download():
+    if "user" not in session:
+        return jsonify({"success": False, "message": "Sesión no válida"}), 401
+
+    try:
+        response = requests.post(f"{BACKEND_URL}/download/pause", timeout=10)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/resume-download", methods=["POST"])
+def resume_download():
+    if "user" not in session:
+        return jsonify({"success": False, "message": "Sesión no válida"}), 401
+
+    try:
+        response = requests.post(f"{BACKEND_URL}/download/resume", timeout=10)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
 @bp.route("/status", methods=["GET"])
 def status():
     if "user" not in session:
@@ -127,6 +151,42 @@ def status():
             "logs": ["No se pudo conectar con el backend"],
             "files": []
         }), 500
+
+
+# =========================================================
+# EXTRACCIÓN PDF → JSON
+# =========================================================
+
+@bp.route("/dump-db", methods=["POST"])
+def dump_db():
+    if "user" not in session:
+        return jsonify({"success": False, "message": "Sesión no válida"}), 401
+
+    try:
+        response = requests.post(
+            f"{BACKEND_URL}/extract/start",
+            timeout=15,
+        )
+        return jsonify(response.json()), response.status_code
+
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/extract-status", methods=["GET"])
+def extract_status():
+    if "user" not in session:
+        return jsonify({"success": False, "message": "Sesión no válida"}), 401
+
+    try:
+        response = requests.get(
+            f"{BACKEND_URL}/extract/status",
+            timeout=15,
+        )
+        return jsonify(response.json()), response.status_code
+
+    except Exception:
+        return jsonify({"running": False, "logs": ["No se pudo conectar con el backend"]}), 500
 
 
 # =========================================================

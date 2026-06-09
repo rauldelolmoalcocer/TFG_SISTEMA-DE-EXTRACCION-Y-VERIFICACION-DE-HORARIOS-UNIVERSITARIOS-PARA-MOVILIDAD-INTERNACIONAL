@@ -1,0 +1,2723 @@
+{
+    "schema_version": "1.0",
+    "processed_at": "2026-06-09 13:40:36",
+    "input_file": {
+        "path": "/data/downloaded_pdfs/Semestre2-GIEC-tercero-cuarto.pdf",
+        "name": "Semestre2-GIEC-tercero-cuarto.pdf",
+        "total_pages": 2
+    },
+    "standard_schedule": [
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "- 3C",
+                "subgrupo": null,
+                "aula": "SA6",
+                "texto_original": "- 3C (SA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "(OL2) SISTEMAS ELECTRÓNICOS PARA COMUNICACIONES",
+                "subgrupo": "3C1",
+                "aula": "OL8",
+                "texto_original": "(OL2) Sistemas Electrónicos Para Comunicaciones - 3C1 (OL8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                "subgrupo": "3C2",
+                "aula": "OL5",
+                "texto_original": "Tecnología Electrónica - 3C2 (OL5) Instrumentación Electrónica - 3C1 (OL2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "- 3C",
+                "subgrupo": null,
+                "aula": "SA6",
+                "texto_original": "- 3C (SA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "(OL2) SISTEMAS ELECTRÓNICOS PARA COMUNICACIONES",
+                "subgrupo": "3C1",
+                "aula": "OL8",
+                "texto_original": "(OL2) Sistemas Electrónicos Para Comunicaciones - 3C1 (OL8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                "subgrupo": "3C2",
+                "aula": "OL5",
+                "texto_original": "Tecnología Electrónica - 3C2 (OL5) Instrumentación Electrónica - 3C1 (OL2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONTROL ELECTRÓNICO",
+                "subgrupo": "3C2",
+                "aula": "OL1",
+                "texto_original": "Control Electrónico - 3C2 (OL1) Tecnología Electrónica - 3C1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "COMUNICACIONES",
+                "subgrupo": "3C",
+                "aula": "SA6",
+                "texto_original": "COMUNICACIONES - 3C (SA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONTROL ELECTRÓNICO – 3C1",
+                "subgrupo": null,
+                "aula": "*",
+                "texto_original": "Control Electrónico – 3C1 (*) (OL1)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SISTEMAS ELECTRÓNICOS PARA COMUNICACIONES",
+                "subgrupo": "3C2",
+                "aula": "OL8",
+                "texto_original": "Sistemas Electrónicos Para Comunicaciones - 3C2 (OL8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONTROL ELECTRÓNICO",
+                "subgrupo": "3C2",
+                "aula": "OL1",
+                "texto_original": "Control Electrónico - 3C2 (OL1) Tecnología Electrónica - 3C1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "COMUNICACIONES",
+                "subgrupo": "3C",
+                "aula": "SA6",
+                "texto_original": "COMUNICACIONES - 3C (SA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONTROL ELECTRÓNICO – 3C1",
+                "subgrupo": null,
+                "aula": "*",
+                "texto_original": "Control Electrónico – 3C1 (*) (OL1)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SISTEMAS ELECTRÓNICOS PARA COMUNICACIONES",
+                "subgrupo": "3C2",
+                "aula": "OL8",
+                "texto_original": "Sistemas Electrónicos Para Comunicaciones - 3C2 (OL8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "15:00/15:55 CONTROL ELECTRÓNICO",
+                "subgrupo": "4A1",
+                "aula": "OL1",
+                "texto_original": "15:00/15:55 Control Electrónico - 4A1 (OL1)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºC"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "16:00/16:55 CONTROL ELECTRÓNICO",
+                "subgrupo": "4A1",
+                "aula": "OL1",
+                "texto_original": "16:00/16:55 Control Electrónico - 4A1 (OL1)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "12:00/12:55 INGENIERÍA DEL SOFTWARE",
+                "subgrupo": "4C1",
+                "aula": "NL8",
+                "texto_original": "12:00/12:55 Ingeniería Del Software - 4C1 (NL8) Tecnologías Fotónicas - 4C1"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "(NA6/OL6) TECN. FOTÓNICAS",
+                "subgrupo": "4C",
+                "aula": "NA6",
+                "texto_original": "(NA6/OL6) TECN. FOTÓNICAS - 4C (NA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "13:00/13:55 INGENIERÍA DEL SOFTWARE",
+                "subgrupo": "4C1",
+                "aula": "NL8",
+                "texto_original": "13:00/13:55 Ingeniería Del Software - 4C1 (NL8) Tecnologías Fotónicas - 4C1"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "(NA6/OL6) TECN. FOTÓNICAS",
+                "subgrupo": "4C",
+                "aula": "NA6",
+                "texto_original": "(NA6/OL6) TECN. FOTÓNICAS - 4C (NA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4OPT (EA8) VISIÓN ARTIFICIAL",
+                "subgrupo": "4C1",
+                "aula": "OL5",
+                "texto_original": "4OPT (EA8) VISIÓN ARTIFICIAL- 4C1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "NUEVA GENERACIÓN",
+                "subgrupo": "4C",
+                "aula": "SL10",
+                "texto_original": "NUEVA GENERACIÓN - 4C (SL10) COMUNICACIONES MÓVILES - 4C (SA8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4OPT (EA8) VISIÓN ARTIFICIAL",
+                "subgrupo": "4C1",
+                "aula": "OL5",
+                "texto_original": "4OPT (EA8) VISIÓN ARTIFICIAL - 4C1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "NUEVA GENERACIÓN",
+                "subgrupo": "4C",
+                "aula": "SL10",
+                "texto_original": "NUEVA GENERACIÓN - 4C (SL10) COMUNICACIONES MÓVILES - 4C (SA8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4OPT",
+                "subgrupo": null,
+                "aula": "SL9",
+                "texto_original": "4OPT (SL9)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4OPT (EA8) VISIÓN ARTIFICIAL",
+                "subgrupo": "4C1",
+                "aula": "OL5",
+                "texto_original": "4OPT (EA8) Visión Artificial - 4C1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "GENERACIÓN",
+                "subgrupo": "4C1",
+                "aula": "SL10",
+                "texto_original": "Generación - 4C1 (SL10) Comunicaciones Móviles –"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4C1",
+                "subgrupo": null,
+                "aula": "SL9",
+                "texto_original": "4C1 (SL9)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4OPT",
+                "subgrupo": null,
+                "aula": "SL9",
+                "texto_original": "4OPT (SL9)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4OPT (EA8) VISIÓN ARTIFICIAL",
+                "subgrupo": "4C1",
+                "aula": "OL5",
+                "texto_original": "4OPT (EA8) Visión Artificial - 4C1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "GENERACIÓN",
+                "subgrupo": "4C1",
+                "aula": "SL10",
+                "texto_original": "Generación - 4C1 (SL10) Comunicaciones Móviles –"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                "codigo_titulacion": "G370",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºC"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4C1",
+                "subgrupo": null,
+                "aula": "SL9",
+                "texto_original": "4C1 (SL9)"
+            }
+        }
+    ],
+    "debug": {
+        "pages": [
+            {
+                "page": 1,
+                "metadata": {
+                    "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                    "codigo_titulacion": "G370",
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "6º",
+                    "curso": "3º",
+                    "grupo": "3ºC"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "- 3C",
+                            "subgrupo": null,
+                            "aula": "SA6",
+                            "texto_original": "- 3C (SA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "(OL2) SISTEMAS ELECTRÓNICOS PARA COMUNICACIONES",
+                            "subgrupo": "3C1",
+                            "aula": "OL8",
+                            "texto_original": "(OL2) Sistemas Electrónicos Para Comunicaciones - 3C1 (OL8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                            "subgrupo": "3C2",
+                            "aula": "OL5",
+                            "texto_original": "Tecnología Electrónica - 3C2 (OL5) Instrumentación Electrónica - 3C1 (OL2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "- 3C",
+                            "subgrupo": null,
+                            "aula": "SA6",
+                            "texto_original": "- 3C (SA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "(OL2) SISTEMAS ELECTRÓNICOS PARA COMUNICACIONES",
+                            "subgrupo": "3C1",
+                            "aula": "OL8",
+                            "texto_original": "(OL2) Sistemas Electrónicos Para Comunicaciones - 3C1 (OL8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                            "subgrupo": "3C2",
+                            "aula": "OL5",
+                            "texto_original": "Tecnología Electrónica - 3C2 (OL5) Instrumentación Electrónica - 3C1 (OL2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONTROL ELECTRÓNICO",
+                            "subgrupo": "3C2",
+                            "aula": "OL1",
+                            "texto_original": "Control Electrónico - 3C2 (OL1) Tecnología Electrónica - 3C1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "COMUNICACIONES",
+                            "subgrupo": "3C",
+                            "aula": "SA6",
+                            "texto_original": "COMUNICACIONES - 3C (SA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONTROL ELECTRÓNICO – 3C1",
+                            "subgrupo": null,
+                            "aula": "*",
+                            "texto_original": "Control Electrónico – 3C1 (*) (OL1)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SISTEMAS ELECTRÓNICOS PARA COMUNICACIONES",
+                            "subgrupo": "3C2",
+                            "aula": "OL8",
+                            "texto_original": "Sistemas Electrónicos Para Comunicaciones - 3C2 (OL8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONTROL ELECTRÓNICO",
+                            "subgrupo": "3C2",
+                            "aula": "OL1",
+                            "texto_original": "Control Electrónico - 3C2 (OL1) Tecnología Electrónica - 3C1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "COMUNICACIONES",
+                            "subgrupo": "3C",
+                            "aula": "SA6",
+                            "texto_original": "COMUNICACIONES - 3C (SA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONTROL ELECTRÓNICO – 3C1",
+                            "subgrupo": null,
+                            "aula": "*",
+                            "texto_original": "Control Electrónico – 3C1 (*) (OL1)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SISTEMAS ELECTRÓNICOS PARA COMUNICACIONES",
+                            "subgrupo": "3C2",
+                            "aula": "OL8",
+                            "texto_original": "Sistemas Electrónicos Para Comunicaciones - 3C2 (OL8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "15:00/15:55 CONTROL ELECTRÓNICO",
+                            "subgrupo": "4A1",
+                            "aula": "OL1",
+                            "texto_original": "15:00/15:55 Control Electrónico - 4A1 (OL1)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºC"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "16:00/16:55 CONTROL ELECTRÓNICO",
+                            "subgrupo": "4A1",
+                            "aula": "OL1",
+                            "texto_original": "16:00/16:55 Control Electrónico - 4A1 (OL1)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC) CUATRIMESTRE 6º (Curso 3º, Semestre 2º) Curso 2025/2026 GRUPO 3ºC HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 8:00/8:55 9:00/9:55 10:00/10:55 INSTRUMENTACIÓN ELECTRÓNICA - 3C (SA6) Instrumentación Electrónica - 3C2 (OL2) Sistemas Electrónicos Para Comunicaciones - 3C1 (OL8) TECNOLOGÍA ELECTRÓNICA - 3C (SA6) Tecnología Electrónica - 3C2 (OL5) Instrumentación Electrónica - 3C1 (OL2) 11:00/11:55 INSTRUMENTACIÓN ELECTRÓNICA - 3C (SA6) Instrumentación Electrónica - 3C2 (OL2) Sistemas Electrónicos Para Comunicaciones - 3C1 (OL8) TECNOLOGÍA ELECTRÓNICA - 3C (SA6) Tecnología Electrónica - 3C2 (OL5) Instrumentación Electrónica - 3C1 (OL2) 12:00/12:55 CONTROL ELECTRÓNICO - 3C (SA6) Control Electrónico - 3C2 (OL1) Tecnología Electrónica - 3C1 (OL5) SISTEMAS ELECTRÓNICOS PARA COMUNICACIONES - 3C (SA6) Control Electrónico – 3C1 (*) (OL1) Sistemas Electrónicos Para Comunicaciones - 3C2 (OL8) 13:00/13:55 CONTROL ELECTRÓNICO - 3C (SA6) Control Electrónico - 3C2 (OL1) Tecnología Electrónica - 3C1 (OL5) SISTEMAS ELECTRÓNICOS PARA COMUNICACIONES - 3C (SA6) Control Electrónico – 3C1 (*) (OL1) Sistemas Electrónicos Para Comunicaciones - 3C2 (OL8) 14:00/14:55 15:00/15:55 Control Electrónico - 4A1 (OL1) 16:00/16:55 Control Electrónico - 4A1 (OL1)",
+                    "blocks": [
+                        {
+                            "page": 1,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0",
+                            "bbox": {
+                                "x0": 50.099998474121094,
+                                "y0": 568.4829711914062,
+                                "x1": 289.8039855957031,
+                                "y1": 579.4629516601562,
+                                "cx": 169.9519920349121,
+                                "cy": 573.9729614257812
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC) CUATRIMESTRE 6º (Curso 3º, Semestre 2º) Curso 2025/2026 GRUPO 3ºC",
+                            "bbox": {
+                                "x0": 50.099998474121094,
+                                "y0": 94.47296142578125,
+                                "x1": 791.4979248046875,
+                                "y1": 151.26295471191406,
+                                "cx": 420.7989616394043,
+                                "cy": 122.86795806884766
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 62.45000076293945,
+                                "y0": 156.67495727539062,
+                                "x1": 751.18603515625,
+                                "y1": 172.5349578857422,
+                                "cx": 406.8180179595947,
+                                "cy": 164.6049575805664
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "8:00/8:55",
+                            "bbox": {
+                                "x0": 60.400001525878906,
+                                "y0": 191.83294677734375,
+                                "x1": 96.5530014038086,
+                                "y1": 202.8129425048828,
+                                "cx": 78.47650146484375,
+                                "cy": 197.32294464111328
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "9:00/9:55",
+                            "bbox": {
+                                "x0": 60.400001525878906,
+                                "y0": 234.282958984375,
+                                "x1": 96.5530014038086,
+                                "y1": 245.26295471191406,
+                                "cx": 78.47650146484375,
+                                "cy": 239.77295684814453
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "10:00/10:55 INSTRUMENTACIÓN ELECTRÓNICA",
+                            "bbox": {
+                                "x0": 55.849998474121094,
+                                "y0": 276.73297119140625,
+                                "x1": 238.03399658203125,
+                                "y1": 293.762939453125,
+                                "cx": 146.94199752807617,
+                                "cy": 285.2479553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "- 3C (SA6)",
+                            "bbox": {
+                                "x0": 153.85000610351562,
+                                "y0": 288.83294677734375,
+                                "x1": 191.84800720214844,
+                                "y1": 299.81292724609375,
+                                "cx": 172.84900665283203,
+                                "cy": 294.32293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "Instrumentación Electrónica - 3C2",
+                            "bbox": {
+                                "x0": 245.60000610351562,
+                                "y0": 264.6329650878906,
+                                "x1": 371.3840026855469,
+                                "y1": 275.6129455566406,
+                                "cx": 308.49200439453125,
+                                "cy": 270.1229553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "(OL2) Sistemas Electrónicos Para Comunicaciones - 3C1 (OL8)",
+                            "bbox": {
+                                "x0": 255.1999969482422,
+                                "y0": 276.73297119140625,
+                                "x1": 359.6910095214844,
+                                "y1": 311.9129333496094,
+                                "cx": 307.4455032348633,
+                                "cy": 294.3229522705078
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "TECNOLOGÍA ELECTRÓNICA - 3C",
+                            "bbox": {
+                                "x0": 387.0,
+                                "y0": 276.73297119140625,
+                                "x1": 506.1340026855469,
+                                "y1": 287.71295166015625,
+                                "cx": 446.56700134277344,
+                                "cy": 282.22296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "(SA6)",
+                            "bbox": {
+                                "x0": 435.6499938964844,
+                                "y0": 288.83294677734375,
+                                "x1": 455.4949951171875,
+                                "y1": 299.81292724609375,
+                                "cx": 445.57249450683594,
+                                "cy": 294.32293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "Tecnología Electrónica - 3C2 (OL5) Instrumentación Electrónica - 3C1 (OL2)",
+                            "bbox": {
+                                "x0": 517.9000244140625,
+                                "y0": 276.73297119140625,
+                                "x1": 665.740966796875,
+                                "y1": 299.81292724609375,
+                                "cx": 591.8204956054688,
+                                "cy": 288.27294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "11:00/11:55 INSTRUMENTACIÓN ELECTRÓNICA",
+                            "bbox": {
+                                "x0": 55.849998474121094,
+                                "y0": 331.282958984375,
+                                "x1": 238.03399658203125,
+                                "y1": 348.31292724609375,
+                                "cx": 146.94199752807617,
+                                "cy": 339.7979431152344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "- 3C (SA6)",
+                            "bbox": {
+                                "x0": 153.8000030517578,
+                                "y0": 343.3829650878906,
+                                "x1": 191.82899475097656,
+                                "y1": 354.3629455566406,
+                                "cx": 172.8144989013672,
+                                "cy": 348.8729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "Instrumentación Electrónica - 3C2",
+                            "bbox": {
+                                "x0": 245.60000610351562,
+                                "y0": 319.1829528808594,
+                                "x1": 371.3840026855469,
+                                "y1": 330.1629333496094,
+                                "cx": 308.49200439453125,
+                                "cy": 324.6729431152344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "(OL2) Sistemas Electrónicos Para Comunicaciones - 3C1 (OL8)",
+                            "bbox": {
+                                "x0": 255.1999969482422,
+                                "y0": 331.282958984375,
+                                "x1": 359.6910095214844,
+                                "y1": 366.46295166015625,
+                                "cx": 307.4455032348633,
+                                "cy": 348.8729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "TECNOLOGÍA ELECTRÓNICA - 3C",
+                            "bbox": {
+                                "x0": 387.0,
+                                "y0": 331.282958984375,
+                                "x1": 506.1340026855469,
+                                "y1": 342.262939453125,
+                                "cx": 446.56700134277344,
+                                "cy": 336.77294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "(SA6)",
+                            "bbox": {
+                                "x0": 435.6499938964844,
+                                "y0": 343.3829650878906,
+                                "x1": 455.4949951171875,
+                                "y1": 354.3629455566406,
+                                "cx": 445.57249450683594,
+                                "cy": 348.8729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "Tecnología Electrónica - 3C2 (OL5) Instrumentación Electrónica - 3C1 (OL2)",
+                            "bbox": {
+                                "x0": 517.9000244140625,
+                                "y0": 331.282958984375,
+                                "x1": 665.740966796875,
+                                "y1": 354.3629455566406,
+                                "cx": 591.8204956054688,
+                                "cy": 342.8229522705078
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "12:00/12:55 CONTROL ELECTRÓNICO - 3C",
+                            "bbox": {
+                                "x0": 55.849998474121094,
+                                "y0": 379.782958984375,
+                                "x1": 227.48399353027344,
+                                "y1": 396.81292724609375,
+                                "cx": 141.66699600219727,
+                                "cy": 388.2979431152344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "(SA6)",
+                            "bbox": {
+                                "x0": 162.89999389648438,
+                                "y0": 391.8829650878906,
+                                "x1": 182.7449951171875,
+                                "y1": 402.8629455566406,
+                                "cx": 172.82249450683594,
+                                "cy": 397.3729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "Control Electrónico - 3C2 (OL1) Tecnología Electrónica - 3C1 (OL5)",
+                            "bbox": {
+                                "x0": 244.0,
+                                "y0": 379.782958984375,
+                                "x1": 370.9410095214844,
+                                "y1": 402.8629455566406,
+                                "cx": 307.4705047607422,
+                                "cy": 391.3229522705078
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "SISTEMAS ELECTRÓNICOS PARA",
+                            "bbox": {
+                                "x0": 387.6000061035156,
+                                "y0": 379.782958984375,
+                                "x1": 505.53399658203125,
+                                "y1": 390.762939453125,
+                                "cx": 446.56700134277344,
+                                "cy": 385.27294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "COMUNICACIONES - 3C (SA6)",
+                            "bbox": {
+                                "x0": 390.70001220703125,
+                                "y0": 391.8829650878906,
+                                "x1": 500.4289855957031,
+                                "y1": 402.8629455566406,
+                                "cx": 445.5644989013672,
+                                "cy": 397.3729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "Control Electrónico – 3C1 (*) (OL1)",
+                            "bbox": {
+                                "x0": 527.4000244140625,
+                                "y0": 373.73297119140625,
+                                "x1": 656.1838989257812,
+                                "y1": 384.71295166015625,
+                                "cx": 591.7919616699219,
+                                "cy": 379.22296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "Sistemas Electrónicos Para Comunicaciones - 3C2 (OL8)",
+                            "bbox": {
+                                "x0": 539.5499877929688,
+                                "y0": 385.83294677734375,
+                                "x1": 644.0409545898438,
+                                "y1": 408.9129638671875,
+                                "cx": 591.7954711914062,
+                                "cy": 397.3729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "13:00/13:55 CONTROL ELECTRÓNICO - 3C",
+                            "bbox": {
+                                "x0": 55.849998474121094,
+                                "y0": 422.23297119140625,
+                                "x1": 227.48399353027344,
+                                "y1": 439.262939453125,
+                                "cx": 141.66699600219727,
+                                "cy": 430.7479553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "(SA6)",
+                            "bbox": {
+                                "x0": 162.89999389648438,
+                                "y0": 434.33294677734375,
+                                "x1": 182.7449951171875,
+                                "y1": 445.31292724609375,
+                                "cx": 172.82249450683594,
+                                "cy": 439.82293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "Control Electrónico - 3C2 (OL1) Tecnología Electrónica - 3C1 (OL5)",
+                            "bbox": {
+                                "x0": 244.0,
+                                "y0": 422.23297119140625,
+                                "x1": 370.9410095214844,
+                                "y1": 445.31292724609375,
+                                "cx": 307.4705047607422,
+                                "cy": 433.77294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 30,
+                            "type": 0,
+                            "text": "SISTEMAS ELECTRÓNICOS PARA",
+                            "bbox": {
+                                "x0": 387.6000061035156,
+                                "y0": 422.23297119140625,
+                                "x1": 505.53399658203125,
+                                "y1": 433.21295166015625,
+                                "cx": 446.56700134277344,
+                                "cy": 427.72296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 31,
+                            "type": 0,
+                            "text": "COMUNICACIONES - 3C (SA6)",
+                            "bbox": {
+                                "x0": 390.70001220703125,
+                                "y0": 434.33294677734375,
+                                "x1": 500.4289855957031,
+                                "y1": 445.31292724609375,
+                                "cx": 445.5644989013672,
+                                "cy": 439.82293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 32,
+                            "type": 0,
+                            "text": "Control Electrónico – 3C1 (*) (OL1)",
+                            "bbox": {
+                                "x0": 527.4500122070312,
+                                "y0": 416.1829833984375,
+                                "x1": 656.1909790039062,
+                                "y1": 427.1629638671875,
+                                "cx": 591.8204956054688,
+                                "cy": 421.6729736328125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 33,
+                            "type": 0,
+                            "text": "Sistemas Electrónicos Para Comunicaciones - 3C2 (OL8)",
+                            "bbox": {
+                                "x0": 539.5499877929688,
+                                "y0": 428.282958984375,
+                                "x1": 644.0409545898438,
+                                "y1": 451.3629455566406,
+                                "cx": 591.7954711914062,
+                                "cy": 439.8229522705078
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 34,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 55.849998474121094,
+                                "y0": 458.6329650878906,
+                                "x1": 101.15599822998047,
+                                "y1": 469.6129455566406,
+                                "cx": 78.50299835205078,
+                                "cy": 464.1229553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 35,
+                            "type": 0,
+                            "text": "15:00/15:55 Control Electrónico - 4A1 (OL1)",
+                            "bbox": {
+                                "x0": 55.849998474121094,
+                                "y0": 476.8829650878906,
+                                "x1": 365.1910095214844,
+                                "y1": 487.8629455566406,
+                                "cx": 210.52050399780273,
+                                "cy": 482.3729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 36,
+                            "type": 0,
+                            "text": "16:00/16:55 Control Electrónico - 4A1 (OL1)",
+                            "bbox": {
+                                "x0": 55.849998474121094,
+                                "y0": 495.1329650878906,
+                                "x1": 365.1910095214844,
+                                "y1": 506.1129455566406,
+                                "cx": 210.52050399780273,
+                                "cy": 500.6229553222656
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 2,
+                "metadata": {
+                    "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                    "codigo_titulacion": "G370",
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "8º",
+                    "curso": "4º",
+                    "grupo": "4ºC"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "12:00/12:55 INGENIERÍA DEL SOFTWARE",
+                            "subgrupo": "4C1",
+                            "aula": "NL8",
+                            "texto_original": "12:00/12:55 Ingeniería Del Software - 4C1 (NL8) Tecnologías Fotónicas - 4C1"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "(NA6/OL6) TECN. FOTÓNICAS",
+                            "subgrupo": "4C",
+                            "aula": "NA6",
+                            "texto_original": "(NA6/OL6) TECN. FOTÓNICAS - 4C (NA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "13:00/13:55 INGENIERÍA DEL SOFTWARE",
+                            "subgrupo": "4C1",
+                            "aula": "NL8",
+                            "texto_original": "13:00/13:55 Ingeniería Del Software - 4C1 (NL8) Tecnologías Fotónicas - 4C1"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "(NA6/OL6) TECN. FOTÓNICAS",
+                            "subgrupo": "4C",
+                            "aula": "NA6",
+                            "texto_original": "(NA6/OL6) TECN. FOTÓNICAS - 4C (NA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4OPT (EA8) VISIÓN ARTIFICIAL",
+                            "subgrupo": "4C1",
+                            "aula": "OL5",
+                            "texto_original": "4OPT (EA8) VISIÓN ARTIFICIAL- 4C1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "NUEVA GENERACIÓN",
+                            "subgrupo": "4C",
+                            "aula": "SL10",
+                            "texto_original": "NUEVA GENERACIÓN - 4C (SL10) COMUNICACIONES MÓVILES - 4C (SA8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4OPT (EA8) VISIÓN ARTIFICIAL",
+                            "subgrupo": "4C1",
+                            "aula": "OL5",
+                            "texto_original": "4OPT (EA8) VISIÓN ARTIFICIAL - 4C1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "NUEVA GENERACIÓN",
+                            "subgrupo": "4C",
+                            "aula": "SL10",
+                            "texto_original": "NUEVA GENERACIÓN - 4C (SL10) COMUNICACIONES MÓVILES - 4C (SA8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4OPT",
+                            "subgrupo": null,
+                            "aula": "SL9",
+                            "texto_original": "4OPT (SL9)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4OPT (EA8) VISIÓN ARTIFICIAL",
+                            "subgrupo": "4C1",
+                            "aula": "OL5",
+                            "texto_original": "4OPT (EA8) Visión Artificial - 4C1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "GENERACIÓN",
+                            "subgrupo": "4C1",
+                            "aula": "SL10",
+                            "texto_original": "Generación - 4C1 (SL10) Comunicaciones Móviles –"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4C1",
+                            "subgrupo": null,
+                            "aula": "SL9",
+                            "texto_original": "4C1 (SL9)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4OPT",
+                            "subgrupo": null,
+                            "aula": "SL9",
+                            "texto_original": "4OPT (SL9)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4OPT (EA8) VISIÓN ARTIFICIAL",
+                            "subgrupo": "4C1",
+                            "aula": "OL5",
+                            "texto_original": "4OPT (EA8) Visión Artificial - 4C1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "GENERACIÓN",
+                            "subgrupo": "4C1",
+                            "aula": "SL10",
+                            "texto_original": "Generación - 4C1 (SL10) Comunicaciones Móviles –"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIEC-tercero-cuarto.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+                            "codigo_titulacion": "G370",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºC"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4C1",
+                            "subgrupo": null,
+                            "aula": "SL9",
+                            "texto_original": "4C1 (SL9)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC) CUATRIMESTRE 8º (Curso 4º, Semestre 2º) Curso 2025/2026 GRUPO 4ºC HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 10:00/10:55 INGENIERÍA DEL SOFTWARE- 4C1 (SA3) 11:00/11:55 INGENIERÍA DEL SOFTWARE - 4C1 (SA3) 12:00/12:55 Ingeniería Del Software - 4C1 (NL8) Tecnologías Fotónicas - 4C1 (NA6/OL6) TECN. FOTÓNICAS - 4C (NA6) 13:00/13:55 Ingeniería Del Software - 4C1 (NL8) Tecnologías Fotónicas - 4C1 (NA6/OL6) TECN. FOTÓNICAS - 4C (NA6) 14:00/14:55 15:00/15:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9) TECN. DE REDES Y SERV. TELEM. - 4OPT (EA8) VISIÓN ARTIFICIAL- 4C1 (OL5) SIST. INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4C (SL10) COMUNICACIONES MÓVILES - 4C (SA8) 16:00/16:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9) TECN. DE REDES Y SERV. TELEM. - 4OPT (EA8) VISIÓN ARTIFICIAL - 4C1 (OL5) SIST. INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4C (SL10) COMUNICACIONES MÓVILES - 4C (SA8) 17:00/17:55 Tecn. de Sist. De Telecomunicación – 4OPT (SL9) Tecn. De Redes y Serv. Telem. - 4OPT (EA8) Visión Artificial - 4C1 (OL5) Sist. Inteligentes Y Sostenibles De Nueva Generación - 4C1 (SL10) Comunicaciones Móviles – 4C1 (SL9) 18:00/18:55 Tecn. de Sist. De Telecomunicación – 4OPT (SL9) Tecn. De Redes y Serv. Telem. - 4OPT (EA8) Visión Artificial - 4C1 (OL5) Sist. Inteligentes Y Sostenibles De Nueva Generación - 4C1 (SL10) Comunicaciones Móviles – 4C1 (SL9)",
+                    "blocks": [
+                        {
+                            "page": 2,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0",
+                            "bbox": {
+                                "x0": 50.099998474121094,
+                                "y0": 568.4829711914062,
+                                "x1": 289.8039855957031,
+                                "y1": 579.4629516601562,
+                                "cx": 169.9519920349121,
+                                "cy": 573.9729614257812
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC) CUATRIMESTRE 8º (Curso 4º, Semestre 2º) Curso 2025/2026 GRUPO 4ºC",
+                            "bbox": {
+                                "x0": 50.099998474121094,
+                                "y0": 82.37295532226562,
+                                "x1": 791.4979248046875,
+                                "y1": 139.16294860839844,
+                                "cx": 420.7989616394043,
+                                "cy": 110.76795196533203
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 60.900001525878906,
+                                "y0": 144.574951171875,
+                                "x1": 742.4860229492188,
+                                "y1": 160.43495178222656,
+                                "cx": 401.6930122375488,
+                                "cy": 152.50495147705078
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "10:00/10:55 INGENIERÍA DEL SOFTWARE- 4C1",
+                            "bbox": {
+                                "x0": 54.29999923706055,
+                                "y0": 167.63296508789062,
+                                "x1": 236.93399047851562,
+                                "y1": 184.66294860839844,
+                                "cx": 145.6169948577881,
+                                "cy": 176.14795684814453
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "(SA3)",
+                            "bbox": {
+                                "x0": 164.6999969482422,
+                                "y0": 179.73297119140625,
+                                "x1": 184.5449981689453,
+                                "y1": 190.7129669189453,
+                                "cx": 174.62249755859375,
+                                "cy": 185.22296905517578
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "11:00/11:55 INGENIERÍA DEL SOFTWARE - 4C1",
+                            "bbox": {
+                                "x0": 54.29999923706055,
+                                "y0": 197.98297119140625,
+                                "x1": 237.93399047851562,
+                                "y1": 215.01295471191406,
+                                "cx": 146.1169948577881,
+                                "cy": 206.49796295166016
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "(SA3)",
+                            "bbox": {
+                                "x0": 164.6999969482422,
+                                "y0": 210.08294677734375,
+                                "x1": 184.5449981689453,
+                                "y1": 221.0629425048828,
+                                "cx": 174.62249755859375,
+                                "cy": 215.57294464111328
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "12:00/12:55 Ingeniería Del Software - 4C1 (NL8) Tecnologías Fotónicas - 4C1",
+                            "bbox": {
+                                "x0": 54.29999923706055,
+                                "y0": 228.33294677734375,
+                                "x1": 489.2340087890625,
+                                "y1": 245.3629608154297,
+                                "cx": 271.7670040130615,
+                                "cy": 236.84795379638672
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "(NA6/OL6) TECN. FOTÓNICAS - 4C (NA6)",
+                            "bbox": {
+                                "x0": 416.79998779296875,
+                                "y0": 234.38296508789062,
+                                "x1": 772.635009765625,
+                                "y1": 251.41294860839844,
+                                "cx": 594.7174987792969,
+                                "cy": 242.89795684814453
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "13:00/13:55 Ingeniería Del Software - 4C1 (NL8) Tecnologías Fotónicas - 4C1",
+                            "bbox": {
+                                "x0": 54.29999923706055,
+                                "y0": 258.6829528808594,
+                                "x1": 489.2340087890625,
+                                "y1": 275.71295166015625,
+                                "cx": 271.7670040130615,
+                                "cy": 267.1979522705078
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "(NA6/OL6) TECN. FOTÓNICAS - 4C (NA6)",
+                            "bbox": {
+                                "x0": 416.79998779296875,
+                                "y0": 264.73297119140625,
+                                "x1": 772.635009765625,
+                                "y1": 281.762939453125,
+                                "cx": 594.7174987792969,
+                                "cy": 273.2479553222656
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 54.29999923706055,
+                                "y0": 289.032958984375,
+                                "x1": 99.60600280761719,
+                                "y1": 300.012939453125,
+                                "cx": 76.95300102233887,
+                                "cy": 294.52294921875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "15:00/15:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9)",
+                            "bbox": {
+                                "x0": 54.29999923706055,
+                                "y0": 313.33294677734375,
+                                "x1": 237.79800415039062,
+                                "y1": 336.4129333496094,
+                                "cx": 146.0490016937256,
+                                "cy": 324.87294006347656
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "TECN. DE REDES Y SERV. TELEM. -",
+                            "bbox": {
+                                "x0": 249.8000030517578,
+                                "y0": 313.33294677734375,
+                                "x1": 373.833984375,
+                                "y1": 324.31292724609375,
+                                "cx": 311.8169937133789,
+                                "cy": 318.82293701171875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "4OPT (EA8) VISIÓN ARTIFICIAL- 4C1 (OL5)",
+                            "bbox": {
+                                "x0": 290.0,
+                                "y0": 319.3829650878906,
+                                "x1": 491.49102783203125,
+                                "y1": 336.4129333496094,
+                                "cx": 390.7455139160156,
+                                "cy": 327.89794921875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "SIST. INTELIGENTES Y SOSTENIBLES DE",
+                            "bbox": {
+                                "x0": 504.45001220703125,
+                                "y0": 307.282958984375,
+                                "x1": 646.1339721679688,
+                                "y1": 318.262939453125,
+                                "cx": 575.2919921875,
+                                "cy": 312.77294921875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "NUEVA GENERACIÓN - 4C (SL10) COMUNICACIONES MÓVILES - 4C (SA8)",
+                            "bbox": {
+                                "x0": 501.70001220703125,
+                                "y0": 319.3829650878906,
+                                "x1": 646.8450317382812,
+                                "y1": 342.46295166015625,
+                                "cx": 574.2725219726562,
+                                "cy": 330.92295837402344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "16:00/16:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9)",
+                            "bbox": {
+                                "x0": 54.29999923706055,
+                                "y0": 355.782958984375,
+                                "x1": 237.79800415039062,
+                                "y1": 378.8629455566406,
+                                "cx": 146.0490016937256,
+                                "cy": 367.3229522705078
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "TECN. DE REDES Y SERV. TELEM. -",
+                            "bbox": {
+                                "x0": 249.8000030517578,
+                                "y0": 355.782958984375,
+                                "x1": 373.833984375,
+                                "y1": 366.762939453125,
+                                "cx": 311.8169937133789,
+                                "cy": 361.27294921875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "4OPT (EA8) VISIÓN ARTIFICIAL - 4C1 (OL5)",
+                            "bbox": {
+                                "x0": 290.0,
+                                "y0": 361.83294677734375,
+                                "x1": 492.541015625,
+                                "y1": 378.8629455566406,
+                                "cx": 391.2705078125,
+                                "cy": 370.3479461669922
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "SIST. INTELIGENTES Y SOSTENIBLES DE",
+                            "bbox": {
+                                "x0": 504.45001220703125,
+                                "y0": 349.73297119140625,
+                                "x1": 646.1339721679688,
+                                "y1": 360.71295166015625,
+                                "cx": 575.2919921875,
+                                "cy": 355.22296142578125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "NUEVA GENERACIÓN - 4C (SL10) COMUNICACIONES MÓVILES - 4C (SA8)",
+                            "bbox": {
+                                "x0": 501.70001220703125,
+                                "y0": 361.83294677734375,
+                                "x1": 646.8450317382812,
+                                "y1": 384.9129638671875,
+                                "cx": 574.2725219726562,
+                                "cy": 373.3729553222656
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "17:00/17:55 Tecn. de Sist. De Telecomunicación –",
+                            "bbox": {
+                                "x0": 54.29999923706055,
+                                "y0": 404.282958984375,
+                                "x1": 243.98399353027344,
+                                "y1": 421.31292724609375,
+                                "cx": 149.141996383667,
+                                "cy": 412.7979431152344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "4OPT (SL9)",
+                            "bbox": {
+                                "x0": 154.75,
+                                "y0": 416.3829650878906,
+                                "x1": 194.4980010986328,
+                                "y1": 427.3629455566406,
+                                "cx": 174.6240005493164,
+                                "cy": 421.8729553222656
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "Tecn. De Redes y Serv. Telem. -",
+                            "bbox": {
+                                "x0": 253.89999389648438,
+                                "y0": 404.282958984375,
+                                "x1": 369.6839904785156,
+                                "y1": 415.262939453125,
+                                "cx": 311.7919921875,
+                                "cy": 409.77294921875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "4OPT (EA8) Visión Artificial - 4C1 (OL5)",
+                            "bbox": {
+                                "x0": 290.0,
+                                "y0": 410.33294677734375,
+                                "x1": 486.4410095214844,
+                                "y1": 427.3629455566406,
+                                "cx": 388.2205047607422,
+                                "cy": 418.8479461669922
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "Sist. Inteligentes Y Sostenibles De Nueva",
+                            "bbox": {
+                                "x0": 500.54998779296875,
+                                "y0": 392.1829833984375,
+                                "x1": 650.083984375,
+                                "y1": 403.1629638671875,
+                                "cx": 575.3169860839844,
+                                "cy": 397.6729736328125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "Generación - 4C1 (SL10) Comunicaciones Móviles –",
+                            "bbox": {
+                                "x0": 525.8499755859375,
+                                "y0": 404.282958984375,
+                                "x1": 622.6640014648438,
+                                "y1": 427.3629455566406,
+                                "cx": 574.2569885253906,
+                                "cy": 415.8229522705078
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "4C1 (SL9)",
+                            "bbox": {
+                                "x0": 556.2000122070312,
+                                "y0": 428.48297119140625,
+                                "x1": 592.3480224609375,
+                                "y1": 439.46295166015625,
+                                "cx": 574.2740173339844,
+                                "cy": 433.97296142578125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "18:00/18:55 Tecn. de Sist. De Telecomunicación –",
+                            "bbox": {
+                                "x0": 54.29999923706055,
+                                "y0": 458.83294677734375,
+                                "x1": 243.98399353027344,
+                                "y1": 475.8629455566406,
+                                "cx": 149.141996383667,
+                                "cy": 467.3479461669922
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 30,
+                            "type": 0,
+                            "text": "4OPT (SL9)",
+                            "bbox": {
+                                "x0": 154.75,
+                                "y0": 470.9329528808594,
+                                "x1": 194.4980010986328,
+                                "y1": 481.9129333496094,
+                                "cx": 174.6240005493164,
+                                "cy": 476.4229431152344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 31,
+                            "type": 0,
+                            "text": "Tecn. De Redes y Serv. Telem. -",
+                            "bbox": {
+                                "x0": 253.89999389648438,
+                                "y0": 458.83294677734375,
+                                "x1": 369.6839904785156,
+                                "y1": 469.81292724609375,
+                                "cx": 311.7919921875,
+                                "cy": 464.32293701171875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 32,
+                            "type": 0,
+                            "text": "4OPT (EA8) Visión Artificial - 4C1 (OL5)",
+                            "bbox": {
+                                "x0": 290.0,
+                                "y0": 464.8829650878906,
+                                "x1": 486.4410095214844,
+                                "y1": 481.9129333496094,
+                                "cx": 388.2205047607422,
+                                "cy": 473.39794921875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 33,
+                            "type": 0,
+                            "text": "Sist. Inteligentes Y Sostenibles De Nueva",
+                            "bbox": {
+                                "x0": 500.54998779296875,
+                                "y0": 446.73297119140625,
+                                "x1": 650.083984375,
+                                "y1": 457.71295166015625,
+                                "cx": 575.3169860839844,
+                                "cy": 452.22296142578125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 34,
+                            "type": 0,
+                            "text": "Generación - 4C1 (SL10) Comunicaciones Móviles –",
+                            "bbox": {
+                                "x0": 525.8499755859375,
+                                "y0": 458.83294677734375,
+                                "x1": 622.6640014648438,
+                                "y1": 481.9129333496094,
+                                "cx": 574.2569885253906,
+                                "cy": 470.37294006347656
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 35,
+                            "type": 0,
+                            "text": "4C1 (SL9)",
+                            "bbox": {
+                                "x0": 556.2000122070312,
+                                "y0": 483.032958984375,
+                                "x1": 592.3480224609375,
+                                "y1": 494.012939453125,
+                                "cx": 574.2740173339844,
+                                "cy": 488.52294921875
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

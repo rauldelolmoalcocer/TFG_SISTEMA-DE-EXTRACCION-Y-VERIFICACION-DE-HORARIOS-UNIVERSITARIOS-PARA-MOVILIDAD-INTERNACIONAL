@@ -45,6 +45,10 @@ class CrawlerState:
     total_pdfs_downloaded: int = 0
 
     lock: threading.Lock = field(default_factory=threading.Lock)
+    pause_event: threading.Event = field(default_factory=threading.Event)
+
+    def __post_init__(self):
+        self.pause_event.set()  # arranca en estado "ejecutando"
 
     def add_log(self, message: str):
         timestamp = time.strftime("%H:%M:%S")
@@ -85,6 +89,9 @@ class PdfCrawler:
                 download_futures = []
 
                 while not self.page_queue.empty():
+                    # Bloquea aquí si el proceso está pausado
+                    self.state.pause_event.wait()
+
                     limit_reached = False
 
                     with self.state.lock:
@@ -292,6 +299,9 @@ class PdfCrawler:
             counter += 1
 
     def download_pdf(self, pdf_url: str, existing_response=None):
+        # Bloquea la descarga si el proceso está pausado
+        self.state.pause_event.wait()
+
         with self.state.lock:
             if pdf_url in self.state.downloaded_urls:
                 return

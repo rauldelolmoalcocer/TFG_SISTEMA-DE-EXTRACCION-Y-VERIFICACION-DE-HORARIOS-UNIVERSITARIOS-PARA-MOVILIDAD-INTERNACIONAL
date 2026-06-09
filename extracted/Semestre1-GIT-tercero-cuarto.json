@@ -1,0 +1,3762 @@
+{
+    "schema_version": "1.0",
+    "processed_at": "2026-06-09 13:40:31",
+    "input_file": {
+        "path": "/data/downloaded_pdfs/Semestre1-GIT-tercero-cuarto.pdf",
+        "name": "Semestre1-GIT-tercero-cuarto.pdf",
+        "total_pages": 3
+    },
+    "standard_schedule": [
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "08:00",
+                "hora_fin": "08:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D3",
+                "subgrupo": null,
+                "aula": "EL7",
+                "texto_original": "3D3 (EL7)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "08:00",
+                "hora_fin": "08:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D3 (EL7) PROGRAMACIÓN AVANZADA",
+                "subgrupo": "3D2",
+                "aula": "EL6",
+                "texto_original": "3D3 (EL7) Programación Avanzada - 3D2 (EL6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "08:00",
+                "hora_fin": "08:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SERVICIOS TELEMÁTICOS",
+                "subgrupo": "3D2",
+                "aula": "EL11",
+                "texto_original": "Servicios Telemáticos - 3D2 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "08:00",
+                "hora_fin": "08:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D3",
+                "subgrupo": null,
+                "aula": "PC",
+                "texto_original": "3D3 (PC) (OL2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "09:00",
+                "hora_fin": "09:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D3",
+                "subgrupo": null,
+                "aula": "EL7",
+                "texto_original": "3D3 (EL7)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "09:00",
+                "hora_fin": "09:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "- 3D",
+                "subgrupo": null,
+                "aula": "NA2",
+                "texto_original": "- 3D (NA2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "09:00",
+                "hora_fin": "09:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D3 (EL7) PROGRAMACIÓN AVANZADA",
+                "subgrupo": "3D2",
+                "aula": "EL6",
+                "texto_original": "3D3 (EL7) Programación Avanzada - 3D2 (EL6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "09:00",
+                "hora_fin": "09:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SERVICIOS TELEMÁTICOS",
+                "subgrupo": "3D2",
+                "aula": "EL11",
+                "texto_original": "Servicios Telemáticos - 3D2 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "09:00",
+                "hora_fin": "09:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D3",
+                "subgrupo": null,
+                "aula": "PC",
+                "texto_original": "3D3 (PC) (OL2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "- 3D",
+                "subgrupo": null,
+                "aula": "NA2",
+                "texto_original": "- 3D (NA2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D2 (EL7) PROGRAMACIÓN AVANZADA",
+                "subgrupo": "3D1",
+                "aula": "EL6",
+                "texto_original": "3D2 (EL7) Programación Avanzada - 3D1 (EL6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SERVICIOS TELEMÁTICOS",
+                "subgrupo": "3D1",
+                "aula": "EL11",
+                "texto_original": "Servicios Telemáticos - 3D1 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D2",
+                "subgrupo": null,
+                "aula": "OL1",
+                "texto_original": "3D2 (OL1)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SERVICIOS TELEMÁTICOS",
+                "subgrupo": "3D",
+                "aula": "EA2",
+                "texto_original": "SERVICIOS TELEMÁTICOS - 3D (EA2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "- 3D",
+                "subgrupo": null,
+                "aula": "NA2",
+                "texto_original": "- 3D (NA2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D2 (EL7) PROGRAMACIÓN AVANZADA",
+                "subgrupo": "3D1",
+                "aula": "EL6",
+                "texto_original": "3D2 (EL7) Programación Avanzada - 3D1 (EL6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SERVICIOS TELEMÁTICOS",
+                "subgrupo": "3D1",
+                "aula": "EL11",
+                "texto_original": "Servicios Telemáticos - 3D1 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D2",
+                "subgrupo": null,
+                "aula": "OL1",
+                "texto_original": "3D2 (OL1)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SERVICIOS TELEMÁTICOS",
+                "subgrupo": "3D",
+                "aula": "EA2",
+                "texto_original": "SERVICIOS TELEMÁTICOS - 3D (EA2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "ARQUITECTURA DE COMPUTADORES",
+                "subgrupo": "3D",
+                "aula": "EA4",
+                "texto_original": "ARQUITECTURA DE COMPUTADORES - 3D (EA4)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D1 (EL7) PROGRAMACIÓN AVANZADA",
+                "subgrupo": "3D3",
+                "aula": "EL6",
+                "texto_original": "3D1 (EL7) Programación Avanzada - 3D3 (EL6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D1",
+                "subgrupo": null,
+                "aula": "OL5",
+                "texto_original": "3D1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "ARQUITECTURA DE COMPUTADORES",
+                "subgrupo": "3D",
+                "aula": "EA4",
+                "texto_original": "ARQUITECTURA DE COMPUTADORES - 3D (EA4)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D1 (EL7) PROGRAMACIÓN AVANZADA",
+                "subgrupo": "3D3",
+                "aula": "EL6",
+                "texto_original": "3D1 (EL7) Programación Avanzada - 3D3 (EL6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D1",
+                "subgrupo": null,
+                "aula": "OL5",
+                "texto_original": "3D1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D4",
+                "subgrupo": null,
+                "aula": "PC",
+                "texto_original": "3D4 (PC) (OL2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "5º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D4",
+                "subgrupo": null,
+                "aula": "PC",
+                "texto_original": "3D4 (PC) (OL2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "- 4D (EA7) PROGRAMACIÓN VISUAL",
+                "subgrupo": "4D",
+                "aula": "EL5",
+                "texto_original": "- 4D (EA7) PROGRAMACIÓN VISUAL - 4D (EL5) GESTION Y ADMINISTRACION DE"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "REDES",
+                "subgrupo": "4D",
+                "aula": "EA5",
+                "texto_original": "REDES - 4D (EA5) INGENIERÍA DE TRÁFICO - 4D (EA5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "- 4D (EA7) PROGRAMACIÓN VISUAL",
+                "subgrupo": "4D",
+                "aula": "EL5",
+                "texto_original": "- 4D (EA7) PROGRAMACIÓN VISUAL - 4D (EL5) GESTION Y ADMINISTRACION DE"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "REDES",
+                "subgrupo": "4D",
+                "aula": "EA5",
+                "texto_original": "REDES - 4D (EA5) INGENIERÍA DE TRÁFICO - 4D (EA5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "OPERATIVOS",
+                "subgrupo": "4D",
+                "aula": "EL5",
+                "texto_original": "OPERATIVOS - 4D (EL5) Programación Visual - 4D1 (EL5) Gestion Y Administracion De Redes -"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4D1 (EL11) INGENIERÍA DE TRÁFICO",
+                "subgrupo": "4D1",
+                "aula": "EL11",
+                "texto_original": "4D1 (EL11) Ingeniería De Tráfico - 4D1 (EL11) Ingeniería De Redes Y Servicios -"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4D1",
+                "subgrupo": null,
+                "aula": "EL12",
+                "texto_original": "4D1 (EL12)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "OPERATIVOS",
+                "subgrupo": "4D",
+                "aula": "EL5",
+                "texto_original": "OPERATIVOS - 4D (EL5) Programación Visual - 4D1 (EL5) Gestion Y Administracion De Redes -"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4D1 (EL11) INGENIERÍA DE TRÁFICO",
+                "subgrupo": "4D1",
+                "aula": "EL11",
+                "texto_original": "4D1 (EL11) Ingeniería De Tráfico - 4D1 (EL11) Ingeniería De Redes Y Servicios -"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4D1",
+                "subgrupo": null,
+                "aula": "EL12",
+                "texto_original": "4D1 (EL12)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "19:00",
+                "hora_fin": "19:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "OPERATIVOS",
+                "subgrupo": "4D1",
+                "aula": "EL5",
+                "texto_original": "Operativos - 4D1 (EL5) Programación Visual - 4D2 (EL6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                "pagina": 3
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "7º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "20:00",
+                "hora_fin": "20:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "OPERATIVOS",
+                "subgrupo": "4D1",
+                "aula": "EL5",
+                "texto_original": "Operativos - 4D1 (EL5) Programación Visual - 4D2 (EL6)"
+            }
+        }
+    ],
+    "debug": {
+        "pages": [
+            {
+                "page": 1,
+                "metadata": {
+                    "titulacion": "INGENIERÍA TELEMÁTICA",
+                    "codigo_titulacion": "G380",
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "5º",
+                    "curso": "3º",
+                    "grupo": "3ºD"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "08:00",
+                            "hora_fin": "08:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D3",
+                            "subgrupo": null,
+                            "aula": "EL7",
+                            "texto_original": "3D3 (EL7)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "08:00",
+                            "hora_fin": "08:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D3 (EL7) PROGRAMACIÓN AVANZADA",
+                            "subgrupo": "3D2",
+                            "aula": "EL6",
+                            "texto_original": "3D3 (EL7) Programación Avanzada - 3D2 (EL6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "08:00",
+                            "hora_fin": "08:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SERVICIOS TELEMÁTICOS",
+                            "subgrupo": "3D2",
+                            "aula": "EL11",
+                            "texto_original": "Servicios Telemáticos - 3D2 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "08:00",
+                            "hora_fin": "08:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D3",
+                            "subgrupo": null,
+                            "aula": "PC",
+                            "texto_original": "3D3 (PC) (OL2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "09:00",
+                            "hora_fin": "09:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D3",
+                            "subgrupo": null,
+                            "aula": "EL7",
+                            "texto_original": "3D3 (EL7)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "09:00",
+                            "hora_fin": "09:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "- 3D",
+                            "subgrupo": null,
+                            "aula": "NA2",
+                            "texto_original": "- 3D (NA2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "09:00",
+                            "hora_fin": "09:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D3 (EL7) PROGRAMACIÓN AVANZADA",
+                            "subgrupo": "3D2",
+                            "aula": "EL6",
+                            "texto_original": "3D3 (EL7) Programación Avanzada - 3D2 (EL6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "09:00",
+                            "hora_fin": "09:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SERVICIOS TELEMÁTICOS",
+                            "subgrupo": "3D2",
+                            "aula": "EL11",
+                            "texto_original": "Servicios Telemáticos - 3D2 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "09:00",
+                            "hora_fin": "09:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D3",
+                            "subgrupo": null,
+                            "aula": "PC",
+                            "texto_original": "3D3 (PC) (OL2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "- 3D",
+                            "subgrupo": null,
+                            "aula": "NA2",
+                            "texto_original": "- 3D (NA2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D2 (EL7) PROGRAMACIÓN AVANZADA",
+                            "subgrupo": "3D1",
+                            "aula": "EL6",
+                            "texto_original": "3D2 (EL7) Programación Avanzada - 3D1 (EL6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SERVICIOS TELEMÁTICOS",
+                            "subgrupo": "3D1",
+                            "aula": "EL11",
+                            "texto_original": "Servicios Telemáticos - 3D1 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D2",
+                            "subgrupo": null,
+                            "aula": "OL1",
+                            "texto_original": "3D2 (OL1)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SERVICIOS TELEMÁTICOS",
+                            "subgrupo": "3D",
+                            "aula": "EA2",
+                            "texto_original": "SERVICIOS TELEMÁTICOS - 3D (EA2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "- 3D",
+                            "subgrupo": null,
+                            "aula": "NA2",
+                            "texto_original": "- 3D (NA2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D2 (EL7) PROGRAMACIÓN AVANZADA",
+                            "subgrupo": "3D1",
+                            "aula": "EL6",
+                            "texto_original": "3D2 (EL7) Programación Avanzada - 3D1 (EL6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SERVICIOS TELEMÁTICOS",
+                            "subgrupo": "3D1",
+                            "aula": "EL11",
+                            "texto_original": "Servicios Telemáticos - 3D1 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D2",
+                            "subgrupo": null,
+                            "aula": "OL1",
+                            "texto_original": "3D2 (OL1)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SERVICIOS TELEMÁTICOS",
+                            "subgrupo": "3D",
+                            "aula": "EA2",
+                            "texto_original": "SERVICIOS TELEMÁTICOS - 3D (EA2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "ARQUITECTURA DE COMPUTADORES",
+                            "subgrupo": "3D",
+                            "aula": "EA4",
+                            "texto_original": "ARQUITECTURA DE COMPUTADORES - 3D (EA4)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D1 (EL7) PROGRAMACIÓN AVANZADA",
+                            "subgrupo": "3D3",
+                            "aula": "EL6",
+                            "texto_original": "3D1 (EL7) Programación Avanzada - 3D3 (EL6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D1",
+                            "subgrupo": null,
+                            "aula": "OL5",
+                            "texto_original": "3D1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "ARQUITECTURA DE COMPUTADORES",
+                            "subgrupo": "3D",
+                            "aula": "EA4",
+                            "texto_original": "ARQUITECTURA DE COMPUTADORES - 3D (EA4)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D1 (EL7) PROGRAMACIÓN AVANZADA",
+                            "subgrupo": "3D3",
+                            "aula": "EL6",
+                            "texto_original": "3D1 (EL7) Programación Avanzada - 3D3 (EL6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D1",
+                            "subgrupo": null,
+                            "aula": "OL5",
+                            "texto_original": "3D1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D4",
+                            "subgrupo": null,
+                            "aula": "PC",
+                            "texto_original": "3D4 (PC) (OL2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "5º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D4",
+                            "subgrupo": null,
+                            "aula": "PC",
+                            "texto_original": "3D4 (PC) (OL2)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 – PC: Pendiente Confirmación Para la organización de las dos primeras semanas de clase, ver fichero publicado en la web de horarios de la Escuela. GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT) CUATRIMESTRE 5º (Curso 3º, Semestre 1º) Curso 2025/2026 GRUPO 3ºD HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 8:00/8:55 Arquitectura De Computadores - 3D3 (EL7) Arquitectura De Computadores - 3D3 (EL7) Programación Avanzada - 3D2 (EL6) Servicios Telemáticos - 3D2 (EL11) Sistemas Electrónicos Digitales – 3D3 (PC) (OL2) 9:00/9:55 Arquitectura De Computadores - 3D3 (EL7) SISTEMAS ELECTRÓNICOS DIGITALES - 3D (NA2) Arquitectura De Computadores - 3D3 (EL7) Programación Avanzada - 3D2 (EL6) Servicios Telemáticos - 3D2 (EL11) Sistemas Electrónicos Digitales – 3D3 (PC) (OL2) 10:00/10:55 SISTEMAS ELECTRÓNICOS DIGITALES - 3D (NA2) Redes De Comunicaciones - 3D1 (EL10) Redes De Comunicaciones - 3D2 (EL11) Arquitectura De Computadores - 3D2 (EL7) Programación Avanzada - 3D1 (EL6) Servicios Telemáticos - 3D1 (EL11) Sistemas Electrónicos Digitales - 3D2 (OL1) SERVICIOS TELEMÁTICOS - 3D (EA2) 11:00/11:55 SISTEMAS ELECTRÓNICOS DIGITALES - 3D (NA2) Redes De Comunicaciones - 3D1 (EL10) Redes De Comunicaciones - 3D2 (EL11) Arquitectura De Computadores - 3D2 (EL7) Programación Avanzada - 3D1 (EL6) Servicios Telemáticos - 3D1 (EL11) Sistemas Electrónicos Digitales - 3D2 (OL1) SERVICIOS TELEMÁTICOS - 3D (EA2) 12:00/12:55 PROGRAMACIÓN AVANZADA - 3D (OA6) ARQUITECTURA DE COMPUTADORES - 3D (EA4) Arquitectura De Computadores - 3D1 (EL7) Programación Avanzada - 3D3 (EL6) Sistemas Electrónicos Digitales - 3D1 (OL5) REDES DE COMUNICACIONES - 3D (EA2) 13:00/13:55 PROGRAMACIÓN AVANZADA - 3D (OA6) ARQUITECTURA DE COMPUTADORES - 3D (EA4) Arquitectura De Computadores - 3D1 (EL7) Programación Avanzada - 3D3 (EL6) Sistemas Electrónicos Digitales - 3D1 (OL5) REDES DE COMUNICACIONES - 3D (EA2) 14:00/14:55 15:00/15:55 Redes De Comunicaciones - 3D3 (EL11) Sistemas Electrónicos Digitales – 3D4 (PC) (OL2) 16:00/16:55 Redes De Comunicaciones - 3D3 (EL11) Sistemas Electrónicos Digitales – 3D4 (PC) (OL2)",
+                    "blocks": [
+                        {
+                            "page": 1,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 – PC: Pendiente Confirmación Para la organización de las dos primeras semanas de clase, ver fichero publicado en la web de horarios de la Escuela.",
+                            "bbox": {
+                                "x0": 50.040000915527344,
+                                "y0": 537.0900268554688,
+                                "x1": 477.66400146484375,
+                                "y1": 558.2100219726562,
+                                "cx": 263.85200119018555,
+                                "cy": 547.6500244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+                            "bbox": {
+                                "x0": 260.45001220703125,
+                                "y0": 83.6300048828125,
+                                "x1": 584.4940185546875,
+                                "y1": 110.1768798828125,
+                                "cx": 422.4720153808594,
+                                "cy": 96.9034423828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "CUATRIMESTRE 5º (Curso 3º, Semestre 1º) Curso 2025/2026 GRUPO 3ºD",
+                            "bbox": {
+                                "x0": 50.040000915527344,
+                                "y0": 113.1199951171875,
+                                "x1": 794.5139770507812,
+                                "y1": 146.27001953125,
+                                "cx": 422.2769889831543,
+                                "cy": 129.69500732421875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 58.560001373291016,
+                                "y0": 154.3699951171875,
+                                "x1": 743.1539916992188,
+                                "y1": 167.3300018310547,
+                                "cx": 400.8569965362549,
+                                "cy": 160.8499984741211
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "8:00/8:55 Arquitectura De Computadores -",
+                            "bbox": {
+                                "x0": 56.52000045776367,
+                                "y0": 183.3800048828125,
+                                "x1": 230.08399963378906,
+                                "y1": 198.3800048828125,
+                                "cx": 143.30200004577637,
+                                "cy": 190.8800048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "3D3 (EL7)",
+                            "bbox": {
+                                "x0": 149.89999389648438,
+                                "y0": 189.3800048828125,
+                                "x1": 241.48399353027344,
+                                "y1": 204.5,
+                                "cx": 195.6919937133789,
+                                "cy": 196.94000244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "Arquitectura De Computadores -",
+                            "bbox": {
+                                "x0": 384.7900085449219,
+                                "y0": 177.3800048828125,
+                                "x1": 506.10400390625,
+                                "y1": 186.3800048828125,
+                                "cx": 445.44700622558594,
+                                "cy": 181.8800048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "3D3 (EL7) Programación Avanzada - 3D2 (EL6)",
+                            "bbox": {
+                                "x0": 378.2900085449219,
+                                "y0": 189.3800048828125,
+                                "x1": 512.583984375,
+                                "y1": 210.5,
+                                "cx": 445.43699645996094,
+                                "cy": 199.94000244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "Servicios Telemáticos - 3D2 (EL11)",
+                            "bbox": {
+                                "x0": 517.75,
+                                "y0": 177.3800048828125,
+                                "x1": 646.4140014648438,
+                                "y1": 186.3800048828125,
+                                "cx": 582.0820007324219,
+                                "cy": 181.8800048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "Sistemas Electrónicos Digitales –",
+                            "bbox": {
+                                "x0": 521.8300170898438,
+                                "y0": 189.3800048828125,
+                                "x1": 642.4539794921875,
+                                "y1": 198.3800048828125,
+                                "cx": 582.1419982910156,
+                                "cy": 193.8800048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "3D3 (PC) (OL2)",
+                            "bbox": {
+                                "x0": 553.0599975585938,
+                                "y0": 201.5,
+                                "x1": 611.1339721679688,
+                                "y1": 210.5,
+                                "cx": 582.0969848632812,
+                                "cy": 206.0
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "9:00/9:55 Arquitectura De Computadores -",
+                            "bbox": {
+                                "x0": 56.52000045776367,
+                                "y0": 225.86001586914062,
+                                "x1": 230.08399963378906,
+                                "y1": 240.98001098632812,
+                                "cx": 143.30200004577637,
+                                "cy": 233.42001342773438
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "3D3 (EL7)",
+                            "bbox": {
+                                "x0": 149.89999389648438,
+                                "y0": 237.98001098632812,
+                                "x1": 189.0139923095703,
+                                "y1": 246.98001098632812,
+                                "cx": 169.45699310302734,
+                                "cy": 242.48001098632812
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "SISTEMAS ELECTRÓNICOS DIGITALES",
+                            "bbox": {
+                                "x0": 239.57000732421875,
+                                "y0": 225.86001586914062,
+                                "x1": 375.1731262207031,
+                                "y1": 234.86001586914062,
+                                "cx": 307.37156677246094,
+                                "cy": 230.36001586914062
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "- 3D (NA2)",
+                            "bbox": {
+                                "x0": 286.1300048828125,
+                                "y0": 237.98001098632812,
+                                "x1": 328.7239990234375,
+                                "y1": 246.98001098632812,
+                                "cx": 307.427001953125,
+                                "cy": 242.48001098632812
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "Arquitectura De Computadores -",
+                            "bbox": {
+                                "x0": 384.7900085449219,
+                                "y0": 219.86001586914062,
+                                "x1": 506.10400390625,
+                                "y1": 228.86001586914062,
+                                "cx": 445.44700622558594,
+                                "cy": 224.36001586914062
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "3D3 (EL7) Programación Avanzada - 3D2 (EL6)",
+                            "bbox": {
+                                "x0": 378.2900085449219,
+                                "y0": 231.98001098632812,
+                                "x1": 512.583984375,
+                                "y1": 252.98001098632812,
+                                "cx": 445.43699645996094,
+                                "cy": 242.48001098632812
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "Servicios Telemáticos - 3D2 (EL11)",
+                            "bbox": {
+                                "x0": 517.75,
+                                "y0": 219.86001586914062,
+                                "x1": 646.4140014648438,
+                                "y1": 228.86001586914062,
+                                "cx": 582.0820007324219,
+                                "cy": 224.36001586914062
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "Sistemas Electrónicos Digitales –",
+                            "bbox": {
+                                "x0": 521.8300170898438,
+                                "y0": 231.98001098632812,
+                                "x1": 642.4539794921875,
+                                "y1": 240.98001098632812,
+                                "cx": 582.1419982910156,
+                                "cy": 236.48001098632812
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "3D3 (PC) (OL2)",
+                            "bbox": {
+                                "x0": 553.0599975585938,
+                                "y0": 243.98001098632812,
+                                "x1": 611.1339721679688,
+                                "y1": 252.98001098632812,
+                                "cx": 582.0969848632812,
+                                "cy": 248.48001098632812
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "10:00/10:55 SISTEMAS ELECTRÓNICOS DIGITALES",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 274.4800109863281,
+                                "x1": 237.1429443359375,
+                                "y1": 289.4800109863281,
+                                "cx": 144.55147171020508,
+                                "cy": 281.9800109863281
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "- 3D (NA2)",
+                            "bbox": {
+                                "x0": 148.10000610351562,
+                                "y0": 286.4800109863281,
+                                "x1": 190.69400024414062,
+                                "y1": 295.4800109863281,
+                                "cx": 169.39700317382812,
+                                "cy": 290.9800109863281
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "Redes De Comunicaciones - 3D1",
+                            "bbox": {
+                                "x0": 247.85000610351562,
+                                "y0": 262.3399963378906,
+                                "x1": 369.16400146484375,
+                                "y1": 271.3399963378906,
+                                "cx": 308.5070037841797,
+                                "cy": 266.8399963378906
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "(EL10) Redes De Comunicaciones - 3D2",
+                            "bbox": {
+                                "x0": 247.85000610351562,
+                                "y0": 274.4800109863281,
+                                "x1": 369.16400146484375,
+                                "y1": 295.4800109863281,
+                                "cx": 308.5070037841797,
+                                "cy": 284.9800109863281
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "(EL11)",
+                            "bbox": {
+                                "x0": 295.010009765625,
+                                "y0": 298.6000061035156,
+                                "x1": 319.9639892578125,
+                                "y1": 307.6000061035156,
+                                "cx": 307.48699951171875,
+                                "cy": 303.1000061035156
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 30,
+                            "type": 0,
+                            "text": "Arquitectura De Computadores -",
+                            "bbox": {
+                                "x0": 384.7900085449219,
+                                "y0": 268.3600158691406,
+                                "x1": 506.10400390625,
+                                "y1": 277.3600158691406,
+                                "cx": 445.44700622558594,
+                                "cy": 272.8600158691406
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 31,
+                            "type": 0,
+                            "text": "3D2 (EL7) Programación Avanzada - 3D1 (EL6)",
+                            "bbox": {
+                                "x0": 378.2900085449219,
+                                "y0": 280.4800109863281,
+                                "x1": 512.583984375,
+                                "y1": 301.6000061035156,
+                                "cx": 445.43699645996094,
+                                "cy": 291.0400085449219
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 32,
+                            "type": 0,
+                            "text": "Servicios Telemáticos - 3D1 (EL11)",
+                            "bbox": {
+                                "x0": 517.75,
+                                "y0": 268.3600158691406,
+                                "x1": 646.4140014648438,
+                                "y1": 277.3600158691406,
+                                "cx": 582.0820007324219,
+                                "cy": 272.8600158691406
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 33,
+                            "type": 0,
+                            "text": "Sistemas Electrónicos Digitales -",
+                            "bbox": {
+                                "x0": 522.6699829101562,
+                                "y0": 280.4800109863281,
+                                "x1": 641.4940185546875,
+                                "y1": 289.4800109863281,
+                                "cx": 582.0820007324219,
+                                "cy": 284.9800109863281
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 34,
+                            "type": 0,
+                            "text": "3D2 (OL1)",
+                            "bbox": {
+                                "x0": 561.7000122070312,
+                                "y0": 292.6000061035156,
+                                "x1": 602.4940185546875,
+                                "y1": 301.6000061035156,
+                                "cx": 582.0970153808594,
+                                "cy": 297.1000061035156
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 35,
+                            "type": 0,
+                            "text": "SERVICIOS TELEMÁTICOS - 3D (EA2)",
+                            "bbox": {
+                                "x0": 651.9400024414062,
+                                "y0": 280.4800109863281,
+                                "x1": 786.4739990234375,
+                                "y1": 289.4800109863281,
+                                "cx": 719.2070007324219,
+                                "cy": 284.9800109863281
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 36,
+                            "type": 0,
+                            "text": "11:00/11:55 SISTEMAS ELECTRÓNICOS DIGITALES",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 329.08001708984375,
+                                "x1": 237.1429443359375,
+                                "y1": 344.08001708984375,
+                                "cx": 144.55147171020508,
+                                "cy": 336.58001708984375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 37,
+                            "type": 0,
+                            "text": "- 3D (NA2)",
+                            "bbox": {
+                                "x0": 148.10000610351562,
+                                "y0": 341.08001708984375,
+                                "x1": 190.69400024414062,
+                                "y1": 350.08001708984375,
+                                "cx": 169.39700317382812,
+                                "cy": 345.58001708984375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 38,
+                            "type": 0,
+                            "text": "Redes De Comunicaciones - 3D1",
+                            "bbox": {
+                                "x0": 247.85000610351562,
+                                "y0": 316.96002197265625,
+                                "x1": 369.16400146484375,
+                                "y1": 325.96002197265625,
+                                "cx": 308.5070037841797,
+                                "cy": 321.46002197265625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 39,
+                            "type": 0,
+                            "text": "(EL10) Redes De Comunicaciones - 3D2",
+                            "bbox": {
+                                "x0": 247.85000610351562,
+                                "y0": 329.08001708984375,
+                                "x1": 369.16400146484375,
+                                "y1": 350.08001708984375,
+                                "cx": 308.5070037841797,
+                                "cy": 339.58001708984375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 40,
+                            "type": 0,
+                            "text": "(EL11)",
+                            "bbox": {
+                                "x0": 295.010009765625,
+                                "y0": 353.20001220703125,
+                                "x1": 319.9639892578125,
+                                "y1": 362.20001220703125,
+                                "cx": 307.48699951171875,
+                                "cy": 357.70001220703125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 41,
+                            "type": 0,
+                            "text": "Arquitectura De Computadores -",
+                            "bbox": {
+                                "x0": 384.7900085449219,
+                                "y0": 322.96002197265625,
+                                "x1": 506.10400390625,
+                                "y1": 331.96002197265625,
+                                "cx": 445.44700622558594,
+                                "cy": 327.46002197265625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 42,
+                            "type": 0,
+                            "text": "3D2 (EL7) Programación Avanzada - 3D1 (EL6)",
+                            "bbox": {
+                                "x0": 378.2900085449219,
+                                "y0": 335.08001708984375,
+                                "x1": 512.583984375,
+                                "y1": 356.20001220703125,
+                                "cx": 445.43699645996094,
+                                "cy": 345.6400146484375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 43,
+                            "type": 0,
+                            "text": "Servicios Telemáticos - 3D1 (EL11)",
+                            "bbox": {
+                                "x0": 517.75,
+                                "y0": 322.96002197265625,
+                                "x1": 646.4140014648438,
+                                "y1": 331.96002197265625,
+                                "cx": 582.0820007324219,
+                                "cy": 327.46002197265625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 44,
+                            "type": 0,
+                            "text": "Sistemas Electrónicos Digitales -",
+                            "bbox": {
+                                "x0": 522.6699829101562,
+                                "y0": 335.08001708984375,
+                                "x1": 641.4940185546875,
+                                "y1": 344.08001708984375,
+                                "cx": 582.0820007324219,
+                                "cy": 339.58001708984375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 45,
+                            "type": 0,
+                            "text": "3D2 (OL1)",
+                            "bbox": {
+                                "x0": 561.7000122070312,
+                                "y0": 347.20001220703125,
+                                "x1": 602.4940185546875,
+                                "y1": 356.20001220703125,
+                                "cx": 582.0970153808594,
+                                "cy": 351.70001220703125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 46,
+                            "type": 0,
+                            "text": "SERVICIOS TELEMÁTICOS - 3D (EA2)",
+                            "bbox": {
+                                "x0": 651.9400024414062,
+                                "y0": 335.08001708984375,
+                                "x1": 786.4739990234375,
+                                "y1": 344.08001708984375,
+                                "cx": 719.2070007324219,
+                                "cy": 339.58001708984375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 47,
+                            "type": 0,
+                            "text": "12:00/12:55 PROGRAMACIÓN AVANZADA - 3D",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 377.59002685546875,
+                                "x1": 234.28399658203125,
+                                "y1": 392.71002197265625,
+                                "cx": 143.12199783325195,
+                                "cy": 385.1500244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 48,
+                            "type": 0,
+                            "text": "(OA6)",
+                            "bbox": {
+                                "x0": 157.5800018310547,
+                                "y0": 389.71002197265625,
+                                "x1": 181.33399963378906,
+                                "y1": 398.71002197265625,
+                                "cx": 169.45700073242188,
+                                "cy": 394.21002197265625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 49,
+                            "type": 0,
+                            "text": "ARQUITECTURA DE COMPUTADORES - 3D (EA4)",
+                            "bbox": {
+                                "x0": 254.2100067138672,
+                                "y0": 377.59002685546875,
+                                "x1": 360.64398193359375,
+                                "y1": 398.71002197265625,
+                                "cx": 307.42699432373047,
+                                "cy": 388.1500244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 50,
+                            "type": 0,
+                            "text": "Arquitectura De Computadores -",
+                            "bbox": {
+                                "x0": 384.7900085449219,
+                                "y0": 371.55999755859375,
+                                "x1": 506.10400390625,
+                                "y1": 380.55999755859375,
+                                "cx": 445.44700622558594,
+                                "cy": 376.05999755859375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 51,
+                            "type": 0,
+                            "text": "3D1 (EL7) Programación Avanzada - 3D3 (EL6)",
+                            "bbox": {
+                                "x0": 378.2900085449219,
+                                "y0": 383.71002197265625,
+                                "x1": 512.583984375,
+                                "y1": 404.71002197265625,
+                                "cx": 445.43699645996094,
+                                "cy": 394.21002197265625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 52,
+                            "type": 0,
+                            "text": "Sistemas Electrónicos Digitales -",
+                            "bbox": {
+                                "x0": 522.6699829101562,
+                                "y0": 377.59002685546875,
+                                "x1": 641.4940185546875,
+                                "y1": 386.59002685546875,
+                                "cx": 582.0820007324219,
+                                "cy": 382.09002685546875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 53,
+                            "type": 0,
+                            "text": "3D1 (OL5)",
+                            "bbox": {
+                                "x0": 561.7000122070312,
+                                "y0": 389.71002197265625,
+                                "x1": 602.4940185546875,
+                                "y1": 398.71002197265625,
+                                "cx": 582.0970153808594,
+                                "cy": 394.21002197265625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 54,
+                            "type": 0,
+                            "text": "REDES DE COMUNICACIONES - 3D",
+                            "bbox": {
+                                "x0": 656.260009765625,
+                                "y0": 377.59002685546875,
+                                "x1": 784.3140258789062,
+                                "y1": 386.59002685546875,
+                                "cx": 720.2870178222656,
+                                "cy": 382.09002685546875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 55,
+                            "type": 0,
+                            "text": "(EA2)",
+                            "bbox": {
+                                "x0": 708.239990234375,
+                                "y0": 389.71002197265625,
+                                "x1": 730.3140258789062,
+                                "y1": 398.71002197265625,
+                                "cx": 719.2770080566406,
+                                "cy": 394.21002197265625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 56,
+                            "type": 0,
+                            "text": "13:00/13:55 PROGRAMACIÓN AVANZADA - 3D",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 420.07000732421875,
+                                "x1": 234.28399658203125,
+                                "y1": 435.19000244140625,
+                                "cx": 143.12199783325195,
+                                "cy": 427.6300048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 57,
+                            "type": 0,
+                            "text": "(OA6)",
+                            "bbox": {
+                                "x0": 157.5800018310547,
+                                "y0": 432.19000244140625,
+                                "x1": 181.33399963378906,
+                                "y1": 441.19000244140625,
+                                "cx": 169.45700073242188,
+                                "cy": 436.69000244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 58,
+                            "type": 0,
+                            "text": "ARQUITECTURA DE COMPUTADORES - 3D (EA4)",
+                            "bbox": {
+                                "x0": 254.2100067138672,
+                                "y0": 420.07000732421875,
+                                "x1": 360.64398193359375,
+                                "y1": 441.19000244140625,
+                                "cx": 307.42699432373047,
+                                "cy": 430.6300048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 59,
+                            "type": 0,
+                            "text": "Arquitectura De Computadores -",
+                            "bbox": {
+                                "x0": 384.7900085449219,
+                                "y0": 414.07000732421875,
+                                "x1": 506.10400390625,
+                                "y1": 423.07000732421875,
+                                "cx": 445.44700622558594,
+                                "cy": 418.57000732421875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 60,
+                            "type": 0,
+                            "text": "3D1 (EL7) Programación Avanzada - 3D3 (EL6)",
+                            "bbox": {
+                                "x0": 378.2900085449219,
+                                "y0": 426.19000244140625,
+                                "x1": 512.583984375,
+                                "y1": 447.30999755859375,
+                                "cx": 445.43699645996094,
+                                "cy": 436.75
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 61,
+                            "type": 0,
+                            "text": "Sistemas Electrónicos Digitales -",
+                            "bbox": {
+                                "x0": 522.6699829101562,
+                                "y0": 420.07000732421875,
+                                "x1": 641.4940185546875,
+                                "y1": 429.07000732421875,
+                                "cx": 582.0820007324219,
+                                "cy": 424.57000732421875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 62,
+                            "type": 0,
+                            "text": "3D1 (OL5)",
+                            "bbox": {
+                                "x0": 561.7000122070312,
+                                "y0": 432.19000244140625,
+                                "x1": 602.4940185546875,
+                                "y1": 441.19000244140625,
+                                "cx": 582.0970153808594,
+                                "cy": 436.69000244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 63,
+                            "type": 0,
+                            "text": "REDES DE COMUNICACIONES - 3D",
+                            "bbox": {
+                                "x0": 656.260009765625,
+                                "y0": 420.07000732421875,
+                                "x1": 784.3140258789062,
+                                "y1": 429.07000732421875,
+                                "cx": 720.2870178222656,
+                                "cy": 424.57000732421875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 64,
+                            "type": 0,
+                            "text": "(EA2)",
+                            "bbox": {
+                                "x0": 708.239990234375,
+                                "y0": 432.19000244140625,
+                                "x1": 730.3140258789062,
+                                "y1": 441.19000244140625,
+                                "cx": 719.2770080566406,
+                                "cy": 436.69000244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 65,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 456.54998779296875,
+                                "x1": 652.7739868164062,
+                                "y1": 465.54998779296875,
+                                "cx": 352.36699295043945,
+                                "cy": 461.04998779296875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 66,
+                            "type": 0,
+                            "text": "15:00/15:55 Redes De Comunicaciones - 3D3",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 474.9100036621094,
+                                "x1": 369.16400146484375,
+                                "y1": 489.9100036621094,
+                                "cx": 210.5620002746582,
+                                "cy": 482.4100036621094
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 67,
+                            "type": 0,
+                            "text": "(EL11) Sistemas Electrónicos Digitales –",
+                            "bbox": {
+                                "x0": 295.010009765625,
+                                "y0": 474.9100036621094,
+                                "x1": 642.4539794921875,
+                                "y1": 496.0500183105469,
+                                "cx": 468.73199462890625,
+                                "cy": 485.4800109863281
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 68,
+                            "type": 0,
+                            "text": "3D4 (PC) (OL2)",
+                            "bbox": {
+                                "x0": 553.0599975585938,
+                                "y0": 480.9100036621094,
+                                "x1": 720.2340087890625,
+                                "y1": 496.0500183105469,
+                                "cx": 636.6470031738281,
+                                "cy": 488.4800109863281
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 69,
+                            "type": 0,
+                            "text": "16:00/16:55 Redes De Comunicaciones - 3D3",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 505.4100341796875,
+                                "x1": 369.16400146484375,
+                                "y1": 520.4100341796875,
+                                "cx": 210.5620002746582,
+                                "cy": 512.9100341796875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 70,
+                            "type": 0,
+                            "text": "(EL11) Sistemas Electrónicos Digitales –",
+                            "bbox": {
+                                "x0": 295.010009765625,
+                                "y0": 505.4100341796875,
+                                "x1": 642.4539794921875,
+                                "y1": 526.4100341796875,
+                                "cx": 468.73199462890625,
+                                "cy": 515.9100341796875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 71,
+                            "type": 0,
+                            "text": "3D4 (PC) (OL2)",
+                            "bbox": {
+                                "x0": 553.0599975585938,
+                                "y0": 511.4100341796875,
+                                "x1": 720.2340087890625,
+                                "y1": 526.4100341796875,
+                                "cx": 636.6470031738281,
+                                "cy": 518.9100341796875
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 2,
+                "metadata": {
+                    "titulacion": "INGENIERÍA TELEMÁTICA",
+                    "codigo_titulacion": "G380",
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "5º",
+                    "curso": "3º",
+                    "grupo": "3ºE"
+                },
+                "records": [],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 – PC: Pendiente Confirmación Para la organización de las dos primeras semanas de clase, ver fichero publicado en la web de horarios de la Escuela. GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT) CUATRIMESTRE 5º (Curso 3º, Semestre 1º) Curso 2025/2026 GRUPO 3ºE HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 8:00/8:55 DIGITAL ELECTRONIC SYSTEMS - 3E (EA6) DIGITAL ELECTRONIC SYSTEMS - 3E (EA6) Digital Electronic Systems - 3E1 (OL1) 9:00/9:55 DIGITAL ELECTRONIC SYSTEMS - 3E (EA6) Digital Electronic Systems - 3E1 (OL1) 10:00/10:55 11:00/11:55 12:00/12:55 13:00/13:55 14:00/14:55 15:00/15:55 16:00/16:55 17:00/17:55 18:00/18:55 19:00/19:55 20:00/20:55",
+                    "blocks": [
+                        {
+                            "page": 2,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 – PC: Pendiente Confirmación Para la organización de las dos primeras semanas de clase, ver fichero publicado en la web de horarios de la Escuela.",
+                            "bbox": {
+                                "x0": 50.040000915527344,
+                                "y0": 537.0900268554688,
+                                "x1": 477.66400146484375,
+                                "y1": 558.2100219726562,
+                                "cx": 263.85200119018555,
+                                "cy": 547.6500244140625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT) CUATRIMESTRE 5º (Curso 3º, Semestre 1º) Curso 2025/2026 GRUPO 3ºE",
+                            "bbox": {
+                                "x0": 50.040000915527344,
+                                "y0": 83.6300048828125,
+                                "x1": 794.6339721679688,
+                                "y1": 150.35000610351562,
+                                "cx": 422.33698654174805,
+                                "cy": 116.99000549316406
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 58.560001373291016,
+                                "y0": 158.45001220703125,
+                                "x1": 743.9940185546875,
+                                "y1": 171.41001892089844,
+                                "cx": 401.27700996398926,
+                                "cy": 164.93001556396484
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "8:00/8:55 DIGITAL ELECTRONIC SYSTEMS - 3E",
+                            "bbox": {
+                                "x0": 56.52000045776367,
+                                "y0": 181.33999633789062,
+                                "x1": 373.4840087890625,
+                                "y1": 196.46002197265625,
+                                "cx": 215.0020046234131,
+                                "cy": 188.90000915527344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "(EA6)",
+                            "bbox": {
+                                "x0": 295.489990234375,
+                                "y0": 193.46002197265625,
+                                "x1": 317.5639953613281,
+                                "y1": 202.46002197265625,
+                                "cx": 306.52699279785156,
+                                "cy": 197.96002197265625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "DIGITAL ELECTRONIC SYSTEMS - 3E",
+                            "bbox": {
+                                "x0": 379.989990234375,
+                                "y0": 181.33999633789062,
+                                "x1": 511.864013671875,
+                                "y1": 190.33999633789062,
+                                "cx": 445.927001953125,
+                                "cy": 185.83999633789062
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "(EA6)",
+                            "bbox": {
+                                "x0": 433.8699951171875,
+                                "y0": 193.46002197265625,
+                                "x1": 455.9440002441406,
+                                "y1": 202.46002197265625,
+                                "cx": 444.90699768066406,
+                                "cy": 197.96002197265625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "Digital Electronic Systems - 3E1",
+                            "bbox": {
+                                "x0": 525.0700073242188,
+                                "y0": 181.33999633789062,
+                                "x1": 643.0540161132812,
+                                "y1": 190.33999633789062,
+                                "cx": 584.06201171875,
+                                "cy": 185.83999633789062
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "(OL1)",
+                            "bbox": {
+                                "x0": 572.02001953125,
+                                "y0": 187.46002197265625,
+                                "x1": 654.333984375,
+                                "y1": 202.46002197265625,
+                                "cx": 613.177001953125,
+                                "cy": 194.96002197265625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "9:00/9:55 DIGITAL ELECTRONIC SYSTEMS - 3E",
+                            "bbox": {
+                                "x0": 56.52000045776367,
+                                "y0": 211.82000732421875,
+                                "x1": 511.864013671875,
+                                "y1": 226.82000732421875,
+                                "cx": 284.19200706481934,
+                                "cy": 219.32000732421875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "(EA6)",
+                            "bbox": {
+                                "x0": 433.8699951171875,
+                                "y0": 223.82000732421875,
+                                "x1": 455.9440002441406,
+                                "y1": 232.82000732421875,
+                                "cx": 444.90699768066406,
+                                "cy": 228.32000732421875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "Digital Electronic Systems - 3E1",
+                            "bbox": {
+                                "x0": 525.0700073242188,
+                                "y0": 211.82000732421875,
+                                "x1": 643.0540161132812,
+                                "y1": 220.82000732421875,
+                                "cx": 584.06201171875,
+                                "cy": 216.32000732421875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "(OL1)",
+                            "bbox": {
+                                "x0": 572.02001953125,
+                                "y0": 217.82000732421875,
+                                "x1": 654.333984375,
+                                "y1": 232.82000732421875,
+                                "cx": 613.177001953125,
+                                "cy": 225.32000732421875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "10:00/10:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 242.17999267578125,
+                                "x1": 654.333984375,
+                                "y1": 251.17999267578125,
+                                "cx": 353.1469917297363,
+                                "cy": 246.67999267578125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "11:00/11:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 260.5400085449219,
+                                "x1": 654.333984375,
+                                "y1": 269.5400085449219,
+                                "cx": 353.1469917297363,
+                                "cy": 265.0400085449219
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "12:00/12:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 278.9200134277344,
+                                "x1": 654.333984375,
+                                "y1": 287.9200134277344,
+                                "cx": 353.1469917297363,
+                                "cy": 283.4200134277344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "13:00/13:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 297.2799987792969,
+                                "x1": 654.333984375,
+                                "y1": 306.2799987792969,
+                                "cx": 353.1469917297363,
+                                "cy": 301.7799987792969
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 315.52001953125,
+                                "x1": 654.333984375,
+                                "y1": 324.52001953125,
+                                "cx": 353.1469917297363,
+                                "cy": 320.02001953125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "15:00/15:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 333.8800048828125,
+                                "x1": 654.333984375,
+                                "y1": 342.8800048828125,
+                                "cx": 353.1469917297363,
+                                "cy": 338.3800048828125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "16:00/16:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 352.239990234375,
+                                "x1": 654.333984375,
+                                "y1": 361.239990234375,
+                                "cx": 353.1469917297363,
+                                "cy": 356.739990234375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "17:00/17:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 370.6000061035156,
+                                "x1": 654.333984375,
+                                "y1": 379.6000061035156,
+                                "cx": 353.1469917297363,
+                                "cy": 375.1000061035156
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "18:00/18:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 388.989990234375,
+                                "x1": 654.333984375,
+                                "y1": 397.989990234375,
+                                "cx": 353.1469917297363,
+                                "cy": 393.489990234375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "19:00/19:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 407.2300109863281,
+                                "x1": 654.333984375,
+                                "y1": 416.2300109863281,
+                                "cx": 353.1469917297363,
+                                "cy": 411.7300109863281
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "20:00/20:55",
+                            "bbox": {
+                                "x0": 51.959999084472656,
+                                "y0": 425.59002685546875,
+                                "x1": 654.333984375,
+                                "y1": 434.59002685546875,
+                                "cx": 353.1469917297363,
+                                "cy": 430.09002685546875
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 3,
+                "metadata": {
+                    "titulacion": "INGENIERÍA TELEMÁTICA",
+                    "codigo_titulacion": "G380",
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "7º",
+                    "curso": "4º",
+                    "grupo": "4ºD"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "- 4D (EA7) PROGRAMACIÓN VISUAL",
+                            "subgrupo": "4D",
+                            "aula": "EL5",
+                            "texto_original": "- 4D (EA7) PROGRAMACIÓN VISUAL - 4D (EL5) GESTION Y ADMINISTRACION DE"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "REDES",
+                            "subgrupo": "4D",
+                            "aula": "EA5",
+                            "texto_original": "REDES - 4D (EA5) INGENIERÍA DE TRÁFICO - 4D (EA5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "- 4D (EA7) PROGRAMACIÓN VISUAL",
+                            "subgrupo": "4D",
+                            "aula": "EL5",
+                            "texto_original": "- 4D (EA7) PROGRAMACIÓN VISUAL - 4D (EL5) GESTION Y ADMINISTRACION DE"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "REDES",
+                            "subgrupo": "4D",
+                            "aula": "EA5",
+                            "texto_original": "REDES - 4D (EA5) INGENIERÍA DE TRÁFICO - 4D (EA5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "OPERATIVOS",
+                            "subgrupo": "4D",
+                            "aula": "EL5",
+                            "texto_original": "OPERATIVOS - 4D (EL5) Programación Visual - 4D1 (EL5) Gestion Y Administracion De Redes -"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4D1 (EL11) INGENIERÍA DE TRÁFICO",
+                            "subgrupo": "4D1",
+                            "aula": "EL11",
+                            "texto_original": "4D1 (EL11) Ingeniería De Tráfico - 4D1 (EL11) Ingeniería De Redes Y Servicios -"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4D1",
+                            "subgrupo": null,
+                            "aula": "EL12",
+                            "texto_original": "4D1 (EL12)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "OPERATIVOS",
+                            "subgrupo": "4D",
+                            "aula": "EL5",
+                            "texto_original": "OPERATIVOS - 4D (EL5) Programación Visual - 4D1 (EL5) Gestion Y Administracion De Redes -"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4D1 (EL11) INGENIERÍA DE TRÁFICO",
+                            "subgrupo": "4D1",
+                            "aula": "EL11",
+                            "texto_original": "4D1 (EL11) Ingeniería De Tráfico - 4D1 (EL11) Ingeniería De Redes Y Servicios -"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4D1",
+                            "subgrupo": null,
+                            "aula": "EL12",
+                            "texto_original": "4D1 (EL12)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "19:00",
+                            "hora_fin": "19:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "OPERATIVOS",
+                            "subgrupo": "4D1",
+                            "aula": "EL5",
+                            "texto_original": "Operativos - 4D1 (EL5) Programación Visual - 4D2 (EL6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-GIT-tercero-cuarto.pdf",
+                            "pagina": 3
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "7º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "20:00",
+                            "hora_fin": "20:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "OPERATIVOS",
+                            "subgrupo": "4D1",
+                            "aula": "EL5",
+                            "texto_original": "Operativos - 4D1 (EL5) Programación Visual - 4D2 (EL6)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 – PC: Pendiente Confirmación Para la organización de las dos primeras semanas de clase, ver fichero publicado en la web de horarios de la Escuela. GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT) CUATRIMESTRE 7º (Curso 4º, Semestre 1º) Curso 2025/2026 GRUPO 4ºD HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 8:00/8:55 9:00/9:55 10:00/10:55 11:00/11:55 12:00/12:55 13:00/13:55 14:00/14:55 15:00/15:55 INGENIERÍA DE REDES Y SERVICIOS - 4D (EA7) PROGRAMACIÓN VISUAL - 4D (EL5) GESTION Y ADMINISTRACION DE REDES - 4D (EA5) INGENIERÍA DE TRÁFICO - 4D (EA5) 16:00/16:55 INGENIERÍA DE REDES Y SERVICIOS - 4D (EA7) PROGRAMACIÓN VISUAL - 4D (EL5) GESTION Y ADMINISTRACION DE REDES - 4D (EA5) INGENIERÍA DE TRÁFICO - 4D (EA5) 17:00/17:55 AMPLIACION DE SISTEMAS OPERATIVOS - 4D (EL5) Programación Visual - 4D1 (EL5) Gestion Y Administracion De Redes - 4D1 (EL11) Ingeniería De Tráfico - 4D1 (EL11) Ingeniería De Redes Y Servicios - 4D1 (EL12) 18:00/18:55 AMPLIACION DE SISTEMAS OPERATIVOS - 4D (EL5) Programación Visual - 4D1 (EL5) Gestion Y Administracion De Redes - 4D1 (EL11) Ingeniería De Tráfico - 4D1 (EL11) Ingeniería De Redes Y Servicios - 4D1 (EL12) 19:00/19:55 Ampliacion De Sistemas Operativos - 4D1 (EL5) Programación Visual - 4D2 (EL6) 20:00/20:55 Ampliacion De Sistemas Operativos - 4D1 (EL5) Programación Visual - 4D2 (EL6)",
+                    "blocks": [
+                        {
+                            "page": 3,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 – PC: Pendiente Confirmación Para la organización de las dos primeras semanas de clase, ver fichero publicado en la web de horarios de la Escuela.",
+                            "bbox": {
+                                "x0": 50.040000915527344,
+                                "y0": 537.0900268554688,
+                                "x1": 477.66400146484375,
+                                "y1": 558.2100219726562,
+                                "cx": 263.85200119018555,
+                                "cy": 547.6500244140625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT) CUATRIMESTRE 7º (Curso 4º, Semestre 1º) Curso 2025/2026 GRUPO 4ºD",
+                            "bbox": {
+                                "x0": 50.040000915527344,
+                                "y0": 83.6300048828125,
+                                "x1": 794.5139770507812,
+                                "y1": 150.35000610351562,
+                                "cx": 422.2769889831543,
+                                "cy": 116.99000549316406
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 60.720001220703125,
+                                "y0": 158.45001220703125,
+                                "x1": 744.593994140625,
+                                "y1": 171.41001892089844,
+                                "cx": 402.65699768066406,
+                                "cy": 164.93001556396484
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "8:00/8:55",
+                            "bbox": {
+                                "x0": 58.68000030517578,
+                                "y0": 181.33999633789062,
+                                "x1": 655.2940063476562,
+                                "y1": 190.33999633789062,
+                                "cx": 356.987003326416,
+                                "cy": 185.83999633789062
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "9:00/9:55",
+                            "bbox": {
+                                "x0": 58.68000030517578,
+                                "y0": 199.70001220703125,
+                                "x1": 655.2940063476562,
+                                "y1": 208.70001220703125,
+                                "cx": 356.987003326416,
+                                "cy": 204.20001220703125
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "10:00/10:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 218.05999755859375,
+                                "x1": 655.2940063476562,
+                                "y1": 227.05999755859375,
+                                "cx": 354.7070026397705,
+                                "cy": 222.55999755859375
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "11:00/11:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 236.42001342773438,
+                                "x1": 655.2940063476562,
+                                "y1": 245.42001342773438,
+                                "cx": 354.7070026397705,
+                                "cy": 240.92001342773438
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "12:00/12:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 254.66000366210938,
+                                "x1": 655.2940063476562,
+                                "y1": 263.6600036621094,
+                                "cx": 354.7070026397705,
+                                "cy": 259.1600036621094
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "13:00/13:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 273.0400085449219,
+                                "x1": 655.2940063476562,
+                                "y1": 282.0400085449219,
+                                "cx": 354.7070026397705,
+                                "cy": 277.5400085449219
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 291.3999938964844,
+                                "x1": 655.2940063476562,
+                                "y1": 300.3999938964844,
+                                "cx": 354.7070026397705,
+                                "cy": 295.8999938964844
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "15:00/15:55 INGENIERÍA DE REDES Y SERVICIOS",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 309.760009765625,
+                                "x1": 235.09695434570312,
+                                "y1": 324.760009765625,
+                                "cx": 144.60847663879395,
+                                "cy": 317.260009765625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "- 4D (EA7) PROGRAMACIÓN VISUAL - 4D (EL5) GESTION Y ADMINISTRACION DE",
+                            "bbox": {
+                                "x0": 150.25999450683594,
+                                "y0": 309.760009765625,
+                                "x1": 505.90008544921875,
+                                "y1": 330.760009765625,
+                                "cx": 328.08003997802734,
+                                "cy": 320.260009765625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "REDES - 4D (EA5) INGENIERÍA DE TRÁFICO - 4D (EA5)",
+                            "bbox": {
+                                "x0": 412.1499938964844,
+                                "y0": 315.760009765625,
+                                "x1": 655.2940063476562,
+                                "y1": 330.760009765625,
+                                "cx": 533.7220001220703,
+                                "cy": 323.260009765625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "16:00/16:55 INGENIERÍA DE REDES Y SERVICIOS",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 340.1199951171875,
+                                "x1": 235.09695434570312,
+                                "y1": 355.239990234375,
+                                "cx": 144.60847663879395,
+                                "cy": 347.67999267578125
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "- 4D (EA7) PROGRAMACIÓN VISUAL - 4D (EL5) GESTION Y ADMINISTRACION DE",
+                            "bbox": {
+                                "x0": 150.25999450683594,
+                                "y0": 340.1199951171875,
+                                "x1": 505.90008544921875,
+                                "y1": 361.239990234375,
+                                "cx": 328.08003997802734,
+                                "cy": 350.67999267578125
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "REDES - 4D (EA5) INGENIERÍA DE TRÁFICO - 4D (EA5)",
+                            "bbox": {
+                                "x0": 412.1499938964844,
+                                "y0": 346.239990234375,
+                                "x1": 655.2940063476562,
+                                "y1": 361.239990234375,
+                                "cx": 533.7220001220703,
+                                "cy": 353.739990234375
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "17:00/17:55 AMPLIACION DE SISTEMAS",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 370.6000061035156,
+                                "x1": 220.75999450683594,
+                                "y1": 385.6300048828125,
+                                "cx": 137.43999671936035,
+                                "cy": 378.11500549316406
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "OPERATIVOS - 4D (EL5) Programación Visual - 4D1 (EL5) Gestion Y Administracion De Redes -",
+                            "bbox": {
+                                "x0": 126.62000274658203,
+                                "y0": 370.6000061035156,
+                                "x1": 512.8240356445312,
+                                "y1": 391.6300048828125,
+                                "cx": 319.72201919555664,
+                                "cy": 381.11500549316406
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "4D1 (EL11) Ingeniería De Tráfico - 4D1 (EL11) Ingeniería De Redes Y Servicios -",
+                            "bbox": {
+                                "x0": 423.42999267578125,
+                                "y0": 370.6000061035156,
+                                "x1": 780.593994140625,
+                                "y1": 391.6300048828125,
+                                "cx": 602.0119934082031,
+                                "cy": 381.11500549316406
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "4D1 (EL12)",
+                            "bbox": {
+                                "x0": 698.760009765625,
+                                "y0": 382.6300048828125,
+                                "x1": 742.4340209960938,
+                                "y1": 391.6300048828125,
+                                "cx": 720.5970153808594,
+                                "cy": 387.1300048828125
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "18:00/18:55 AMPLIACION DE SISTEMAS",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 400.989990234375,
+                                "x1": 220.75999450683594,
+                                "y1": 416.1099853515625,
+                                "cx": 137.43999671936035,
+                                "cy": 408.54998779296875
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "OPERATIVOS - 4D (EL5) Programación Visual - 4D1 (EL5) Gestion Y Administracion De Redes -",
+                            "bbox": {
+                                "x0": 126.62000274658203,
+                                "y0": 400.989990234375,
+                                "x1": 512.8240356445312,
+                                "y1": 422.1099853515625,
+                                "cx": 319.72201919555664,
+                                "cy": 411.54998779296875
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "4D1 (EL11) Ingeniería De Tráfico - 4D1 (EL11) Ingeniería De Redes Y Servicios -",
+                            "bbox": {
+                                "x0": 423.42999267578125,
+                                "y0": 400.989990234375,
+                                "x1": 780.593994140625,
+                                "y1": 422.1099853515625,
+                                "cx": 602.0119934082031,
+                                "cy": 411.54998779296875
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "4D1 (EL12)",
+                            "bbox": {
+                                "x0": 698.760009765625,
+                                "y0": 413.1099853515625,
+                                "x1": 742.4340209960938,
+                                "y1": 422.1099853515625,
+                                "cx": 720.5970153808594,
+                                "cy": 417.6099853515625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "19:00/19:55 Ampliacion De Sistemas",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 431.4700012207031,
+                                "x1": 215.40505981445312,
+                                "y1": 446.4700012207031,
+                                "cx": 134.76252937316895,
+                                "cy": 438.9700012207031
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "Operativos - 4D1 (EL5) Programación Visual - 4D2 (EL6)",
+                            "bbox": {
+                                "x0": 127.81999969482422,
+                                "y0": 437.4700012207031,
+                                "x1": 655.2940063476562,
+                                "y1": 452.4700012207031,
+                                "cx": 391.55700302124023,
+                                "cy": 444.9700012207031
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "20:00/20:55 Ampliacion De Sistemas",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 461.83001708984375,
+                                "x1": 215.40505981445312,
+                                "y1": 476.95001220703125,
+                                "cx": 134.76252937316895,
+                                "cy": 469.3900146484375
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 30,
+                            "type": 0,
+                            "text": "Operativos - 4D1 (EL5) Programación Visual - 4D2 (EL6)",
+                            "bbox": {
+                                "x0": 127.81999969482422,
+                                "y0": 467.95001220703125,
+                                "x1": 655.2940063476562,
+                                "y1": 482.95001220703125,
+                                "cx": 391.55700302124023,
+                                "cy": 475.45001220703125
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

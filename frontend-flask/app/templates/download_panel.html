@@ -247,8 +247,6 @@
         // =========================================
 
         let dbProgress = 0;
-        let dbInterval = null;
-        let dbPaused = false;
 
         // =========================================
         // DESCARGA
@@ -362,103 +360,126 @@
         }
 
         // =========================================
-        // VOLCADO SIMULADO
+        // EXTRACCIÓN REAL
         // =========================================
 
-        function simulateDatabaseDump() {
+        let extractInterval = null;
+        let lastLogCount = 0;
 
-            if (dbInterval) {
+        async function startExtraction() {
 
-                addLog(
-                    "Ya hay un proceso activo."
-                );
-
+            if (extractInterval) {
+                addLog("Ya hay una extracción en curso.");
                 return;
             }
 
-            dbProgress = 0;
-            dbPaused = false;
+            dumpDbButton.disabled = true;
+            dbStatus.textContent = "Iniciando...";
+            updateProgress(0);
+            lastLogCount = 0;
 
-            dbStatus.textContent =
-                "Ejecutando";
+            try {
+                const response = await fetch("/dump-db", { method: "POST" });
+                const data = await response.json();
 
-            updateProgress(dbProgress);
-
-            addLog(
-                "Iniciando volcado simulado a base de datos..."
-            );
-
-            dbInterval = setInterval(() => {
-
-                if (dbPaused) {
+                if (!data.success) {
+                    addLog("Error: " + (data.message || "No se pudo iniciar"));
+                    dbStatus.textContent = "Error";
+                    dumpDbButton.disabled = false;
                     return;
                 }
 
-                dbProgress += 10;
+                addLog(data.message || "Extracción iniciada.");
+                dbStatus.textContent = "Ejecutando";
 
-                updateProgress(dbProgress);
+                extractInterval = setInterval(pollExtractStatus, 1500);
 
-                addLog(
-                    `Volcando datos a base de datos... ${dbProgress}%`
-                );
+            } catch (e) {
+                addLog("Error al conectar con el backend.");
+                dbStatus.textContent = "Error";
+                dumpDbButton.disabled = false;
+            }
+        }
 
-                if (dbProgress >= 100) {
+        async function pollExtractStatus() {
 
-                    clearInterval(dbInterval);
+            try {
+                const response = await fetch("/extract-status");
+                const data = await response.json();
 
-                    dbInterval = null;
+                updateProgress(data.progress_percent || 0);
 
-                    const now = new Date();
-
-                    const formattedDate =
-                        now.toLocaleDateString("es-ES") +
-                        " " +
-                        now.toLocaleTimeString("es-ES");
-
-                    lastDumpDate.textContent =
-                        formattedDate;
-
-                    dbStatus.textContent =
-                        "Finalizado";
-
-                    addLog(
-                        "Volcado a base de datos finalizado correctamente."
-                    );
+                // Mostrar sólo logs nuevos
+                if (data.logs && data.logs.length > lastLogCount) {
+                    data.logs.slice(lastLogCount).forEach(line => {
+                        const emptyState = logBox.querySelector(".empty-state");
+                        if (emptyState) logBox.innerHTML = "";
+                        const div = document.createElement("div");
+                        div.textContent = line;
+                        logBox.appendChild(div);
+                        logBox.scrollTop = logBox.scrollHeight;
+                    });
+                    lastLogCount = data.logs.length;
                 }
 
-            }, 800);
+                if (!data.running && extractInterval) {
+
+                    clearInterval(extractInterval);
+                    extractInterval = null;
+                    dumpDbButton.disabled = false;
+
+                    const now = new Date();
+                    lastDumpDate.textContent =
+                        now.toLocaleDateString("es-ES") + " " +
+                        now.toLocaleTimeString("es-ES");
+
+                    dbStatus.textContent =
+                        data.errors && data.errors.length > 0
+                            ? "Finalizado con errores"
+                            : "Finalizado";
+                }
+
+            } catch (e) {
+                console.error("Error consultando estado extracción:", e);
+            }
         }
 
         // =========================================
         // PAUSAR
         // =========================================
 
-        function pauseProcess() {
-
-            dbPaused = true;
-
-            dbStatus.textContent =
-                "Pausado";
-
-            addLog(
-                "Proceso pausado."
-            );
+        async function pauseProcess() {
+            try {
+                const response = await fetch("/pause-download", { method: "POST" });
+                const data = await response.json();
+                if (data.success) {
+                    statusMessage.textContent = "Proceso pausado.";
+                    addLog("Proceso pausado por el usuario.");
+                } else {
+                    addLog("No se pudo pausar: " + (data.message || ""));
+                }
+            } catch (e) {
+                addLog("Error al pausar el proceso.");
+            }
         }
 
         // =========================================
         // REANUDAR
         // =========================================
 
-        function resumeProcess() {
-
-            dbPaused = false;
-
-            dbStatus.textContent =
-                "Ejecutando";
-
-            addLog(
-                "Proceso reanudado."
-            );
+        async function resumeProcess() {
+            try {
+                const response = await fetch("/resume-download", { method: "POST" });
+                const data = await response.json();
+                if (data.success) {
+                    statusMessage.textContent = "Proceso en ejecución...";
+                    addLog("Proceso reanudado por el usuario.");
+                } else {
+                    addLog("No se pudo reanudar: " + (data.message || ""));
+                }
+            } catch (e) {
+                addLog("Error al reanudar el proceso.");
+            }
         }
 
         // =========================================
@@ -523,20 +544,19 @@
 
                 if (data.running) {
 
-                    statusMessage.textContent =
-                        "Proceso en ejecución...";
+                    statusMessage.textContent = data.paused
+                        ? "Proceso pausado."
+                        : "Proceso en ejecución...";
 
                     startButton.disabled = true;
 
                 } else {
 
                     if (
-                        statusMessage.textContent ===
-                        "Proceso en ejecución..."
+                        statusMessage.textContent === "Proceso en ejecución..." ||
+                        statusMessage.textContent === "Proceso pausado."
                     ) {
-
-                        statusMessage.textContent =
-                            "Proceso finalizado.";
+                        statusMessage.textContent = "Proceso finalizado.";
                     }
 
                     startButton.disabled = false;
@@ -563,7 +583,7 @@
 
         dumpDbButton.addEventListener(
             "click",
-            simulateDatabaseDump
+            startExtraction
         );
 
         pauseButton.addEventListener(

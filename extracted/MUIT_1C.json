@@ -1,0 +1,311 @@
+{
+    "schema_version": "1.0",
+    "processed_at": "2026-06-09 13:40:30",
+    "input_file": {
+        "path": "/data/downloaded_pdfs/MUIT_1C.pdf",
+        "name": "MUIT_1C.pdf",
+        "total_pages": 1
+    },
+    "standard_schedule": [],
+    "debug": {
+        "pages": [
+            {
+                "page": 1,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": null,
+                    "cuatrimestre": null,
+                    "curso": null,
+                    "grupo": null
+                },
+                "records": [],
+                "raw": {
+                    "text": "PRIMER SEMESTRE (Obligatorias) Curso 2025-26 Lunes Martes Miercoles Jueves Viernes 15:00-16:00 16:00-17:00 17:00-18:00 18:00-19:00 TERCER SEMESTRE (Optativas) Curso 2025-26 Lunes Martes Miercoles Jueves Viernes 15:00-16:00 16:00-17:00 17:00-18:00 18:00-19:00 19:00-20:00 20:00-21:00 (*) Estas asignaturas empiezan su impartición el XX/XX/2025 MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN DISEÑO DE SISTEMAS ELECTRÓNICOS (GP) SA1 COMUNICACIONES DIGITALES DE ALTA CAPACIDAD (GP) SA1 SISTEMAS DE INSTRUMENTACIÓN AVANZADA (GG) SA1 COMUNICACIONES DIGITALES DE ALTA CAPACIDAD (GG) SA1 SISTEMAS DE INSTRUMENTACIÓN AVANZADA (GP) SA1 MÁQUINAS DE APRENDIZAJE AUTOMÁTICO (SA6) GESTIÓN DE PROYECTOS (GG) NA6 DISEÑO DE REDES DE COMUNICACIÓN (GG) SA1 DISEÑO DE REDES DE COMUNICACIÓN (GP) SA1 DISEÑO DE SISTEMAS ELECTRÓNICOS (GG) SA1 GESTIÓN DE PROYECTOS (GG) NA6 TÉCNICAS DE BÚSQUEDA Y OPTIMIZACIÓN (SA6) FUNDAMENTOS DE LA SEGURIDAD EN EL SW Y EN LOS COMPONENTES (EA4) (*) TECNOLOGÍA FOTÓNICA (SA6) TECNOLOGÍA MICROELETRÓNICA (SA6) COMUNICACIONES SEGURAS (SA5A) (*) TECNOLOGÍA MICROELETRÓNICA (SA6) Aprobado en la reunión de la Junta de Escuela del xx/xx/2025",
+                    "blocks": [
+                        {
+                            "page": 1,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "PRIMER SEMESTRE (Obligatorias) Curso 2025-26",
+                            "bbox": {
+                                "x0": 30.106124877929688,
+                                "y0": 128.0240020751953,
+                                "x1": 1264.2674560546875,
+                                "y1": 144.6800079345703,
+                                "cx": 647.1867904663086,
+                                "cy": 136.3520050048828
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "Lunes Martes Miercoles Jueves Viernes 15:00-16:00 16:00-17:00 17:00-18:00 18:00-19:00",
+                            "bbox": {
+                                "x0": 123.70612335205078,
+                                "y0": 174.7316436767578,
+                                "x1": 1089.7950439453125,
+                                "y1": 253.78773498535156,
+                                "cx": 606.7505836486816,
+                                "cy": 214.2596893310547
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "TERCER SEMESTRE (Optativas) Curso 2025-26",
+                            "bbox": {
+                                "x0": 30.106124877929688,
+                                "y0": 299.3470153808594,
+                                "x1": 1264.2674560546875,
+                                "y1": 316.00299072265625,
+                                "cx": 647.1867904663086,
+                                "cy": 307.6750030517578
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "Lunes Martes Miercoles Jueves Viernes 15:00-16:00 16:00-17:00 17:00-18:00 18:00-19:00 19:00-20:00 20:00-21:00",
+                            "bbox": {
+                                "x0": 123.70612335205078,
+                                "y0": 346.0548400878906,
+                                "x1": 1089.7950439453125,
+                                "y1": 453.5415954589844,
+                                "cx": 606.7505836486816,
+                                "cy": 399.7982177734375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "(*) Estas asignaturas empiezan su impartición el XX/XX/2025",
+                            "bbox": {
+                                "x0": 186.65992736816406,
+                                "y0": 483.0394287109375,
+                                "x1": 485.9351806640625,
+                                "y1": 499.6954040527344,
+                                "cx": 336.2975540161133,
+                                "cy": 491.36741638183594
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+                            "bbox": {
+                                "x0": 401.7369384765625,
+                                "y0": 88.64790344238281,
+                                "x1": 893.4800415039062,
+                                "y1": 113.760009765625,
+                                "cx": 647.6084899902344,
+                                "cy": 101.2039566040039
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "DISEÑO DE SISTEMAS ELECTRÓNICOS (GP) SA1",
+                            "bbox": {
+                                "x0": 200.50611877441406,
+                                "y0": 190.39540100097656,
+                                "x1": 385.2522888183594,
+                                "y1": 221.95542907714844,
+                                "cx": 292.8792037963867,
+                                "cy": 206.1754150390625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "COMUNICACIONES DIGITALES DE ALTA CAPACIDAD (GP) SA1",
+                            "bbox": {
+                                "x0": 412.8138122558594,
+                                "y0": 190.39540100097656,
+                                "x1": 605.4773559570312,
+                                "y1": 221.95542907714844,
+                                "cx": 509.1455841064453,
+                                "cy": 206.1754150390625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "SISTEMAS DE INSTRUMENTACIÓN AVANZADA (GG) SA1",
+                            "bbox": {
+                                "x0": 641.1830444335938,
+                                "y0": 190.39540100097656,
+                                "x1": 809.8526000976562,
+                                "y1": 221.95542907714844,
+                                "cx": 725.517822265625,
+                                "cy": 206.1754150390625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "COMUNICACIONES DIGITALES DE ALTA CAPACIDAD (GG) SA1",
+                            "bbox": {
+                                "x0": 845.5523071289062,
+                                "y0": 190.39540100097656,
+                                "x1": 1038.2159423828125,
+                                "y1": 221.95542907714844,
+                                "cx": 941.8841247558594,
+                                "cy": 206.1754150390625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "SISTEMAS DE INSTRUMENTACIÓN AVANZADA (GP) SA1",
+                            "bbox": {
+                                "x0": 1073.9215087890625,
+                                "y0": 190.39540100097656,
+                                "x1": 1242.5908203125,
+                                "y1": 221.95542907714844,
+                                "cx": 1158.2561645507812,
+                                "cy": 206.1754150390625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "MÁQUINAS DE APRENDIZAJE AUTOMÁTICO (SA6)",
+                            "bbox": {
+                                "x0": 868.260009765625,
+                                "y0": 413.0702209472656,
+                                "x1": 1015.7029418945312,
+                                "y1": 445.2301940917969,
+                                "cx": 941.9814758300781,
+                                "cy": 429.15020751953125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "GESTIÓN DE PROYECTOS (GG) NA6",
+                            "bbox": {
+                                "x0": 218.413818359375,
+                                "y0": 221.78004455566406,
+                                "x1": 367.1526184082031,
+                                "y1": 253.34007263183594,
+                                "cx": 292.78321838378906,
+                                "cy": 237.56005859375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "DISEÑO DE REDES DE COMUNICACIÓN (GG) SA1",
+                            "bbox": {
+                                "x0": 413.7369384765625,
+                                "y0": 221.78004455566406,
+                                "x1": 604.5633544921875,
+                                "y1": 253.34007263183594,
+                                "cx": 509.150146484375,
+                                "cy": 237.56005859375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "DISEÑO DE REDES DE COMUNICACIÓN (GP) SA1",
+                            "bbox": {
+                                "x0": 630.1061401367188,
+                                "y0": 221.78004455566406,
+                                "x1": 820.9327392578125,
+                                "y1": 253.34007263183594,
+                                "cx": 725.5194396972656,
+                                "cy": 237.56005859375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "DISEÑO DE SISTEMAS ELECTRÓNICOS (GG) SA1",
+                            "bbox": {
+                                "x0": 849.6138305664062,
+                                "y0": 221.78004455566406,
+                                "x1": 1034.353515625,
+                                "y1": 253.34007263183594,
+                                "cx": 941.9836730957031,
+                                "cy": 237.56005859375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "GESTIÓN DE PROYECTOS (GG) NA6",
+                            "bbox": {
+                                "x0": 1083.8907470703125,
+                                "y0": 221.78004455566406,
+                                "x1": 1232.6295166015625,
+                                "y1": 253.34007263183594,
+                                "cx": 1158.2601318359375,
+                                "cy": 237.56005859375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "TÉCNICAS DE BÚSQUEDA Y OPTIMIZACIÓN (SA6) FUNDAMENTOS DE LA SEGURIDAD EN EL SW Y EN LOS COMPONENTES (EA4) (*)",
+                            "bbox": {
+                                "x0": 189.62298583984375,
+                                "y0": 367.6548156738281,
+                                "x1": 1009.99462890625,
+                                "y1": 414.9468078613281,
+                                "cx": 599.8088073730469,
+                                "cy": 391.3008117675781
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "TECNOLOGÍA FOTÓNICA (SA6) TECNOLOGÍA MICROELETRÓNICA (SA6) COMUNICACIONES SEGURAS (SA5A) (*) TECNOLOGÍA MICROELETRÓNICA (SA6)",
+                            "bbox": {
+                                "x0": 412.0789794921875,
+                                "y0": 382.7868347167969,
+                                "x1": 1231.518310546875,
+                                "y1": 429.71881103515625,
+                                "cx": 821.7986450195312,
+                                "cy": 406.25282287597656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "Aprobado en la reunión de la Junta de Escuela del xx/xx/2025",
+                            "bbox": {
+                                "x0": 963.8904418945312,
+                                "y0": 898.0260009765625,
+                                "x1": 1262.75146484375,
+                                "y1": 914.08203125,
+                                "cx": 1113.3209533691406,
+                                "cy": 906.0540161132812
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

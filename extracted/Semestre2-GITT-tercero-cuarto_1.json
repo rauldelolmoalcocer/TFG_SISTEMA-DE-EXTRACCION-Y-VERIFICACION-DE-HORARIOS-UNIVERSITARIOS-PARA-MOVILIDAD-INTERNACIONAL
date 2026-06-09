@@ -1,0 +1,3107 @@
+{
+    "schema_version": "1.0",
+    "processed_at": "2026-06-09 13:29:12",
+    "input_file": {
+        "path": "/data/downloaded_pdfs/Semestre2-GITT-tercero-cuarto_1.pdf",
+        "name": "Semestre2-GITT-tercero-cuarto_1.pdf",
+        "total_pages": 2
+    },
+    "standard_schedule": [
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3A1",
+                "subgrupo": null,
+                "aula": "SA3/PL15",
+                "texto_original": "3A1 (SA3/PL15)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "OPTIMIZACIÓN",
+                "subgrupo": "3A1",
+                "aula": "EL2",
+                "texto_original": "Optimización - 3A1 (EL2) Sistemas Operativos - 3A2 (EL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3A1",
+                "subgrupo": null,
+                "aula": "SA3/PL15",
+                "texto_original": "3A1 (SA3/PL15)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "OPTIMIZACIÓN",
+                "subgrupo": "3A1",
+                "aula": "EL2",
+                "texto_original": "Optimización - 3A1 (EL2) Sistemas Operativos - 3A2 (EL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "- 3A (SA3) SISTEMAS OPERATIVOS",
+                "subgrupo": "3A",
+                "aula": "SA3",
+                "texto_original": "- 3A (SA3) SISTEMAS OPERATIVOS - 3A (SA3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SISTEMAS OPERATIVOS",
+                "subgrupo": "3A1",
+                "aula": "EL5",
+                "texto_original": "Sistemas Operativos - 3A1 (EL5) Métodos Numéricos Y Técnicas De"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "OPTIMIZACIÓN",
+                "subgrupo": "3A2",
+                "aula": "EL2",
+                "texto_original": "Optimización - 3A2 (EL2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "- 3A (SA3) SISTEMAS OPERATIVOS",
+                "subgrupo": "3A",
+                "aula": "SA3",
+                "texto_original": "- 3A (SA3) SISTEMAS OPERATIVOS - 3A (SA3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SISTEMAS OPERATIVOS",
+                "subgrupo": "3A1",
+                "aula": "EL5",
+                "texto_original": "Sistemas Operativos - 3A1 (EL5) Métodos Numéricos Y Técnicas De"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "OPTIMIZACIÓN",
+                "subgrupo": "3A2",
+                "aula": "EL2",
+                "texto_original": "Optimización - 3A2 (EL2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "(PL15) SISTEMAS OPERATIVOS – 3A3",
+                "subgrupo": null,
+                "aula": "EL5",
+                "texto_original": "(PL15) Sistemas Operativos – 3A3 (EL5) Tecnologías De Alta Frecuencia –"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3A3",
+                "subgrupo": null,
+                "aula": "PL15",
+                "texto_original": "3A3 (PL15)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "(PL15) SISTEMAS OPERATIVOS – 3A3",
+                "subgrupo": null,
+                "aula": "EL5",
+                "texto_original": "(PL15) Sistemas Operativos – 3A3 (EL5) Tecnologías De Alta Frecuencia –"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºA"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3A3",
+                "subgrupo": null,
+                "aula": "PL15",
+                "texto_original": "3A3 (PL15)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONTROL ELECTRÓNICO",
+                "subgrupo": "4A1",
+                "aula": "OL1",
+                "texto_original": "Control Electrónico - 4A1 (OL1) INGENIERÍA DE TRÁFICO - 4A (EA3) SISTEMAS DE TELECOMUNICACIÓN - 4A (EA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "VISIÓN ARTIFICIAL – 4A1 → 4C1",
+                "subgrupo": null,
+                "aula": "OL5",
+                "texto_original": "Visión Artificial – 4A1 → 4C1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                "subgrupo": "4A",
+                "aula": "SA1",
+                "texto_original": "TECNOLOGÍA ELECTRÓNICA - 4A (SA1) COMUNICACIONES MÓVILES - 4A (SA8) LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONTROL ELECTRÓNICO",
+                "subgrupo": "4A1",
+                "aula": "OL1",
+                "texto_original": "Control Electrónico - 4A1 (OL1) INGENIERÍA DE TRÁFICO - 4A (EA3) SISTEMAS DE TELECOMUNICACIÓN - 4A (EA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "VISIÓN ARTIFICIAL - 4A1→ 4C1",
+                "subgrupo": null,
+                "aula": "OL5",
+                "texto_original": "Visión Artificial - 4A1→ 4C1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                "subgrupo": "4A",
+                "aula": "SA1",
+                "texto_original": "TECNOLOGÍA ELECTRÓNICA - 4A (SA1) COMUNICACIONES MÓVILES - 4A (SA8) LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONTROL ELECTRÓNICO",
+                "subgrupo": "4A",
+                "aula": "OL1",
+                "texto_original": "CONTROL ELECTRÓNICO - 4A (OL1)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "INGENIERÍA DE TRÁFICO",
+                "subgrupo": "4A1",
+                "aula": "EL11",
+                "texto_original": "Ingeniería De Tráfico - 4A1 (EL11) Sistemas De Telecomunicación - 4A1 (EA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "VISIÓN ARTIFICIAL - 4A1 → 4C1",
+                "subgrupo": null,
+                "aula": "OL5",
+                "texto_original": "Visión Artificial - 4A1 → 4C1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "LAB. DE REDES, SISTEMAS Y SERVICIOS",
+                "subgrupo": "4A1",
+                "aula": "EL11",
+                "texto_original": "Lab. De Redes, Sistemas Y Servicios - 4A1 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "COMUNICACIONES MÓVILES",
+                "subgrupo": "4A1",
+                "aula": "SL9",
+                "texto_original": "Comunicaciones Móviles - 4A1 (SL9)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                "subgrupo": "4A1",
+                "aula": "OL10",
+                "texto_original": "Tecnología Electrónica - 4A1 (OL10) Sistemas Inteligentes Y Sostenibles De Nueva"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "GENERACIÓN",
+                "subgrupo": "4A1",
+                "aula": "SL10",
+                "texto_original": "Generación - 4A1 (SL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONTROL ELECTRÓNICO",
+                "subgrupo": "4A",
+                "aula": "OL1",
+                "texto_original": "CONTROL ELECTRÓNICO - 4A (OL1)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "INGENIERÍA DE TRÁFICO",
+                "subgrupo": "4A1",
+                "aula": "EL11",
+                "texto_original": "Ingeniería De Tráfico - 4A1 (EL11) Sistemas De Telecomunicación - 4A1 (EA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "VISIÓN ARTIFICIAL – 4A1 → 4C1",
+                "subgrupo": null,
+                "aula": "OL5",
+                "texto_original": "Visión Artificial – 4A1 → 4C1 (OL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "LAB. DE REDES, SISTEMAS Y SERVICIOS",
+                "subgrupo": "4A1",
+                "aula": "EL11",
+                "texto_original": "Lab. De Redes, Sistemas Y Servicios - 4A1 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "COMUNICACIONES MÓVILES",
+                "subgrupo": "4A1",
+                "aula": "SL9",
+                "texto_original": "Comunicaciones Móviles - 4A1 (SL9)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                "subgrupo": "4A1",
+                "aula": "OL10",
+                "texto_original": "Tecnología Electrónica - 4A1 (OL10) Sistemas Inteligentes Y Sostenibles De Nueva"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                "codigo_titulacion": "G350",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºA"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "19:00",
+                "hora_fin": "19:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "GENERACIÓN",
+                "subgrupo": "4A1",
+                "aula": "SL10",
+                "texto_original": "Generación - 4A1 (SL10)"
+            }
+        }
+    ],
+    "debug": {
+        "pages": [
+            {
+                "page": 1,
+                "metadata": {
+                    "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                    "codigo_titulacion": "G350",
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "6º",
+                    "curso": "3º",
+                    "grupo": "3ºA"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3A1",
+                            "subgrupo": null,
+                            "aula": "SA3/PL15",
+                            "texto_original": "3A1 (SA3/PL15)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "OPTIMIZACIÓN",
+                            "subgrupo": "3A1",
+                            "aula": "EL2",
+                            "texto_original": "Optimización - 3A1 (EL2) Sistemas Operativos - 3A2 (EL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3A1",
+                            "subgrupo": null,
+                            "aula": "SA3/PL15",
+                            "texto_original": "3A1 (SA3/PL15)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "OPTIMIZACIÓN",
+                            "subgrupo": "3A1",
+                            "aula": "EL2",
+                            "texto_original": "Optimización - 3A1 (EL2) Sistemas Operativos - 3A2 (EL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "- 3A (SA3) SISTEMAS OPERATIVOS",
+                            "subgrupo": "3A",
+                            "aula": "SA3",
+                            "texto_original": "- 3A (SA3) SISTEMAS OPERATIVOS - 3A (SA3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SISTEMAS OPERATIVOS",
+                            "subgrupo": "3A1",
+                            "aula": "EL5",
+                            "texto_original": "Sistemas Operativos - 3A1 (EL5) Métodos Numéricos Y Técnicas De"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "OPTIMIZACIÓN",
+                            "subgrupo": "3A2",
+                            "aula": "EL2",
+                            "texto_original": "Optimización - 3A2 (EL2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "- 3A (SA3) SISTEMAS OPERATIVOS",
+                            "subgrupo": "3A",
+                            "aula": "SA3",
+                            "texto_original": "- 3A (SA3) SISTEMAS OPERATIVOS - 3A (SA3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SISTEMAS OPERATIVOS",
+                            "subgrupo": "3A1",
+                            "aula": "EL5",
+                            "texto_original": "Sistemas Operativos - 3A1 (EL5) Métodos Numéricos Y Técnicas De"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "OPTIMIZACIÓN",
+                            "subgrupo": "3A2",
+                            "aula": "EL2",
+                            "texto_original": "Optimización - 3A2 (EL2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "(PL15) SISTEMAS OPERATIVOS – 3A3",
+                            "subgrupo": null,
+                            "aula": "EL5",
+                            "texto_original": "(PL15) Sistemas Operativos – 3A3 (EL5) Tecnologías De Alta Frecuencia –"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3A3",
+                            "subgrupo": null,
+                            "aula": "PL15",
+                            "texto_original": "3A3 (PL15)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "(PL15) SISTEMAS OPERATIVOS – 3A3",
+                            "subgrupo": null,
+                            "aula": "EL5",
+                            "texto_original": "(PL15) Sistemas Operativos – 3A3 (EL5) Tecnologías De Alta Frecuencia –"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºA"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3A3",
+                            "subgrupo": null,
+                            "aula": "PL15",
+                            "texto_original": "3A3 (PL15)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT) CUATRIMESTRE 6º (Curso 3º, Semestre 2º) Curso 2025/2026 GRUPO 3ºA HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 8:00/8:55 9:00/9:55 10:00/10:55 MÉTODOS NÚMERICOS Y TÉCNICAS DE OPTIMIZACIÓN - 3A (SA1) COMUNICACIONES DIGITALES - 3A (SA3) Tecnologías De Alta Frecuencia - 3A1 (SA3/PL15) Métodos Numéricos Y Técnicas De Optimización - 3A1 (EL2) Sistemas Operativos - 3A2 (EL5) Comunicaciones Digitales - 3A1 (SA1) Subsist. Electrónicos - 3A2 (SA3/OL5) 11:00/11:55 MÉTODOS NÚMERICOS Y TÉCNICAS DE OPTIMIZACIÓN - 3A (SA1) COMUNICACIONES DIGITALES - 3A (SA3) Tecnologías De Alta Frecuencia - 3A1 (SA3/PL15) Métodos Numéricos Y Técnicas De Optimización - 3A1 (EL2) Sistemas Operativos - 3A2 (EL5) Comunicaciones Digitales - 3A1 (SA1) Subsist. Electrónicos - 3A2 (SA3/OL5) 12:00/12:55 SUBSISTEMAS ELECTRÓNICOS - 3A (SA1) TECNOLOGIAS DE ALTA FRECUENCIA - 3A (SA3) SISTEMAS OPERATIVOS - 3A (SA3) Sistemas Operativos - 3A1 (EL5) Métodos Numéricos Y Técnicas De Optimización - 3A2 (EL2) Comunicaciones Digitales - 3A2 (SA1) Subsist. Electrónicos - 3A1 (SA3/OL5) 13:00/13:55 SUBSISTEMAS ELECTRÓNICOS - 3A (SA1) TECNOLOGIAS DE ALTA FRECUENCIA - 3A (SA3) SISTEMAS OPERATIVOS - 3A (SA3) Sistemas Operativos - 3A1 (EL5) Métodos Numéricos Y Técnicas De Optimización - 3A2 (EL2) Comunicaciones Digitales - 3A2 (SA1) Subsist. Electrónicos - 3A1 (SA3/OL5) 14:00/14:55 15:00/15:55 Tecnologías De Alta Frecuencia - 3A2 (PL15) Sistemas Operativos – 3A3 (EL5) Tecnologías De Alta Frecuencia – 3A3 (PL15) 16:00/16:55 Tecnologías De Alta Frecuencia - 3A2 (PL15) Sistemas Operativos – 3A3 (EL5) Tecnologías De Alta Frecuencia – 3A3 (PL15) 17:00/17:55",
+                    "blocks": [
+                        {
+                            "page": 1,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 570.1099853515625,
+                                "x1": 291.7340087890625,
+                                "y1": 579.1099853515625,
+                                "cx": 170.8570041656494,
+                                "cy": 574.6099853515625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 94.31900787353516,
+                                "x1": 692.6740112304688,
+                                "y1": 123.17001342773438,
+                                "cx": 371.32700538635254,
+                                "cy": 108.74451065063477
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "CUATRIMESTRE 6º (Curso 3º, Semestre 2º) Curso 2025/2026 GRUPO 3ºA",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 124.46001434326172,
+                                "x1": 794.5139770507812,
+                                "y1": 150.71002197265625,
+                                "cx": 422.2469882965088,
+                                "cy": 137.58501815795898
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 60.65999984741211,
+                                "y0": 158.9149932861328,
+                                "x1": 743.6339721679688,
+                                "y1": 171.93499755859375,
+                                "cx": 402.14698600769043,
+                                "cy": 165.42499542236328
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "8:00/8:55",
+                            "bbox": {
+                                "x0": 58.68000030517578,
+                                "y0": 181.79000854492188,
+                                "x1": 653.85400390625,
+                                "y1": 190.79000854492188,
+                                "cx": 356.2670021057129,
+                                "cy": 186.29000854492188
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "9:00/9:55",
+                            "bbox": {
+                                "x0": 58.68000030517578,
+                                "y0": 200.08999633789062,
+                                "x1": 653.85400390625,
+                                "y1": 209.08999633789062,
+                                "cx": 356.2670021057129,
+                                "cy": 204.58999633789062
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "10:00/10:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 236.58999633789062,
+                                "x1": 101.45399475097656,
+                                "y1": 245.58999633789062,
+                                "cx": 77.78699684143066,
+                                "cy": 241.08999633789062
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "MÉTODOS NÚMERICOS Y TÉCNICAS DE OPTIMIZACIÓN - 3A",
+                            "bbox": {
+                                "x0": 109.0199966430664,
+                                "y0": 224.510009765625,
+                                "x1": 235.03399658203125,
+                                "y1": 245.58999633789062,
+                                "cx": 172.02699661254883,
+                                "cy": 235.0500030517578
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "(SA1)",
+                            "bbox": {
+                                "x0": 160.0399932861328,
+                                "y0": 248.64999389648438,
+                                "x1": 181.93399047851562,
+                                "y1": 257.6499938964844,
+                                "cx": 170.98699188232422,
+                                "cy": 253.14999389648438
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "COMUNICACIONES DIGITALES - 3A",
+                            "bbox": {
+                                "x0": 243.0800018310547,
+                                "y0": 230.510009765625,
+                                "x1": 373.093994140625,
+                                "y1": 239.510009765625,
+                                "cx": 308.08699798583984,
+                                "cy": 235.010009765625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "(SA3)",
+                            "bbox": {
+                                "x0": 296.1199951171875,
+                                "y0": 242.64999389648438,
+                                "x1": 318.0140075683594,
+                                "y1": 251.64999389648438,
+                                "cx": 307.06700134277344,
+                                "cy": 247.14999389648438
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "Tecnologías De Alta Frecuencia -",
+                            "bbox": {
+                                "x0": 385.5199890136719,
+                                "y0": 230.510009765625,
+                                "x1": 505.833984375,
+                                "y1": 239.510009765625,
+                                "cx": 445.67698669433594,
+                                "cy": 235.010009765625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "3A1 (SA3/PL15)",
+                            "bbox": {
+                                "x0": 414.760009765625,
+                                "y0": 242.64999389648438,
+                                "x1": 476.67401123046875,
+                                "y1": 251.64999389648438,
+                                "cx": 445.7170104980469,
+                                "cy": 247.14999389648438
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "Métodos Numéricos Y Técnicas De",
+                            "bbox": {
+                                "x0": 518.739990234375,
+                                "y0": 224.510009765625,
+                                "x1": 646.7738647460938,
+                                "y1": 233.510009765625,
+                                "cx": 582.7569274902344,
+                                "cy": 229.010009765625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "Optimización - 3A1 (EL2) Sistemas Operativos - 3A2 (EL5)",
+                            "bbox": {
+                                "x0": 522.8800048828125,
+                                "y0": 236.58999633789062,
+                                "x1": 642.7539672851562,
+                                "y1": 257.6499938964844,
+                                "cx": 582.8169860839844,
+                                "cy": 247.1199951171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "Comunicaciones Digitales - 3A1",
+                            "bbox": {
+                                "x0": 661.5999755859375,
+                                "y0": 218.45001220703125,
+                                "x1": 779.8740234375,
+                                "y1": 227.45001220703125,
+                                "cx": 720.7369995117188,
+                                "cy": 222.95001220703125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "(SA1) Subsist. Electrónicos - 3A2",
+                            "bbox": {
+                                "x0": 670.8400268554688,
+                                "y0": 230.510009765625,
+                                "x1": 770.573974609375,
+                                "y1": 251.64999389648438,
+                                "cx": 720.7070007324219,
+                                "cy": 241.0800018310547
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "(SA3/OL5)",
+                            "bbox": {
+                                "x0": 699.5999755859375,
+                                "y0": 254.71002197265625,
+                                "x1": 739.85400390625,
+                                "y1": 263.71002197265625,
+                                "cx": 719.7269897460938,
+                                "cy": 259.21002197265625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "11:00/11:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 291.19000244140625,
+                                "x1": 101.45399475097656,
+                                "y1": 300.19000244140625,
+                                "cx": 77.78699684143066,
+                                "cy": 295.69000244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "MÉTODOS NÚMERICOS Y TÉCNICAS DE OPTIMIZACIÓN - 3A",
+                            "bbox": {
+                                "x0": 109.0199966430664,
+                                "y0": 279.07000732421875,
+                                "x1": 235.03399658203125,
+                                "y1": 300.19000244140625,
+                                "cx": 172.02699661254883,
+                                "cy": 289.6300048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "(SA1)",
+                            "bbox": {
+                                "x0": 160.0399932861328,
+                                "y0": 303.25,
+                                "x1": 181.93399047851562,
+                                "y1": 312.25,
+                                "cx": 170.98699188232422,
+                                "cy": 307.75
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "COMUNICACIONES DIGITALES - 3A",
+                            "bbox": {
+                                "x0": 243.0800018310547,
+                                "y0": 285.1300048828125,
+                                "x1": 373.093994140625,
+                                "y1": 294.1300048828125,
+                                "cx": 308.08699798583984,
+                                "cy": 289.6300048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "(SA3)",
+                            "bbox": {
+                                "x0": 296.1199951171875,
+                                "y0": 297.25,
+                                "x1": 318.0140075683594,
+                                "y1": 306.25,
+                                "cx": 307.06700134277344,
+                                "cy": 301.75
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "Tecnologías De Alta Frecuencia -",
+                            "bbox": {
+                                "x0": 385.5199890136719,
+                                "y0": 285.1300048828125,
+                                "x1": 505.833984375,
+                                "y1": 294.1300048828125,
+                                "cx": 445.67698669433594,
+                                "cy": 289.6300048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "3A1 (SA3/PL15)",
+                            "bbox": {
+                                "x0": 414.760009765625,
+                                "y0": 297.25,
+                                "x1": 476.67401123046875,
+                                "y1": 306.25,
+                                "cx": 445.7170104980469,
+                                "cy": 301.75
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "Métodos Numéricos Y Técnicas De",
+                            "bbox": {
+                                "x0": 518.739990234375,
+                                "y0": 279.07000732421875,
+                                "x1": 646.7738647460938,
+                                "y1": 288.07000732421875,
+                                "cx": 582.7569274902344,
+                                "cy": 283.57000732421875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 30,
+                            "type": 0,
+                            "text": "Optimización - 3A1 (EL2) Sistemas Operativos - 3A2 (EL5)",
+                            "bbox": {
+                                "x0": 522.8800048828125,
+                                "y0": 291.19000244140625,
+                                "x1": 642.7539672851562,
+                                "y1": 312.25,
+                                "cx": 582.8169860839844,
+                                "cy": 301.7200012207031
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 31,
+                            "type": 0,
+                            "text": "Comunicaciones Digitales - 3A1",
+                            "bbox": {
+                                "x0": 661.5999755859375,
+                                "y0": 273.07000732421875,
+                                "x1": 779.8740234375,
+                                "y1": 282.07000732421875,
+                                "cx": 720.7369995117188,
+                                "cy": 277.57000732421875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 32,
+                            "type": 0,
+                            "text": "(SA1) Subsist. Electrónicos - 3A2",
+                            "bbox": {
+                                "x0": 670.8400268554688,
+                                "y0": 285.1300048828125,
+                                "x1": 770.573974609375,
+                                "y1": 306.25,
+                                "cx": 720.7070007324219,
+                                "cy": 295.69000244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 33,
+                            "type": 0,
+                            "text": "(SA3/OL5)",
+                            "bbox": {
+                                "x0": 699.5999755859375,
+                                "y0": 309.30999755859375,
+                                "x1": 739.85400390625,
+                                "y1": 318.30999755859375,
+                                "cx": 719.7269897460938,
+                                "cy": 313.80999755859375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 34,
+                            "type": 0,
+                            "text": "12:00/12:55 SUBSISTEMAS ELECTRÓNICOS - 3A",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 339.7300109863281,
+                                "x1": 236.7740020751953,
+                                "y1": 354.7900085449219,
+                                "cx": 145.44700050354004,
+                                "cy": 347.260009765625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 35,
+                            "type": 0,
+                            "text": "(SA1)",
+                            "bbox": {
+                                "x0": 160.0399932861328,
+                                "y0": 351.7900085449219,
+                                "x1": 181.93399047851562,
+                                "y1": 360.7900085449219,
+                                "cx": 170.98699188232422,
+                                "cy": 356.2900085449219
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 36,
+                            "type": 0,
+                            "text": "TECNOLOGIAS DE ALTA FRECUENCIA",
+                            "bbox": {
+                                "x0": 239.3000030517578,
+                                "y0": 339.7300109863281,
+                                "x1": 374.7860107421875,
+                                "y1": 348.7300109863281,
+                                "cx": 307.04300689697266,
+                                "cy": 344.2300109863281
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 37,
+                            "type": 0,
+                            "text": "- 3A (SA3) SISTEMAS OPERATIVOS - 3A (SA3)",
+                            "bbox": {
+                                "x0": 286.82000732421875,
+                                "y0": 345.7900085449219,
+                                "x1": 509.67401123046875,
+                                "y1": 360.7900085449219,
+                                "cx": 398.24700927734375,
+                                "cy": 353.2900085449219
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 38,
+                            "type": 0,
+                            "text": "Sistemas Operativos - 3A1 (EL5) Métodos Numéricos Y Técnicas De",
+                            "bbox": {
+                                "x0": 518.739990234375,
+                                "y0": 333.6700134277344,
+                                "x1": 646.7738647460938,
+                                "y1": 354.7900085449219,
+                                "cx": 582.7569274902344,
+                                "cy": 344.2300109863281
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 39,
+                            "type": 0,
+                            "text": "Optimización - 3A2 (EL2)",
+                            "bbox": {
+                                "x0": 535.8400268554688,
+                                "y0": 357.8500061035156,
+                                "x1": 629.7340087890625,
+                                "y1": 366.8500061035156,
+                                "cx": 582.7870178222656,
+                                "cy": 362.3500061035156
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 40,
+                            "type": 0,
+                            "text": "Comunicaciones Digitales - 3A2",
+                            "bbox": {
+                                "x0": 661.5999755859375,
+                                "y0": 327.6700134277344,
+                                "x1": 779.8740234375,
+                                "y1": 336.6700134277344,
+                                "cx": 720.7369995117188,
+                                "cy": 332.1700134277344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 41,
+                            "type": 0,
+                            "text": "(SA1) Subsist. Electrónicos - 3A1",
+                            "bbox": {
+                                "x0": 670.8400268554688,
+                                "y0": 339.7300109863281,
+                                "x1": 770.573974609375,
+                                "y1": 360.7900085449219,
+                                "cx": 720.7070007324219,
+                                "cy": 350.260009765625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 42,
+                            "type": 0,
+                            "text": "(SA3/OL5)",
+                            "bbox": {
+                                "x0": 699.5999755859375,
+                                "y0": 363.9100036621094,
+                                "x1": 739.85400390625,
+                                "y1": 372.9100036621094,
+                                "cx": 719.7269897460938,
+                                "cy": 368.4100036621094
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 43,
+                            "type": 0,
+                            "text": "13:00/13:55 SUBSISTEMAS ELECTRÓNICOS - 3A",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 394.3500061035156,
+                                "x1": 236.7740020751953,
+                                "y1": 409.4100036621094,
+                                "cx": 145.44700050354004,
+                                "cy": 401.8800048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 44,
+                            "type": 0,
+                            "text": "(SA1)",
+                            "bbox": {
+                                "x0": 160.0399932861328,
+                                "y0": 406.4100036621094,
+                                "x1": 181.93399047851562,
+                                "y1": 415.4100036621094,
+                                "cx": 170.98699188232422,
+                                "cy": 410.9100036621094
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 45,
+                            "type": 0,
+                            "text": "TECNOLOGIAS DE ALTA FRECUENCIA",
+                            "bbox": {
+                                "x0": 239.3000030517578,
+                                "y0": 394.3500061035156,
+                                "x1": 374.7860107421875,
+                                "y1": 403.3500061035156,
+                                "cx": 307.04300689697266,
+                                "cy": 398.8500061035156
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 46,
+                            "type": 0,
+                            "text": "- 3A (SA3) SISTEMAS OPERATIVOS - 3A (SA3)",
+                            "bbox": {
+                                "x0": 286.82000732421875,
+                                "y0": 400.4100036621094,
+                                "x1": 509.67401123046875,
+                                "y1": 415.4100036621094,
+                                "cx": 398.24700927734375,
+                                "cy": 407.9100036621094
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 47,
+                            "type": 0,
+                            "text": "Sistemas Operativos - 3A1 (EL5) Métodos Numéricos Y Técnicas De",
+                            "bbox": {
+                                "x0": 518.739990234375,
+                                "y0": 388.27001953125,
+                                "x1": 646.7738647460938,
+                                "y1": 409.4100036621094,
+                                "cx": 582.7569274902344,
+                                "cy": 398.8400115966797
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 48,
+                            "type": 0,
+                            "text": "Optimización - 3A2 (EL2)",
+                            "bbox": {
+                                "x0": 535.8400268554688,
+                                "y0": 412.4700012207031,
+                                "x1": 629.7340087890625,
+                                "y1": 421.4700012207031,
+                                "cx": 582.7870178222656,
+                                "cy": 416.9700012207031
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 49,
+                            "type": 0,
+                            "text": "Comunicaciones Digitales - 3A2",
+                            "bbox": {
+                                "x0": 661.5999755859375,
+                                "y0": 382.21002197265625,
+                                "x1": 779.8740234375,
+                                "y1": 391.21002197265625,
+                                "cx": 720.7369995117188,
+                                "cy": 386.71002197265625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 50,
+                            "type": 0,
+                            "text": "(SA1) Subsist. Electrónicos - 3A1",
+                            "bbox": {
+                                "x0": 670.8400268554688,
+                                "y0": 394.3500061035156,
+                                "x1": 770.573974609375,
+                                "y1": 415.4100036621094,
+                                "cx": 720.7070007324219,
+                                "cy": 404.8800048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 51,
+                            "type": 0,
+                            "text": "(SA3/OL5)",
+                            "bbox": {
+                                "x0": 699.5999755859375,
+                                "y0": 418.530029296875,
+                                "x1": 739.85400390625,
+                                "y1": 427.530029296875,
+                                "cx": 719.7269897460938,
+                                "cy": 423.030029296875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 52,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 436.83001708984375,
+                                "x1": 653.85400390625,
+                                "y1": 445.83001708984375,
+                                "cx": 353.9870014190674,
+                                "cy": 441.33001708984375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 53,
+                            "type": 0,
+                            "text": "15:00/15:55 Tecnologías De Alta Frecuencia - 3A2",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 455.19000244140625,
+                                "x1": 375.4339904785156,
+                                "y1": 470.25,
+                                "cx": 214.7769947052002,
+                                "cy": 462.7200012207031
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 54,
+                            "type": 0,
+                            "text": "(PL15) Sistemas Operativos – 3A3 (EL5) Tecnologías De Alta Frecuencia –",
+                            "bbox": {
+                                "x0": 294.3800048828125,
+                                "y0": 455.19000244140625,
+                                "x1": 780.7139892578125,
+                                "y1": 476.25,
+                                "cx": 537.5469970703125,
+                                "cy": 465.7200012207031
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 55,
+                            "type": 0,
+                            "text": "3A3 (PL15)",
+                            "bbox": {
+                                "x0": 697.8599853515625,
+                                "y0": 467.25,
+                                "x1": 741.593994140625,
+                                "y1": 476.25,
+                                "cx": 719.7269897460938,
+                                "cy": 471.75
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 56,
+                            "type": 0,
+                            "text": "16:00/16:55 Tecnologías De Alta Frecuencia - 3A2",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 485.6100158691406,
+                                "x1": 375.4339904785156,
+                                "y1": 500.6700134277344,
+                                "cx": 214.7769947052002,
+                                "cy": 493.1400146484375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 57,
+                            "type": 0,
+                            "text": "(PL15) Sistemas Operativos – 3A3 (EL5) Tecnologías De Alta Frecuencia –",
+                            "bbox": {
+                                "x0": 294.3800048828125,
+                                "y0": 485.6100158691406,
+                                "x1": 780.7139892578125,
+                                "y1": 506.6700134277344,
+                                "cx": 537.5469970703125,
+                                "cy": 496.1400146484375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 58,
+                            "type": 0,
+                            "text": "3A3 (PL15)",
+                            "bbox": {
+                                "x0": 697.8599853515625,
+                                "y0": 497.6700134277344,
+                                "x1": 741.593994140625,
+                                "y1": 506.6700134277344,
+                                "cx": 719.7269897460938,
+                                "cy": 502.1700134277344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 59,
+                            "type": 0,
+                            "text": "17:00/17:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 516.030029296875,
+                                "x1": 653.85400390625,
+                                "y1": 525.030029296875,
+                                "cx": 353.9870014190674,
+                                "cy": 520.530029296875
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 2,
+                "metadata": {
+                    "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                    "codigo_titulacion": "G350",
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "8º",
+                    "curso": "4º",
+                    "grupo": "4ºA"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONTROL ELECTRÓNICO",
+                            "subgrupo": "4A1",
+                            "aula": "OL1",
+                            "texto_original": "Control Electrónico - 4A1 (OL1) INGENIERÍA DE TRÁFICO - 4A (EA3) SISTEMAS DE TELECOMUNICACIÓN - 4A (EA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "VISIÓN ARTIFICIAL – 4A1 → 4C1",
+                            "subgrupo": null,
+                            "aula": "OL5",
+                            "texto_original": "Visión Artificial – 4A1 → 4C1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                            "subgrupo": "4A",
+                            "aula": "SA1",
+                            "texto_original": "TECNOLOGÍA ELECTRÓNICA - 4A (SA1) COMUNICACIONES MÓVILES - 4A (SA8) LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONTROL ELECTRÓNICO",
+                            "subgrupo": "4A1",
+                            "aula": "OL1",
+                            "texto_original": "Control Electrónico - 4A1 (OL1) INGENIERÍA DE TRÁFICO - 4A (EA3) SISTEMAS DE TELECOMUNICACIÓN - 4A (EA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "VISIÓN ARTIFICIAL - 4A1→ 4C1",
+                            "subgrupo": null,
+                            "aula": "OL5",
+                            "texto_original": "Visión Artificial - 4A1→ 4C1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                            "subgrupo": "4A",
+                            "aula": "SA1",
+                            "texto_original": "TECNOLOGÍA ELECTRÓNICA - 4A (SA1) COMUNICACIONES MÓVILES - 4A (SA8) LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONTROL ELECTRÓNICO",
+                            "subgrupo": "4A",
+                            "aula": "OL1",
+                            "texto_original": "CONTROL ELECTRÓNICO - 4A (OL1)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "INGENIERÍA DE TRÁFICO",
+                            "subgrupo": "4A1",
+                            "aula": "EL11",
+                            "texto_original": "Ingeniería De Tráfico - 4A1 (EL11) Sistemas De Telecomunicación - 4A1 (EA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "VISIÓN ARTIFICIAL - 4A1 → 4C1",
+                            "subgrupo": null,
+                            "aula": "OL5",
+                            "texto_original": "Visión Artificial - 4A1 → 4C1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "LAB. DE REDES, SISTEMAS Y SERVICIOS",
+                            "subgrupo": "4A1",
+                            "aula": "EL11",
+                            "texto_original": "Lab. De Redes, Sistemas Y Servicios - 4A1 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "COMUNICACIONES MÓVILES",
+                            "subgrupo": "4A1",
+                            "aula": "SL9",
+                            "texto_original": "Comunicaciones Móviles - 4A1 (SL9)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                            "subgrupo": "4A1",
+                            "aula": "OL10",
+                            "texto_original": "Tecnología Electrónica - 4A1 (OL10) Sistemas Inteligentes Y Sostenibles De Nueva"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "GENERACIÓN",
+                            "subgrupo": "4A1",
+                            "aula": "SL10",
+                            "texto_original": "Generación - 4A1 (SL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONTROL ELECTRÓNICO",
+                            "subgrupo": "4A",
+                            "aula": "OL1",
+                            "texto_original": "CONTROL ELECTRÓNICO - 4A (OL1)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "INGENIERÍA DE TRÁFICO",
+                            "subgrupo": "4A1",
+                            "aula": "EL11",
+                            "texto_original": "Ingeniería De Tráfico - 4A1 (EL11) Sistemas De Telecomunicación - 4A1 (EA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "VISIÓN ARTIFICIAL – 4A1 → 4C1",
+                            "subgrupo": null,
+                            "aula": "OL5",
+                            "texto_original": "Visión Artificial – 4A1 → 4C1 (OL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "LAB. DE REDES, SISTEMAS Y SERVICIOS",
+                            "subgrupo": "4A1",
+                            "aula": "EL11",
+                            "texto_original": "Lab. De Redes, Sistemas Y Servicios - 4A1 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "COMUNICACIONES MÓVILES",
+                            "subgrupo": "4A1",
+                            "aula": "SL9",
+                            "texto_original": "Comunicaciones Móviles - 4A1 (SL9)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TECNOLOGÍA ELECTRÓNICA",
+                            "subgrupo": "4A1",
+                            "aula": "OL10",
+                            "texto_original": "Tecnología Electrónica - 4A1 (OL10) Sistemas Inteligentes Y Sostenibles De Nueva"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GITT-tercero-cuarto_1.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G350",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºA"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "19:00",
+                            "hora_fin": "19:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "GENERACIÓN",
+                            "subgrupo": "4A1",
+                            "aula": "SL10",
+                            "texto_original": "Generación - 4A1 (SL10)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT) CUATRIMESTRE 8º (Curso 4º, Semestre 2º) Curso 2025/2026 GRUPO 4ºA HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 13:00/13:55 14:00/14:55 15:00/15:55 Control Electrónico - 4A1 (OL1) INGENIERÍA DE TRÁFICO - 4A (EA3) SISTEMAS DE TELECOMUNICACIÓN - 4A (EA6) Visión Artificial – 4A1 → 4C1 (OL5) TECNOLOGÍA ELECTRÓNICA - 4A (SA1) COMUNICACIONES MÓVILES - 4A (SA8) LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A (EL11) SISTEMAS INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4A (SL10) 16:00/16:55 Control Electrónico - 4A1 (OL1) INGENIERÍA DE TRÁFICO - 4A (EA3) SISTEMAS DE TELECOMUNICACIÓN - 4A (EA6) Visión Artificial - 4A1→ 4C1 (OL5) TECNOLOGÍA ELECTRÓNICA - 4A (SA1) COMUNICACIONES MÓVILES - 4A (SA8) LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A (EL11) SISTEMAS INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4A (SL10) 17:00/17:55 CONTROL ELECTRÓNICO - 4A (OL1) Ingeniería De Tráfico - 4A1 (EL11) Sistemas De Telecomunicación - 4A1 (EA6) Visión Artificial - 4A1 → 4C1 (OL5) Lab. De Redes, Sistemas Y Servicios - 4A1 (EL11) Comunicaciones Móviles - 4A1 (SL9) Tecnología Electrónica - 4A1 (OL10) Sistemas Inteligentes Y Sostenibles De Nueva Generación - 4A1 (SL10) 18:00/18:55 CONTROL ELECTRÓNICO - 4A (OL1) Ingeniería De Tráfico - 4A1 (EL11) Sistemas De Telecomunicación - 4A1 (EA6) Visión Artificial – 4A1 → 4C1 (OL5) Lab. De Redes, Sistemas Y Servicios - 4A1 (EL11) Comunicaciones Móviles - 4A1 (SL9) Tecnología Electrónica - 4A1 (OL10) Sistemas Inteligentes Y Sostenibles De Nueva Generación - 4A1 (SL10) 19:00/19:55 20:00/20:55",
+                    "blocks": [
+                        {
+                            "page": 2,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 570.1099853515625,
+                                "x1": 291.7340087890625,
+                                "y1": 579.1099853515625,
+                                "cx": 170.8570041656494,
+                                "cy": 574.6099853515625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 71.92999267578125,
+                                "x1": 692.6740112304688,
+                                "y1": 111.11001586914062,
+                                "cx": 371.32700538635254,
+                                "cy": 91.52000427246094
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "CUATRIMESTRE 8º (Curso 4º, Semestre 2º) Curso 2025/2026 GRUPO 4ºA",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 112.40001678466797,
+                                "x1": 794.5139770507812,
+                                "y1": 138.64999389648438,
+                                "cx": 422.2469882965088,
+                                "cy": 125.52500534057617
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 60.65999984741211,
+                                "y0": 146.7949981689453,
+                                "x1": 775.3140258789062,
+                                "y1": 159.81500244140625,
+                                "cx": 417.9870128631592,
+                                "cy": 153.30500030517578
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "13:00/13:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 169.67001342773438,
+                                "x1": 717.2340087890625,
+                                "y1": 178.67001342773438,
+                                "cx": 385.67700386047363,
+                                "cy": 174.17001342773438
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 188.02999877929688,
+                                "x1": 717.2340087890625,
+                                "y1": 197.02999877929688,
+                                "cx": 385.67700386047363,
+                                "cy": 192.52999877929688
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "15:00/15:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 236.58999633789062,
+                                "x1": 107.51399993896484,
+                                "y1": 245.58999633789062,
+                                "cx": 80.8169994354248,
+                                "cy": 241.08999633789062
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "Control Electrónico - 4A1 (OL1) INGENIERÍA DE TRÁFICO - 4A (EA3) SISTEMAS DE TELECOMUNICACIÓN - 4A (EA6)",
+                            "bbox": {
+                                "x0": 192.67999267578125,
+                                "y0": 224.510009765625,
+                                "x1": 363.85400390625,
+                                "y1": 257.6499938964844,
+                                "cx": 278.2669982910156,
+                                "cy": 241.0800018310547
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "Visión Artificial – 4A1 → 4C1 (OL5)",
+                            "bbox": {
+                                "x0": 383.4200134277344,
+                                "y0": 236.58999633789062,
+                                "x1": 513.3939819335938,
+                                "y1": 245.58999633789062,
+                                "cx": 448.40699768066406,
+                                "cy": 241.08999633789062
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "TECNOLOGÍA ELECTRÓNICA - 4A (SA1) COMUNICACIONES MÓVILES - 4A (SA8) LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A",
+                            "bbox": {
+                                "x0": 542.5,
+                                "y0": 206.33001708984375,
+                                "x1": 703.7340087890625,
+                                "y1": 239.510009765625,
+                                "cx": 623.1170043945312,
+                                "cy": 222.92001342773438
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "(EL11) SISTEMAS INTELIGENTES Y SOSTENIBLES DE",
+                            "bbox": {
+                                "x0": 541.6599731445312,
+                                "y0": 242.64999389648438,
+                                "x1": 702.4901733398438,
+                                "y1": 263.71002197265625,
+                                "cx": 622.0750732421875,
+                                "cy": 253.1800079345703
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "NUEVA GENERACIÓN - 4A (SL10)",
+                            "bbox": {
+                                "x0": 560.5599975585938,
+                                "y0": 266.83001708984375,
+                                "x1": 683.5540161132812,
+                                "y1": 275.83001708984375,
+                                "cx": 622.0570068359375,
+                                "cy": 271.33001708984375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "16:00/16:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 315.3699951171875,
+                                "x1": 107.51399993896484,
+                                "y1": 324.3699951171875,
+                                "cx": 80.8169994354248,
+                                "cy": 319.8699951171875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "Control Electrónico - 4A1 (OL1) INGENIERÍA DE TRÁFICO - 4A (EA3) SISTEMAS DE TELECOMUNICACIÓN - 4A (EA6)",
+                            "bbox": {
+                                "x0": 192.67999267578125,
+                                "y0": 303.25,
+                                "x1": 363.85400390625,
+                                "y1": 336.42999267578125,
+                                "cx": 278.2669982910156,
+                                "cy": 319.8399963378906
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "Visión Artificial - 4A1→ 4C1 (OL5)",
+                            "bbox": {
+                                "x0": 385.2799987792969,
+                                "y0": 315.3699951171875,
+                                "x1": 511.4739990234375,
+                                "y1": 324.3699951171875,
+                                "cx": 448.3769989013672,
+                                "cy": 319.8699951171875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "TECNOLOGÍA ELECTRÓNICA - 4A (SA1) COMUNICACIONES MÓVILES - 4A (SA8) LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A",
+                            "bbox": {
+                                "x0": 542.5,
+                                "y0": 285.1300048828125,
+                                "x1": 703.7340087890625,
+                                "y1": 318.30999755859375,
+                                "cx": 623.1170043945312,
+                                "cy": 301.7200012207031
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "(EL11) SISTEMAS INTELIGENTES Y SOSTENIBLES DE",
+                            "bbox": {
+                                "x0": 541.6599731445312,
+                                "y0": 321.3699951171875,
+                                "x1": 702.4901733398438,
+                                "y1": 342.489990234375,
+                                "cx": 622.0750732421875,
+                                "cy": 331.92999267578125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "NUEVA GENERACIÓN - 4A (SL10)",
+                            "bbox": {
+                                "x0": 560.5599975585938,
+                                "y0": 345.54998779296875,
+                                "x1": 683.5540161132812,
+                                "y1": 354.54998779296875,
+                                "cx": 622.0570068359375,
+                                "cy": 350.04998779296875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "17:00/17:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 388.09002685546875,
+                                "x1": 107.51399993896484,
+                                "y1": 397.09002685546875,
+                                "cx": 80.8169994354248,
+                                "cy": 392.59002685546875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "CONTROL ELECTRÓNICO - 4A (OL1)",
+                            "bbox": {
+                                "x0": 212.36000061035156,
+                                "y0": 375.9700012207031,
+                                "x1": 344.17401123046875,
+                                "y1": 384.9700012207031,
+                                "cx": 278.26700592041016,
+                                "cy": 380.4700012207031
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "Ingeniería De Tráfico - 4A1 (EL11) Sistemas De Telecomunicación - 4A1 (EA6)",
+                            "bbox": {
+                                "x0": 198.44000244140625,
+                                "y0": 388.09002685546875,
+                                "x1": 358.15399169921875,
+                                "y1": 409.1700134277344,
+                                "cx": 278.2969970703125,
+                                "cy": 398.63002014160156
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "Visión Artificial - 4A1 → 4C1 (OL5)",
+                            "bbox": {
+                                "x0": 384.260009765625,
+                                "y0": 388.09002685546875,
+                                "x1": 512.4940185546875,
+                                "y1": 397.09002685546875,
+                                "cx": 448.37701416015625,
+                                "cy": 392.59002685546875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "Lab. De Redes, Sistemas Y Servicios - 4A1 (EL11)",
+                            "bbox": {
+                                "x0": 532.8400268554688,
+                                "y0": 363.9100036621094,
+                                "x1": 711.2940063476562,
+                                "y1": 372.9100036621094,
+                                "cx": 622.0670166015625,
+                                "cy": 368.4100036621094
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "Comunicaciones Móviles - 4A1 (SL9)",
+                            "bbox": {
+                                "x0": 554.1400146484375,
+                                "y0": 375.9700012207031,
+                                "x1": 689.9739990234375,
+                                "y1": 384.9700012207031,
+                                "cx": 622.0570068359375,
+                                "cy": 380.4700012207031
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "Tecnología Electrónica - 4A1 (OL10) Sistemas Inteligentes Y Sostenibles De Nueva",
+                            "bbox": {
+                                "x0": 538.6599731445312,
+                                "y0": 388.09002685546875,
+                                "x1": 705.3756103515625,
+                                "y1": 409.1700134277344,
+                                "cx": 622.0177917480469,
+                                "cy": 398.63002014160156
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "Generación - 4A1 (SL10)",
+                            "bbox": {
+                                "x0": 575.97998046875,
+                                "y0": 412.2300109863281,
+                                "x1": 668.1939697265625,
+                                "y1": 421.2300109863281,
+                                "cx": 622.0869750976562,
+                                "cy": 416.7300109863281
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 31,
+                            "type": 0,
+                            "text": "18:00/18:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 454.77001953125,
+                                "x1": 107.51399993896484,
+                                "y1": 463.77001953125,
+                                "cx": 80.8169994354248,
+                                "cy": 459.27001953125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 32,
+                            "type": 0,
+                            "text": "CONTROL ELECTRÓNICO - 4A (OL1)",
+                            "bbox": {
+                                "x0": 212.36000061035156,
+                                "y0": 442.6500244140625,
+                                "x1": 344.17401123046875,
+                                "y1": 451.6500244140625,
+                                "cx": 278.26700592041016,
+                                "cy": 447.1500244140625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 33,
+                            "type": 0,
+                            "text": "Ingeniería De Tráfico - 4A1 (EL11) Sistemas De Telecomunicación - 4A1 (EA6)",
+                            "bbox": {
+                                "x0": 198.44000244140625,
+                                "y0": 454.77001953125,
+                                "x1": 358.15399169921875,
+                                "y1": 475.83001708984375,
+                                "cx": 278.2969970703125,
+                                "cy": 465.3000183105469
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 34,
+                            "type": 0,
+                            "text": "Visión Artificial – 4A1 → 4C1 (OL5)",
+                            "bbox": {
+                                "x0": 383.4200134277344,
+                                "y0": 454.77001953125,
+                                "x1": 513.3939819335938,
+                                "y1": 463.77001953125,
+                                "cx": 448.40699768066406,
+                                "cy": 459.27001953125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 35,
+                            "type": 0,
+                            "text": "Lab. De Redes, Sistemas Y Servicios - 4A1 (EL11)",
+                            "bbox": {
+                                "x0": 532.8400268554688,
+                                "y0": 430.59002685546875,
+                                "x1": 711.2940063476562,
+                                "y1": 439.59002685546875,
+                                "cx": 622.0670166015625,
+                                "cy": 435.09002685546875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 36,
+                            "type": 0,
+                            "text": "Comunicaciones Móviles - 4A1 (SL9)",
+                            "bbox": {
+                                "x0": 554.1400146484375,
+                                "y0": 442.6500244140625,
+                                "x1": 689.9739990234375,
+                                "y1": 451.6500244140625,
+                                "cx": 622.0570068359375,
+                                "cy": 447.1500244140625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 37,
+                            "type": 0,
+                            "text": "Tecnología Electrónica - 4A1 (OL10) Sistemas Inteligentes Y Sostenibles De Nueva",
+                            "bbox": {
+                                "x0": 538.6599731445312,
+                                "y0": 454.77001953125,
+                                "x1": 705.3756103515625,
+                                "y1": 475.83001708984375,
+                                "cx": 622.0177917480469,
+                                "cy": 465.3000183105469
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 38,
+                            "type": 0,
+                            "text": "Generación - 4A1 (SL10)",
+                            "bbox": {
+                                "x0": 575.97998046875,
+                                "y0": 478.95001220703125,
+                                "x1": 668.1939697265625,
+                                "y1": 487.95001220703125,
+                                "cx": 622.0869750976562,
+                                "cy": 483.45001220703125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 40,
+                            "type": 0,
+                            "text": "19:00/19:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 497.25,
+                                "x1": 717.2340087890625,
+                                "y1": 506.25,
+                                "cx": 385.67700386047363,
+                                "cy": 501.75
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 41,
+                            "type": 0,
+                            "text": "20:00/20:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 515.6099853515625,
+                                "x1": 717.2340087890625,
+                                "y1": 524.6099853515625,
+                                "cx": 385.67700386047363,
+                                "cy": 520.1099853515625
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,367 @@
+{
+    "schema_version": "1.0",
+    "processed_at": "2026-06-09 13:28:50",
+    "input_file": {
+        "path": "/data/downloaded_pdfs/MUIT_2C_2.pdf",
+        "name": "MUIT_2C_2.pdf",
+        "total_pages": 1
+    },
+    "standard_schedule": [],
+    "debug": {
+        "pages": [
+            {
+                "page": 1,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": null,
+                    "cuatrimestre": null,
+                    "curso": null,
+                    "grupo": null
+                },
+                "records": [],
+                "raw": {
+                    "text": "SEGUNDO SEMESTRE Curso 2025-26 Lunes Martes Miercoles Jueves Viernes 15:00-16:00 16:00-17:00 17:00-18:00 18:00-19:00 INTERNET DE LAS COSAS (GG) (OA3) TECNOLOGÍAS DE RADIONAVEGACIÓN, RADAR Y POSICIONAMIENTO (GP) (OA3) ARQUITECTURA DE NUEVAS TECNOLOGÍAS DE COMUNICACIÓN (GG) (OA3) TECNOLOGÍAS DE INTERNET (GG) (OA3) TECNOLOGÍAS DE RADIONAVEGACIÓN, RADAR Y POSICIONAMIENTO (GG) (OA3) MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN INTERNET DE LAS COSAS (GP) (OA3) ELECTRONICA DE COMUNICACIONES (GG) (OA3) ARQUITECTURA DE NUEVAS TECNOLOGÍAS DE COMUNICACIÓN (GP) (OA3) TECNOLOGÍAS DE INTERNET (GP) (OA3) ELECTRONICA DE COMUNICACIONES (GP) (OA3) Aprobado en la reunión de la Junta de Escuela del xx/xx/2025",
+                    "blocks": [
+                        {
+                            "page": 1,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "SEGUNDO SEMESTRE Curso 2025-26",
+                            "bbox": {
+                                "x0": 30.106124877929688,
+                                "y0": 128.0240020751953,
+                                "x1": 1264.3671875,
+                                "y1": 144.6800079345703,
+                                "cx": 647.2366561889648,
+                                "cy": 136.3520050048828
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "Lunes Martes Miercoles Jueves Viernes",
+                            "bbox": {
+                                "x0": 278.413818359375,
+                                "y0": 159.22401428222656,
+                                "x1": 1177.105224609375,
+                                "y1": 175.88002014160156,
+                                "cx": 727.759521484375,
+                                "cy": 167.55201721191406
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "15:00-16:00",
+                            "bbox": {
+                                "x0": 123.70612335205078,
+                                "y0": 177.6855010986328,
+                                "x1": 182.80369567871094,
+                                "y1": 194.3415069580078,
+                                "cx": 153.25490951538086,
+                                "cy": 186.0135040283203
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "16:00-17:00",
+                            "bbox": {
+                                "x0": 123.70612335205078,
+                                "y0": 199.8374786376953,
+                                "x1": 182.80369567871094,
+                                "y1": 216.4934844970703,
+                                "cx": 153.25490951538086,
+                                "cy": 208.1654815673828
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "17:00-18:00",
+                            "bbox": {
+                                "x0": 123.70612335205078,
+                                "y0": 223.0934600830078,
+                                "x1": 182.80369567871094,
+                                "y1": 239.7494659423828,
+                                "cx": 153.25490951538086,
+                                "cy": 231.4214630126953
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "18:00-19:00",
+                            "bbox": {
+                                "x0": 123.70612335205078,
+                                "y0": 245.06544494628906,
+                                "x1": 182.80369567871094,
+                                "y1": 261.721435546875,
+                                "cx": 153.25490951538086,
+                                "cy": 253.39344024658203
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "INTERNET DE LAS COSAS (GG) (OA3)",
+                            "bbox": {
+                                "x0": 220.078125,
+                                "y0": 225.4694366455078,
+                                "x1": 365.501220703125,
+                                "y1": 257.47344970703125,
+                                "cx": 292.7896728515625,
+                                "cy": 241.47144317626953
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "TECNOLOGÍAS DE RADIONAVEGACIÓN,",
+                            "bbox": {
+                                "x0": 412.4446105957031,
+                                "y0": 217.71852111816406,
+                                "x1": 605.8485717773438,
+                                "y1": 233.77452087402344,
+                                "cx": 509.14659118652344,
+                                "cy": 225.74652099609375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "RADAR Y POSICIONAMIENTO (GP)",
+                            "bbox": {
+                                "x0": 426.4753112792969,
+                                "y0": 233.22621154785156,
+                                "x1": 591.8317260742188,
+                                "y1": 249.28221130371094,
+                                "cx": 509.1535186767578,
+                                "cy": 241.25421142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "(OA3)",
+                            "bbox": {
+                                "x0": 494.78302001953125,
+                                "y0": 248.57789611816406,
+                                "x1": 523.6394653320312,
+                                "y1": 265.23388671875,
+                                "cx": 509.21124267578125,
+                                "cy": 256.90589141845703
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "ARQUITECTURA DE NUEVAS TECNOLOGÍAS DE COMUNICACIÓN (GG)",
+                            "bbox": {
+                                "x0": 627.7061157226562,
+                                "y0": 217.71852111816406,
+                                "x1": 823.5103149414062,
+                                "y1": 249.28221130371094,
+                                "cx": 725.6082153320312,
+                                "cy": 233.5003662109375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "(OA3)",
+                            "bbox": {
+                                "x0": 711.3369140625,
+                                "y0": 248.57789611816406,
+                                "x1": 740.193359375,
+                                "y1": 265.23388671875,
+                                "cx": 725.76513671875,
+                                "cy": 256.90589141845703
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "TECNOLOGÍAS DE INTERNET (GG) (OA3)",
+                            "bbox": {
+                                "x0": 860.6907348632812,
+                                "y0": 225.47230529785156,
+                                "x1": 1023.2739868164062,
+                                "y1": 257.476318359375,
+                                "cx": 941.9823608398438,
+                                "cy": 241.47431182861328
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "TECNOLOGÍAS DE RADIONAVEGACIÓN,",
+                            "bbox": {
+                                "x0": 1061.55224609375,
+                                "y0": 217.71852111816406,
+                                "x1": 1254.956787109375,
+                                "y1": 233.77452087402344,
+                                "cx": 1158.2545166015625,
+                                "cy": 225.74652099609375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "RADAR Y POSICIONAMIENTO (GG)",
+                            "bbox": {
+                                "x0": 1075.0291748046875,
+                                "y0": 233.22621154785156,
+                                "x1": 1241.6778564453125,
+                                "y1": 249.28221130371094,
+                                "cx": 1158.353515625,
+                                "cy": 241.25421142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "(OA3)",
+                            "bbox": {
+                                "x0": 1143.8907470703125,
+                                "y0": 248.57789611816406,
+                                "x1": 1172.7471923828125,
+                                "y1": 265.23388671875,
+                                "cx": 1158.3189697265625,
+                                "cy": 256.90589141845703
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+                            "bbox": {
+                                "x0": 401.7369384765625,
+                                "y0": 88.64790344238281,
+                                "x1": 893.4800415039062,
+                                "y1": 113.760009765625,
+                                "cx": 647.6084899902344,
+                                "cy": 101.2039566040039
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "INTERNET DE LAS COSAS (GP) (OA3)",
+                            "bbox": {
+                                "x0": 220.81382751464844,
+                                "y0": 181.1646270751953,
+                                "x1": 364.944580078125,
+                                "y1": 213.1686553955078,
+                                "cx": 292.8792037963867,
+                                "cy": 197.16664123535156
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "ELECTRONICA DE COMUNICACIONES (GG) (OA3)",
+                            "bbox": {
+                                "x0": 406.7178039550781,
+                                "y0": 181.1646270751953,
+                                "x1": 611.7474975585938,
+                                "y1": 213.1686553955078,
+                                "cx": 509.23265075683594,
+                                "cy": 197.16664123535156
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "ARQUITECTURA DE NUEVAS TECNOLOGÍAS DE COMUNICACIÓN (GP)",
+                            "bbox": {
+                                "x0": 628.2599487304688,
+                                "y0": 173.4108428955078,
+                                "x1": 822.771728515625,
+                                "y1": 204.9745330810547,
+                                "cx": 725.5158386230469,
+                                "cy": 189.19268798828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "(OA3)",
+                            "bbox": {
+                                "x0": 711.15234375,
+                                "y0": 204.2700958251953,
+                                "x1": 740.0087890625,
+                                "y1": 220.9261016845703,
+                                "cx": 725.58056640625,
+                                "cy": 212.5980987548828
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "TECNOLOGÍAS DE INTERNET (GP) (OA3)",
+                            "bbox": {
+                                "x0": 861.2445068359375,
+                                "y0": 181.1646270751953,
+                                "x1": 1022.5353393554688,
+                                "y1": 213.1686553955078,
+                                "cx": 941.8899230957031,
+                                "cy": 197.16664123535156
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "ELECTRONICA DE COMUNICACIONES (GP) (OA3)",
+                            "bbox": {
+                                "x0": 1056.37646484375,
+                                "y0": 181.1646270751953,
+                                "x1": 1260.11474609375,
+                                "y1": 213.1686553955078,
+                                "cx": 1158.24560546875,
+                                "cy": 197.16664123535156
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "Aprobado en la reunión de la Junta de Escuela del xx/xx/2025",
+                            "bbox": {
+                                "x0": 963.8904418945312,
+                                "y0": 898.0260009765625,
+                                "x1": 1262.75146484375,
+                                "y1": 914.08203125,
+                                "cx": 1113.3209533691406,
+                                "cy": 906.0540161132812
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,1779 @@
+{
+    "schema_version": "1.0",
+    "processed_at": "2026-06-09 13:40:32",
+    "input_file": {
+        "path": "/data/downloaded_pdfs/Semestre1-Transversales.pdf.pdf",
+        "name": "Semestre1-Transversales.pdf.pdf",
+        "total_pages": 3
+    },
+    "standard_schedule": [
+        {
+            "source": {
+                "archivo": "Semestre1-Transversales.pdf.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "1º",
+                "curso": "1º",
+                "grupo": "1ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "08:00",
+                "hora_fin": "08:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TIC (1C)",
+                "subgrupo": "1T",
+                "aula": "NL8",
+                "texto_original": "TIC (1C) - 1T (NL8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-Transversales.pdf.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "1º",
+                "curso": "1º",
+                "grupo": "1ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "09:00",
+                "hora_fin": "09:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TIC (1C)",
+                "subgrupo": "1T",
+                "aula": "NL8",
+                "texto_original": "TIC (1C) - 1T (NL8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-Transversales.pdf.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "1º",
+                "curso": "1º",
+                "grupo": "1ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "INGENIERÍA",
+                "subgrupo": "1T",
+                "aula": "OA1",
+                "texto_original": "INGENIERÍA - 1T (OA1) Herramientas Para Ingeniería De"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-Transversales.pdf.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "1º",
+                "curso": "1º",
+                "grupo": "1ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SIMULACIÓN - 1T",
+                "subgrupo": "A1",
+                "aula": "OL11",
+                "texto_original": "Simulación - 1T-A1 (OL11) Herramientas Para Ingeniería De"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-Transversales.pdf.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "1º",
+                "curso": "1º",
+                "grupo": "1ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SIMULACIÓN - 1T",
+                "subgrupo": "A2",
+                "aula": "OA7",
+                "texto_original": "Simulación - 1T-A2 (OA7) ROBÓTICA PARA TODOS - 1T (OL2)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre1-Transversales.pdf.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": null,
+                "codigo_titulacion": null,
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "1º",
+                "curso": "1º",
+                "grupo": "1ºT"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "TIC (1C)",
+                "subgrupo": "1T",
+                "aula": "NL8",
+                "texto_original": "TIC (1C) - 1T (NL8) AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2)"
+            }
+        }
+    ],
+    "debug": {
+        "pages": [
+            {
+                "page": 1,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "1º",
+                    "curso": "1º",
+                    "grupo": "1ºT"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre1-Transversales.pdf.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "1º",
+                            "curso": "1º",
+                            "grupo": "1ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "08:00",
+                            "hora_fin": "08:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TIC (1C)",
+                            "subgrupo": "1T",
+                            "aula": "NL8",
+                            "texto_original": "TIC (1C) - 1T (NL8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-Transversales.pdf.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "1º",
+                            "curso": "1º",
+                            "grupo": "1ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "09:00",
+                            "hora_fin": "09:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TIC (1C)",
+                            "subgrupo": "1T",
+                            "aula": "NL8",
+                            "texto_original": "TIC (1C) - 1T (NL8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-Transversales.pdf.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "1º",
+                            "curso": "1º",
+                            "grupo": "1ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "INGENIERÍA",
+                            "subgrupo": "1T",
+                            "aula": "OA1",
+                            "texto_original": "INGENIERÍA - 1T (OA1) Herramientas Para Ingeniería De"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-Transversales.pdf.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "1º",
+                            "curso": "1º",
+                            "grupo": "1ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SIMULACIÓN - 1T",
+                            "subgrupo": "A1",
+                            "aula": "OL11",
+                            "texto_original": "Simulación - 1T-A1 (OL11) Herramientas Para Ingeniería De"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-Transversales.pdf.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "1º",
+                            "curso": "1º",
+                            "grupo": "1ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SIMULACIÓN - 1T",
+                            "subgrupo": "A2",
+                            "aula": "OA7",
+                            "texto_original": "Simulación - 1T-A2 (OA7) ROBÓTICA PARA TODOS - 1T (OL2)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre1-Transversales.pdf.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": null,
+                            "codigo_titulacion": null,
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "1º",
+                            "curso": "1º",
+                            "grupo": "1ºT"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "TIC (1C)",
+                            "subgrupo": "1T",
+                            "aula": "NL8",
+                            "texto_original": "TIC (1C) - 1T (NL8) AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 - (****)=Aula no perteneciente a la EPS – (LabQ)=Lab. Química Inorgánica, Edificio de Farmacia - (*) = La asignatura transversal de laboratorio de química para ingeniería se impartirá del 11 al 26 de septiembre, 12 sesiones seguidas de prácticas Versión v0 1 OPTATIVIDAD TRANSVERSAL (G61) (TRV) CUATRIMESTRE 1º (Curso 1º, Semestre 1º) Curso 2025/2026 GRUPO 1ºT HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 8:00/8:55 CAPACITACIÓN EN EL USO DE LAS TIC (1C) - 1T (NL8) 9:00/9:55 CAPACITACIÓN EN EL USO DE LAS TIC (1C) - 1T (NL8) 10:00/10:55 CAPACITACIÓN EN EL USO DE LAS TIC (1C) - 1T (NL8) AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2) EVOLUCIÓN HISTÓRICA DE LA INGENIERÍA - 1T (OA1) Herramientas Para Ingeniería De Simulación - 1T-A1 (OL11) Herramientas Para Ingeniería De Simulación - 1T-A2 (OA7) ROBÓTICA PARA TODOS - 1T (OL2) TECNOLOGÍAS APLICADAS A LA AYUDA A LA DISCAPACIDAD - 1T (OA3) TECNOLOGÍAS PARA LA SOCIEDAD DIGITAL - 1T (EA5) 11:00/11:55 CAPACITACIÓN EN EL USO DE LAS TIC (1C) - 1T (NL8) AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2) EVOLUCIÓN HISTÓRICA DE LA INGENIERÍA - 1T (OA1)",
+                    "blocks": [
+                        {
+                            "page": 1,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 - (****)=Aula no perteneciente a la EPS – (LabQ)=Lab. Química Inorgánica, Edificio de Farmacia - (*) = La asignatura transversal de laboratorio de química para ingeniería se impartirá del 11 al 26 de septiembre, 12 sesiones seguidas de prácticas Versión v0",
+                            "bbox": {
+                                "x0": 50.040000915527344,
+                                "y0": 525.0659790039062,
+                                "x1": 600.7839965820312,
+                                "y1": 558.18603515625,
+                                "cx": 325.4119987487793,
+                                "cy": 541.6260070800781
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "1",
+                            "bbox": {
+                                "x0": 50.040000915527344,
+                                "y0": 6.92999267578125,
+                                "x1": 89.17799377441406,
+                                "y1": 15.92999267578125,
+                                "cx": 69.6089973449707,
+                                "cy": 11.42999267578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "OPTATIVIDAD TRANSVERSAL (G61) (TRV) CUATRIMESTRE 1º (Curso 1º, Semestre 1º) Curso 2025/2026 GRUPO 1ºT",
+                            "bbox": {
+                                "x0": 50.040000915527344,
+                                "y0": 84.11001586914062,
+                                "x1": 794.4940185546875,
+                                "y1": 150.83001708984375,
+                                "cx": 422.2670097351074,
+                                "cy": 117.47001647949219
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 60.84000015258789,
+                                "y0": 158.89999389648438,
+                                "x1": 743.614013671875,
+                                "y1": 171.86000061035156,
+                                "cx": 402.22700691223145,
+                                "cy": 165.37999725341797
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "8:00/8:55 CAPACITACIÓN EN EL USO DE LAS",
+                            "bbox": {
+                                "x0": 58.79999923706055,
+                                "y0": 181.82000732421875,
+                                "x1": 781.9330444335938,
+                                "y1": 196.94000244140625,
+                                "cx": 420.36652183532715,
+                                "cy": 189.3800048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "TIC (1C) - 1T (NL8)",
+                            "bbox": {
+                                "x0": 684.5800170898438,
+                                "y0": 193.94000244140625,
+                                "x1": 754.6539916992188,
+                                "y1": 202.94000244140625,
+                                "cx": 719.6170043945312,
+                                "cy": 198.44000244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "9:00/9:55 CAPACITACIÓN EN EL USO DE LAS",
+                            "bbox": {
+                                "x0": 58.79999923706055,
+                                "y0": 212.30001831054688,
+                                "x1": 781.9330444335938,
+                                "y1": 227.30001831054688,
+                                "cx": 420.36652183532715,
+                                "cy": 219.80001831054688
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "TIC (1C) - 1T (NL8)",
+                            "bbox": {
+                                "x0": 684.5800170898438,
+                                "y0": 224.42001342773438,
+                                "x1": 754.6539916992188,
+                                "y1": 233.42001342773438,
+                                "cx": 719.6170043945312,
+                                "cy": 228.92001342773438
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "10:00/10:55",
+                            "bbox": {
+                                "x0": 54.2400016784668,
+                                "y0": 333.4000244140625,
+                                "x1": 583.3839721679688,
+                                "y1": 342.4000244140625,
+                                "cx": 318.8119869232178,
+                                "cy": 337.9000244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "CAPACITACIÓN EN EL USO DE LAS",
+                            "bbox": {
+                                "x0": 657.219970703125,
+                                "y0": 242.66000366210938,
+                                "x1": 781.9330444335938,
+                                "y1": 251.66000366210938,
+                                "cx": 719.5765075683594,
+                                "cy": 247.16000366210938
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "TIC (1C) - 1T (NL8) AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2)",
+                            "bbox": {
+                                "x0": 656.02001953125,
+                                "y0": 254.77999877929688,
+                                "x1": 783.333984375,
+                                "y1": 287.8999938964844,
+                                "cx": 719.677001953125,
+                                "cy": 271.3399963378906
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "EVOLUCIÓN HISTÓRICA DE LA",
+                            "bbox": {
+                                "x0": 664.4199829101562,
+                                "y0": 291.02001953125,
+                                "x1": 774.83203125,
+                                "y1": 300.02001953125,
+                                "cx": 719.6260070800781,
+                                "cy": 295.52001953125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "INGENIERÍA - 1T (OA1) Herramientas Para Ingeniería De",
+                            "bbox": {
+                                "x0": 659.1400146484375,
+                                "y0": 303.1400146484375,
+                                "x1": 780.0547485351562,
+                                "y1": 324.2799987792969,
+                                "cx": 719.5973815917969,
+                                "cy": 313.7100067138672
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "Simulación - 1T-A1 (OL11) Herramientas Para Ingeniería De",
+                            "bbox": {
+                                "x0": 659.1400146484375,
+                                "y0": 327.2799987792969,
+                                "x1": 780.0547485351562,
+                                "y1": 348.4000244140625,
+                                "cx": 719.5973815917969,
+                                "cy": 337.8400115966797
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "Simulación - 1T-A2 (OA7) ROBÓTICA PARA TODOS - 1T (OL2)",
+                            "bbox": {
+                                "x0": 654.4600219726562,
+                                "y0": 351.52001953125,
+                                "x1": 784.7739868164062,
+                                "y1": 372.52001953125,
+                                "cx": 719.6170043945312,
+                                "cy": 362.02001953125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "TECNOLOGÍAS APLICADAS A LA AYUDA A LA DISCAPACIDAD - 1T",
+                            "bbox": {
+                                "x0": 659.97998046875,
+                                "y0": 375.6400146484375,
+                                "x1": 781.2940063476562,
+                                "y1": 396.760009765625,
+                                "cx": 720.6369934082031,
+                                "cy": 386.20001220703125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "(OA3) TECNOLOGÍAS PARA LA SOCIEDAD",
+                            "bbox": {
+                                "x0": 656.02001953125,
+                                "y0": 399.8800048828125,
+                                "x1": 783.2530517578125,
+                                "y1": 420.8800048828125,
+                                "cx": 719.6365356445312,
+                                "cy": 410.3800048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "DIGITAL - 1T (EA5)",
+                            "bbox": {
+                                "x0": 684.0999755859375,
+                                "y0": 424.0,
+                                "x1": 755.1339721679688,
+                                "y1": 433.0,
+                                "cx": 719.6169738769531,
+                                "cy": 428.5
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "11:00/11:55",
+                            "bbox": {
+                                "x0": 54.2400016784668,
+                                "y0": 472.6300048828125,
+                                "x1": 583.3839721679688,
+                                "y1": 481.6300048828125,
+                                "cx": 318.8119869232178,
+                                "cy": 477.1300048828125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "CAPACITACIÓN EN EL USO DE LAS",
+                            "bbox": {
+                                "x0": 657.219970703125,
+                                "y0": 442.3900146484375,
+                                "x1": 781.9330444335938,
+                                "y1": 451.3900146484375,
+                                "cx": 719.5765075683594,
+                                "cy": 446.8900146484375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "TIC (1C) - 1T (NL8) AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2)",
+                            "bbox": {
+                                "x0": 656.02001953125,
+                                "y0": 454.3900146484375,
+                                "x1": 783.333984375,
+                                "y1": 487.6300048828125,
+                                "cx": 719.677001953125,
+                                "cy": 471.010009765625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "EVOLUCIÓN HISTÓRICA DE LA",
+                            "bbox": {
+                                "x0": 664.4199829101562,
+                                "y0": 490.7460021972656,
+                                "x1": 774.83203125,
+                                "y1": 499.7460021972656,
+                                "cx": 719.6260070800781,
+                                "cy": 495.2460021972656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "INGENIERÍA - 1T (OA1)",
+                            "bbox": {
+                                "x0": 676.4199829101562,
+                                "y0": 502.7460021972656,
+                                "x1": 762.9340209960938,
+                                "y1": 511.7460021972656,
+                                "cx": 719.677001953125,
+                                "cy": 507.2460021972656
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 2,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": null,
+                    "cuatrimestre": null,
+                    "curso": null,
+                    "grupo": null
+                },
+                "records": [],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 - (****)=Aula no perteneciente a la EPS – (LabQ)=Lab. Química Inorgánica, Edificio de Farmacia - (*) = La asignatura transversal de laboratorio de química para ingeniería se impartirá del 11 al 26 de septiembre, 12 sesiones seguidas de prácticas Versión v0 Herramientas Para Ingeniería De Simulación - 1T-A1 (OL11) Herramientas Para Ingeniería De Simulación - 1T-A2 (OA7) ROBÓTICA PARA TODOS - 1T (OL2) TECNOLOGÍAS APLICADAS A LA AYUDA A LA DISCAPACIDAD - 1T (OA3) TECNOLOGÍAS PARA LA SOCIEDAD DIGITAL - 1T (EA5) 12:00/12:55 AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2) EVOLUCIÓN HISTÓRICA DE LA INGENIERÍA - 1T (OA1) Herramientas Para Ingeniería De Simulación - 1T-A1 (OL11) Herramientas Para Ingeniería De Simulación - 1T-A2 (OA7) Robótica Para Todos - 1T-A1 (OL2) Robótica Para Todos - 1T-A2 (OL7) TECNOLOGÍAS APLICADAS A LA AYUDA A LA DISCAPACIDAD - 1T (OA3/OL7/OL10) TECNOLOGÍAS PARA LA SOCIEDAD DIGITAL - 1T (EA5) 13:00/13:55 AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2) Robótica Para Todos - 1T-A1 (OL2) Robótica Para Todos - 1T-A2 (OL7) TECNOLOGÍAS APLICADAS A LA AYUDA A LA DISCAPACIDAD - 1T (OA3/OL7/OL10) TECNOLOGÍAS PARA LA SOCIEDAD DIGITAL - 1T (EA5) 14:00/14:55 15:00/15:55 LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) TRABAJO EN EQUIPO, PRESENTACIÓN Y DEBATE - 1T -A (Pabellón GALA Sala 7) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ)",
+                    "blocks": [
+                        {
+                            "page": 2,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 - (****)=Aula no perteneciente a la EPS – (LabQ)=Lab. Química Inorgánica, Edificio de Farmacia - (*) = La asignatura transversal de laboratorio de química para ingeniería se impartirá del 11 al 26 de septiembre, 12 sesiones seguidas de prácticas Versión v0",
+                            "bbox": {
+                                "x0": 50.040000915527344,
+                                "y0": 525.0659790039062,
+                                "x1": 600.7839965820312,
+                                "y1": 558.18603515625,
+                                "cx": 325.4119987487793,
+                                "cy": 541.6260070800781
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "Herramientas Para Ingeniería De",
+                            "bbox": {
+                                "x0": 659.1400146484375,
+                                "y0": 11.1300048828125,
+                                "x1": 780.0547485351562,
+                                "y1": 20.1300048828125,
+                                "cx": 719.5973815917969,
+                                "cy": 15.6300048828125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "Simulación - 1T-A1 (OL11) Herramientas Para Ingeniería De",
+                            "bbox": {
+                                "x0": 659.1400146484375,
+                                "y0": 23.25,
+                                "x1": 780.0547485351562,
+                                "y1": 44.25,
+                                "cx": 719.5973815917969,
+                                "cy": 33.75
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "Simulación - 1T-A2 (OA7) ROBÓTICA PARA TODOS - 1T (OL2)",
+                            "bbox": {
+                                "x0": 654.4600219726562,
+                                "y0": 47.3699951171875,
+                                "x1": 784.7739868164062,
+                                "y1": 68.510009765625,
+                                "cx": 719.6170043945312,
+                                "cy": 57.94000244140625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "TECNOLOGÍAS APLICADAS A LA AYUDA A LA DISCAPACIDAD - 1T",
+                            "bbox": {
+                                "x0": 659.97998046875,
+                                "y0": 71.6300048828125,
+                                "x1": 781.2940063476562,
+                                "y1": 92.6300048828125,
+                                "cx": 720.6369934082031,
+                                "cy": 82.1300048828125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "(OA3) TECNOLOGÍAS PARA LA SOCIEDAD",
+                            "bbox": {
+                                "x0": 656.02001953125,
+                                "y0": 95.75,
+                                "x1": 783.2530517578125,
+                                "y1": 116.8699951171875,
+                                "cx": 719.6365356445312,
+                                "cy": 106.30999755859375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "DIGITAL - 1T (EA5)",
+                            "bbox": {
+                                "x0": 684.0999755859375,
+                                "y0": 119.8699951171875,
+                                "x1": 755.1339721679688,
+                                "y1": 128.8699951171875,
+                                "cx": 719.6169738769531,
+                                "cy": 124.3699951171875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "12:00/12:55",
+                            "bbox": {
+                                "x0": 54.2400016784668,
+                                "y0": 222.86001586914062,
+                                "x1": 583.3839721679688,
+                                "y1": 231.86001586914062,
+                                "cx": 318.8119869232178,
+                                "cy": 227.36001586914062
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2)",
+                            "bbox": {
+                                "x0": 656.02001953125,
+                                "y0": 138.23001098632812,
+                                "x1": 783.333984375,
+                                "y1": 159.35000610351562,
+                                "cx": 719.677001953125,
+                                "cy": 148.79000854492188
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "EVOLUCIÓN HISTÓRICA DE LA",
+                            "bbox": {
+                                "x0": 664.4199829101562,
+                                "y0": 162.47000122070312,
+                                "x1": 774.83203125,
+                                "y1": 171.47000122070312,
+                                "cx": 719.6260070800781,
+                                "cy": 166.97000122070312
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "INGENIERÍA - 1T (OA1) Herramientas Para Ingeniería De",
+                            "bbox": {
+                                "x0": 659.1400146484375,
+                                "y0": 174.47000122070312,
+                                "x1": 780.0547485351562,
+                                "y1": 195.6199951171875,
+                                "cx": 719.5973815917969,
+                                "cy": 185.0449981689453
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "Simulación - 1T-A1 (OL11) Herramientas Para Ingeniería De",
+                            "bbox": {
+                                "x0": 659.1400146484375,
+                                "y0": 198.74002075195312,
+                                "x1": 780.0547485351562,
+                                "y1": 219.74002075195312,
+                                "cx": 719.5973815917969,
+                                "cy": 209.24002075195312
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "Simulación - 1T-A2 (OA7) Robótica Para Todos - 1T-A1 (OL2) Robótica Para Todos - 1T-A2 (OL7)",
+                            "bbox": {
+                                "x0": 654.9400024414062,
+                                "y0": 222.86001586914062,
+                                "x1": 784.2940063476562,
+                                "y1": 256.1000061035156,
+                                "cx": 719.6170043945312,
+                                "cy": 239.48001098632812
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "TECNOLOGÍAS APLICADAS A LA AYUDA A LA DISCAPACIDAD - 1T",
+                            "bbox": {
+                                "x0": 659.97998046875,
+                                "y0": 259.1000061035156,
+                                "x1": 781.2940063476562,
+                                "y1": 280.2200012207031,
+                                "cx": 720.6369934082031,
+                                "cy": 269.6600036621094
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "(OA3/OL7/OL10) TECNOLOGÍAS PARA LA SOCIEDAD",
+                            "bbox": {
+                                "x0": 656.02001953125,
+                                "y0": 283.3399963378906,
+                                "x1": 783.2530517578125,
+                                "y1": 304.3399963378906,
+                                "cx": 719.6365356445312,
+                                "cy": 293.8399963378906
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "DIGITAL - 1T (EA5)",
+                            "bbox": {
+                                "x0": 684.0999755859375,
+                                "y0": 307.4800109863281,
+                                "x1": 755.1339721679688,
+                                "y1": 316.4800109863281,
+                                "cx": 719.6169738769531,
+                                "cy": 311.9800109863281
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "13:00/13:55",
+                            "bbox": {
+                                "x0": 54.2400016784668,
+                                "y0": 374.20001220703125,
+                                "x1": 583.3839721679688,
+                                "y1": 383.20001220703125,
+                                "cx": 318.8119869232178,
+                                "cy": 378.70001220703125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2) Robótica Para Todos - 1T-A1 (OL2) Robótica Para Todos - 1T-A2 (OL7)",
+                            "bbox": {
+                                "x0": 654.9400024414062,
+                                "y0": 325.8399963378906,
+                                "x1": 784.2940063476562,
+                                "y1": 371.08001708984375,
+                                "cx": 719.6170043945312,
+                                "cy": 348.4600067138672
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "TECNOLOGÍAS APLICADAS A LA AYUDA A LA DISCAPACIDAD - 1T",
+                            "bbox": {
+                                "x0": 659.97998046875,
+                                "y0": 374.20001220703125,
+                                "x1": 781.2940063476562,
+                                "y1": 395.20001220703125,
+                                "cx": 720.6369934082031,
+                                "cy": 384.70001220703125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "(OA3/OL7/OL10) TECNOLOGÍAS PARA LA SOCIEDAD",
+                            "bbox": {
+                                "x0": 656.02001953125,
+                                "y0": 398.32000732421875,
+                                "x1": 783.2530517578125,
+                                "y1": 419.44000244140625,
+                                "cx": 719.6365356445312,
+                                "cy": 408.8800048828125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "DIGITAL - 1T (EA5)",
+                            "bbox": {
+                                "x0": 684.0999755859375,
+                                "y0": 422.55999755859375,
+                                "x1": 755.1339721679688,
+                                "y1": 431.55999755859375,
+                                "cx": 719.6169738769531,
+                                "cy": 427.05999755859375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 54.2400016784668,
+                                "y0": 440.83001708984375,
+                                "x1": 653.9739990234375,
+                                "y1": 449.83001708984375,
+                                "cx": 354.10700035095215,
+                                "cy": 445.33001708984375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "15:00/15:55 LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 54.2400016784668,
+                                "y0": 477.30999755859375,
+                                "x1": 233.677978515625,
+                                "y1": 492.42999267578125,
+                                "cx": 143.9589900970459,
+                                "cy": 484.8699951171875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 118.58000183105469,
+                                "y0": 487.62603759765625,
+                                "x1": 223.57398986816406,
+                                "y1": 498.426025390625,
+                                "cx": 171.07699584960938,
+                                "cy": 493.0260314941406
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 243.74000549316406,
+                                "y0": 459.19000244140625,
+                                "x1": 369.03814697265625,
+                                "y1": 468.19000244140625,
+                                "cx": 306.38907623291016,
+                                "cy": 463.69000244140625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 253.94000244140625,
+                                "y0": 469.510009765625,
+                                "x1": 358.9639892578125,
+                                "y1": 480.30999755859375,
+                                "cx": 306.4519958496094,
+                                "cy": 474.9100036621094
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "TRABAJO EN EQUIPO, PRESENTACIÓN Y DEBATE - 1T -A",
+                            "bbox": {
+                                "x0": 245.5399932861328,
+                                "y0": 483.42999267578125,
+                                "x1": 367.3639831542969,
+                                "y1": 504.426025390625,
+                                "cx": 306.45198822021484,
+                                "cy": 493.9280090332031
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "(Pabellón GALA Sala 7)",
+                            "bbox": {
+                                "x0": 263.0899963378906,
+                                "y0": 507.5460205078125,
+                                "x1": 349.843994140625,
+                                "y1": 516.5460205078125,
+                                "cx": 306.4669952392578,
+                                "cy": 512.0460205078125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 382.010009765625,
+                                "y0": 477.30999755859375,
+                                "x1": 507.3081359863281,
+                                "y1": 486.30999755859375,
+                                "cx": 444.65907287597656,
+                                "cy": 481.80999755859375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 392.2099914550781,
+                                "y0": 487.62603759765625,
+                                "x1": 497.2239990234375,
+                                "y1": 498.426025390625,
+                                "cx": 444.7169952392578,
+                                "cy": 493.0260314941406
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 30,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 519.6699829101562,
+                                "y0": 477.30999755859375,
+                                "x1": 644.9679565429688,
+                                "y1": 486.30999755859375,
+                                "cx": 582.3189697265625,
+                                "cy": 481.80999755859375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 31,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 529.8699951171875,
+                                "y0": 487.62603759765625,
+                                "x1": 634.8939819335938,
+                                "y1": 498.426025390625,
+                                "cx": 582.3819885253906,
+                                "cy": 493.0260314941406
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 32,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 656.97998046875,
+                                "y0": 477.30999755859375,
+                                "x1": 782.2779541015625,
+                                "y1": 486.30999755859375,
+                                "cx": 719.6289672851562,
+                                "cy": 481.80999755859375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 33,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 667.1799926757812,
+                                "y0": 487.62603759765625,
+                                "x1": 772.1740112304688,
+                                "y1": 498.426025390625,
+                                "cx": 719.677001953125,
+                                "cy": 493.0260314941406
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 3,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": null,
+                    "cuatrimestre": null,
+                    "curso": null,
+                    "grupo": null
+                },
+                "records": [],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 - (****)=Aula no perteneciente a la EPS – (LabQ)=Lab. Química Inorgánica, Edificio de Farmacia - (*) = La asignatura transversal de laboratorio de química para ingeniería se impartirá del 11 al 26 de septiembre, 12 sesiones seguidas de prácticas Versión v0 16:00/16:55 LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) TRABAJO EN EQUIPO, PRESENTACIÓN Y DEBATE - 1T -A (Pabellón GALA Sala 7) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) 17:00/17:55 LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) TRABAJO EN EQUIPO, PRESENTACIÓN Y DEBATE - 1T -A (Pabellón GALA Sala 7) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA (1C) - 1T (EA6) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) 18:00/18:55 LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA (1C) - 1T (EA6) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) LABORATORIO DE QUÍMICA PARA INGENIEROS (*) - 1T (LabQ) 19:00/19:55 Búsqueda Y Gestión De La Información Y Recursos Multimedia (1C) - 1T-A1 (EA6) 20:00/20:55 Búsqueda Y Gestión De La Información Y Recursos Multimedia (1C) - 1T-A1 (EA6)",
+                    "blocks": [
+                        {
+                            "page": 3,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 - (****)=Aula no perteneciente a la EPS – (LabQ)=Lab. Química Inorgánica, Edificio de Farmacia - (*) = La asignatura transversal de laboratorio de química para ingeniería se impartirá del 11 al 26 de septiembre, 12 sesiones seguidas de prácticas Versión v0",
+                            "bbox": {
+                                "x0": 50.040000915527344,
+                                "y0": 525.0659790039062,
+                                "x1": 600.7839965820312,
+                                "y1": 558.18603515625,
+                                "cx": 325.4119987487793,
+                                "cy": 541.6260070800781
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "16:00/16:55 LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 54.2400016784668,
+                                "y0": 35.25,
+                                "x1": 233.677978515625,
+                                "y1": 50.3699951171875,
+                                "cx": 143.9589900970459,
+                                "cy": 42.80999755859375
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 118.81999969482422,
+                                "y0": 45.56999588012695,
+                                "x1": 223.2139892578125,
+                                "y1": 56.3699951171875,
+                                "cx": 171.01699447631836,
+                                "cy": 50.96999549865723
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 243.74000549316406,
+                                "y0": 11.1300048828125,
+                                "x1": 369.03814697265625,
+                                "y1": 20.1300048828125,
+                                "cx": 306.38907623291016,
+                                "cy": 15.6300048828125
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 252.86000061035156,
+                                "y0": 21.450000762939453,
+                                "x1": 359.92401123046875,
+                                "y1": 32.25,
+                                "cx": 306.39200592041016,
+                                "cy": 26.850000381469727
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "TRABAJO EN EQUIPO, PRESENTACIÓN Y DEBATE - 1T -A",
+                            "bbox": {
+                                "x0": 245.5399932861328,
+                                "y0": 35.25,
+                                "x1": 367.3639831542969,
+                                "y1": 56.3699951171875,
+                                "cx": 306.45198822021484,
+                                "cy": 45.80999755859375
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "(Pabellón GALA Sala 7)",
+                            "bbox": {
+                                "x0": 263.0899963378906,
+                                "y0": 59.510009765625,
+                                "x1": 349.843994140625,
+                                "y1": 68.510009765625,
+                                "cx": 306.4669952392578,
+                                "cy": 64.010009765625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 382.010009765625,
+                                "y0": 35.25,
+                                "x1": 507.3081359863281,
+                                "y1": 44.25,
+                                "cx": 444.65907287597656,
+                                "cy": 39.75
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 392.2099914550781,
+                                "y0": 45.56999588012695,
+                                "x1": 497.2239990234375,
+                                "y1": 56.3699951171875,
+                                "cx": 444.7169952392578,
+                                "cy": 50.96999549865723
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 519.6699829101562,
+                                "y0": 35.25,
+                                "x1": 644.9679565429688,
+                                "y1": 44.25,
+                                "cx": 582.3189697265625,
+                                "cy": 39.75
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 529.8699951171875,
+                                "y0": 45.56999588012695,
+                                "x1": 634.8939819335938,
+                                "y1": 56.3699951171875,
+                                "cx": 582.3819885253906,
+                                "cy": 50.96999549865723
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 656.97998046875,
+                                "y0": 35.25,
+                                "x1": 782.2779541015625,
+                                "y1": 44.25,
+                                "cx": 719.6289672851562,
+                                "cy": 39.75
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 667.1799926757812,
+                                "y0": 45.56999588012695,
+                                "x1": 772.1740112304688,
+                                "y1": 56.3699951171875,
+                                "cx": 719.677001953125,
+                                "cy": 50.96999549865723
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "17:00/17:55 LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 54.2400016784668,
+                                "y0": 107.99002075195312,
+                                "x1": 233.677978515625,
+                                "y1": 123.11001586914062,
+                                "cx": 143.9589900970459,
+                                "cy": 115.55001831054688
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 118.58000183105469,
+                                "y0": 118.31001281738281,
+                                "x1": 223.57398986816406,
+                                "y1": 129.11001586914062,
+                                "cx": 171.07699584960938,
+                                "cy": 123.71001434326172
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 243.74000549316406,
+                                "y0": 89.8699951171875,
+                                "x1": 369.03814697265625,
+                                "y1": 98.8699951171875,
+                                "cx": 306.38907623291016,
+                                "cy": 94.3699951171875
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 253.94000244140625,
+                                "y0": 100.19001770019531,
+                                "x1": 358.9639892578125,
+                                "y1": 110.99002075195312,
+                                "cx": 306.4519958496094,
+                                "cy": 105.59001922607422
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "TRABAJO EN EQUIPO, PRESENTACIÓN Y DEBATE - 1T -A",
+                            "bbox": {
+                                "x0": 245.5399932861328,
+                                "y0": 114.11001586914062,
+                                "x1": 367.3639831542969,
+                                "y1": 135.23001098632812,
+                                "cx": 306.45198822021484,
+                                "cy": 124.67001342773438
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "(Pabellón GALA Sala 7)",
+                            "bbox": {
+                                "x0": 263.0899963378906,
+                                "y0": 138.23001098632812,
+                                "x1": 349.843994140625,
+                                "y1": 147.23001098632812,
+                                "cx": 306.4669952392578,
+                                "cy": 142.73001098632812
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 382.010009765625,
+                                "y0": 107.99002075195312,
+                                "x1": 507.3081359863281,
+                                "y1": 116.99002075195312,
+                                "cx": 444.65907287597656,
+                                "cy": 112.49002075195312
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 392.2099914550781,
+                                "y0": 118.31001281738281,
+                                "x1": 497.2239990234375,
+                                "y1": 129.11001586914062,
+                                "cx": 444.7169952392578,
+                                "cy": 123.71001434326172
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "BÚSQUEDA Y GESTIÓN DE LA",
+                            "bbox": {
+                                "x0": 528.3099975585938,
+                                "y0": 89.8699951171875,
+                                "x1": 636.2110595703125,
+                                "y1": 98.8699951171875,
+                                "cx": 582.2605285644531,
+                                "cy": 94.3699951171875
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "INFORMACIÓN Y RECURSOS MULTIMEDIA (1C) - 1T (EA6) LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 519.6699829101562,
+                                "y0": 101.99002075195312,
+                                "x1": 644.9679565429688,
+                                "y1": 135.23001098632812,
+                                "cx": 582.3189697265625,
+                                "cy": 118.61001586914062
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 529.8699951171875,
+                                "y0": 136.4300079345703,
+                                "x1": 634.8939819335938,
+                                "y1": 147.23001098632812,
+                                "cx": 582.3819885253906,
+                                "cy": 141.83000946044922
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 656.97998046875,
+                                "y0": 107.99002075195312,
+                                "x1": 782.2779541015625,
+                                "y1": 116.99002075195312,
+                                "cx": 719.6289672851562,
+                                "cy": 112.49002075195312
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 667.1799926757812,
+                                "y0": 118.31001281738281,
+                                "x1": 772.1740112304688,
+                                "y1": 129.11001586914062,
+                                "cx": 719.677001953125,
+                                "cy": 123.71001434326172
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "18:00/18:55 LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 54.2400016784668,
+                                "y0": 174.71002197265625,
+                                "x1": 233.677978515625,
+                                "y1": 189.74002075195312,
+                                "cx": 143.9589900970459,
+                                "cy": 182.2250213623047
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 118.58000183105469,
+                                "y0": 185.0600128173828,
+                                "x1": 223.57398986816406,
+                                "y1": 195.86001586914062,
+                                "cx": 171.07699584960938,
+                                "cy": 190.46001434326172
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 243.74000549316406,
+                                "y0": 174.71002197265625,
+                                "x1": 369.03814697265625,
+                                "y1": 183.71002197265625,
+                                "cx": 306.38907623291016,
+                                "cy": 179.21002197265625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 30,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 253.94000244140625,
+                                "y0": 185.0600128173828,
+                                "x1": 358.9639892578125,
+                                "y1": 195.86001586914062,
+                                "cx": 306.4519958496094,
+                                "cy": 190.46001434326172
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 31,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 382.010009765625,
+                                "y0": 174.71002197265625,
+                                "x1": 507.3081359863281,
+                                "y1": 183.71002197265625,
+                                "cx": 444.65907287597656,
+                                "cy": 179.21002197265625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 32,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 392.2099914550781,
+                                "y0": 185.0600128173828,
+                                "x1": 497.2239990234375,
+                                "y1": 195.86001586914062,
+                                "cx": 444.7169952392578,
+                                "cy": 190.46001434326172
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 33,
+                            "type": 0,
+                            "text": "BÚSQUEDA Y GESTIÓN DE LA",
+                            "bbox": {
+                                "x0": 528.3099975585938,
+                                "y0": 156.58999633789062,
+                                "x1": 636.2110595703125,
+                                "y1": 165.58999633789062,
+                                "cx": 582.2605285644531,
+                                "cy": 161.08999633789062
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 34,
+                            "type": 0,
+                            "text": "INFORMACIÓN Y RECURSOS MULTIMEDIA (1C) - 1T (EA6) LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 519.6699829101562,
+                                "y0": 168.71002197265625,
+                                "x1": 644.9679565429688,
+                                "y1": 201.86001586914062,
+                                "cx": 582.3189697265625,
+                                "cy": 185.28501892089844
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 35,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 529.8699951171875,
+                                "y0": 203.1800079345703,
+                                "x1": 634.8939819335938,
+                                "y1": 213.98001098632812,
+                                "cx": 582.3819885253906,
+                                "cy": 208.58000946044922
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 36,
+                            "type": 0,
+                            "text": "LABORATORIO DE QUÍMICA PARA",
+                            "bbox": {
+                                "x0": 656.97998046875,
+                                "y0": 174.71002197265625,
+                                "x1": 782.2779541015625,
+                                "y1": 183.71002197265625,
+                                "cx": 719.6289672851562,
+                                "cy": 179.21002197265625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 37,
+                            "type": 0,
+                            "text": "INGENIEROS (*) - 1T (LabQ)",
+                            "bbox": {
+                                "x0": 667.1799926757812,
+                                "y0": 185.0600128173828,
+                                "x1": 772.1740112304688,
+                                "y1": 195.86001586914062,
+                                "cx": 719.677001953125,
+                                "cy": 190.46001434326172
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 38,
+                            "type": 0,
+                            "text": "19:00/19:55",
+                            "bbox": {
+                                "x0": 54.2400016784668,
+                                "y0": 235.33999633789062,
+                                "x1": 445.7439880371094,
+                                "y1": 244.33999633789062,
+                                "cx": 249.9919948577881,
+                                "cy": 239.83999633789062
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 39,
+                            "type": 0,
+                            "text": "Búsqueda Y Gestión De La Información Y Recursos Multimedia",
+                            "bbox": {
+                                "x0": 516.3099975585938,
+                                "y0": 223.33999633789062,
+                                "x1": 648.3397827148438,
+                                "y1": 244.33999633789062,
+                                "cx": 582.3248901367188,
+                                "cy": 233.83999633789062
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 40,
+                            "type": 0,
+                            "text": "(1C) - 1T-A1 (EA6)",
+                            "bbox": {
+                                "x0": 547.75,
+                                "y0": 247.46002197265625,
+                                "x1": 616.9840087890625,
+                                "y1": 256.46002197265625,
+                                "cx": 582.3670043945312,
+                                "cy": 251.96002197265625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 42,
+                            "type": 0,
+                            "text": "20:00/20:55",
+                            "bbox": {
+                                "x0": 54.2400016784668,
+                                "y0": 277.94000244140625,
+                                "x1": 445.7439880371094,
+                                "y1": 286.94000244140625,
+                                "cx": 249.9919948577881,
+                                "cy": 282.44000244140625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 43,
+                            "type": 0,
+                            "text": "Búsqueda Y Gestión De La Información Y Recursos Multimedia",
+                            "bbox": {
+                                "x0": 516.3099975585938,
+                                "y0": 265.82000732421875,
+                                "x1": 648.3397827148438,
+                                "y1": 286.94000244140625,
+                                "cx": 582.3248901367188,
+                                "cy": 276.3800048828125
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 44,
+                            "type": 0,
+                            "text": "(1C) - 1T-A1 (EA6)",
+                            "bbox": {
+                                "x0": 547.75,
+                                "y0": 289.94000244140625,
+                                "x1": 616.9840087890625,
+                                "y1": 298.94000244140625,
+                                "cx": 582.3670043945312,
+                                "cy": 294.44000244140625
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

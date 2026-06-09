@@ -1,0 +1,858 @@
+{
+    "schema_version": "1.0",
+    "processed_at": "2026-06-09 13:40:30",
+    "input_file": {
+        "path": "/data/downloaded_pdfs/Comienzo-Clases-2Q2526.pdf",
+        "name": "Comienzo-Clases-2Q2526.pdf",
+        "total_pages": 6
+    },
+    "standard_schedule": [],
+    "debug": {
+        "pages": [
+            {
+                "page": 1,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": null,
+                    "cuatrimestre": null,
+                    "curso": null,
+                    "grupo": null
+                },
+                "records": [],
+                "raw": {
+                    "text": "Acuerdos de la Comisión Docente de grados con respecto a: Organización de la Docencia (2º cuatrimestre) curso 2025-26 Aprobado en Comisión Docente de la EPS el día 17 de diciembre de 2025",
+                    "blocks": [
+                        {
+                            "page": 1,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Acuerdos de la Comisión Docente",
+                            "bbox": {
+                                "x0": 90.26399993896484,
+                                "y0": 128.67999267578125,
+                                "x1": 699.6015625,
+                                "y1": 172.71998596191406,
+                                "cx": 394.9327812194824,
+                                "cy": 150.69998931884766
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "de grados con respecto a:",
+                            "bbox": {
+                                "x0": 161.17999267578125,
+                                "y0": 181.46200561523438,
+                                "x1": 618.9060668945312,
+                                "y1": 225.52601623535156,
+                                "cx": 390.04302978515625,
+                                "cy": 203.49401092529297
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "Organización de la Docencia (2º cuatrimestre)",
+                            "bbox": {
+                                "x0": 149.4199981689453,
+                                "y0": 284.1520080566406,
+                                "x1": 693.9071655273438,
+                                "y1": 312.1360168457031,
+                                "cx": 421.66358184814453,
+                                "cy": 298.1440124511719
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "curso 2025-26",
+                            "bbox": {
+                                "x0": 340.8699951171875,
+                                "y0": 317.7900085449219,
+                                "x1": 502.4357604980469,
+                                "y1": 345.75,
+                                "cx": 421.6528778076172,
+                                "cy": 331.77000427246094
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "Aprobado en Comisión Docente de la EPS el día 17 de diciembre de 2025",
+                            "bbox": {
+                                "x0": 155.77999877929688,
+                                "y0": 392.70001220703125,
+                                "x1": 687.3698120117188,
+                                "y1": 410.70001220703125,
+                                "cx": 421.5749053955078,
+                                "cy": 401.70001220703125
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 2,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": null,
+                    "cuatrimestre": null,
+                    "curso": null,
+                    "grupo": null
+                },
+                "records": [],
+                "raw": {
+                    "text": "Docencia en las dos primeras semanas de clase 2º Q (26-ene a 6-feb) • Como en cursos precedentes el criterio general es impartir docencia teórica durante las dos primeras semanas (2ºQ) – En el grupo grande de teoría – En el grupo 1 de los problemas / laboratorio. • Si alguna asignatura fuese a utilizar un grupo 2 (o más grupos pequeños) para docencia durante las dos primeras semanas y en horario hubiera un grupo 1 solapado de otra asignatura, se deberá mover dicho grupo 2 a otro horario, para lo que habrá que contactar con el Secretario Académico de la EPS. IMPORTANTE: En turno de mañana solo quedan aulas disponibles de 8:00-10:00 horas. • Los coordinadores de curso verificarán posibles colisiones horarias de las dos primeras semanas para facilitar su resolución. • Si el número de estudiantes matriculados en el grupo es mayor que el aforo del aula/laboratorio asignado para el grupo 1, tiene dos opciones: – Solicitud de aula adicional. IMPORTANTE: En turno de mañana solo quedan aulas disponibles de 8:00-10:00 horas. – Repetición de la docencia en el horario y laboratorios de los grupos pequeños. • Se recuerda que se puede usar los laboratorios para dar la docencia en las dos primeras semanas, como alternativa a las aulas de teoría, en caso de que sea posible. • IMPORTANTE: El plazo para el envío de solicitudes de aula/laboratorio para las primeras semanas de clase finaliza el 16 de enero 2026 para el segundo cuatrimestre. • La reserva de aulas debe hacerse a través del enlace.",
+                    "blocks": [
+                        {
+                            "page": 2,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Docencia en las dos primeras semanas de clase 2º Q (26-ene a 6-feb)",
+                            "bbox": {
+                                "x0": 75.57599639892578,
+                                "y0": 70.05999755859375,
+                                "x1": 743.4039916992188,
+                                "y1": 94.05999755859375,
+                                "cx": 409.48999404907227,
+                                "cy": 82.05999755859375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "• Como en cursos precedentes el criterio general es impartir docencia teórica durante las dos primeras semanas (2ºQ)",
+                            "bbox": {
+                                "x0": 38.59199905395508,
+                                "y0": 114.12998962402344,
+                                "x1": 643.489990234375,
+                                "y1": 127.989990234375,
+                                "cx": 341.04099464416504,
+                                "cy": 121.05998992919922
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "– En el grupo grande de teoría",
+                            "bbox": {
+                                "x0": 79.1520004272461,
+                                "y0": 140.02828979492188,
+                                "x1": 242.845947265625,
+                                "y1": 153.91600036621094,
+                                "cx": 160.99897384643555,
+                                "cy": 146.9721450805664
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "– En el grupo 1 de los problemas / laboratorio.",
+                            "bbox": {
+                                "x0": 79.1520004272461,
+                                "y0": 165.99998474121094,
+                                "x1": 322.2239990234375,
+                                "y1": 179.8599853515625,
+                                "cx": 200.6879997253418,
+                                "cy": 172.92998504638672
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "• Si alguna asignatura fuese a utilizar un grupo 2 (o más grupos pequeños) para docencia durante las dos primeras semanas y en horario",
+                            "bbox": {
+                                "x0": 38.59199905395508,
+                                "y0": 191.9199981689453,
+                                "x1": 744.1419677734375,
+                                "y1": 205.77999877929688,
+                                "cx": 391.3669834136963,
+                                "cy": 198.8499984741211
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "hubiera un grupo 1 solapado de otra asignatura, se deberá mover dicho grupo 2 a otro horario, para lo que habrá que contactar con el",
+                            "bbox": {
+                                "x0": 69.0719985961914,
+                                "y0": 216.82000732421875,
+                                "x1": 744.1419677734375,
+                                "y1": 228.82000732421875,
+                                "cx": 406.60698318481445,
+                                "cy": 222.82000732421875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "Secretario Académico de la EPS. IMPORTANTE: En turno de mañana solo quedan aulas disponibles de 8:00-10:00 horas.",
+                            "bbox": {
+                                "x0": 69.0719985961914,
+                                "y0": 239.84197998046875,
+                                "x1": 651.4400024414062,
+                                "y1": 251.86598205566406,
+                                "cx": 360.2560005187988,
+                                "cy": 245.8539810180664
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "• Los coordinadores de curso verificarán posibles colisiones horarias de las dos primeras semanas para facilitar su resolución.",
+                            "bbox": {
+                                "x0": 38.59199905395508,
+                                "y0": 263.94000244140625,
+                                "x1": 670.669921875,
+                                "y1": 277.79998779296875,
+                                "cx": 354.63096046447754,
+                                "cy": 270.8699951171875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "• Si el número de estudiantes matriculados en el grupo es mayor que el aforo del aula/laboratorio asignado para el grupo 1, tiene dos",
+                            "bbox": {
+                                "x0": 38.59199905395508,
+                                "y0": 289.8600158691406,
+                                "x1": 712.927490234375,
+                                "y1": 303.7200012207031,
+                                "cx": 375.75974464416504,
+                                "cy": 296.7900085449219
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "opciones:",
+                            "bbox": {
+                                "x0": 69.0719985961914,
+                                "y0": 314.760009765625,
+                                "x1": 116.17200469970703,
+                                "y1": 326.760009765625,
+                                "cx": 92.62200164794922,
+                                "cy": 320.760009765625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "– Solicitud de aula adicional. IMPORTANTE: En turno de mañana solo quedan aulas disponibles de 8:00-10:00 horas.",
+                            "bbox": {
+                                "x0": 79.1520004272461,
+                                "y0": 338.82000732421875,
+                                "x1": 660.8657836914062,
+                                "y1": 352.67999267578125,
+                                "cx": 370.0088920593262,
+                                "cy": 345.75
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "– Repetición de la docencia en el horario y laboratorios de los grupos pequeños.",
+                            "bbox": {
+                                "x0": 79.1520004272461,
+                                "y0": 364.760009765625,
+                                "x1": 485.1399841308594,
+                                "y1": 378.6199951171875,
+                                "cx": 282.14599227905273,
+                                "cy": 371.69000244140625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "• Se recuerda que se puede usar los laboratorios para dar la docencia en las dos primeras semanas, como alternativa a las aulas de teoría,",
+                            "bbox": {
+                                "x0": 38.59199905395508,
+                                "y0": 390.67999267578125,
+                                "x1": 736.0659790039062,
+                                "y1": 404.53997802734375,
+                                "cx": 387.32898902893066,
+                                "cy": 397.6099853515625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "en caso de que sea posible.",
+                            "bbox": {
+                                "x0": 69.0719985961914,
+                                "y0": 415.58001708984375,
+                                "x1": 202.41603088378906,
+                                "y1": 427.58001708984375,
+                                "cx": 135.74401473999023,
+                                "cy": 421.58001708984375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "• IMPORTANTE: El plazo para el envío de solicitudes de aula/laboratorio para las primeras semanas de clase finaliza el 16 de enero 2026",
+                            "bbox": {
+                                "x0": 38.59199905395508,
+                                "y0": 439.6440124511719,
+                                "x1": 744.1419677734375,
+                                "y1": 453.5039978027344,
+                                "cx": 391.3669834136963,
+                                "cy": 446.5740051269531
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "para el segundo cuatrimestre.",
+                            "bbox": {
+                                "x0": 69.0719985961914,
+                                "y0": 464.5679931640625,
+                                "x1": 220.61199951171875,
+                                "y1": 476.5679931640625,
+                                "cx": 144.84199905395508,
+                                "cy": 470.5679931640625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "• La reserva de aulas debe hacerse a través del enlace.",
+                            "bbox": {
+                                "x0": 38.59199905395508,
+                                "y0": 488.6280212402344,
+                                "x1": 332.9640197753906,
+                                "y1": 502.4880065917969,
+                                "cx": 185.77800941467285,
+                                "cy": 495.5580139160156
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 3,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": null,
+                    "cuatrimestre": null,
+                    "curso": null,
+                    "grupo": null
+                },
+                "records": [],
+                "raw": {
+                    "text": "Listas de clase y distribución de estudiantes 2º cuatrimestre • Periodo de cambio de grupo grande del 15 de diciembre 2025 al día 9 de enero 2026. Resolución provisional el 14 de enero. Habrá un plazo de alegaciones de 24 horas desde la resolución. La resolución definitiva el 16 de enero. • Periodo de modificación de matrícula 19 a 23 de enero de 2026. • Solicitudes de evaluación final se solicitan al Director durante las 2 primeras semanas de clase. • Grupos pequeños – Rama de Informática. Realizado por los propios coordinadores-profesores dependiendo de la asignatura – Rama de Telecomunicación e Industriales. Los grupos pequeños están creados desde la matrícula→ Modificaciones de esta distribución a realizar por los coordinadores-profesores. IMPORTANTE: Notificación a los estudiantes. – Para resolver problemas de distribución de estudiantes e incompatibilidades, contactar con el coordinador de curso. – Desde la dirección de la EPS se solicitará actualizaciones de grupos.",
+                    "blocks": [
+                        {
+                            "page": 3,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Listas de clase y distribución de estudiantes",
+                            "bbox": {
+                                "x0": 74.73600006103516,
+                                "y0": 51.220001220703125,
+                                "x1": 708.0120239257812,
+                                "y1": 87.22000122070312,
+                                "cx": 391.3740119934082,
+                                "cy": 69.22000122070312
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "2º cuatrimestre",
+                            "bbox": {
+                                "x0": 277.3399963378906,
+                                "y0": 94.42001342773438,
+                                "x1": 505.36395263671875,
+                                "y1": 130.42001342773438,
+                                "cx": 391.3519744873047,
+                                "cy": 112.42001342773438
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "• Periodo de cambio de grupo grande del 15 de diciembre 2025 al día 9 de enero 2026. Resolución provisional",
+                            "bbox": {
+                                "x0": 47.13600158691406,
+                                "y0": 135.48500061035156,
+                                "x1": 746.77001953125,
+                                "y1": 152.80999755859375,
+                                "cx": 396.95301055908203,
+                                "cy": 144.14749908447266
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "el 14 de enero. Habrá un plazo de alegaciones de 24 horas desde la resolución. La resolución definitiva el 16",
+                            "bbox": {
+                                "x0": 77.61599731445312,
+                                "y0": 163.010009765625,
+                                "x1": 746.77001953125,
+                                "y1": 178.010009765625,
+                                "cx": 412.19300842285156,
+                                "cy": 170.510009765625
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "de enero.",
+                            "bbox": {
+                                "x0": 77.61599731445312,
+                                "y0": 188.20999145507812,
+                                "x1": 135.8800048828125,
+                                "y1": 203.20999145507812,
+                                "cx": 106.74800109863281,
+                                "cy": 195.70999145507812
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "• Periodo de modificación de matrícula 19 a 23 de enero de 2026.",
+                            "bbox": {
+                                "x0": 47.13600158691406,
+                                "y0": 214.6632843017578,
+                                "x1": 467.0360412597656,
+                                "y1": 232.01600646972656,
+                                "cx": 257.08602142333984,
+                                "cy": 223.3396453857422
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "• Solicitudes de evaluación final se solicitan al Director durante las 2 primeras semanas de clase.",
+                            "bbox": {
+                                "x0": 47.13600158691406,
+                                "y0": 243.51499938964844,
+                                "x1": 651.010009765625,
+                                "y1": 260.8399963378906,
+                                "cx": 349.07300567626953,
+                                "cy": 252.17749786376953
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "• Grupos pequeños",
+                            "bbox": {
+                                "x0": 47.13600158691406,
+                                "y0": 272.31500244140625,
+                                "x1": 185.54501342773438,
+                                "y1": 289.6400146484375,
+                                "cx": 116.34050750732422,
+                                "cy": 280.9775085449219
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "– Rama de Informática. Realizado por los propios coordinadores-profesores dependiendo de la asignatura",
+                            "bbox": {
+                                "x0": 87.69599914550781,
+                                "y0": 300.4237976074219,
+                                "x1": 705.0731811523438,
+                                "y1": 316.6400146484375,
+                                "cx": 396.3845901489258,
+                                "cy": 308.5319061279297
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "– Rama de Telecomunicación e Industriales. Los grupos pequeños están creados desde la matrícula→",
+                            "bbox": {
+                                "x0": 87.69599914550781,
+                                "y0": 327.2821044921875,
+                                "x1": 746.5584716796875,
+                                "y1": 343.5260009765625,
+                                "cx": 417.12723541259766,
+                                "cy": 335.404052734375
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "Modificaciones de esta distribución a realizar por los coordinadores-profesores.",
+                            "bbox": {
+                                "x0": 113.13999938964844,
+                                "y0": 353.0199890136719,
+                                "x1": 567.8230590820312,
+                                "y1": 367.05999755859375,
+                                "cx": 340.48152923583984,
+                                "cy": 360.0399932861328
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "IMPORTANTE: Notificación a los estudiantes.",
+                            "bbox": {
+                                "x0": 87.69599914550781,
+                                "y0": 379.8999938964844,
+                                "x1": 368.83807373046875,
+                                "y1": 393.94000244140625,
+                                "cx": 228.26703643798828,
+                                "cy": 386.9199981689453
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "– Para resolver problemas de distribución de estudiantes e incompatibilidades, contactar con el coordinador de",
+                            "bbox": {
+                                "x0": 87.69599914550781,
+                                "y0": 404.6037902832031,
+                                "x1": 746.5530395507812,
+                                "y1": 420.82000732421875,
+                                "cx": 417.12451934814453,
+                                "cy": 412.71189880371094
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "curso.",
+                            "bbox": {
+                                "x0": 113.13999938964844,
+                                "y0": 430.28399658203125,
+                                "x1": 147.5241241455078,
+                                "y1": 444.3479919433594,
+                                "cx": 130.33206176757812,
+                                "cy": 437.3159942626953
+                            }
+                        },
+                        {
+                            "page": 3,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "– Desde la dirección de la EPS se solicitará actualizaciones de grupos.",
+                            "bbox": {
+                                "x0": 87.69599914550781,
+                                "y0": 455.02978515625,
+                                "x1": 494.028076171875,
+                                "y1": 471.2460021972656,
+                                "cx": 290.8620376586914,
+                                "cy": 463.1378936767578
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 4,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": null,
+                    "cuatrimestre": null,
+                    "curso": null,
+                    "grupo": null
+                },
+                "records": [],
+                "raw": {
+                    "text": "Fiesta del Patrón 2º cuatrimestre • El 13 de marzo es la Fiesta del Patrón y será no lectivo. • El día 11 y 12 de marzo se organiza la feria de empresas, donde las empresas organizarán una serie de charlas destinadas al estudiantado. Se usará el horario de 11:45 a 12:15 para organizar charlas de las empresas. Pedimos tu colaboración para que en ese margen permitas al estudiantado que asista a esta actividad. Muchas gracias.",
+                    "blocks": [
+                        {
+                            "page": 4,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Fiesta del Patrón",
+                            "bbox": {
+                                "x0": 269.7799987792969,
+                                "y0": 51.220001220703125,
+                                "x1": 512.887939453125,
+                                "y1": 87.22000122070312,
+                                "cx": 391.33396911621094,
+                                "cy": 69.22000122070312
+                            }
+                        },
+                        {
+                            "page": 4,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "2º cuatrimestre",
+                            "bbox": {
+                                "x0": 277.3399963378906,
+                                "y0": 94.42001342773438,
+                                "x1": 505.36395263671875,
+                                "y1": 130.42001342773438,
+                                "cx": 391.3519744873047,
+                                "cy": 112.42001342773438
+                            }
+                        },
+                        {
+                            "page": 4,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "• El 13 de marzo es la Fiesta del Patrón y será no lectivo.",
+                            "bbox": {
+                                "x0": 47.13600158691406,
+                                "y0": 140.7637939453125,
+                                "x1": 523.3390502929688,
+                                "y1": 163.9099884033203,
+                                "cx": 285.2375259399414,
+                                "cy": 152.3368911743164
+                            }
+                        },
+                        {
+                            "page": 4,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "• El día 11 y 12 de marzo se organiza la feria de empresas, donde las empresas",
+                            "bbox": {
+                                "x0": 47.13600158691406,
+                                "y0": 183.96380615234375,
+                                "x1": 747.9090576171875,
+                                "y1": 207.11000061035156,
+                                "cx": 397.5225296020508,
+                                "cy": 195.53690338134766
+                            }
+                        },
+                        {
+                            "page": 4,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "organizarán una serie de charlas destinadas al estudiantado. Se usará el horario",
+                            "bbox": {
+                                "x0": 77.61599731445312,
+                                "y0": 225.5,
+                                "x1": 747.9090576171875,
+                                "y1": 245.5399932861328,
+                                "cx": 412.7625274658203,
+                                "cy": 235.5199966430664
+                            }
+                        },
+                        {
+                            "page": 4,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "de 11:45 a 12:15 para organizar charlas de las empresas. Pedimos tu colaboración",
+                            "bbox": {
+                                "x0": 77.61599731445312,
+                                "y0": 263.8999938964844,
+                                "x1": 747.9090576171875,
+                                "y1": 283.94000244140625,
+                                "cx": 412.7625274658203,
+                                "cy": 273.9199981689453
+                            }
+                        },
+                        {
+                            "page": 4,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "para que en ese margen permitas al estudiantado que asista a esta actividad.",
+                            "bbox": {
+                                "x0": 77.61599731445312,
+                                "y0": 302.3000183105469,
+                                "x1": 747.9090576171875,
+                                "y1": 322.34002685546875,
+                                "cx": 412.7625274658203,
+                                "cy": 312.3200225830078
+                            }
+                        },
+                        {
+                            "page": 4,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "Muchas gracias.",
+                            "bbox": {
+                                "x0": 77.61599731445312,
+                                "y0": 340.7200012207031,
+                                "x1": 212.009033203125,
+                                "y1": 360.760009765625,
+                                "cx": 144.81251525878906,
+                                "cy": 350.74000549316406
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 5,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": null,
+                    "cuatrimestre": null,
+                    "curso": null,
+                    "grupo": null
+                },
+                "records": [],
+                "raw": {
+                    "text": "Pruebas Parciales • Rama de Telecomunicación: – Para asignaturas de 3º y 4º no comunes, las pruebas parciales se realizarán en horario de clase. – Para asignaturas de 1º se propone la semana del 23 al 27 de marzo para realizar las PEIs. • Rama de Informática e industriales: – Las pruebas de evaluación parcial se realizarán de manera preferente en el hueco horario / aula en el que se imparte la docencia. – Si se precisa hacer la prueba conjunta a varios grupos, en la misma franja temporal con asignación múltiple de aulas→ Se tendrán que realizar donde exista hueco horario para los estudiantes y disponibilidad de aulas. – La reserva de aulas debe hacerse a través del enlace.",
+                    "blocks": [
+                        {
+                            "page": 5,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Pruebas Parciales",
+                            "bbox": {
+                                "x0": 262.82000732421875,
+                                "y0": 51.769989013671875,
+                                "x1": 517.3759155273438,
+                                "y1": 87.76998901367188,
+                                "cx": 390.09796142578125,
+                                "cy": 69.76998901367188
+                            }
+                        },
+                        {
+                            "page": 5,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "• Rama de Telecomunicación:",
+                            "bbox": {
+                                "x0": 47.13600158691406,
+                                "y0": 117.77619934082031,
+                                "x1": 261.8049621582031,
+                                "y1": 136.2100067138672,
+                                "cx": 154.4704818725586,
+                                "cy": 126.99310302734375
+                            }
+                        },
+                        {
+                            "page": 5,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "– Para asignaturas de 3º y 4º no comunes, las pruebas parciales se realizarán en horario de clase. – Para asignaturas de 1º se propone la semana del 23 al 27 de marzo para realizar las PEIs.",
+                            "bbox": {
+                                "x0": 87.69599914550781,
+                                "y0": 140.8162078857422,
+                                "x1": 728.201904296875,
+                                "y1": 182.2899932861328,
+                                "cx": 407.9489517211914,
+                                "cy": 161.5531005859375
+                            }
+                        },
+                        {
+                            "page": 5,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "• Rama de Informática e industriales:",
+                            "bbox": {
+                                "x0": 47.13600158691406,
+                                "y0": 209.95619201660156,
+                                "x1": 312.8249816894531,
+                                "y1": 228.38999938964844,
+                                "cx": 179.9804916381836,
+                                "cy": 219.173095703125
+                            }
+                        },
+                        {
+                            "page": 5,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "– Las pruebas de evaluación parcial se realizarán de manera preferente en el hueco horario / aula en el que se imparte la docencia. – Si se precisa hacer la prueba conjunta a varios grupos, en la misma franja temporal con asignación múltiple de aulas→ Se tendrán que realizar donde exista hueco horario para los estudiantes y disponibilidad de aulas. – La reserva de aulas debe hacerse a través del enlace.",
+                            "bbox": {
+                                "x0": 87.69599914550781,
+                                "y0": 232.99620056152344,
+                                "x1": 736.6669311523438,
+                                "y1": 355.1300048828125,
+                                "cx": 412.1814651489258,
+                                "cy": 294.06310272216797
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 6,
+                "metadata": {
+                    "titulacion": null,
+                    "codigo_titulacion": null,
+                    "curso_academico": null,
+                    "cuatrimestre": null,
+                    "curso": null,
+                    "grupo": null
+                },
+                "records": [],
+                "raw": {
+                    "text": "Coordinador de asignatura • Desde dirección, a lo largo del cuatrimestre te vamos a solicitar lo siguiente, como coordinador de asignatura. – Solicitaremos que nos informes sobre actualizaciones de oferta docente (cambios en el número de grupos pequeños con respecto a los ofertados) – Informaremos si tu asignatura tiene estudiantes que han solicitado evaluación final. – Informaremos si hay estudiantes que han solicitado evaluación adelantada y en el caso te solicitaremos un día/hora para el examen (sólo 1º Q) – En asignaturas con docencia en Inglés, solicitaremos que informes en caso de que detectes estudiantes asistiendo a los grupos de español, para cambiarlos de grupos – Solicitaremos que nos informes de los estudiantes asignados en los grupos pequeños/grandes, una vez estabilizado el curso (semana del 23 de febrero). – Solicitaremos que nos indiques si necesitarás aulas o tiempo adicional para los exámenes.",
+                    "blocks": [
+                        {
+                            "page": 6,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Coordinador de asignatura",
+                            "bbox": {
+                                "x0": 152.16000366210938,
+                                "y0": 62.75,
+                                "x1": 627.8359375,
+                                "y1": 106.79000091552734,
+                                "cx": 389.9979705810547,
+                                "cy": 84.77000045776367
+                            }
+                        },
+                        {
+                            "page": 6,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "• Desde dirección, a lo largo del cuatrimestre te vamos a solicitar lo siguiente, como coordinador de asignatura.",
+                            "bbox": {
+                                "x0": 47.13600158691406,
+                                "y0": 130.68380737304688,
+                                "x1": 747.4932250976562,
+                                "y1": 177.8300018310547,
+                                "cx": 397.31461334228516,
+                                "cy": 154.25690460205078
+                            }
+                        },
+                        {
+                            "page": 6,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "– Solicitaremos que nos informes sobre actualizaciones de oferta docente (cambios en el número de grupos pequeños con respecto a los ofertados) – Informaremos si tu asignatura tiene estudiantes que han solicitado evaluación final. – Informaremos si hay estudiantes que han solicitado evaluación adelantada y en el caso te solicitaremos un día/hora para el examen (sólo 1º Q) – En asignaturas con docencia en Inglés, solicitaremos que informes en caso de que detectes estudiantes asistiendo a los grupos de español, para cambiarlos de grupos – Solicitaremos que nos informes de los estudiantes asignados en los grupos pequeños/grandes, una vez estabilizado el curso (semana del 23 de febrero). – Solicitaremos que nos indiques si necesitarás aulas o tiempo adicional para los exámenes.",
+                            "bbox": {
+                                "x0": 87.69599914550781,
+                                "y0": 182.9300079345703,
+                                "x1": 759.0880126953125,
+                                "y1": 441.3760070800781,
+                                "cx": 423.39200592041016,
+                                "cy": 312.1530075073242
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

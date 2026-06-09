@@ -8,6 +8,7 @@ import threading
 import time
 
 from app.crawler.crawler import CrawlerConfig, CrawlerState, PdfCrawler
+from app.extractor.pdf_extractor import ExtractorState, run_extraction
 
 
 app = FastAPI()
@@ -55,8 +56,16 @@ def get_connection():
 DOWNLOAD_FOLDER = "/data/downloaded_pdfs"
 os.makedirs(DOWNLOAD_FOLDER, exist_ok=True)
 
+EXTRACT_FOLDER = "/data/extracted_json"
+os.makedirs(EXTRACT_FOLDER, exist_ok=True)
+
+extract_state = ExtractorState()
+extract_lock = threading.Lock()
+extract_thread = None
+
 download_state = {
     "running": False,
+    "paused": False,
     "logs": [],
     "errors": [],
     "files": [],
@@ -68,6 +77,7 @@ download_state = {
 
 state_lock = threading.Lock()
 download_thread = None
+current_crawler_state: CrawlerState | None = None
 
 
 def refresh_files():
@@ -104,8 +114,14 @@ def sync_state_from_crawler(crawler_state: CrawlerState):
 
 
 def real_download_process(url: str):
+    global current_crawler_state
+
+    crawler_state = CrawlerState()
+
     with state_lock:
+        current_crawler_state = crawler_state
         download_state["running"] = True
+        download_state["paused"] = False
         download_state["logs"] = []
         download_state["errors"] = []
         download_state["files"] = []
@@ -113,8 +129,6 @@ def real_download_process(url: str):
         download_state["total_pdfs_found"] = 0
         download_state["total_pdfs_downloaded"] = 0
         download_state["last_activity"] = time.strftime("%H:%M:%S")
-
-    crawler_state = CrawlerState()
 
     original_add_log = crawler_state.add_log
     original_add_error = crawler_state.add_error
@@ -165,7 +179,9 @@ def real_download_process(url: str):
         sync_state_from_crawler(crawler_state)
 
         with state_lock:
+            current_crawler_state = None
             download_state["running"] = False
+            download_state["paused"] = False
             download_state["last_activity"] = time.strftime("%H:%M:%S")
 
 
@@ -258,6 +274,38 @@ def start_download(data: DownloadRequest):
     }
 
 
+@app.post("/download/pause")
+def pause_download():
+    with state_lock:
+        if not download_state["running"]:
+            return {"success": False, "message": "No hay proceso en ejecución"}
+        if download_state["paused"]:
+            return {"success": False, "message": "El proceso ya está pausado"}
+        download_state["paused"] = True
+
+    if current_crawler_state:
+        current_crawler_state.pause_event.clear()
+        current_crawler_state.add_log("Proceso pausado por el usuario.")
+
+    return {"success": True, "message": "Proceso pausado"}
+
+
+@app.post("/download/resume")
+def resume_download():
+    with state_lock:
+        if not download_state["running"]:
+            return {"success": False, "message": "No hay proceso en ejecución"}
+        if not download_state["paused"]:
+            return {"success": False, "message": "El proceso no está pausado"}
+        download_state["paused"] = False
+
+    if current_crawler_state:
+        current_crawler_state.pause_event.set()
+        current_crawler_state.add_log("Proceso reanudado por el usuario.")
+
+    return {"success": True, "message": "Proceso reanudado"}
+
+
 @app.get("/download/status")
 def download_status():
     refresh_files()
@@ -265,6 +313,7 @@ def download_status():
     with state_lock:
         return {
             "running": download_state["running"],
+            "paused": download_state["paused"],
             "thread_alive": download_thread.is_alive() if download_thread else False,
             "last_activity": download_state["last_activity"],
             "logs": download_state["logs"],
@@ -292,3 +341,48 @@ def download_file(filename: str):
         media_type="application/pdf",
         filename=filename
     )
+
+
+# =========================================================
+# ENDPOINTS DE EXTRACCIÓN
+# =========================================================
+
+@app.post("/extract/start")
+def start_extraction():
+    global extract_thread
+
+    with extract_lock:
+        if extract_state.running:
+            return {"success": False, "message": "Ya hay una extracción en curso"}
+
+    pdf_files = [
+        f for f in os.listdir(DOWNLOAD_FOLDER)
+        if f.lower().endswith(".pdf")
+    ] if os.path.exists(DOWNLOAD_FOLDER) else []
+
+    if not pdf_files:
+        return {"success": False, "message": "No hay PDFs en la carpeta de descargas"}
+
+    extract_thread = threading.Thread(
+        target=run_extraction,
+        args=(DOWNLOAD_FOLDER, EXTRACT_FOLDER, extract_state),
+        daemon=True,
+    )
+    extract_thread.start()
+
+    return {"success": True, "message": f"Extracción iniciada sobre {len(pdf_files)} PDFs"}
+
+
+@app.get("/extract/status")
+def extraction_status():
+    with extract_state.lock:
+        return {
+            "running": extract_state.running,
+            "total_files": extract_state.total_files,
+            "processed_files": extract_state.processed_files,
+            "progress_percent": extract_state.progress_percent,
+            "current_file": extract_state.current_file,
+            "output_files": list(extract_state.output_files),
+            "logs": list(extract_state.logs),
+            "errors": list(extract_state.errors),
+        }

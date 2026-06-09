@@ -1,0 +1,2273 @@
+{
+    "schema_version": "1.0",
+    "processed_at": "2026-06-09 13:29:09",
+    "input_file": {
+        "path": "/data/downloaded_pdfs/Semestre2-GIST-tercero-cuarto_2.pdf",
+        "name": "Semestre2-GIST-tercero-cuarto_2.pdf",
+        "total_pages": 2
+    },
+    "standard_schedule": [
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "08:00",
+                "hora_fin": "08:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3B3",
+                "subgrupo": null,
+                "aula": "EA6/SL10",
+                "texto_original": "3B3 (EA6/SL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "09:00",
+                "hora_fin": "09:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3B3",
+                "subgrupo": null,
+                "aula": "EA6/SL10",
+                "texto_original": "3B3 (EA6/SL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "- 3B",
+                "subgrupo": null,
+                "aula": "SA8",
+                "texto_original": "- 3B (SA8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "COMUNICACIONES ÓPTICAS",
+                "subgrupo": "3B1",
+                "aula": "SL3",
+                "texto_original": "Comunicaciones Ópticas - 3B1 (SL3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3B2",
+                "subgrupo": null,
+                "aula": "EA6/SL10",
+                "texto_original": "3B2 (EA6/SL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "- 3B",
+                "subgrupo": null,
+                "aula": "SA8",
+                "texto_original": "- 3B (SA8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "COMUNICACIONES ÓPTICAS",
+                "subgrupo": "3B1",
+                "aula": "SL3",
+                "texto_original": "Comunicaciones Ópticas - 3B1 (SL3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3B2",
+                "subgrupo": null,
+                "aula": "EA6/SL10",
+                "texto_original": "3B2 (EA6/SL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3B",
+                "subgrupo": null,
+                "aula": "SA8",
+                "texto_original": "3B (SA8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3B1 (EA6/SL10) COMUNICACIONES ÓPTICAS",
+                "subgrupo": "3B2",
+                "aula": "SL3",
+                "texto_original": "3B1 (EA6/SL10) Comunicaciones Ópticas - 3B2 (SL3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3B",
+                "subgrupo": null,
+                "aula": "SA8",
+                "texto_original": "3B (SA8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3B1 (EA6/SL10) COMUNICACIONES ÓPTICAS",
+                "subgrupo": "3B2",
+                "aula": "SL3",
+                "texto_original": "3B1 (EA6/SL10) Comunicaciones Ópticas - 3B2 (SL3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3B3",
+                "subgrupo": null,
+                "aula": "SL3",
+                "texto_original": "3B3 (SL3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºB"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3B3",
+                "subgrupo": null,
+                "aula": "SL3",
+                "texto_original": "3B3 (SL3)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºB"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4B → 4C",
+                "subgrupo": null,
+                "aula": "SA3",
+                "texto_original": "4B → 4C (SA3) Tecn. en Sist. Elect. – 4OPT (OL10) TECN. EN SIST. ELECT. – 4OPT (OL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºB"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4B → 4C",
+                "subgrupo": null,
+                "aula": "SA3",
+                "texto_original": "4B → 4C (SA3) Tecn. en Sist. Elect. – 4OPT (OL10) TECN. EN SIST. ELECT. – 4OPT (OL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºB"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4B1 → 4C1",
+                "subgrupo": null,
+                "aula": "NL8",
+                "texto_original": "4B1 → 4C1 (NL8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºB"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "(NA6/OL6) TECN. FOTÓNICAS",
+                "subgrupo": "4B",
+                "aula": "NA6",
+                "texto_original": "(NA6/OL6) TECN. FOTÓNICAS - 4B (NA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºB"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4B1 → 4C1",
+                "subgrupo": null,
+                "aula": "NL8",
+                "texto_original": "4B1 → 4C1 (NL8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºB"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "(NA6/OL6) TECN. FOTÓNICAS",
+                "subgrupo": "4B",
+                "aula": "NA6",
+                "texto_original": "(NA6/OL6) TECN. FOTÓNICAS - 4B (NA6)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºB"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4OPT",
+                "subgrupo": null,
+                "aula": "EA8",
+                "texto_original": "4OPT (EA8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                "codigo_titulacion": "G390",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºB"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4OPT",
+                "subgrupo": null,
+                "aula": "EA8",
+                "texto_original": "4OPT (EA8)"
+            }
+        }
+    ],
+    "debug": {
+        "pages": [
+            {
+                "page": 1,
+                "metadata": {
+                    "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                    "codigo_titulacion": "G390",
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "6º",
+                    "curso": "3º",
+                    "grupo": "3ºB"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "08:00",
+                            "hora_fin": "08:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3B3",
+                            "subgrupo": null,
+                            "aula": "EA6/SL10",
+                            "texto_original": "3B3 (EA6/SL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "09:00",
+                            "hora_fin": "09:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3B3",
+                            "subgrupo": null,
+                            "aula": "EA6/SL10",
+                            "texto_original": "3B3 (EA6/SL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "- 3B",
+                            "subgrupo": null,
+                            "aula": "SA8",
+                            "texto_original": "- 3B (SA8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "COMUNICACIONES ÓPTICAS",
+                            "subgrupo": "3B1",
+                            "aula": "SL3",
+                            "texto_original": "Comunicaciones Ópticas - 3B1 (SL3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3B2",
+                            "subgrupo": null,
+                            "aula": "EA6/SL10",
+                            "texto_original": "3B2 (EA6/SL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "- 3B",
+                            "subgrupo": null,
+                            "aula": "SA8",
+                            "texto_original": "- 3B (SA8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "COMUNICACIONES ÓPTICAS",
+                            "subgrupo": "3B1",
+                            "aula": "SL3",
+                            "texto_original": "Comunicaciones Ópticas - 3B1 (SL3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3B2",
+                            "subgrupo": null,
+                            "aula": "EA6/SL10",
+                            "texto_original": "3B2 (EA6/SL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3B",
+                            "subgrupo": null,
+                            "aula": "SA8",
+                            "texto_original": "3B (SA8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3B1 (EA6/SL10) COMUNICACIONES ÓPTICAS",
+                            "subgrupo": "3B2",
+                            "aula": "SL3",
+                            "texto_original": "3B1 (EA6/SL10) Comunicaciones Ópticas - 3B2 (SL3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3B",
+                            "subgrupo": null,
+                            "aula": "SA8",
+                            "texto_original": "3B (SA8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3B1 (EA6/SL10) COMUNICACIONES ÓPTICAS",
+                            "subgrupo": "3B2",
+                            "aula": "SL3",
+                            "texto_original": "3B1 (EA6/SL10) Comunicaciones Ópticas - 3B2 (SL3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3B3",
+                            "subgrupo": null,
+                            "aula": "SL3",
+                            "texto_original": "3B3 (SL3)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºB"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3B3",
+                            "subgrupo": null,
+                            "aula": "SL3",
+                            "texto_original": "3B3 (SL3)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST) CUATRIMESTRE 6º (Curso 3º, Semestre 2º) Curso 2025/2026 GRUPO 3ºB HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 8:00/8:55 Circuitos De Comunicación - 3B2 (SA8) Radiación Y Radiocomunicación - 3B3 (EA6/SL10) 9:00/9:55 Circuitos De Comunicación - 3B2 (SA8) Radiación Y Radiocomunicación - 3B3 (EA6/SL10) 10:00/10:55 COMUNICACIONES ÓPTICAS - 3B (SA8) RADIACIÓN Y RADIOCOMUNICACIÓN - 3B (SA8) Sistemas De Telecomunicación - 3B1 (SA8) Comunicaciones Ópticas - 3B1 (SL3) Radiación Y Radiocomunicación - 3B2 (EA6/SL10) 11:00/11:55 COMUNICACIONES ÓPTICAS - 3B (SA8) RADIACIÓN Y RADIOCOMUNICACIÓN - 3B (SA8) Sistemas De Telecomunicación - 3B1 (SA8) Comunicaciones Ópticas - 3B1 (SL3) Radiación Y Radiocomunicación - 3B2 (EA6/SL10) 12:00/12:55 SISTEMAS DE TELECOMUNICACIÓN - 3B (SA8) CIRCUITOS DE COMUNICACIÓN - 3B (SA8) Circuitos De Comunicación - 3B1 (SA8) Radiación Y Radiocomunicación - 3B1 (EA6/SL10) Comunicaciones Ópticas - 3B2 (SL3) 13:00/13:55 SISTEMAS DE TELECOMUNICACIÓN - 3B (SA8) CIRCUITOS DE COMUNICACIÓN - 3B (SA8) Circuitos De Comunicación - 3B1 (SA8) Radiación Y Radiocomunicación - 3B1 (EA6/SL10) Comunicaciones Ópticas - 3B2 (SL3) 14:00/14:55 15:00/15:55 Comunicaciones Ópticas – 3B3 (SL3) 16:00/16:55 Comunicaciones Ópticas – 3B3 (SL3) 17:00/17:55 18:00/18:55 19:00/19:55",
+                    "blocks": [
+                        {
+                            "page": 1,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0",
+                            "bbox": {
+                                "x0": 50.099998474121094,
+                                "y0": 568.4829711914062,
+                                "x1": 289.5540466308594,
+                                "y1": 579.4629516601562,
+                                "cx": 169.82702255249023,
+                                "cy": 573.9729614257812
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST) CUATRIMESTRE 6º (Curso 3º, Semestre 2º) Curso 2025/2026 GRUPO 3ºB",
+                            "bbox": {
+                                "x0": 50.099998474121094,
+                                "y0": 94.47296142578125,
+                                "x1": 791.5198364257812,
+                                "y1": 151.26295471191406,
+                                "cx": 420.8099174499512,
+                                "cy": 122.86795806884766
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 62.29999923706055,
+                                "y0": 156.67495727539062,
+                                "x1": 741.385986328125,
+                                "y1": 172.5349578857422,
+                                "cx": 401.8429927825928,
+                                "cy": 164.6049575805664
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "8:00/8:55 Circuitos De Comunicación - 3B2",
+                            "bbox": {
+                                "x0": 60.29999923706055,
+                                "y0": 179.73297119140625,
+                                "x1": 641.9340209960938,
+                                "y1": 196.76295471191406,
+                                "cx": 351.11701011657715,
+                                "cy": 188.24796295166016
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "(SA8)",
+                            "bbox": {
+                                "x0": 570.7000122070312,
+                                "y0": 191.83294677734375,
+                                "x1": 590.5450439453125,
+                                "y1": 202.8129425048828,
+                                "cx": 580.6225280761719,
+                                "cy": 197.32294464111328
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "Radiación Y Radiocomunicación -",
+                            "bbox": {
+                                "x0": 658.3499755859375,
+                                "y0": 179.73297119140625,
+                                "x1": 780.7340087890625,
+                                "y1": 190.7129669189453,
+                                "cx": 719.5419921875,
+                                "cy": 185.22296905517578
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "3B3 (EA6/SL10)",
+                            "bbox": {
+                                "x0": 689.0,
+                                "y0": 191.83294677734375,
+                                "x1": 748.0789794921875,
+                                "y1": 202.8129425048828,
+                                "cx": 718.5394897460938,
+                                "cy": 197.32294464111328
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "9:00/9:55 Circuitos De Comunicación - 3B2",
+                            "bbox": {
+                                "x0": 60.29999923706055,
+                                "y0": 210.08294677734375,
+                                "x1": 641.9340209960938,
+                                "y1": 227.1129608154297,
+                                "cx": 351.11701011657715,
+                                "cy": 218.59795379638672
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "(SA8)",
+                            "bbox": {
+                                "x0": 570.7000122070312,
+                                "y0": 222.18295288085938,
+                                "x1": 590.5450439453125,
+                                "y1": 233.16294860839844,
+                                "cx": 580.6225280761719,
+                                "cy": 227.6729507446289
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "Radiación Y Radiocomunicación -",
+                            "bbox": {
+                                "x0": 658.3499755859375,
+                                "y0": 210.08294677734375,
+                                "x1": 780.7340087890625,
+                                "y1": 221.0629425048828,
+                                "cx": 719.5419921875,
+                                "cy": 215.57294464111328
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "3B3 (EA6/SL10)",
+                            "bbox": {
+                                "x0": 689.0,
+                                "y0": 222.18295288085938,
+                                "x1": 748.0789794921875,
+                                "y1": 233.16294860839844,
+                                "cx": 718.5394897460938,
+                                "cy": 227.6729507446289
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "10:00/10:55 COMUNICACIONES ÓPTICAS - 3B",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 246.48297119140625,
+                                "x1": 363.53399658203125,
+                                "y1": 263.512939453125,
+                                "cx": 209.64199829101562,
+                                "cy": 254.99795532226562
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "(SA8)",
+                            "bbox": {
+                                "x0": 291.8999938964844,
+                                "y0": 258.58294677734375,
+                                "x1": 311.7449951171875,
+                                "y1": 269.56292724609375,
+                                "cx": 301.82249450683594,
+                                "cy": 264.07293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "RADIACIÓN Y RADIOCOMUNICACIÓN",
+                            "bbox": {
+                                "x0": 374.0,
+                                "y0": 246.48297119140625,
+                                "x1": 511.3840026855469,
+                                "y1": 257.46295166015625,
+                                "cx": 442.69200134277344,
+                                "cy": 251.97296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "- 3B (SA8)",
+                            "bbox": {
+                                "x0": 422.6000061035156,
+                                "y0": 258.58294677734375,
+                                "x1": 460.72900390625,
+                                "y1": 269.56292724609375,
+                                "cx": 441.6645050048828,
+                                "cy": 264.07293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "Sistemas De Telecomunicación - 3B1",
+                            "bbox": {
+                                "x0": 514.0,
+                                "y0": 246.48297119140625,
+                                "x1": 649.2839965820312,
+                                "y1": 257.46295166015625,
+                                "cx": 581.6419982910156,
+                                "cy": 251.97296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "(SA8)",
+                            "bbox": {
+                                "x0": 570.7000122070312,
+                                "y0": 258.58294677734375,
+                                "x1": 590.5450439453125,
+                                "y1": 269.56292724609375,
+                                "cx": 580.6225280761719,
+                                "cy": 264.07293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "Comunicaciones Ópticas - 3B1 (SL3)",
+                            "bbox": {
+                                "x0": 652.4500122070312,
+                                "y0": 240.43295288085938,
+                                "x1": 784.6320190429688,
+                                "y1": 251.41294860839844,
+                                "cx": 718.541015625,
+                                "cy": 245.9229507446289
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "Radiación Y Radiocomunicación -",
+                            "bbox": {
+                                "x0": 658.3499755859375,
+                                "y0": 252.532958984375,
+                                "x1": 780.7340087890625,
+                                "y1": 263.512939453125,
+                                "cx": 719.5419921875,
+                                "cy": 258.02294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "3B2 (EA6/SL10)",
+                            "bbox": {
+                                "x0": 689.0,
+                                "y0": 264.6329650878906,
+                                "x1": 748.0789794921875,
+                                "y1": 275.6129455566406,
+                                "cx": 718.5394897460938,
+                                "cy": 270.1229553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "11:00/11:55 COMUNICACIONES ÓPTICAS - 3B",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 288.9329528808594,
+                                "x1": 363.53399658203125,
+                                "y1": 305.96295166015625,
+                                "cx": 209.64199829101562,
+                                "cy": 297.4479522705078
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "(SA8)",
+                            "bbox": {
+                                "x0": 291.8999938964844,
+                                "y0": 301.032958984375,
+                                "x1": 311.7449951171875,
+                                "y1": 312.012939453125,
+                                "cx": 301.82249450683594,
+                                "cy": 306.52294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "RADIACIÓN Y RADIOCOMUNICACIÓN",
+                            "bbox": {
+                                "x0": 374.0,
+                                "y0": 288.9329528808594,
+                                "x1": 511.3840026855469,
+                                "y1": 299.9129333496094,
+                                "cx": 442.69200134277344,
+                                "cy": 294.4229431152344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "- 3B (SA8)",
+                            "bbox": {
+                                "x0": 422.6000061035156,
+                                "y0": 301.032958984375,
+                                "x1": 460.72900390625,
+                                "y1": 312.012939453125,
+                                "cx": 441.6645050048828,
+                                "cy": 306.52294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "Sistemas De Telecomunicación - 3B1",
+                            "bbox": {
+                                "x0": 514.0,
+                                "y0": 288.9329528808594,
+                                "x1": 649.2839965820312,
+                                "y1": 299.9129333496094,
+                                "cx": 581.6419982910156,
+                                "cy": 294.4229431152344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "(SA8)",
+                            "bbox": {
+                                "x0": 570.7000122070312,
+                                "y0": 301.032958984375,
+                                "x1": 590.5450439453125,
+                                "y1": 312.012939453125,
+                                "cx": 580.6225280761719,
+                                "cy": 306.52294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "Comunicaciones Ópticas - 3B1 (SL3)",
+                            "bbox": {
+                                "x0": 652.4500122070312,
+                                "y0": 282.8829650878906,
+                                "x1": 784.6320190429688,
+                                "y1": 293.8629455566406,
+                                "cx": 718.541015625,
+                                "cy": 288.3729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "Radiación Y Radiocomunicación -",
+                            "bbox": {
+                                "x0": 658.3499755859375,
+                                "y0": 294.98297119140625,
+                                "x1": 780.7340087890625,
+                                "y1": 305.96295166015625,
+                                "cx": 719.5419921875,
+                                "cy": 300.47296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "3B2 (EA6/SL10)",
+                            "bbox": {
+                                "x0": 689.0,
+                                "y0": 307.08294677734375,
+                                "x1": 748.0789794921875,
+                                "y1": 318.06292724609375,
+                                "cx": 718.5394897460938,
+                                "cy": 312.57293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 30,
+                            "type": 0,
+                            "text": "12:00/12:55 SISTEMAS DE TELECOMUNICACIÓN -",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 331.3829650878906,
+                                "x1": 370.4840087890625,
+                                "y1": 348.4129638671875,
+                                "cx": 213.11700439453125,
+                                "cy": 339.89796447753906
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 31,
+                            "type": 0,
+                            "text": "3B (SA8)",
+                            "bbox": {
+                                "x0": 285.1499938964844,
+                                "y0": 343.48297119140625,
+                                "x1": 318.47900390625,
+                                "y1": 354.46295166015625,
+                                "cx": 301.8144989013672,
+                                "cy": 348.97296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 32,
+                            "type": 0,
+                            "text": "CIRCUITOS DE COMUNICACIÓN - 3B",
+                            "bbox": {
+                                "x0": 376.3500061035156,
+                                "y0": 331.3829650878906,
+                                "x1": 509.083984375,
+                                "y1": 342.3629455566406,
+                                "cx": 442.7169952392578,
+                                "cy": 336.8729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 33,
+                            "type": 0,
+                            "text": "(SA8)",
+                            "bbox": {
+                                "x0": 431.75,
+                                "y0": 343.48297119140625,
+                                "x1": 451.5950012207031,
+                                "y1": 354.46295166015625,
+                                "cx": 441.67250061035156,
+                                "cy": 348.97296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 34,
+                            "type": 0,
+                            "text": "Circuitos De Comunicación - 3B1",
+                            "bbox": {
+                                "x0": 521.4000244140625,
+                                "y0": 331.3829650878906,
+                                "x1": 641.9340209960938,
+                                "y1": 342.3629455566406,
+                                "cx": 581.6670227050781,
+                                "cy": 336.8729553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 35,
+                            "type": 0,
+                            "text": "(SA8)",
+                            "bbox": {
+                                "x0": 570.7000122070312,
+                                "y0": 343.48297119140625,
+                                "x1": 590.5450439453125,
+                                "y1": 354.46295166015625,
+                                "cx": 580.6225280761719,
+                                "cy": 348.97296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 36,
+                            "type": 0,
+                            "text": "Radiación Y Radiocomunicación -",
+                            "bbox": {
+                                "x0": 658.3499755859375,
+                                "y0": 325.33294677734375,
+                                "x1": 780.7340087890625,
+                                "y1": 336.31292724609375,
+                                "cx": 719.5419921875,
+                                "cy": 330.82293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 37,
+                            "type": 0,
+                            "text": "3B1 (EA6/SL10) Comunicaciones Ópticas - 3B2 (SL3)",
+                            "bbox": {
+                                "x0": 652.4500122070312,
+                                "y0": 337.4329833984375,
+                                "x1": 784.6320190429688,
+                                "y1": 360.512939453125,
+                                "cx": 718.541015625,
+                                "cy": 348.97296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 38,
+                            "type": 0,
+                            "text": "13:00/13:55 SISTEMAS DE TELECOMUNICACIÓN -",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 373.83294677734375,
+                                "x1": 370.4840087890625,
+                                "y1": 390.8629455566406,
+                                "cx": 213.11700439453125,
+                                "cy": 382.3479461669922
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 39,
+                            "type": 0,
+                            "text": "3B (SA8)",
+                            "bbox": {
+                                "x0": 285.1499938964844,
+                                "y0": 385.9329833984375,
+                                "x1": 318.47900390625,
+                                "y1": 396.9129638671875,
+                                "cx": 301.8144989013672,
+                                "cy": 391.4229736328125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 40,
+                            "type": 0,
+                            "text": "CIRCUITOS DE COMUNICACIÓN - 3B",
+                            "bbox": {
+                                "x0": 376.3500061035156,
+                                "y0": 373.83294677734375,
+                                "x1": 509.083984375,
+                                "y1": 384.81292724609375,
+                                "cx": 442.7169952392578,
+                                "cy": 379.32293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 41,
+                            "type": 0,
+                            "text": "(SA8)",
+                            "bbox": {
+                                "x0": 431.75,
+                                "y0": 385.9329833984375,
+                                "x1": 451.5950012207031,
+                                "y1": 396.9129638671875,
+                                "cx": 441.67250061035156,
+                                "cy": 391.4229736328125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 42,
+                            "type": 0,
+                            "text": "Circuitos De Comunicación - 3B1",
+                            "bbox": {
+                                "x0": 521.4000244140625,
+                                "y0": 373.83294677734375,
+                                "x1": 641.9340209960938,
+                                "y1": 384.81292724609375,
+                                "cx": 581.6670227050781,
+                                "cy": 379.32293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 43,
+                            "type": 0,
+                            "text": "(SA8)",
+                            "bbox": {
+                                "x0": 570.7000122070312,
+                                "y0": 385.9329833984375,
+                                "x1": 590.5450439453125,
+                                "y1": 396.9129638671875,
+                                "cx": 580.6225280761719,
+                                "cy": 391.4229736328125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 44,
+                            "type": 0,
+                            "text": "Radiación Y Radiocomunicación -",
+                            "bbox": {
+                                "x0": 658.3499755859375,
+                                "y0": 367.782958984375,
+                                "x1": 780.7340087890625,
+                                "y1": 378.762939453125,
+                                "cx": 719.5419921875,
+                                "cy": 373.27294921875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 45,
+                            "type": 0,
+                            "text": "3B1 (EA6/SL10) Comunicaciones Ópticas - 3B2 (SL3)",
+                            "bbox": {
+                                "x0": 652.4500122070312,
+                                "y0": 379.8829650878906,
+                                "x1": 784.6320190429688,
+                                "y1": 402.96295166015625,
+                                "cx": 718.541015625,
+                                "cy": 391.42295837402344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 46,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 410.23297119140625,
+                                "x1": 101.05599975585938,
+                                "y1": 421.21295166015625,
+                                "cx": 78.40299987792969,
+                                "cy": 415.72296142578125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 47,
+                            "type": 0,
+                            "text": "15:00/15:55 Comunicaciones Ópticas –",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 428.48297119140625,
+                                "x1": 766.23974609375,
+                                "y1": 445.512939453125,
+                                "cx": 410.994873046875,
+                                "cy": 436.9979553222656
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 48,
+                            "type": 0,
+                            "text": "3B3 (SL3)",
+                            "bbox": {
+                                "x0": 700.4000244140625,
+                                "y0": 440.58294677734375,
+                                "x1": 736.6820068359375,
+                                "y1": 451.56292724609375,
+                                "cx": 718.541015625,
+                                "cy": 446.07293701171875
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 49,
+                            "type": 0,
+                            "text": "16:00/16:55 Comunicaciones Ópticas –",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 458.83294677734375,
+                                "x1": 766.23974609375,
+                                "y1": 475.8629455566406,
+                                "cx": 410.994873046875,
+                                "cy": 467.3479461669922
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 50,
+                            "type": 0,
+                            "text": "3B3 (SL3)",
+                            "bbox": {
+                                "x0": 700.4000244140625,
+                                "y0": 470.9329528808594,
+                                "x1": 736.6820068359375,
+                                "y1": 481.9129333496094,
+                                "cx": 718.541015625,
+                                "cy": 476.4229431152344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 51,
+                            "type": 0,
+                            "text": "17:00/17:55",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 489.1829528808594,
+                                "x1": 101.05599975585938,
+                                "y1": 500.1629333496094,
+                                "cx": 78.40299987792969,
+                                "cy": 494.6729431152344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 52,
+                            "type": 0,
+                            "text": "18:00/18:55",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 507.4329833984375,
+                                "x1": 101.05599975585938,
+                                "y1": 518.4129638671875,
+                                "cx": 78.40299987792969,
+                                "cy": 512.9229736328125
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 53,
+                            "type": 0,
+                            "text": "19:00/19:55",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 525.6829833984375,
+                                "x1": 101.05599975585938,
+                                "y1": 536.6629638671875,
+                                "cx": 78.40299987792969,
+                                "cy": 531.1729736328125
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 2,
+                "metadata": {
+                    "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                    "codigo_titulacion": "G390",
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "8º",
+                    "curso": "4º",
+                    "grupo": "4ºB"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºB"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4B → 4C",
+                            "subgrupo": null,
+                            "aula": "SA3",
+                            "texto_original": "4B → 4C (SA3) Tecn. en Sist. Elect. – 4OPT (OL10) TECN. EN SIST. ELECT. – 4OPT (OL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºB"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4B → 4C",
+                            "subgrupo": null,
+                            "aula": "SA3",
+                            "texto_original": "4B → 4C (SA3) Tecn. en Sist. Elect. – 4OPT (OL10) TECN. EN SIST. ELECT. – 4OPT (OL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºB"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4B1 → 4C1",
+                            "subgrupo": null,
+                            "aula": "NL8",
+                            "texto_original": "4B1 → 4C1 (NL8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºB"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "(NA6/OL6) TECN. FOTÓNICAS",
+                            "subgrupo": "4B",
+                            "aula": "NA6",
+                            "texto_original": "(NA6/OL6) TECN. FOTÓNICAS - 4B (NA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºB"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4B1 → 4C1",
+                            "subgrupo": null,
+                            "aula": "NL8",
+                            "texto_original": "4B1 → 4C1 (NL8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºB"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "(NA6/OL6) TECN. FOTÓNICAS",
+                            "subgrupo": "4B",
+                            "aula": "NA6",
+                            "texto_original": "(NA6/OL6) TECN. FOTÓNICAS - 4B (NA6)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºB"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4OPT",
+                            "subgrupo": null,
+                            "aula": "EA8",
+                            "texto_original": "4OPT (EA8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIST-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN",
+                            "codigo_titulacion": "G390",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºB"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4OPT",
+                            "subgrupo": null,
+                            "aula": "EA8",
+                            "texto_original": "4OPT (EA8)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0 GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST) CUATRIMESTRE 8º (Curso 4º, Semestre 2º) Curso 2025/2026 GRUPO 4ºB HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 10:00/10:55 INGENIERÍA DEL SOFTWARE - 4B → 4C (SA3) Tecn. en Sist. Elect. – 4OPT (OL10) TECN. EN SIST. ELECT. – 4OPT (OL10) 11:00/11:55 INGENIERÍA DEL SOFTWARE - 4B → 4C (SA3) Tecn. en Sist. Elect. – 4OPT (OL10) TECN. EN SIST. ELECT. – 4OPT (OL10) 12:00/12:55 Ingeniería Del Software - 4B1 → 4C1 (NL8) Tecnologías Fotónicas - 4B2 (NA6/OL6) TECN. FOTÓNICAS - 4B (NA6) 13:00/13:55 Ingeniería Del Software - 4B1 → 4C1 (NL8) Tecnologías Fotónicas - 4B2 (NA6/OL6) TECN. FOTÓNICAS - 4B (NA6) 14:00/14:55 15:00/15:55 TECN. DE REDES Y SERV. TELEM. - 4OPT (EA8) 16:00/16:55 TECN. DE REDES Y SERV. TELEM. - 4OPT (EA8) 17:00/17:55 Tecn. De Redes y Serv. Telem. - 4OPT (EA8) 18:00/18:55 Tecn. De Redes y Serv. Telem. - 4OPT (EA8)",
+                    "blocks": [
+                        {
+                            "page": 2,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – Versión v0",
+                            "bbox": {
+                                "x0": 50.099998474121094,
+                                "y0": 568.4829711914062,
+                                "x1": 289.5540466308594,
+                                "y1": 579.4629516601562,
+                                "cx": 169.82702255249023,
+                                "cy": 573.9729614257812
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 1,
+                            "type": 0,
+                            "text": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST) CUATRIMESTRE 8º (Curso 4º, Semestre 2º) Curso 2025/2026 GRUPO 4ºB",
+                            "bbox": {
+                                "x0": 50.099998474121094,
+                                "y0": 142.87295532226562,
+                                "x1": 791.5198364257812,
+                                "y1": 199.66294860839844,
+                                "cx": 420.8099174499512,
+                                "cy": 171.26795196533203
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 2,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 62.29999923706055,
+                                "y0": 205.074951171875,
+                                "x1": 741.385986328125,
+                                "y1": 220.93495178222656,
+                                "cx": 401.8429927825928,
+                                "cy": 213.00495147705078
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 3,
+                            "type": 0,
+                            "text": "10:00/10:55 INGENIERÍA DEL SOFTWARE -",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 228.13296508789062,
+                                "x1": 222.58302307128906,
+                                "y1": 245.16294860839844,
+                                "cx": 139.16651153564453,
+                                "cy": 236.64795684814453
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "4B → 4C (SA3) Tecn. en Sist. Elect. – 4OPT (OL10) TECN. EN SIST. ELECT. – 4OPT (OL10)",
+                            "bbox": {
+                                "x0": 142.9499969482422,
+                                "y0": 234.18295288085938,
+                                "x1": 785.488037109375,
+                                "y1": 251.2129669189453,
+                                "cx": 464.2190170288086,
+                                "cy": 242.69795989990234
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "11:00/11:55 INGENIERÍA DEL SOFTWARE -",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 258.48297119140625,
+                                "x1": 222.58302307128906,
+                                "y1": 275.512939453125,
+                                "cx": 139.16651153564453,
+                                "cy": 266.9979553222656
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "4B → 4C (SA3) Tecn. en Sist. Elect. – 4OPT (OL10) TECN. EN SIST. ELECT. – 4OPT (OL10)",
+                            "bbox": {
+                                "x0": 142.9499969482422,
+                                "y0": 264.532958984375,
+                                "x1": 785.488037109375,
+                                "y1": 281.56292724609375,
+                                "cx": 464.2190170288086,
+                                "cy": 273.0479431152344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "12:00/12:55 Ingeniería Del Software -",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 288.83294677734375,
+                                "x1": 214.381103515625,
+                                "y1": 305.8629455566406,
+                                "cx": 135.0655517578125,
+                                "cy": 297.3479461669922
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "4B1 → 4C1 (NL8)",
+                            "bbox": {
+                                "x0": 138.35000610351562,
+                                "y0": 300.9329528808594,
+                                "x1": 200.38800048828125,
+                                "y1": 311.9129333496094,
+                                "cx": 169.36900329589844,
+                                "cy": 306.4229431152344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "Tecnologías Fotónicas - 4B2",
+                            "bbox": {
+                                "x0": 391.20001220703125,
+                                "y0": 288.83294677734375,
+                                "x1": 494.2340087890625,
+                                "y1": 299.81292724609375,
+                                "cx": 442.7170104980469,
+                                "cy": 294.32293701171875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "(NA6/OL6) TECN. FOTÓNICAS - 4B (NA6)",
+                            "bbox": {
+                                "x0": 421.75,
+                                "y0": 294.8829650878906,
+                                "x1": 771.6010131835938,
+                                "y1": 311.9129333496094,
+                                "cx": 596.6755065917969,
+                                "cy": 303.39794921875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "13:00/13:55 Ingeniería Del Software -",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 319.1829528808594,
+                                "x1": 214.381103515625,
+                                "y1": 336.21295166015625,
+                                "cx": 135.0655517578125,
+                                "cy": 327.6979522705078
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "4B1 → 4C1 (NL8)",
+                            "bbox": {
+                                "x0": 138.35000610351562,
+                                "y0": 331.282958984375,
+                                "x1": 200.38800048828125,
+                                "y1": 342.262939453125,
+                                "cx": 169.36900329589844,
+                                "cy": 336.77294921875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "Tecnologías Fotónicas - 4B2",
+                            "bbox": {
+                                "x0": 391.20001220703125,
+                                "y0": 319.1829528808594,
+                                "x1": 494.2340087890625,
+                                "y1": 330.1629333496094,
+                                "cx": 442.7170104980469,
+                                "cy": 324.6729431152344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "(NA6/OL6) TECN. FOTÓNICAS - 4B (NA6)",
+                            "bbox": {
+                                "x0": 421.75,
+                                "y0": 331.282958984375,
+                                "x1": 771.6010131835938,
+                                "y1": 342.262939453125,
+                                "cx": 596.6755065917969,
+                                "cy": 336.77294921875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 349.532958984375,
+                                "x1": 101.05599975585938,
+                                "y1": 360.512939453125,
+                                "cx": 78.40299987792969,
+                                "cy": 355.02294921875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "15:00/15:55 TECN. DE REDES Y SERV. TELEM. -",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 367.782958984375,
+                                "x1": 364.833984375,
+                                "y1": 384.81292724609375,
+                                "cx": 210.2919921875,
+                                "cy": 376.2979431152344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "4OPT (EA8)",
+                            "bbox": {
+                                "x0": 281.04998779296875,
+                                "y0": 379.8829650878906,
+                                "x1": 322.5870056152344,
+                                "y1": 390.8629455566406,
+                                "cx": 301.81849670410156,
+                                "cy": 385.3729553222656
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "16:00/16:55 TECN. DE REDES Y SERV. TELEM. -",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 398.1329650878906,
+                                "x1": 364.833984375,
+                                "y1": 415.1629638671875,
+                                "cx": 210.2919921875,
+                                "cy": 406.64796447753906
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "4OPT (EA8)",
+                            "bbox": {
+                                "x0": 281.04998779296875,
+                                "y0": 410.23297119140625,
+                                "x1": 322.5870056152344,
+                                "y1": 421.21295166015625,
+                                "cx": 301.81849670410156,
+                                "cy": 415.72296142578125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "17:00/17:55 Tecn. De Redes y Serv. Telem. - 4OPT",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 428.48297119140625,
+                                "x1": 371.53399658203125,
+                                "y1": 445.512939453125,
+                                "cx": 213.64199829101562,
+                                "cy": 436.9979553222656
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "(EA8)",
+                            "bbox": {
+                                "x0": 291.79998779296875,
+                                "y0": 440.58294677734375,
+                                "x1": 311.7799987792969,
+                                "y1": 451.56292724609375,
+                                "cx": 301.7899932861328,
+                                "cy": 446.07293701171875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "18:00/18:55 Tecn. De Redes y Serv. Telem. - 4OPT",
+                            "bbox": {
+                                "x0": 55.75,
+                                "y0": 458.83294677734375,
+                                "x1": 371.53399658203125,
+                                "y1": 475.8629455566406,
+                                "cx": 213.64199829101562,
+                                "cy": 467.3479461669922
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "(EA8)",
+                            "bbox": {
+                                "x0": 291.79998779296875,
+                                "y0": 470.9329528808594,
+                                "x1": 311.7799987792969,
+                                "y1": 481.9129333496094,
+                                "cx": 301.7899932861328,
+                                "cy": 476.4229431152344
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

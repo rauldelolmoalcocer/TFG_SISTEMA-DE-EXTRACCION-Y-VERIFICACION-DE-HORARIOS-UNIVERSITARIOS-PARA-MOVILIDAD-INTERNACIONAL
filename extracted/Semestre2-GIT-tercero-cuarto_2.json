@@ -1,0 +1,2819 @@
+{
+    "schema_version": "1.0",
+    "processed_at": "2026-06-09 13:29:10",
+    "input_file": {
+        "path": "/data/downloaded_pdfs/Semestre2-GIT-tercero-cuarto_2.pdf",
+        "name": "Semestre2-GIT-tercero-cuarto_2.pdf",
+        "total_pages": 2
+    },
+    "standard_schedule": [
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "08:00",
+                "hora_fin": "08:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "8:00/8:55 SEGURIDAD",
+                "subgrupo": "3D2",
+                "aula": "EL11",
+                "texto_original": "8:00/8:55 Seguridad - 3D2 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "09:00",
+                "hora_fin": "09:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "9:00/9:55 SEGURIDAD",
+                "subgrupo": "3D2",
+                "aula": "EL11",
+                "texto_original": "9:00/9:55 Seguridad - 3D2 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "10:00/10:55 SEGURIDAD",
+                "subgrupo": "3D",
+                "aula": "SA4",
+                "texto_original": "10:00/10:55 SEGURIDAD - 3D (SA4) Sistemas Operativos - 3D2 (EL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONMUTACIÓN",
+                "subgrupo": "3D1",
+                "aula": "EL11",
+                "texto_original": "Conmutación - 3D1 (EL11) SISTEMAS OPERATIVOS - 3D (SA4) LAB. DE REDES, SIST. Y SERVICIOS -"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D1",
+                "subgrupo": null,
+                "aula": "EL11",
+                "texto_original": "3D1 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "11:00/11:55 SEGURIDAD",
+                "subgrupo": "3D",
+                "aula": "SA4",
+                "texto_original": "11:00/11:55 SEGURIDAD - 3D (SA4) Sistemas Operativos - 3D2 (EL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONMUTACIÓN",
+                "subgrupo": "3D1",
+                "aula": "EL11",
+                "texto_original": "Conmutación - 3D1 (EL11) SISTEMAS OPERATIVOS - 3D (SA4) LAB. DE REDES, SIST. Y SERVICIOS -"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D1",
+                "subgrupo": null,
+                "aula": "EL11",
+                "texto_original": "3D1 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "12:00/12:55 CONMUTACION",
+                "subgrupo": "3D",
+                "aula": "SA4",
+                "texto_original": "12:00/12:55 CONMUTACION - 3D (SA4) Sistemas Operativos - 3D1 (EL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONMUTACIÓN",
+                "subgrupo": "3D2",
+                "aula": "EL11",
+                "texto_original": "Conmutación - 3D2 (EL11) Seguridad - 3D1 (EL11) Laboratorio De Redes, Sistemas Y"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SERVICIOS",
+                "subgrupo": "3D1",
+                "aula": "EL11",
+                "texto_original": "Servicios - 3D1 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "13:00/13:55 CONMUTACION",
+                "subgrupo": "3D",
+                "aula": "SA4",
+                "texto_original": "13:00/13:55 CONMUTACION - 3D (SA4) Sistemas Operativos - 3D1 (EL5)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MIÉRCOLES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "CONMUTACIÓN",
+                "subgrupo": "3D2",
+                "aula": "EL11",
+                "texto_original": "Conmutación - 3D2 (EL11) Seguridad - 3D1 (EL11) Laboratorio De Redes, Sistemas Y"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SERVICIOS",
+                "subgrupo": "3D1",
+                "aula": "EL11",
+                "texto_original": "Servicios - 3D1 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "15:00/15:55 SISTEMAS OPERATIVOS",
+                "subgrupo": "3D3",
+                "aula": "EL5",
+                "texto_original": "15:00/15:55 Sistemas Operativos - 3D3 (EL5) LAB. DE REDES, SIST. Y SERVICIOS -"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D2",
+                "subgrupo": null,
+                "aula": "EL11",
+                "texto_original": "3D2 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "16:00/16:55 SISTEMAS OPERATIVOS",
+                "subgrupo": "3D3",
+                "aula": "EL5",
+                "texto_original": "16:00/16:55 Sistemas Operativos - 3D3 (EL5) LAB. DE REDES, SIST. Y SERVICIOS -"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "3D2",
+                "subgrupo": null,
+                "aula": "EL11",
+                "texto_original": "3D2 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SERVICIOS",
+                "subgrupo": "3D2",
+                "aula": "EL11",
+                "texto_original": "Servicios - 3D2 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 1
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "6º",
+                "curso": "3º",
+                "grupo": "3ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SERVICIOS",
+                "subgrupo": "3D2",
+                "aula": "EL11",
+                "texto_original": "Servicios - 3D2 (EL11)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4C",
+                "subgrupo": null,
+                "aula": "SA3",
+                "texto_original": "4C (SA3) Tecn. En Sist. Elect. – 4OPT"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "10:00",
+                "hora_fin": "10:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4OPT",
+                "subgrupo": null,
+                "aula": "OL10",
+                "texto_original": "4OPT (OL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4C",
+                "subgrupo": null,
+                "aula": "SA3",
+                "texto_original": "4C (SA3) Tecn. En Sist. Elect. – 4OPT"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "VIERNES",
+                "hora_inicio": "11:00",
+                "hora_fin": "11:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4OPT",
+                "subgrupo": null,
+                "aula": "OL10",
+                "texto_original": "4OPT (OL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "12:00",
+                "hora_fin": "12:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4C1",
+                "subgrupo": null,
+                "aula": "NL8",
+                "texto_original": "4C1 (NL8) Tecnologías Fotónicas – 4D1"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "13:00",
+                "hora_fin": "13:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4C1",
+                "subgrupo": null,
+                "aula": "NL8",
+                "texto_original": "4C1 (NL8) Tecnologías Fotónicas - 4D1"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "15:00/15:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT",
+                "subgrupo": null,
+                "aula": "SL9",
+                "texto_original": "15:00/15:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9) SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D → 4A (SL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "15:00",
+                "hora_fin": "15:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "COMUNICACIONES MÓVILES - 4D → 4A",
+                "subgrupo": null,
+                "aula": "SA8",
+                "texto_original": "COMUNICACIONES MÓVILES - 4D → 4A (SA8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "MARTES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "16:00/16:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT",
+                "subgrupo": null,
+                "aula": "SL9",
+                "texto_original": "16:00/16:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9) SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D → 4A (SL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "16:00",
+                "hora_fin": "16:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "COMUNICACIONES MÓVILES - 4D → 4A",
+                "subgrupo": null,
+                "aula": "SA8",
+                "texto_original": "COMUNICACIONES MÓVILES - 4D → 4A (SA8)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "– 4OPT",
+                "subgrupo": null,
+                "aula": "SL9",
+                "texto_original": "– 4OPT (SL9)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D1 → 4A1",
+                "subgrupo": null,
+                "aula": "SL10",
+                "texto_original": "Sist. Intelig. Y Sost. De Nueva Generación - 4D1 → 4A1 (SL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "17:00",
+                "hora_fin": "17:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4D1 → 4A1",
+                "subgrupo": null,
+                "aula": "SL9",
+                "texto_original": "4D1 → 4A1 (SL9)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "LUNES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "– 4OPT",
+                "subgrupo": null,
+                "aula": "SL9",
+                "texto_original": "– 4OPT (SL9)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D1 → 4A1",
+                "subgrupo": null,
+                "aula": "SL10",
+                "texto_original": "Sist. Intelig. Y Sost. De Nueva Generación - 4D1 → 4A1 (SL10)"
+            }
+        },
+        {
+            "source": {
+                "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                "pagina": 2
+            },
+            "academic_context": {
+                "titulacion": "INGENIERÍA TELEMÁTICA",
+                "codigo_titulacion": "G380",
+                "curso_academico": "2025/2026",
+                "cuatrimestre": "8º",
+                "curso": "4º",
+                "grupo": "4ºD"
+            },
+            "schedule": {
+                "dia": "JUEVES",
+                "hora_inicio": "18:00",
+                "hora_fin": "18:55"
+            },
+            "subject": {
+                "codigo_asignatura": null,
+                "nombre": "4D1 → 4A1",
+                "subgrupo": null,
+                "aula": "SL9",
+                "texto_original": "4D1 → 4A1 (SL9)"
+            }
+        }
+    ],
+    "debug": {
+        "pages": [
+            {
+                "page": 1,
+                "metadata": {
+                    "titulacion": "INGENIERÍA TELEMÁTICA",
+                    "codigo_titulacion": "G380",
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "6º",
+                    "curso": "3º",
+                    "grupo": "3ºD"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "08:00",
+                            "hora_fin": "08:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "8:00/8:55 SEGURIDAD",
+                            "subgrupo": "3D2",
+                            "aula": "EL11",
+                            "texto_original": "8:00/8:55 Seguridad - 3D2 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "09:00",
+                            "hora_fin": "09:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "9:00/9:55 SEGURIDAD",
+                            "subgrupo": "3D2",
+                            "aula": "EL11",
+                            "texto_original": "9:00/9:55 Seguridad - 3D2 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "10:00/10:55 SEGURIDAD",
+                            "subgrupo": "3D",
+                            "aula": "SA4",
+                            "texto_original": "10:00/10:55 SEGURIDAD - 3D (SA4) Sistemas Operativos - 3D2 (EL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONMUTACIÓN",
+                            "subgrupo": "3D1",
+                            "aula": "EL11",
+                            "texto_original": "Conmutación - 3D1 (EL11) SISTEMAS OPERATIVOS - 3D (SA4) LAB. DE REDES, SIST. Y SERVICIOS -"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D1",
+                            "subgrupo": null,
+                            "aula": "EL11",
+                            "texto_original": "3D1 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "11:00/11:55 SEGURIDAD",
+                            "subgrupo": "3D",
+                            "aula": "SA4",
+                            "texto_original": "11:00/11:55 SEGURIDAD - 3D (SA4) Sistemas Operativos - 3D2 (EL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONMUTACIÓN",
+                            "subgrupo": "3D1",
+                            "aula": "EL11",
+                            "texto_original": "Conmutación - 3D1 (EL11) SISTEMAS OPERATIVOS - 3D (SA4) LAB. DE REDES, SIST. Y SERVICIOS -"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D1",
+                            "subgrupo": null,
+                            "aula": "EL11",
+                            "texto_original": "3D1 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "12:00/12:55 CONMUTACION",
+                            "subgrupo": "3D",
+                            "aula": "SA4",
+                            "texto_original": "12:00/12:55 CONMUTACION - 3D (SA4) Sistemas Operativos - 3D1 (EL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONMUTACIÓN",
+                            "subgrupo": "3D2",
+                            "aula": "EL11",
+                            "texto_original": "Conmutación - 3D2 (EL11) Seguridad - 3D1 (EL11) Laboratorio De Redes, Sistemas Y"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SERVICIOS",
+                            "subgrupo": "3D1",
+                            "aula": "EL11",
+                            "texto_original": "Servicios - 3D1 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "13:00/13:55 CONMUTACION",
+                            "subgrupo": "3D",
+                            "aula": "SA4",
+                            "texto_original": "13:00/13:55 CONMUTACION - 3D (SA4) Sistemas Operativos - 3D1 (EL5)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MIÉRCOLES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "CONMUTACIÓN",
+                            "subgrupo": "3D2",
+                            "aula": "EL11",
+                            "texto_original": "Conmutación - 3D2 (EL11) Seguridad - 3D1 (EL11) Laboratorio De Redes, Sistemas Y"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SERVICIOS",
+                            "subgrupo": "3D1",
+                            "aula": "EL11",
+                            "texto_original": "Servicios - 3D1 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "15:00/15:55 SISTEMAS OPERATIVOS",
+                            "subgrupo": "3D3",
+                            "aula": "EL5",
+                            "texto_original": "15:00/15:55 Sistemas Operativos - 3D3 (EL5) LAB. DE REDES, SIST. Y SERVICIOS -"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D2",
+                            "subgrupo": null,
+                            "aula": "EL11",
+                            "texto_original": "3D2 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "16:00/16:55 SISTEMAS OPERATIVOS",
+                            "subgrupo": "3D3",
+                            "aula": "EL5",
+                            "texto_original": "16:00/16:55 Sistemas Operativos - 3D3 (EL5) LAB. DE REDES, SIST. Y SERVICIOS -"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "3D2",
+                            "subgrupo": null,
+                            "aula": "EL11",
+                            "texto_original": "3D2 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SERVICIOS",
+                            "subgrupo": "3D2",
+                            "aula": "EL11",
+                            "texto_original": "Servicios - 3D2 (EL11)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 1
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "6º",
+                            "curso": "3º",
+                            "grupo": "3ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SERVICIOS",
+                            "subgrupo": "3D2",
+                            "aula": "EL11",
+                            "texto_original": "Servicios - 3D2 (EL11)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – v0 GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT) CUATRIMESTRE 6º (Curso 3º, Semestre 2º) Curso 2025/2026 GRUPO 3ºD HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 8:00/8:55 Seguridad - 3D2 (EL11) 9:00/9:55 Seguridad - 3D2 (EL11) 10:00/10:55 SEGURIDAD - 3D (SA4) Sistemas Operativos - 3D2 (EL5) Conmutación - 3D1 (EL11) SISTEMAS OPERATIVOS - 3D (SA4) LAB. DE REDES, SIST. Y SERVICIOS - 3D1 (EL11) 11:00/11:55 SEGURIDAD - 3D (SA4) Sistemas Operativos - 3D2 (EL5) Conmutación - 3D1 (EL11) SISTEMAS OPERATIVOS - 3D (SA4) LAB. DE REDES, SIST. Y SERVICIOS - 3D1 (EL11) 12:00/12:55 CONMUTACION - 3D (SA4) Sistemas Operativos - 3D1 (EL5) Conmutación - 3D2 (EL11) Seguridad - 3D1 (EL11) Laboratorio De Redes, Sistemas Y Servicios - 3D1 (EL11) 13:00/13:55 CONMUTACION - 3D (SA4) Sistemas Operativos - 3D1 (EL5) Conmutación - 3D2 (EL11) Seguridad - 3D1 (EL11) Laboratorio De Redes, Sistemas Y Servicios - 3D1 (EL11) 14:00/14:55 15:00/15:55 Sistemas Operativos - 3D3 (EL5) LAB. DE REDES, SIST. Y SERVICIOS - 3D2 (EL11) 16:00/16:55 Sistemas Operativos - 3D3 (EL5) LAB. DE REDES, SIST. Y SERVICIOS - 3D2 (EL11) 17:00/17:55 Laboratorio De Redes, Sistemas Y Servicios - 3D2 (EL11) 18:00/18:55 Laboratorio De Redes, Sistemas Y Servicios - 3D2 (EL11) 19:00/19:55 20:00/20:55",
+                    "blocks": [
+                        {
+                            "page": 1,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – v0",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 570.1099853515625,
+                                "x1": 261.91400146484375,
+                                "y1": 579.1099853515625,
+                                "cx": 155.94700050354004,
+                                "cy": 574.6099853515625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 83.510009765625,
+                                "x1": 584.4340209960938,
+                                "y1": 122.69000244140625,
+                                "cx": 317.20701026916504,
+                                "cy": 103.10000610351562
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "CUATRIMESTRE 6º (Curso 3º, Semestre 2º) Curso 2025/2026 GRUPO 3ºD",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 123.9800033569336,
+                                "x1": 794.5139770507812,
+                                "y1": 150.23001098632812,
+                                "cx": 422.2469882965088,
+                                "cy": 137.10500717163086
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 60.65999984741211,
+                                "y0": 158.37501525878906,
+                                "x1": 744.114013671875,
+                                "y1": 171.39501953125,
+                                "cx": 402.38700675964355,
+                                "cy": 164.88501739501953
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "8:00/8:55 Seguridad - 3D2 (EL11)",
+                            "bbox": {
+                                "x0": 58.68000030517578,
+                                "y0": 181.25,
+                                "x1": 654.7539672851562,
+                                "y1": 190.25,
+                                "cx": 356.716983795166,
+                                "cy": 185.75
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "9:00/9:55 Seguridad - 3D2 (EL11)",
+                            "bbox": {
+                                "x0": 58.68000030517578,
+                                "y0": 199.61001586914062,
+                                "x1": 654.7539672851562,
+                                "y1": 208.61001586914062,
+                                "cx": 356.716983795166,
+                                "cy": 204.11001586914062
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "10:00/10:55 SEGURIDAD - 3D (SA4) Sistemas Operativos - 3D2 (EL5)",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 217.97000122070312,
+                                "x1": 367.6940002441406,
+                                "y1": 232.97000122070312,
+                                "cx": 210.9069995880127,
+                                "cy": 225.47000122070312
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "Conmutación - 3D1 (EL11) SISTEMAS OPERATIVOS - 3D (SA4) LAB. DE REDES, SIST. Y SERVICIOS -",
+                            "bbox": {
+                                "x0": 257.8999938964844,
+                                "y0": 217.97000122070312,
+                                "x1": 647.5540161132812,
+                                "y1": 239.02999877929688,
+                                "cx": 452.7270050048828,
+                                "cy": 228.5
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "3D1 (EL11)",
+                            "bbox": {
+                                "x0": 561.5800170898438,
+                                "y0": 223.97000122070312,
+                                "x1": 654.7539672851562,
+                                "y1": 239.02999877929688,
+                                "cx": 608.1669921875,
+                                "cy": 231.5
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "11:00/11:55 SEGURIDAD - 3D (SA4) Sistemas Operativos - 3D2 (EL5)",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 248.41000366210938,
+                                "x1": 367.6940002441406,
+                                "y1": 263.4100036621094,
+                                "cx": 210.9069995880127,
+                                "cy": 255.91000366210938
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "Conmutación - 3D1 (EL11) SISTEMAS OPERATIVOS - 3D (SA4) LAB. DE REDES, SIST. Y SERVICIOS -",
+                            "bbox": {
+                                "x0": 257.8999938964844,
+                                "y0": 248.41000366210938,
+                                "x1": 647.5540161132812,
+                                "y1": 269.4700012207031,
+                                "cx": 452.7270050048828,
+                                "cy": 258.94000244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "3D1 (EL11)",
+                            "bbox": {
+                                "x0": 561.5800170898438,
+                                "y0": 254.41000366210938,
+                                "x1": 654.7539672851562,
+                                "y1": 269.4700012207031,
+                                "cx": 608.1669921875,
+                                "cy": 261.94000244140625
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "12:00/12:55 CONMUTACION - 3D (SA4) Sistemas Operativos - 3D1 (EL5)",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 278.83001708984375,
+                                "x1": 367.6940002441406,
+                                "y1": 293.83001708984375,
+                                "cx": 210.9069995880127,
+                                "cy": 286.33001708984375
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "Conmutación - 3D2 (EL11) Seguridad - 3D1 (EL11) Laboratorio De Redes, Sistemas Y",
+                            "bbox": {
+                                "x0": 257.8999938964844,
+                                "y0": 278.83001708984375,
+                                "x1": 645.3757934570312,
+                                "y1": 299.8900146484375,
+                                "cx": 451.6378936767578,
+                                "cy": 289.3600158691406
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "Servicios - 3D1 (EL11)",
+                            "bbox": {
+                                "x0": 542.2000122070312,
+                                "y0": 284.83001708984375,
+                                "x1": 654.7539672851562,
+                                "y1": 299.8900146484375,
+                                "cx": 598.4769897460938,
+                                "cy": 292.3600158691406
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "13:00/13:55 CONMUTACION - 3D (SA4) Sistemas Operativos - 3D1 (EL5)",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 309.25,
+                                "x1": 367.6940002441406,
+                                "y1": 324.25,
+                                "cx": 210.9069995880127,
+                                "cy": 316.75
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "Conmutación - 3D2 (EL11) Seguridad - 3D1 (EL11) Laboratorio De Redes, Sistemas Y",
+                            "bbox": {
+                                "x0": 257.8999938964844,
+                                "y0": 309.25,
+                                "x1": 645.3757934570312,
+                                "y1": 330.30999755859375,
+                                "cx": 451.6378936767578,
+                                "cy": 319.7799987792969
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "Servicios - 3D1 (EL11)",
+                            "bbox": {
+                                "x0": 542.2000122070312,
+                                "y0": 315.25,
+                                "x1": 654.7539672851562,
+                                "y1": 330.30999755859375,
+                                "cx": 598.4769897460938,
+                                "cy": 322.7799987792969
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 339.6700134277344,
+                                "x1": 654.7539672851562,
+                                "y1": 348.6700134277344,
+                                "cx": 354.4369831085205,
+                                "cy": 344.1700134277344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "15:00/15:55 Sistemas Operativos - 3D3 (EL5) LAB. DE REDES, SIST. Y SERVICIOS -",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 357.9700012207031,
+                                "x1": 647.5540161132812,
+                                "y1": 373.030029296875,
+                                "cx": 350.837007522583,
+                                "cy": 365.50001525878906
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "3D2 (EL11)",
+                            "bbox": {
+                                "x0": 561.5800170898438,
+                                "y0": 364.030029296875,
+                                "x1": 654.7539672851562,
+                                "y1": 379.09002685546875,
+                                "cx": 608.1669921875,
+                                "cy": 371.5600280761719
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "16:00/16:55 Sistemas Operativos - 3D3 (EL5) LAB. DE REDES, SIST. Y SERVICIOS -",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 388.3900146484375,
+                                "x1": 647.5540161132812,
+                                "y1": 403.4700012207031,
+                                "cx": 350.837007522583,
+                                "cy": 395.9300079345703
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "3D2 (EL11)",
+                            "bbox": {
+                                "x0": 561.5800170898438,
+                                "y0": 394.4700012207031,
+                                "x1": 654.7539672851562,
+                                "y1": 409.530029296875,
+                                "cx": 608.1669921875,
+                                "cy": 402.00001525878906
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "17:00/17:55 Laboratorio De Redes, Sistemas Y",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 418.83001708984375,
+                                "x1": 645.3757934570312,
+                                "y1": 433.8900146484375,
+                                "cx": 349.747896194458,
+                                "cy": 426.3600158691406
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "Servicios - 3D2 (EL11)",
+                            "bbox": {
+                                "x0": 542.2000122070312,
+                                "y0": 424.8900146484375,
+                                "x1": 654.7539672851562,
+                                "y1": 439.95001220703125,
+                                "cx": 598.4769897460938,
+                                "cy": 432.4200134277344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "18:00/18:55 Laboratorio De Redes, Sistemas Y",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 449.25,
+                                "x1": 645.3757934570312,
+                                "y1": 464.30999755859375,
+                                "cx": 349.747896194458,
+                                "cy": 456.7799987792969
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "Servicios - 3D2 (EL11)",
+                            "bbox": {
+                                "x0": 542.2000122070312,
+                                "y0": 455.30999755859375,
+                                "x1": 654.7539672851562,
+                                "y1": 470.3699951171875,
+                                "cx": 598.4769897460938,
+                                "cy": 462.8399963378906
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 30,
+                            "type": 0,
+                            "text": "19:00/19:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 479.6700134277344,
+                                "x1": 654.7539672851562,
+                                "y1": 488.6700134277344,
+                                "cx": 354.4369831085205,
+                                "cy": 484.1700134277344
+                            }
+                        },
+                        {
+                            "page": 1,
+                            "block_number": 31,
+                            "type": 0,
+                            "text": "20:00/20:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 498.0299987792969,
+                                "x1": 654.7539672851562,
+                                "y1": 507.0299987792969,
+                                "cx": 354.4369831085205,
+                                "cy": 502.5299987792969
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "page": 2,
+                "metadata": {
+                    "titulacion": "INGENIERÍA TELEMÁTICA",
+                    "codigo_titulacion": "G380",
+                    "curso_academico": "2025/2026",
+                    "cuatrimestre": "8º",
+                    "curso": "4º",
+                    "grupo": "4ºD"
+                },
+                "records": [
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4C",
+                            "subgrupo": null,
+                            "aula": "SA3",
+                            "texto_original": "4C (SA3) Tecn. En Sist. Elect. – 4OPT"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "10:00",
+                            "hora_fin": "10:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4OPT",
+                            "subgrupo": null,
+                            "aula": "OL10",
+                            "texto_original": "4OPT (OL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4C",
+                            "subgrupo": null,
+                            "aula": "SA3",
+                            "texto_original": "4C (SA3) Tecn. En Sist. Elect. – 4OPT"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "VIERNES",
+                            "hora_inicio": "11:00",
+                            "hora_fin": "11:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4OPT",
+                            "subgrupo": null,
+                            "aula": "OL10",
+                            "texto_original": "4OPT (OL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "12:00",
+                            "hora_fin": "12:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4C1",
+                            "subgrupo": null,
+                            "aula": "NL8",
+                            "texto_original": "4C1 (NL8) Tecnologías Fotónicas – 4D1"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "13:00",
+                            "hora_fin": "13:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4C1",
+                            "subgrupo": null,
+                            "aula": "NL8",
+                            "texto_original": "4C1 (NL8) Tecnologías Fotónicas - 4D1"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "15:00/15:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT",
+                            "subgrupo": null,
+                            "aula": "SL9",
+                            "texto_original": "15:00/15:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9) SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D → 4A (SL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "15:00",
+                            "hora_fin": "15:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "COMUNICACIONES MÓVILES - 4D → 4A",
+                            "subgrupo": null,
+                            "aula": "SA8",
+                            "texto_original": "COMUNICACIONES MÓVILES - 4D → 4A (SA8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "MARTES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "16:00/16:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT",
+                            "subgrupo": null,
+                            "aula": "SL9",
+                            "texto_original": "16:00/16:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9) SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D → 4A (SL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "16:00",
+                            "hora_fin": "16:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "COMUNICACIONES MÓVILES - 4D → 4A",
+                            "subgrupo": null,
+                            "aula": "SA8",
+                            "texto_original": "COMUNICACIONES MÓVILES - 4D → 4A (SA8)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "– 4OPT",
+                            "subgrupo": null,
+                            "aula": "SL9",
+                            "texto_original": "– 4OPT (SL9)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D1 → 4A1",
+                            "subgrupo": null,
+                            "aula": "SL10",
+                            "texto_original": "Sist. Intelig. Y Sost. De Nueva Generación - 4D1 → 4A1 (SL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "17:00",
+                            "hora_fin": "17:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4D1 → 4A1",
+                            "subgrupo": null,
+                            "aula": "SL9",
+                            "texto_original": "4D1 → 4A1 (SL9)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "LUNES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "– 4OPT",
+                            "subgrupo": null,
+                            "aula": "SL9",
+                            "texto_original": "– 4OPT (SL9)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D1 → 4A1",
+                            "subgrupo": null,
+                            "aula": "SL10",
+                            "texto_original": "Sist. Intelig. Y Sost. De Nueva Generación - 4D1 → 4A1 (SL10)"
+                        }
+                    },
+                    {
+                        "source": {
+                            "archivo": "Semestre2-GIT-tercero-cuarto_2.pdf",
+                            "pagina": 2
+                        },
+                        "academic_context": {
+                            "titulacion": "INGENIERÍA TELEMÁTICA",
+                            "codigo_titulacion": "G380",
+                            "curso_academico": "2025/2026",
+                            "cuatrimestre": "8º",
+                            "curso": "4º",
+                            "grupo": "4ºD"
+                        },
+                        "schedule": {
+                            "dia": "JUEVES",
+                            "hora_inicio": "18:00",
+                            "hora_fin": "18:55"
+                        },
+                        "subject": {
+                            "codigo_asignatura": null,
+                            "nombre": "4D1 → 4A1",
+                            "subgrupo": null,
+                            "aula": "SL9",
+                            "texto_original": "4D1 → 4A1 (SL9)"
+                        }
+                    }
+                ],
+                "raw": {
+                    "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – v0 GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT) CUATRIMESTRE 8º (Curso 4º, Semestre 2º) Curso 2025/2026 GRUPO 4ºD HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES 10:00/10:55 INGENIERÍA DEL SOFTWARE - 4D → 4C (SA3) Tecn. En Sist. Elect. – 4OPT (OL10) TECN. EN SIST. ELECT. – 4OPT (OL10) 11:00/11:55 INGENIERÍA DEL SOFTWARE - 4D → 4C (SA3) Tecn. En Sist. Elect. – 4OPT (OL10) TECN. EN SIST. ELECT. – 4OPT (OL10) 12:00/12:55 Ingeniería Del Software - 4D1 → 4C1 (NL8) Tecnologías Fotónicas – 4D1 (NA6/OL6) TECN. FOTÓNICAS - 4D (NA6) 13:00/13:55 Ingeniería Del Software - 4D1 → 4C1 (NL8) Tecnologías Fotónicas - 4D1 (NA6/OL6) TECN. FOTÓNICAS - 4D (NA6) 14:00/14:55 15:00/15:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9) SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D → 4A (SL10) COMUNICACIONES MÓVILES - 4D → 4A (SA8) 16:00/16:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9) SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D → 4A (SL10) COMUNICACIONES MÓVILES - 4D → 4A (SA8) 17:00/17:55 Tecn. de Sist. De Telecomunicación – 4OPT (SL9) Sist. Intelig. Y Sost. De Nueva Generación - 4D1 → 4A1 (SL10) Comunicaciones Móviles - 4D1 → 4A1 (SL9) 18:00/18:55 Tecn. de Sist. De Telecomunicación – 4OPT (SL9) Sist. Intelig. Y Sost. De Nueva Generación - 4D1 → 4A1 (SL10) Comunicaciones Móviles - 4D1 → 4A1 (SL9)",
+                    "blocks": [
+                        {
+                            "page": 2,
+                            "block_number": 0,
+                            "type": 0,
+                            "text": "Aprobado en Junta de Escuela con fecha 01/07/2025 – v0",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 570.1099853515625,
+                                "x1": 261.91400146484375,
+                                "y1": 579.1099853515625,
+                                "cx": 155.94700050354004,
+                                "cy": 574.6099853515625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 4,
+                            "type": 0,
+                            "text": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 131.8699951171875,
+                                "x1": 584.4340209960938,
+                                "y1": 170.99002075195312,
+                                "cx": 317.20701026916504,
+                                "cy": 151.4300079345703
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 5,
+                            "type": 0,
+                            "text": "CUATRIMESTRE 8º (Curso 4º, Semestre 2º) Curso 2025/2026 GRUPO 4ºD",
+                            "bbox": {
+                                "x0": 49.97999954223633,
+                                "y0": 172.34002685546875,
+                                "x1": 794.5139770507812,
+                                "y1": 198.58999633789062,
+                                "cx": 422.2469882965088,
+                                "cy": 185.4650115966797
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 6,
+                            "type": 0,
+                            "text": "HORA LUNES MARTES MIÉRCOLES JUEVES VIERNES",
+                            "bbox": {
+                                "x0": 60.65999984741211,
+                                "y0": 206.73500061035156,
+                                "x1": 765.7739868164062,
+                                "y1": 219.7550048828125,
+                                "cx": 413.2169933319092,
+                                "cy": 213.24500274658203
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 7,
+                            "type": 0,
+                            "text": "10:00/10:55 INGENIERÍA DEL SOFTWARE - 4D →",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 229.61001586914062,
+                                "x1": 237.16700744628906,
+                                "y1": 244.69000244140625,
+                                "cx": 145.6435031890869,
+                                "cy": 237.15000915527344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 8,
+                            "type": 0,
+                            "text": "4C (SA3) Tecn. En Sist. Elect. – 4OPT",
+                            "bbox": {
+                                "x0": 155.05999755859375,
+                                "y0": 229.61001586914062,
+                                "x1": 438.2139892578125,
+                                "y1": 250.69000244140625,
+                                "cx": 296.6369934082031,
+                                "cy": 240.15000915527344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 9,
+                            "type": 0,
+                            "text": "(OL10) TECN. EN SIST. ELECT. –",
+                            "bbox": {
+                                "x0": 374.8399963378906,
+                                "y0": 229.61001586914062,
+                                "x1": 785.7539672851562,
+                                "y1": 250.69000244140625,
+                                "cx": 580.2969818115234,
+                                "cy": 240.15000915527344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 10,
+                            "type": 0,
+                            "text": "4OPT (OL10)",
+                            "bbox": {
+                                "x0": 717.719970703125,
+                                "y0": 241.69000244140625,
+                                "x1": 765.9539794921875,
+                                "y1": 250.69000244140625,
+                                "cx": 741.8369750976562,
+                                "cy": 246.19000244140625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 11,
+                            "type": 0,
+                            "text": "11:00/11:55 INGENIERÍA DEL SOFTWARE - 4D →",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 260.0500183105469,
+                                "x1": 237.16700744628906,
+                                "y1": 275.1100158691406,
+                                "cx": 145.6435031890869,
+                                "cy": 267.58001708984375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 12,
+                            "type": 0,
+                            "text": "4C (SA3) Tecn. En Sist. Elect. – 4OPT",
+                            "bbox": {
+                                "x0": 155.05999755859375,
+                                "y0": 260.0500183105469,
+                                "x1": 438.2139892578125,
+                                "y1": 281.1100158691406,
+                                "cx": 296.6369934082031,
+                                "cy": 270.58001708984375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 13,
+                            "type": 0,
+                            "text": "(OL10) TECN. EN SIST. ELECT. –",
+                            "bbox": {
+                                "x0": 374.8399963378906,
+                                "y0": 260.0500183105469,
+                                "x1": 785.7539672851562,
+                                "y1": 281.1100158691406,
+                                "cx": 580.2969818115234,
+                                "cy": 270.58001708984375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 14,
+                            "type": 0,
+                            "text": "4OPT (OL10)",
+                            "bbox": {
+                                "x0": 717.719970703125,
+                                "y0": 272.1100158691406,
+                                "x1": 765.9539794921875,
+                                "y1": 281.1100158691406,
+                                "cx": 741.8369750976562,
+                                "cy": 276.6100158691406
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 15,
+                            "type": 0,
+                            "text": "12:00/12:55 Ingeniería Del Software - 4D1 →",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 290.4700012207031,
+                                "x1": 231.37400817871094,
+                                "y1": 305.5299987792969,
+                                "cx": 142.74700355529785,
+                                "cy": 298.0
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 16,
+                            "type": 0,
+                            "text": "4C1 (NL8) Tecnologías Fotónicas – 4D1",
+                            "bbox": {
+                                "x0": 152.72000122070312,
+                                "y0": 290.4700012207031,
+                                "x1": 440.8749694824219,
+                                "y1": 311.5299987792969,
+                                "cx": 296.7974853515625,
+                                "cy": 301.0
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 17,
+                            "type": 0,
+                            "text": "(NA6/OL6) TECN. FOTÓNICAS - 4D",
+                            "bbox": {
+                                "x0": 367.1600036621094,
+                                "y0": 290.4700012207031,
+                                "x1": 784.4940185546875,
+                                "y1": 311.5299987792969,
+                                "cx": 575.8270111083984,
+                                "cy": 301.0
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 18,
+                            "type": 0,
+                            "text": "(NA6)",
+                            "bbox": {
+                                "x0": 730.0800170898438,
+                                "y0": 302.5299987792969,
+                                "x1": 753.6539916992188,
+                                "y1": 311.5299987792969,
+                                "cx": 741.8670043945312,
+                                "cy": 307.0299987792969
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 19,
+                            "type": 0,
+                            "text": "13:00/13:55 Ingeniería Del Software - 4D1 →",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 320.8900146484375,
+                                "x1": 231.37400817871094,
+                                "y1": 335.95001220703125,
+                                "cx": 142.74700355529785,
+                                "cy": 328.4200134277344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 20,
+                            "type": 0,
+                            "text": "4C1 (NL8) Tecnologías Fotónicas - 4D1",
+                            "bbox": {
+                                "x0": 152.72000122070312,
+                                "y0": 320.8900146484375,
+                                "x1": 440.0140075683594,
+                                "y1": 341.95001220703125,
+                                "cx": 296.36700439453125,
+                                "cy": 331.4200134277344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 21,
+                            "type": 0,
+                            "text": "(NA6/OL6) TECN. FOTÓNICAS - 4D",
+                            "bbox": {
+                                "x0": 367.1600036621094,
+                                "y0": 320.8900146484375,
+                                "x1": 784.4940185546875,
+                                "y1": 341.95001220703125,
+                                "cx": 575.8270111083984,
+                                "cy": 331.4200134277344
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 22,
+                            "type": 0,
+                            "text": "(NA6)",
+                            "bbox": {
+                                "x0": 730.0800170898438,
+                                "y0": 332.95001220703125,
+                                "x1": 753.6539916992188,
+                                "y1": 341.95001220703125,
+                                "cx": 741.8670043945312,
+                                "cy": 337.45001220703125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 23,
+                            "type": 0,
+                            "text": "14:00/14:55",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 351.30999755859375,
+                                "x1": 697.9739990234375,
+                                "y1": 360.30999755859375,
+                                "cx": 376.04699897766113,
+                                "cy": 355.80999755859375
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 24,
+                            "type": 0,
+                            "text": "15:00/15:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9) SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D → 4A (SL10)",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 369.6700134277344,
+                                "x1": 691.1740112304688,
+                                "y1": 390.7300109863281,
+                                "cx": 372.64700508117676,
+                                "cy": 380.20001220703125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 25,
+                            "type": 0,
+                            "text": "COMUNICACIONES MÓVILES - 4D → 4A (SA8)",
+                            "bbox": {
+                                "x0": 488.79998779296875,
+                                "y0": 375.6700134277344,
+                                "x1": 697.9739990234375,
+                                "y1": 390.7300109863281,
+                                "cx": 593.3869934082031,
+                                "cy": 383.20001220703125
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 26,
+                            "type": 0,
+                            "text": "16:00/16:55 TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT (SL9) SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D → 4A (SL10)",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 400.1099853515625,
+                                "x1": 691.1740112304688,
+                                "y1": 421.1700134277344,
+                                "cx": 372.64700508117676,
+                                "cy": 410.63999938964844
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 27,
+                            "type": 0,
+                            "text": "COMUNICACIONES MÓVILES - 4D → 4A (SA8)",
+                            "bbox": {
+                                "x0": 488.79998779296875,
+                                "y0": 406.1099853515625,
+                                "x1": 697.9739990234375,
+                                "y1": 421.1700134277344,
+                                "cx": 593.3869934082031,
+                                "cy": 413.63999938964844
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 28,
+                            "type": 0,
+                            "text": "17:00/17:55 Tecn. de Sist. De Telecomunicación",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 436.530029296875,
+                                "x1": 236.71803283691406,
+                                "y1": 451.59002685546875,
+                                "cx": 145.4190158843994,
+                                "cy": 444.0600280761719
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 29,
+                            "type": 0,
+                            "text": "– 4OPT (SL9)",
+                            "bbox": {
+                                "x0": 147.5,
+                                "y0": 442.59002685546875,
+                                "x1": 389.17401123046875,
+                                "y1": 457.6500244140625,
+                                "cx": 268.3370056152344,
+                                "cy": 450.1200256347656
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 30,
+                            "type": 0,
+                            "text": "Sist. Intelig. Y Sost. De Nueva Generación - 4D1 → 4A1 (SL10)",
+                            "bbox": {
+                                "x0": 460.3599853515625,
+                                "y0": 430.530029296875,
+                                "x1": 685.2340087890625,
+                                "y1": 439.530029296875,
+                                "cx": 572.7969970703125,
+                                "cy": 435.030029296875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 31,
+                            "type": 0,
+                            "text": "Comunicaciones Móviles -",
+                            "bbox": {
+                                "x0": 524.2000122070312,
+                                "y0": 442.59002685546875,
+                                "x1": 621.3939819335938,
+                                "y1": 451.59002685546875,
+                                "cx": 572.7969970703125,
+                                "cy": 447.09002685546875
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 32,
+                            "type": 0,
+                            "text": "4D1 → 4A1 (SL9)",
+                            "bbox": {
+                                "x0": 541.0,
+                                "y0": 454.6500244140625,
+                                "x1": 604.5339965820312,
+                                "y1": 463.6500244140625,
+                                "cx": 572.7669982910156,
+                                "cy": 459.1500244140625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 34,
+                            "type": 0,
+                            "text": "18:00/18:55 Tecn. de Sist. De Telecomunicación",
+                            "bbox": {
+                                "x0": 54.119998931884766,
+                                "y0": 485.07000732421875,
+                                "x1": 236.71803283691406,
+                                "y1": 500.1300048828125,
+                                "cx": 145.4190158843994,
+                                "cy": 492.6000061035156
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 35,
+                            "type": 0,
+                            "text": "– 4OPT (SL9)",
+                            "bbox": {
+                                "x0": 147.5,
+                                "y0": 491.1300048828125,
+                                "x1": 389.17401123046875,
+                                "y1": 506.19000244140625,
+                                "cx": 268.3370056152344,
+                                "cy": 498.6600036621094
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 36,
+                            "type": 0,
+                            "text": "Sist. Intelig. Y Sost. De Nueva Generación - 4D1 → 4A1 (SL10)",
+                            "bbox": {
+                                "x0": 460.3599853515625,
+                                "y0": 473.010009765625,
+                                "x1": 685.2340087890625,
+                                "y1": 494.07000732421875,
+                                "cx": 572.7969970703125,
+                                "cy": 483.5400085449219
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 37,
+                            "type": 0,
+                            "text": "Comunicaciones Móviles -",
+                            "bbox": {
+                                "x0": 524.2000122070312,
+                                "y0": 497.19000244140625,
+                                "x1": 621.3939819335938,
+                                "y1": 506.19000244140625,
+                                "cx": 572.7969970703125,
+                                "cy": 501.69000244140625
+                            }
+                        },
+                        {
+                            "page": 2,
+                            "block_number": 38,
+                            "type": 0,
+                            "text": "4D1 → 4A1 (SL9)",
+                            "bbox": {
+                                "x0": 541.0,
+                                "y0": 509.25,
+                                "x1": 604.5339965820312,
+                                "y1": 518.25,
+                                "cx": 572.7669982910156,
+                                "cy": 513.75
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -15,7 +15,8 @@ services:
     depends_on:
       - db
     volumes:
-      - ./downloads:/data/downloaded_pdfs   # 👈 AQUÍ
+      - ./downloads:/data/downloaded_pdfs
+      - ./extracted:/data/extracted_json
 
   db:
     image: postgres:15
