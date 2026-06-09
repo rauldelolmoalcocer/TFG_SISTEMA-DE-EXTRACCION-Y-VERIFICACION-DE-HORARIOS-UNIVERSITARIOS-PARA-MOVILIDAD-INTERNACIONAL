@@ -1,176 +1,594 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Panel de Descarga de PDFs</title>
+
     <link rel="stylesheet" href="{{ url_for('static', filename='download_panel.css') }}">
+
+    <style>
+        .extra-actions {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .db-button,
+        .pause-button,
+        .resume-button {
+            border: none;
+            padding: 10px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .db-button {
+            background-color: #198754;
+            color: white;
+        }
+
+        .pause-button {
+            background-color: #ffc107;
+            color: #222;
+        }
+
+        .resume-button {
+            background-color: #0d6efd;
+            color: white;
+        }
+
+        .progress-container {
+            width: 100%;
+            height: 20px;
+            background-color: #e9ecef;
+            border-radius: 10px;
+            overflow: hidden;
+            margin-top: 15px;
+        }
+
+        .progress-bar {
+            width: 0%;
+            height: 100%;
+            background-color: #198754;
+            transition: width 0.3s ease;
+        }
+
+        .db-status-box {
+            margin-top: 15px;
+            padding: 12px;
+            border-radius: 8px;
+            background-color: #f5f5f5;
+            border: 1px solid #ddd;
+            font-size: 14px;
+        }
+
+        .db-status-box p {
+            margin: 5px 0;
+        }
+    </style>
 </head>
+
 <body>
+
     <div class="page-container">
+
         <div class="top-actions">
-            <a class="back-link" href="{{ url_for('main.index') }}">← Volver al inicio</a>
+            <a class="back-link" href="{{ url_for('main.index') }}">
+                ← Volver al inicio
+            </a>
         </div>
 
         <h1>Panel de extracción y descarga de PDFs</h1>
 
         <div class="grid-container">
+
+            <!-- PANEL URL -->
             <div class="panel">
+
                 <h2>URL de origen</h2>
-                <input type="text" id="urlInput" placeholder="Introduce una URL">
-                <button id="startButton">Iniciar descarga</button>
+
+                <input
+                    type="text"
+                    id="urlInput"
+                    placeholder="Introduce una URL"
+                >
+
+                <button id="startButton">
+                    Iniciar descarga
+                </button>
+
                 <p id="statusMessage"></p>
-            </div>
 
-            <div class="panel">
-                <h2>Logs del proceso</h2>
-                <div id="logBox" class="log-box">
-                    <div class="empty-state">Aún no hay logs.</div>
+                <!-- BOTONES EXTRA -->
+                <div class="extra-actions">
+
+                    <button
+                        id="dumpDbButton"
+                        class="db-button"
+                    >
+                        Volcar a base de datos
+                    </button>
+
+                    <button
+                        id="pauseButton"
+                        class="pause-button"
+                    >
+                        Pausar proceso
+                    </button>
+
+                    <button
+                        id="resumeButton"
+                        class="resume-button"
+                    >
+                        Reanudar
+                    </button>
+
                 </div>
+
+                <!-- BARRA DE PROGRESO -->
+                <div class="progress-container">
+
+                    <div
+                        id="progressBar"
+                        class="progress-bar"
+                    ></div>
+
+                </div>
+
+                <p id="progressText">
+                    Carga BD: 0%
+                </p>
+
+                <!-- ESTADO BASE DE DATOS -->
+                <div class="db-status-box">
+
+                    <p>
+                        <strong>Estado BD:</strong>
+                        <span id="dbStatus">
+                            Inactivo
+                        </span>
+                    </p>
+
+                    <p>
+                        <strong>Último volcado:</strong>
+                        <span id="lastDumpDate">
+                            Nunca
+                        </span>
+                    </p>
+
+                </div>
+
             </div>
 
+            <!-- PANEL LOGS -->
             <div class="panel">
-                <h2>PDFs descargados</h2>
-                <ul id="fileList" class="file-list">
-                    <li class="empty-state">Aún no hay PDFs descargados.</li>
-                </ul>
-            </div>
-        </div>
-    </div>
 
-    <!-- Modal visor PDF -->
-    <div id="pdfModal" class="pdf-modal hidden">
-        <div class="pdf-modal-content">
-            <div class="pdf-modal-header">
-                <span id="pdfTitle">Visualizador PDF</span>
-                <button id="closeModalButton" class="close-button">&times;</button>
+                <h2>Logs del proceso</h2>
+
+                <div
+                    id="logBox"
+                    class="log-box"
+                >
+                    <div class="empty-state">
+                        Aún no hay logs.
+                    </div>
+                </div>
+
             </div>
-            <div class="pdf-modal-body">
-                <iframe id="pdfViewer" src="" title="Visor PDF"></iframe>
+
+            <!-- PANEL PDFs -->
+            <div class="panel">
+
+                <h2>PDFs descargados</h2>
+
+                <ul
+                    id="fileList"
+                    class="file-list"
+                >
+                    <li class="empty-state">
+                        Aún no hay PDFs descargados.
+                    </li>
+                </ul>
+
             </div>
+
         </div>
+
     </div>
 
     <script>
-        const urlInput = document.getElementById("urlInput");
-        const startButton = document.getElementById("startButton");
-        const statusMessage = document.getElementById("statusMessage");
-        const logBox = document.getElementById("logBox");
-        const fileList = document.getElementById("fileList");
 
-        const pdfModal = document.getElementById("pdfModal");
-        const pdfViewer = document.getElementById("pdfViewer");
-        const pdfTitle = document.getElementById("pdfTitle");
-        const closeModalButton = document.getElementById("closeModalButton");
+        // =========================================
+        // ELEMENTOS
+        // =========================================
+
+        const urlInput =
+            document.getElementById("urlInput");
+
+        const startButton =
+            document.getElementById("startButton");
+
+        const statusMessage =
+            document.getElementById("statusMessage");
+
+        const logBox =
+            document.getElementById("logBox");
+
+        const fileList =
+            document.getElementById("fileList");
+
+        const dumpDbButton =
+            document.getElementById("dumpDbButton");
+
+        const pauseButton =
+            document.getElementById("pauseButton");
+
+        const resumeButton =
+            document.getElementById("resumeButton");
+
+        const progressBar =
+            document.getElementById("progressBar");
+
+        const progressText =
+            document.getElementById("progressText");
+
+        const dbStatus =
+            document.getElementById("dbStatus");
+
+        const lastDumpDate =
+            document.getElementById("lastDumpDate");
+
+        // =========================================
+        // VARIABLES
+        // =========================================
+
+        let dbProgress = 0;
+        let dbInterval = null;
+        let dbPaused = false;
+
+        // =========================================
+        // DESCARGA
+        // =========================================
 
         async function startDownload() {
-            const url = urlInput.value.trim();
+
+            const url =
+                urlInput.value.trim();
 
             if (!url) {
-                statusMessage.textContent = "Debes introducir una URL.";
+
+                statusMessage.textContent =
+                    "Debes introducir una URL.";
+
                 return;
             }
 
             startButton.disabled = true;
-            statusMessage.textContent = "Iniciando proceso...";
+
+            statusMessage.textContent =
+                "Iniciando proceso...";
 
             try {
-                const response = await fetch("/start-download", {
-                    method: "POST",
-                    headers: {
-                        "Content-Type": "application/json"
-                    },
-                    body: JSON.stringify({ url: url })
-                });
 
-                const data = await response.json();
-                statusMessage.textContent = data.message || "Solicitud enviada.";
+                const response =
+                    await fetch("/start-download", {
+
+                        method: "POST",
+
+                        headers: {
+                            "Content-Type": "application/json"
+                        },
+
+                        body: JSON.stringify({
+                            url: url
+                        })
+                    });
+
+                const data =
+                    await response.json();
+
+                statusMessage.textContent =
+                    data.message || "Solicitud enviada.";
+
+                addLog(
+                    "Proceso de descarga iniciado."
+                );
+
             } catch (error) {
-                statusMessage.textContent = "Error al conectar con el frontend/backend.";
+
+                statusMessage.textContent =
+                    "Error al conectar con backend.";
+
+                addLog(
+                    "Error conectando con backend."
+                );
+
             } finally {
+
                 setTimeout(() => {
+
                     startButton.disabled = false;
+
                 }, 1000);
+
             }
         }
 
-        function openPdfModal(fileName) {
-            pdfTitle.textContent = fileName;
-            pdfViewer.src = `/pdf/${encodeURIComponent(fileName)}`;
-            pdfModal.classList.remove("hidden");
+        // =========================================
+        // LOGS
+        // =========================================
+
+        function addLog(message) {
+
+            const emptyState =
+                logBox.querySelector(".empty-state");
+
+            if (emptyState) {
+                logBox.innerHTML = "";
+            }
+
+            const now = new Date();
+
+            const time =
+                now.toLocaleTimeString("es-ES");
+
+            const div =
+                document.createElement("div");
+
+            div.textContent =
+                `[${time}] ${message}`;
+
+            logBox.appendChild(div);
+
+            logBox.scrollTop =
+                logBox.scrollHeight;
         }
 
-        function closePdfModal() {
-            pdfModal.classList.add("hidden");
-            pdfViewer.src = "";
+        // =========================================
+        // BARRA DE PROGRESO
+        // =========================================
+
+        function updateProgress(value) {
+
+            progressBar.style.width =
+                `${value}%`;
+
+            progressText.textContent =
+                `Carga BD: ${value}%`;
         }
+
+        // =========================================
+        // VOLCADO SIMULADO
+        // =========================================
+
+        function simulateDatabaseDump() {
+
+            if (dbInterval) {
+
+                addLog(
+                    "Ya hay un proceso activo."
+                );
+
+                return;
+            }
+
+            dbProgress = 0;
+            dbPaused = false;
+
+            dbStatus.textContent =
+                "Ejecutando";
+
+            updateProgress(dbProgress);
+
+            addLog(
+                "Iniciando volcado simulado a base de datos..."
+            );
+
+            dbInterval = setInterval(() => {
+
+                if (dbPaused) {
+                    return;
+                }
+
+                dbProgress += 10;
+
+                updateProgress(dbProgress);
+
+                addLog(
+                    `Volcando datos a base de datos... ${dbProgress}%`
+                );
+
+                if (dbProgress >= 100) {
+
+                    clearInterval(dbInterval);
+
+                    dbInterval = null;
+
+                    const now = new Date();
+
+                    const formattedDate =
+                        now.toLocaleDateString("es-ES") +
+                        " " +
+                        now.toLocaleTimeString("es-ES");
+
+                    lastDumpDate.textContent =
+                        formattedDate;
+
+                    dbStatus.textContent =
+                        "Finalizado";
+
+                    addLog(
+                        "Volcado a base de datos finalizado correctamente."
+                    );
+                }
+
+            }, 800);
+        }
+
+        // =========================================
+        // PAUSAR
+        // =========================================
+
+        function pauseProcess() {
+
+            dbPaused = true;
+
+            dbStatus.textContent =
+                "Pausado";
+
+            addLog(
+                "Proceso pausado."
+            );
+        }
+
+        // =========================================
+        // REANUDAR
+        // =========================================
+
+        function resumeProcess() {
+
+            dbPaused = false;
+
+            dbStatus.textContent =
+                "Ejecutando";
+
+            addLog(
+                "Proceso reanudado."
+            );
+        }
+
+        // =========================================
+        // REFRESH STATUS
+        // =========================================
 
         async function refreshStatus() {
-            try {
-                const response = await fetch("/status");
-                const data = await response.json();
 
-                logBox.innerHTML = "";
-                if (data.logs && data.logs.length > 0) {
-                    data.logs.forEach(log => {
-                        const div = document.createElement("div");
-                        div.textContent = log;
-                        logBox.appendChild(div);
-                    });
-                    logBox.scrollTop = logBox.scrollHeight;
-                } else {
-                    logBox.innerHTML = '<div class="empty-state">Aún no hay logs.</div>';
-                }
+            try {
+
+                const response =
+                    await fetch("/status");
+
+                const data =
+                    await response.json();
+
+                // PDFs
 
                 fileList.innerHTML = "";
-                if (data.files && data.files.length > 0) {
-                    data.files.forEach(file => {
-                        const li = document.createElement("li");
 
-                        const button = document.createElement("button");
+                if (
+                    data.files &&
+                    data.files.length > 0
+                ) {
+
+                    data.files.forEach(file => {
+
+                        const li =
+                            document.createElement("li");
+
+                        const button =
+                            document.createElement("button");
+
                         button.type = "button";
+
                         button.textContent = file;
+
                         button.className = "pdf-link";
-                        button.addEventListener("click", () => openPdfModal(file));
+
+                        button.addEventListener("click", () => {
+
+                            window.open(
+                                `/pdf/${encodeURIComponent(file)}`,
+                                "_blank"
+                            );
+
+                        });
 
                         li.appendChild(button);
+
                         fileList.appendChild(li);
+
                     });
+
                 } else {
-                    fileList.innerHTML = '<li class="empty-state">Aún no hay PDFs descargados.</li>';
+
+                    fileList.innerHTML =
+                        '<li class="empty-state">Aún no hay PDFs descargados.</li>';
                 }
 
+                // Estado descarga
+
                 if (data.running) {
-                    statusMessage.textContent = "Proceso en ejecución...";
+
+                    statusMessage.textContent =
+                        "Proceso en ejecución...";
+
                     startButton.disabled = true;
+
                 } else {
-                    if (statusMessage.textContent === "Proceso en ejecución...") {
-                        statusMessage.textContent = "Proceso finalizado.";
+
+                    if (
+                        statusMessage.textContent ===
+                        "Proceso en ejecución..."
+                    ) {
+
+                        statusMessage.textContent =
+                            "Proceso finalizado.";
                     }
+
                     startButton.disabled = false;
                 }
+
             } catch (error) {
-                console.error("Error refrescando estado:", error);
+
+                console.error(
+                    "Error refrescando estado:",
+                    error
+                );
+
             }
         }
 
-        startButton.addEventListener("click", startDownload);
-        closeModalButton.addEventListener("click", closePdfModal);
+        // =========================================
+        // EVENTOS
+        // =========================================
 
-        pdfModal.addEventListener("click", function (event) {
-            if (event.target === pdfModal) {
-                closePdfModal();
-            }
-        });
+        startButton.addEventListener(
+            "click",
+            startDownload
+        );
 
-        document.addEventListener("keydown", function (event) {
-            if (event.key === "Escape" && !pdfModal.classList.contains("hidden")) {
-                closePdfModal();
-            }
-        });
+        dumpDbButton.addEventListener(
+            "click",
+            simulateDatabaseDump
+        );
+
+        pauseButton.addEventListener(
+            "click",
+            pauseProcess
+        );
+
+        resumeButton.addEventListener(
+            "click",
+            resumeProcess
+        );
+
+        // =========================================
+        // INICIO
+        // =========================================
 
         refreshStatus();
-        setInterval(refreshStatus, 2000);
+
+        setInterval(
+            refreshStatus,
+            2000
+        );
+
     </script>
+
 </body>
+
 </html>
