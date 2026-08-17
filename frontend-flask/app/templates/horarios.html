@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestor de horarios | Universidad de Alcalá</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='horarios.css') }}">
+</head>
+
+<body>
+
+    <!-- TOPBAR -->
+    <header class="topbar">
+        <div class="topbar-inner">
+
+            <div class="topbar-brand">
+                <img src="{{ url_for('static', filename='img/logo-UniversidadAlcala.png') }}"
+                    alt="Universidad de Alcalá">
+            </div>
+
+            <span class="topbar-title">Gestor de horarios · Movilidad Internacional</span>
+
+            <div class="topbar-user">
+                <a class="topbar-nav-link" href="{{ url_for('main.descargas') }}">Panel de descargas</a>
+                <div class="topbar-user-badge">
+                    <span>{{ user }}</span>
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+    <!-- CONTENIDO -->
+    <main class="container">
+
+        <div class="page-head">
+            <h1>Gestor de horarios universitarios</h1>
+            <p>Selecciona asignaturas y comprueba solapes en tu horario semanal.</p>
+        </div>
+
+        <!-- SELECTOR -->
+        <section class="card">
+            <div class="card-label">Buscar y añadir asignaturas</div>
+            <div class="selector-grid">
+
+                <div class="field">
+                    <label for="degreeSelect">Carrera</label>
+                    <select id="degreeSelect"></select>
+                </div>
+
+                <div class="field">
+                    <label for="subjectSearch">Buscar</label>
+                    <input type="text" id="subjectSearch" placeholder="ID, nombre, grupo…">
+                </div>
+
+                <div class="field">
+                    <label for="subjectSelect">Asignaturas encontradas</label>
+                    <select id="subjectSelect" size="5"></select>
+                </div>
+
+                <div class="btn-group">
+                    <button class="btn-add" id="addSubjectBtn">Añadir</button>
+                    <button class="btn-clear" id="clearBtn">Limpiar</button>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- MENSAJE -->
+        <div class="msg" id="messageBox" role="status" aria-live="polite"></div>
+
+        <!-- ASIGNATURAS SELECCIONADAS -->
+        <section class="card">
+            <div class="card-label">Asignaturas seleccionadas</div>
+            <ul class="subject-list" id="selectedSubjectsList"></ul>
+        </section>
+
+        <!-- HORARIO SEMANAL -->
+        <section class="card">
+            <div class="card-label">Horario semanal</div>
+            <div class="schedule-outer">
+                <table class="schedule-table">
+                    <thead>
+                        <tr>
+                            <th>Hora</th>
+                            <th>Lunes</th>
+                            <th>Martes</th>
+                            <th>Miércoles</th>
+                            <th>Jueves</th>
+                            <th>Viernes</th>
+                        </tr>
+                    </thead>
+                    <tbody id="scheduleBody"></tbody>
+                </table>
+            </div>
+        </section>
+
+    </main>
+
+    <script src="{{ url_for('static', filename='horarios.js') }}"></script>
+</body>
+
+</html>

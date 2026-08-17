@@ -7,89 +7,45 @@
     <title>Panel de Descarga de PDFs</title>
 
     <link rel="stylesheet" href="{{ url_for('static', filename='download_panel.css') }}">
-
-    <style>
-        .extra-actions {
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-            margin-top: 15px;
-        }
-
-        .db-button,
-        .pause-button,
-        .resume-button {
-            border: none;
-            padding: 10px;
-            border-radius: 6px;
-            cursor: pointer;
-            font-weight: bold;
-        }
-
-        .db-button {
-            background-color: #198754;
-            color: white;
-        }
-
-        .pause-button {
-            background-color: #ffc107;
-            color: #222;
-        }
-
-        .resume-button {
-            background-color: #0d6efd;
-            color: white;
-        }
-
-        .progress-container {
-            width: 100%;
-            height: 20px;
-            background-color: #e9ecef;
-            border-radius: 10px;
-            overflow: hidden;
-            margin-top: 15px;
-        }
-
-        .progress-bar {
-            width: 0%;
-            height: 100%;
-            background-color: #198754;
-            transition: width 0.3s ease;
-        }
-
-        .db-status-box {
-            margin-top: 15px;
-            padding: 12px;
-            border-radius: 8px;
-            background-color: #f5f5f5;
-            border: 1px solid #ddd;
-            font-size: 14px;
-        }
-
-        .db-status-box p {
-            margin: 5px 0;
-        }
-    </style>
 </head>
 
 <body>
 
-    <div class="page-container">
+    <!-- TOPBAR -->
+    <header class="topbar">
+        <div class="topbar-inner">
 
-        <div class="top-actions">
-            <a class="back-link" href="{{ url_for('main.index') }}">
-                ← Volver al inicio
+            <a class="topbar-brand" href="{{ url_for('main.index') }}">
+                <img src="{{ url_for('static', filename='img/logo-UniversidadAlcala.png') }}"
+                    alt="Universidad de Alcalá">
             </a>
-        </div>
 
-        <h1>Panel de extracción y descarga de PDFs</h1>
+            <span class="topbar-title">Panel de descargas · Movilidad Internacional</span>
+
+            <div class="topbar-user">
+                <a class="topbar-nav-link" href="{{ url_for('main.horarios') }}">Gestor de horarios</a>
+                <div class="topbar-user-badge">
+                    <span>{{ user }}</span>
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+    <!-- CONTENIDO -->
+    <main class="container">
+
+        <div class="page-head">
+            <h1>Panel de extracción y descarga de PDFs</h1>
+            <p>Inicia la descarga de horarios, vuelca los datos a la base de datos y consulta el estado del proceso.</p>
+        </div>
 
         <div class="grid-container">
 
             <!-- PANEL URL -->
-            <div class="panel">
+            <div class="card">
 
-                <h2>URL de origen</h2>
+                <div class="card-label">URL de origen</div>
 
                 <input
                     type="text"
@@ -165,9 +121,9 @@
             </div>
 
             <!-- PANEL LOGS -->
-            <div class="panel">
+            <div class="card">
 
-                <h2>Logs del proceso</h2>
+                <div class="card-label">Logs del proceso</div>
 
                 <div
                     id="logBox"
@@ -181,9 +137,9 @@
             </div>
 
             <!-- PANEL PDFs -->
-            <div class="panel">
+            <div class="card">
 
-                <h2>PDFs descargados</h2>
+                <div class="card-label">PDFs descargados</div>
 
                 <ul
                     id="fileList"
@@ -198,7 +154,7 @@
 
         </div>
 
-    </div>
+    </main>
 
     <script>
 

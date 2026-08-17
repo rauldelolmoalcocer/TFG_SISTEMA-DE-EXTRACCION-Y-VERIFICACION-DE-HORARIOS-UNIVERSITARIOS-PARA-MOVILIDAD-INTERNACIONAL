@@ -68,6 +68,13 @@ def logout():
 # PANEL DE DESCARGAS
 # =========================================================
 
+@bp.route("/horarios")
+def horarios():
+    if "user" not in session:
+        return redirect(url_for("main.login"))
+    return render_template("horarios.html", user=session["user"])
+
+
 @bp.route("/descargas")
 def descargas():
     if "user" not in session:

@@ -1,18 +1,71 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
-    <title>Inicio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio | Universidad de Alcalá</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
 </head>
-<body>
-    <h1>Bienvenido {{ user }}</h1>
 
-    <p>Has iniciado sesión correctamente.</p>
-    <div style="margin-top: 20px;">
-    <a href="{{ url_for('main.descargas') }}" class="btn btn-success">
-        📥 Panel de descargas
-    </a>
-</div>
-    <a href="{{ url_for('main.logout') }}">Cerrar sesión</a>
+<body>
+
+    <!-- TOPBAR -->
+    <header class="topbar">
+        <div class="topbar-inner">
+
+            <div class="topbar-brand">
+                <img src="{{ url_for('static', filename='img/logo-UniversidadAlcala.png') }}"
+                    alt="Universidad de Alcalá">
+            </div>
+
+            <span class="topbar-title">Portal de servicios</span>
+
+            <div class="topbar-user">
+                <div class="topbar-user-badge">
+                    <span>{{ user }}</span>
+                </div>
+                <a href="{{ url_for('main.logout') }}" class="topbar-logout">Cerrar sesión</a>
+            </div>
+
+        </div>
+    </header>
+
+    <!-- MAIN -->
+    <main>
+
+        <div class="welcome-section">
+            <span class="welcome-label">Universidad de Alcalá · Movilidad Internacional</span>
+            <h1 class="welcome-title">Bienvenido, <span>{{ user }}</span></h1>
+            <p class="welcome-subtitle">
+                Accede a los servicios disponibles para la gestión de horarios y extracción de documentos universitarios.
+            </p>
+        </div>
+
+        <div class="cards-grid">
+
+            <a class="nav-card" href="{{ url_for('main.horarios') }}">
+                <div class="card-icon blue">📅</div>
+                <div class="card-title">Gestor de horarios</div>
+                <p class="card-desc">
+                    Selecciona asignaturas, visualiza tu horario semanal y detecta solapes de forma automática.
+                </p>
+                <span class="card-cta">Abrir &rarr;</span>
+            </a>
+
+            <a class="nav-card" href="{{ url_for('main.descargas') }}">
+                <div class="card-icon green">📥</div>
+                <div class="card-title">Panel de descargas</div>
+                <p class="card-desc">
+                    Extrae y descarga PDFs de horarios universitarios, vuelca los datos a la base de datos y consulta el estado del proceso.
+                </p>
+                <span class="card-cta">Abrir &rarr;</span>
+            </a>
+
+        </div>
+
+    </main>
+
 </body>
+
 </html>
