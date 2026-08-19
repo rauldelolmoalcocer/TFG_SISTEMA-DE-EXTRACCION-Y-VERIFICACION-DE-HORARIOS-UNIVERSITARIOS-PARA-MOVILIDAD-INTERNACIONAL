@@ -83,6 +83,14 @@ def descargas():
     return render_template("download_panel.html", user=session["user"])
 
 
+@bp.route("/revision")
+def revision():
+    if "user" not in session:
+        return redirect(url_for("main.login"))
+
+    return render_template("review.html", user=session["user"])
+
+
 # =========================================================
 # PROXY HACIA FASTAPI
 # =========================================================
@@ -237,3 +245,127 @@ def open_pdf(filename):
             "success": False,
             "message": "No se pudo abrir el PDF"
         }), 500
+
+
+# =========================================================
+# REVISIÓN MANUAL (PROXY HACIA FASTAPI)
+# =========================================================
+
+def _require_session():
+    if "user" not in session:
+        return jsonify({"success": False, "message": "Sesión no válida"}), 401
+    return None
+
+
+@bp.route("/review-summary", methods=["GET"])
+def review_summary():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.get(f"{BACKEND_URL}/review/summary", timeout=15)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-filters", methods=["GET"])
+def review_filters():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.get(f"{BACKEND_URL}/review/filters", timeout=15)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-tree", methods=["GET"])
+def review_tree():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.get(
+            f"{BACKEND_URL}/review/tree",
+            params=request.args.to_dict(),
+            timeout=15,
+        )
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-records", methods=["GET"])
+def review_records():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.get(
+            f"{BACKEND_URL}/review/records",
+            params=request.args.to_dict(),
+            timeout=15,
+        )
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-records/<item_id>", methods=["GET", "PUT"])
+def review_record_detail(item_id):
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        if request.method == "GET":
+            response = requests.get(
+                f"{BACKEND_URL}/review/records/{item_id}", timeout=15
+            )
+        else:
+            response = requests.put(
+                f"{BACKEND_URL}/review/records/{item_id}",
+                json=request.get_json(silent=True) or {},
+                timeout=15,
+            )
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-records/<item_id>/status", methods=["POST"])
+def review_record_status(item_id):
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.post(
+            f"{BACKEND_URL}/review/records/{item_id}/status",
+            json=request.get_json(silent=True) or {},
+            timeout=15,
+        )
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-records/<item_id>/restore", methods=["POST"])
+def review_record_restore(item_id):
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.post(
+            f"{BACKEND_URL}/review/records/{item_id}/restore", timeout=15
+        )
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500

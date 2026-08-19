@@ -1,0 +1,2567 @@
+{
+    "source": {
+        "file": "Semestre1_GIEC.pdf",
+        "path": "/data/downloaded_pdfs/Semestre1_GIEC.pdf",
+        "pages": 4
+    },
+    "statistics": {
+        "accepted_records": 83,
+        "rejected_records": 0,
+        "records_with_warnings": 16,
+        "pages": [
+            {
+                "page": 1,
+                "cells_detected": 27,
+                "accepted": 35,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 2,
+                "cells_detected": 5,
+                "accepted": 5,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 3,
+                "cells_detected": 29,
+                "accepted": 39,
+                "rejected": 0,
+                "warnings": 16
+            },
+            {
+                "page": 4,
+                "cells_detected": 4,
+                "accepted": 4,
+                "rejected": 0,
+                "warnings": 0
+            }
+        ]
+    },
+    "records": [
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MARTES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA DE POTENCIA"
+            },
+            "subgroup": "3C2",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Electrónica De Potencia - 3C2 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "JUEVES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "DISEÑO ELECTRÓNICO"
+            },
+            "subgroup": "3C3",
+            "classroom": "OL6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Diseño Electrónico - 3C3 (OL6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "JUEVES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "DISEÑO ELECTRÓNICO"
+            },
+            "subgroup": "3C4",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Diseño Electrónico - 3C4 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "VIERNES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "REDES DE COMUNICACIONES"
+            },
+            "subgroup": "3C2",
+            "classroom": "EL10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Redes De Comunicaciones - 3C2 (EL10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MARTES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA DE POTENCIA"
+            },
+            "subgroup": "3C2",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Electrónica De Potencia - 3C2 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MIERCOLES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES"
+            },
+            "subgroup": "3C",
+            "classroom": "EA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "SISTEMAS ELECTRÓNICOS DIGITALES - 3C (EA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "JUEVES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "DISEÑO ELECTRÓNICO"
+            },
+            "subgroup": "3C3",
+            "classroom": "OL6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Diseño Electrónico - 3C3 (OL6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "JUEVES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "DISEÑO ELECTRÓNICO"
+            },
+            "subgroup": "3C4",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Diseño Electrónico - 3C4 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "REDES DE COMUNICACIONES"
+            },
+            "subgroup": "3C2",
+            "classroom": "EL10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Redes De Comunicaciones - 3C2 (EL10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "LUNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRONICA DE POTENCIA"
+            },
+            "subgroup": "3C",
+            "classroom": "EA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "ELECTRONICA DE POTENCIA - 3C (EA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES"
+            },
+            "subgroup": "3C1",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Sistemas Electrónicos Digitales - 3C1 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SUBSISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3C2",
+            "classroom": "OL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Subsistemas Electrónicos - 3C2 (OL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "DISEÑO ELECTRÓNICO"
+            },
+            "subgroup": "3C1",
+            "classroom": "OL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Diseño Electrónico - 3C1 (OL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "DISEÑO ELECTRÓNICO"
+            },
+            "subgroup": "3C2",
+            "classroom": "OL6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Diseño Electrónico - 3C2 (OL6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "JUEVES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES"
+            },
+            "subgroup": "3C",
+            "classroom": "EA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "SISTEMAS ELECTRÓNICOS DIGITALES - 3C (EA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "REDES DE COMUNICACIONES"
+            },
+            "subgroup": "3C",
+            "classroom": "EA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "REDES DE COMUNICACIONES - 3C (EA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "LUNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRONICA DE POTENCIA"
+            },
+            "subgroup": "3C",
+            "classroom": "EA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "ELECTRONICA DE POTENCIA - 3C (EA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES"
+            },
+            "subgroup": "3C1",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Sistemas Electrónicos Digitales - 3C1 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SUBSISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3C2",
+            "classroom": "OL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Subsistemas Electrónicos - 3C2 (OL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MIERCOLES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "DISEÑO ELECTRÓNICO"
+            },
+            "subgroup": "3C1",
+            "classroom": "OL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Diseño Electrónico - 3C1 (OL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MIERCOLES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "DISEÑO ELECTRÓNICO"
+            },
+            "subgroup": "3C2",
+            "classroom": "OL6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Diseño Electrónico - 3C2 (OL6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "JUEVES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES"
+            },
+            "subgroup": "3C",
+            "classroom": "EA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "SISTEMAS ELECTRÓNICOS DIGITALES - 3C (EA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "REDES DE COMUNICACIONES"
+            },
+            "subgroup": "3C",
+            "classroom": "EA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "REDES DE COMUNICACIONES - 3C (EA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "LUNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "DISEÑO ELECTRÓNICO"
+            },
+            "subgroup": "3C",
+            "classroom": "EA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "DISEÑO ELECTRÓNICO - 3C (EA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA DE POTENCIA"
+            },
+            "subgroup": "3C1",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Electrónica De Potencia - 3C1 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES"
+            },
+            "subgroup": "3C2",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Sistemas Electrónicos Digitales - 3C2 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MIERCOLES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SUBSISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3C1",
+            "classroom": "SA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Subsistemas Electrónicos - 3C1 (SA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "JUEVES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SUBSISTEMAS ELECTRONICOS"
+            },
+            "subgroup": "3C",
+            "classroom": "EA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "SUBSISTEMAS ELECTRONICOS - 3C (EA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "VIERNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "REDES DE COMUNICACIONES"
+            },
+            "subgroup": "3C1",
+            "classroom": "EL10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Redes De Comunicaciones - 3C1 (EL10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "LUNES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "DISEÑO ELECTRÓNICO"
+            },
+            "subgroup": "3C",
+            "classroom": "EA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "DISEÑO ELECTRÓNICO - 3C (EA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA DE POTENCIA"
+            },
+            "subgroup": "3C1",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Electrónica De Potencia - 3C1 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES"
+            },
+            "subgroup": "3C2",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Sistemas Electrónicos Digitales - 3C2 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "MIERCOLES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "SUBSISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3C1",
+            "classroom": "SA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Subsistemas Electrónicos - 3C1 (SA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "JUEVES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "SUBSISTEMAS ELECTRONICOS"
+            },
+            "subgroup": "3C",
+            "classroom": "EA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "SUBSISTEMAS ELECTRONICOS - 3C (EA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3C",
+            "day": "VIERNES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "REDES DE COMUNICACIONES"
+            },
+            "subgroup": "3C1",
+            "classroom": "EL10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 1,
+                "raw_text": "Redes De Comunicaciones - 3C1 (EL10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3E",
+            "day": "MARTES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "DIGITAL ELECTRONIC SYSTEMS"
+            },
+            "subgroup": "3E",
+            "classroom": "EA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 2,
+                "raw_text": "DIGITAL ELECTRONIC SYSTEMS - 3E (EA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3E",
+            "day": "MIERCOLES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "DIGITAL ELECTRONIC SYSTEMS"
+            },
+            "subgroup": "3E",
+            "classroom": "EA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 2,
+                "raw_text": "DIGITAL ELECTRONIC SYSTEMS - 3E (EA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3E",
+            "day": "JUEVES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "DIGITAL ELECTRONIC SYSTEMS"
+            },
+            "subgroup": "3E1",
+            "classroom": "OL1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 2,
+                "raw_text": "Digital Electronic Systems - 3E1 (OL1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3E",
+            "day": "MIERCOLES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "DIGITAL ELECTRONIC SYSTEMS"
+            },
+            "subgroup": "3E",
+            "classroom": "EA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 2,
+                "raw_text": "DIGITAL ELECTRONIC SYSTEMS - 3E (EA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3E",
+            "day": "JUEVES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "DIGITAL ELECTRONIC SYSTEMS"
+            },
+            "subgroup": "3E1",
+            "classroom": "OL1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 2,
+                "raw_text": "Digital Electronic Systems - 3E1 (OL1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A3",
+            "classroom": "OL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial - 4A3 (OL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A3",
+            "classroom": "OL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial - 4A3 (OL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A3",
+            "classroom": "OL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial - 4A3 (OL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A3",
+            "classroom": "OL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial - 4A3 (OL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MIERCOLES",
+            "start_time": "14:00",
+            "end_time": "14:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS - 4C TUTORÍA"
+            },
+            "subgroup": null,
+            "classroom": "EA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS - 4C TUTORÍA (EA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "LUNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A1",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial- 4A1 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "LUNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "ELECT. BIOMÉDICA"
+            },
+            "subgroup": "4C",
+            "classroom": "EA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "ELECT. BIOMÉDICA - 4C (EA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A2",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial - 4A2 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "PROG. VISUAL"
+            },
+            "subgroup": "4D",
+            "classroom": "EL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "PROG. VISUAL - 4D (EL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MIERCOLES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS"
+            },
+            "subgroup": "4C",
+            "classroom": "EA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS - 4C (EA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A2",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial - 4A2 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "RUIDO E INTERFERENCIAS EN SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "4C1",
+            "classroom": "SA5A/OL10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Ruido E Interferencias En Sistemas Electrónicos - 4C1 (SA5A/OL10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "VIERNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A1",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial - 4A1 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "LUNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A1",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial - 4A1 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "LUNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "ELECT. BIOMÉDICA"
+            },
+            "subgroup": "4C",
+            "classroom": "EA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "ELECT. BIOMÉDICA - 4C (EA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A2",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial - 4A2 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "PROG. VISUAL"
+            },
+            "subgroup": "4D",
+            "classroom": "EL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "PROG. VISUAL - 4D (EL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MIERCOLES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS"
+            },
+            "subgroup": "4C",
+            "classroom": "EA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS - 4C (EA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A2",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial - 4A2 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "RUIDO E INTERFERENCIAS EN SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "4C1",
+            "classroom": "SA5A/OL10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Ruido E Interferencias En Sistemas Electrónicos - 4C1 (SA5A/OL10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "VIERNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "VISIÓN ARTIFICIAL"
+            },
+            "subgroup": "4A1",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Visión Artificial - 4A1 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "LUNES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "RUIDO E INTERF. EN SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "4C",
+            "classroom": "SA5A/OL10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "RUIDO E INTERF. EN SISTEMAS ELECTRÓNICOS - 4C (SA5A/OL10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "CONTROL INDUSTRIAL"
+            },
+            "subgroup": "4C",
+            "classroom": "OL1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "CONTROL INDUSTRIAL - 4C (OL1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "PROGRAMACIÓN VISUAL"
+            },
+            "subgroup": "4D1",
+            "classroom": "EL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Programación Visual - 4D1 (EL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MIERCOLES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS"
+            },
+            "subgroup": "4C1",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos Digitales Avanzados - 4C1 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "JUEVES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA PARA ENERGÍAS RENOVABLES"
+            },
+            "subgroup": "4C1",
+            "classroom": "OA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Electrónica Para Energías Renovables - 4C1 (OA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "LUNES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "RUIDO E INTERF. EN SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "4C",
+            "classroom": "SA5A/OL10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "RUIDO E INTERF. EN SISTEMAS ELECTRÓNICOS - 4C (SA5A/OL10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "CONTROL INDUSTRIAL"
+            },
+            "subgroup": "4C",
+            "classroom": "OL1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "CONTROL INDUSTRIAL - 4C (OL1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "PROGRAMACIÓN VISUAL"
+            },
+            "subgroup": "4D1",
+            "classroom": "EL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Programación Visual - 4D1 (EL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MIERCOLES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS"
+            },
+            "subgroup": "4C1",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos Digitales Avanzados - 4C1 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "JUEVES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA PARA ENERGÍAS RENOVABLES"
+            },
+            "subgroup": "4C1",
+            "classroom": "OA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Electrónica Para Energías Renovables - 4C1 (OA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "CONTROL INDUSTRIAL"
+            },
+            "subgroup": "4C1",
+            "classroom": "OL1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Control Industrial - 4C1 (OL1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS"
+            },
+            "subgroup": "4C2",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos Digitales Avanzados - 4C2 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MIERCOLES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA BIOMÉDICA"
+            },
+            "subgroup": "4C1",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Electrónica Biomédica - 4C1 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "JUEVES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA PARA ENERGÍAS RENOVABLES"
+            },
+            "subgroup": "4C",
+            "classroom": "OL11/SA5A",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "ELECTRÓNICA PARA ENERGÍAS RENOVABLES - 4C (OL11/SA5A)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "CONTROL INDUSTRIAL"
+            },
+            "subgroup": "4C1",
+            "classroom": "OL1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Control Industrial - 4C1 (OL1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MARTES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS"
+            },
+            "subgroup": "4C2",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos Digitales Avanzados - 4C2 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "MIERCOLES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA BIOMÉDICA"
+            },
+            "subgroup": "4C1",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "Electrónica Biomédica - 4C1 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4C",
+            "day": "JUEVES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA PARA ENERGÍAS RENOVABLES"
+            },
+            "subgroup": "4C",
+            "classroom": "OL11/SA5A",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 3,
+                "raw_text": "ELECTRÓNICA PARA ENERGÍAS RENOVABLES - 4C (OL11/SA5A)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "MARTES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "COMPUTER VISION"
+            },
+            "subgroup": "4E1",
+            "classroom": "OL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 4,
+                "raw_text": "Computer Vision - 4E1 (OL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "COMPUTER VISION"
+            },
+            "subgroup": "4E1",
+            "classroom": "OL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 4,
+                "raw_text": "Computer Vision - 4E1 (OL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "COMPUTER VISION"
+            },
+            "subgroup": "4E1",
+            "classroom": "OL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 4,
+                "raw_text": "Computer Vision - 4E1 (OL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G370",
+                "name": "INGENIERÍA ELECTRÓNICA DE COMUNICACIONES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "COMPUTER VISION"
+            },
+            "subgroup": "4E1",
+            "classroom": "OL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GIEC.pdf",
+                "page": 4,
+                "raw_text": "Computer Vision - 4E1 (OL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        }
+    ],
+    "rejected_records": []
+}

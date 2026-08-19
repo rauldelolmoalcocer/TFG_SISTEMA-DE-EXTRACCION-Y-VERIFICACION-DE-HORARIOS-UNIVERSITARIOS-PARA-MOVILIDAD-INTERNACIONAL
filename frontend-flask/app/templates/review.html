@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revisión manual | Universidad de Alcalá</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='review.css') }}">
+</head>
+
+<body>
+
+    <!-- TOPBAR -->
+    <header class="topbar">
+        <div class="topbar-inner">
+
+            <a class="topbar-brand" href="{{ url_for('main.index') }}">
+                <img src="{{ url_for('static', filename='img/logo-UniversidadAlcala.png') }}"
+                    alt="Universidad de Alcalá">
+            </a>
+
+            <span class="topbar-title">Revisión manual · Movilidad Internacional</span>
+
+            <div class="topbar-user">
+                <a class="topbar-nav-link" href="{{ url_for('main.descargas') }}">Panel de descargas</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.horarios') }}">Gestor de horarios</a>
+                <div class="topbar-user-badge">
+                    <span>{{ user }}</span>
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+    <!-- CONTENIDO -->
+    <main class="container">
+
+        <div class="page-head">
+            <h1>Revisión manual de horarios extraídos</h1>
+            <p>
+                Comprueba, corrige y valida los registros extraídos antes de darlos por definitivos.
+                Los cambios se guardan aparte, sin tocar el resultado original de la extracción.
+            </p>
+        </div>
+
+        <div id="noDataBox" class="empty-page-state" hidden>
+            Todavía no hay ninguna extracción con resultados que revisar.
+            Ve al <a href="{{ url_for('main.descargas') }}">panel de descargas</a> y ejecuta una extracción primero.
+        </div>
+
+        <div id="reviewContent" hidden>
+
+            <!-- RESUMEN / PESTAÑAS DE ESTADO -->
+            <section class="card summary-strip" id="statusTabs">
+                <button type="button" class="summary-chip tab active" data-status="">
+                    <span class="chip-value" id="chipTotal">0</span>
+                    <span class="chip-label">Todos</span>
+                </button>
+                <button type="button" class="summary-chip tab success" data-status="VALID">
+                    <span class="chip-value" id="chipValid">0</span>
+                    <span class="chip-label">✓ Válidos</span>
+                </button>
+                <button type="button" class="summary-chip tab warning" data-status="WARNING">
+                    <span class="chip-value" id="chipWarning">0</span>
+                    <span class="chip-label">⚠ Warnings</span>
+                </button>
+                <button type="button" class="summary-chip tab danger" data-status="INVALID">
+                    <span class="chip-value" id="chipInvalid">0</span>
+                    <span class="chip-label">✕ Incorrectos</span>
+                </button>
+                <div class="summary-chip accent">
+                    <span class="chip-value" id="chipReviewed">0</span>
+                    <span class="chip-label">Revisados</span>
+                </div>
+            </section>
+
+            <div class="review-layout">
+
+                <!-- ÁRBOL DE AGRUPACIÓN -->
+                <aside class="card tree-card">
+                    <div class="card-label">Grado · Curso · Semestre · Grupo</div>
+                    <div id="treeContainer" class="tree-container">
+                        <div class="empty-state">Cargando árbol…</div>
+                    </div>
+                </aside>
+
+                <!-- FILTROS + TABLA -->
+                <section class="review-main">
+
+                    <div class="card filters-card">
+                        <div class="card-label">Filtros y búsqueda</div>
+
+                        <div class="filters-grid">
+
+                            <input type="text" id="searchInput"
+                                placeholder="Buscar asignatura, aula, grupo, texto original o archivo…">
+
+                            <select id="degreeFilter"><option value="">Todos los grados</option></select>
+                            <select id="yearFilter"><option value="">Todos los cursos</option></select>
+                            <select id="semesterFilter"><option value="">Todos los semestres</option></select>
+                            <select id="groupFilter"><option value="">Todos los grupos</option></select>
+                            <select id="dayFilter"><option value="">Todos los días</option></select>
+                            <select id="pdfFilter"><option value="">Todos los PDFs</option></select>
+                            <select id="issueFilter"><option value="">Todos los problemas</option></select>
+
+                            <button id="clearFiltersBtn" class="btn-clear-filters">Limpiar filtros</button>
+
+                        </div>
+                    </div>
+
+                    <div class="card results-card">
+                        <div class="results-header">
+                            <div class="card-label" style="border:none;margin:0;padding:0;">Registros</div>
+                            <span id="resultsCount" class="results-count"></span>
+                        </div>
+
+                        <div class="table-outer">
+                            <table class="results-table">
+                                <thead>
+                                    <tr>
+                                        <th>Estado</th>
+                                        <th>Asignatura</th>
+                                        <th>Grado</th>
+                                        <th>Curso/Sem.</th>
+                                        <th>Grupo</th>
+                                        <th>Día · Hora</th>
+                                        <th>Aula</th>
+                                        <th>PDF</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="resultsBody">
+                                    <tr><td colspan="8" class="empty-state">Cargando…</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div class="pagination" id="pagination"></div>
+                    </div>
+
+                </section>
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <!-- MODAL DETALLE / EDICIÓN -->
+    <div class="modal-overlay" id="detailModalOverlay">
+        <div class="modal-box detail-modal-box">
+
+            <div class="modal-header">
+                <h2 id="detailTitle">Registro</h2>
+                <button type="button" class="modal-close-x" id="detailCloseX" aria-label="Cerrar">✕</button>
+            </div>
+
+            <div class="modal-body">
+
+                <div class="detail-badges" id="detailBadges"></div>
+
+                <section class="detail-section">
+                    <div class="detail-section-title">Información original del PDF (no editable)</div>
+                    <div class="readonly-grid">
+                        <div><label>Archivo</label><div class="readonly-value" id="roFile">—</div></div>
+                        <div><label>Página</label><div class="readonly-value" id="roPage">—</div></div>
+                        <div class="span-2"><label>Texto original</label><div class="readonly-value mono" id="roRawText">—</div></div>
+                    </div>
+                </section>
+
+                <section class="detail-section">
+                    <div class="detail-section-title">Diagnóstico de la extracción</div>
+                    <div class="readonly-grid">
+                        <div><label>Confianza</label><div class="readonly-value" id="roConfidence">—</div></div>
+                        <div class="span-2"><label>Issues / motivo de rechazo original</label><div class="readonly-value" id="roIssues">—</div></div>
+                    </div>
+                </section>
+
+                <section class="detail-section">
+                    <div class="detail-section-title">Datos editables</div>
+
+                    <form id="editForm" class="edit-form">
+
+                        <div class="field">
+                            <label>Código de grado</label>
+                            <input type="text" id="fDegreeCode">
+                        </div>
+                        <div class="field">
+                            <label>Nombre de grado</label>
+                            <input type="text" id="fDegreeName">
+                        </div>
+
+                        <div class="field">
+                            <label>Curso académico</label>
+                            <input type="text" id="fAcademicYear" placeholder="2025/2026">
+                        </div>
+                        <div class="field">
+                            <label>Semestre</label>
+                            <input type="number" id="fSemester" min="1">
+                        </div>
+
+                        <div class="field">
+                            <label>Curso</label>
+                            <input type="number" id="fYear" min="1">
+                        </div>
+                        <div class="field">
+                            <label>Grupo</label>
+                            <input type="text" id="fGroup">
+                        </div>
+
+                        <div class="field">
+                            <label>Día</label>
+                            <select id="fDay">
+                                <option value="">—</option>
+                                <option value="LUNES">LUNES</option>
+                                <option value="MARTES">MARTES</option>
+                                <option value="MIERCOLES">MIÉRCOLES</option>
+                                <option value="JUEVES">JUEVES</option>
+                                <option value="VIERNES">VIERNES</option>
+                            </select>
+                        </div>
+                        <div class="field field-row">
+                            <div>
+                                <label>Hora inicio</label>
+                                <input type="text" id="fStartTime" placeholder="08:00">
+                            </div>
+                            <div>
+                                <label>Hora fin</label>
+                                <input type="text" id="fEndTime" placeholder="09:00">
+                            </div>
+                        </div>
+
+                        <div class="field">
+                            <label>Código de asignatura</label>
+                            <input type="text" id="fSubjectCode">
+                        </div>
+                        <div class="field">
+                            <label>Nombre de asignatura</label>
+                            <input type="text" id="fSubjectName">
+                        </div>
+
+                        <div class="field">
+                            <label>Subgrupo</label>
+                            <input type="text" id="fSubgroup">
+                        </div>
+                        <div class="field">
+                            <label>Aula</label>
+                            <input type="text" id="fClassroom">
+                        </div>
+
+                        <div class="field span-2">
+                            <label>Notas (una por línea)</label>
+                            <textarea id="fNotes" rows="2"></textarea>
+                        </div>
+
+                    </form>
+                </section>
+
+                <p class="detail-feedback" id="detailFeedback"></p>
+
+            </div>
+
+            <div class="modal-actions detail-actions">
+                <button type="button" id="restoreBtn" class="modal-btn-secondary">Restaurar original</button>
+                <button type="button" id="markInvalidBtn" class="modal-btn-danger">Marcar como incorrecto</button>
+                <button type="button" id="markValidBtn" class="modal-btn-success">Marcar como válido</button>
+                <button type="button" id="saveEditBtn" class="modal-btn-primary">Guardar cambios</button>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='review.js') }}"></script>
+</body>
+
+</html>

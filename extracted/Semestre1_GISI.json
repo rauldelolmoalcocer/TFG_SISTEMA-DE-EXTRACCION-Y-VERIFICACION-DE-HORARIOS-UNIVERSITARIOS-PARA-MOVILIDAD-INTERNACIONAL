@@ -1,0 +1,5080 @@
+{
+    "source": {
+        "file": "Semestre1_GISI.pdf",
+        "path": "/data/downloaded_pdfs/Semestre1_GISI.pdf",
+        "pages": 9
+    },
+    "statistics": {
+        "accepted_records": 163,
+        "rejected_records": 1,
+        "records_with_warnings": 32,
+        "pages": [
+            {
+                "page": 1,
+                "cells_detected": 27,
+                "accepted": 27,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 2,
+                "cells_detected": 27,
+                "accepted": 29,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 3,
+                "cells_detected": 42,
+                "accepted": 42,
+                "rejected": 0,
+                "warnings": 22
+            },
+            {
+                "page": 4,
+                "cells_detected": 8,
+                "accepted": 8,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 5,
+                "cells_detected": 18,
+                "accepted": 22,
+                "rejected": 0,
+                "warnings": 8
+            },
+            {
+                "page": 6,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 7,
+                "cells_detected": 15,
+                "accepted": 27,
+                "rejected": 1,
+                "warnings": 2
+            },
+            {
+                "page": 8,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 9,
+                "cells_detected": 8,
+                "accepted": 8,
+                "rejected": 0,
+                "warnings": 0
+            }
+        ]
+    },
+    "records": [
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "LUNES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1A1",
+            "classroom": "NL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos De Programación - 1A1 (NL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1A2",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos Matemáticos - 1A2 (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MIERCOLES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1A1",
+            "classroom": "NL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Estadística - 1A1 (NL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1A1",
+            "classroom": "OL24",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos Físicos De La Informática - 1A1 (OL24)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "LUNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1A1",
+            "classroom": "NL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos De Programación - 1A1 (NL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1A2",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos Matemáticos - 1A2 (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MIERCOLES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1A1",
+            "classroom": "NL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Estadística - 1A1 (NL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1A1",
+            "classroom": "OL24",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos Físicos De La Informática - 1A1 (OL24)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "GESTIÓN DE PERSONAS Y EQUIPOS"
+            },
+            "subgroup": "1A",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "GESTIÓN DE PERSONAS Y EQUIPOS - 1A (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "LUNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1A",
+            "classroom": "SA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "FUNDAMENTOS DE PROGRAMACIÓN - 1A (SA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1A",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "FUNDAMENTOS MATEMÁTICOS - 1A (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1A",
+            "classroom": "EA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "ESTADÍSTICA - 1A (EA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1A",
+            "classroom": "NA5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA - 1A (NA5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "GESTIÓN DE PERSONAS Y EQUIPOS"
+            },
+            "subgroup": "1A",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "GESTIÓN DE PERSONAS Y EQUIPOS - 1A (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "LUNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1A",
+            "classroom": "SA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "FUNDAMENTOS DE PROGRAMACIÓN - 1A (SA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1A",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "FUNDAMENTOS MATEMÁTICOS - 1A (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MIERCOLES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1A",
+            "classroom": "EA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "ESTADÍSTICA - 1A (EA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1A",
+            "classroom": "NA5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA - 1A (NA5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "GESTIÓN DE PERSONAS Y EQUIPOS"
+            },
+            "subgroup": "1A",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "GESTIÓN DE PERSONAS Y EQUIPOS - 1A (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "LUNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1A2",
+            "classroom": "NL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos De Programación - 1A2 (NL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1A1",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos Matemáticos - 1A1 (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MIERCOLES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1A2",
+            "classroom": "NL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Estadística - 1A2 (NL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1A2",
+            "classroom": "OL24",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos Físicos De La Informática - 1A2 (OL24)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "LUNES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1A2",
+            "classroom": "NL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos De Programación - 1A2 (NL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1A1",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos Matemáticos - 1A1 (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MIERCOLES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1A2",
+            "classroom": "NL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Estadística - 1A2 (NL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1A2",
+            "classroom": "OL24",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 1,
+                "raw_text": "Fundamentos Físicos De La Informática - 1A2 (OL24)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "VIERNES",
+            "start_time": "14:00",
+            "end_time": "14:55",
+            "subject": {
+                "code": null,
+                "name": "GESTIÓN DE PERSONAS Y EQUIPOS"
+            },
+            "subgroup": "1B",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "GESTIÓN DE PERSONAS Y EQUIPOS - 1B (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "LUNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1B1",
+            "classroom": "NL4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos De Programación - 1B1 (NL4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "LUNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1B2",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos De Programación - 1B2 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MARTES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1B1",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos Matemáticos - 1B1 (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MIERCOLES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1B1",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Estadística - 1B1 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1B1",
+            "classroom": "OL24",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos Físicos De La Informática - 1B1 (OL24)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "VIERNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "GESTIÓN DE PERSONAS Y EQUIPOS"
+            },
+            "subgroup": "1B",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "GESTIÓN DE PERSONAS Y EQUIPOS - 1B (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "LUNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1B1",
+            "classroom": "NL4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos De Programación - 1B1 (NL4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "LUNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1B2",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos De Programación - 1B2 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1B1",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos Matemáticos - 1B1 (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MIERCOLES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1B1",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Estadística - 1B1 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1B1",
+            "classroom": "OL24",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos Físicos De La Informática - 1B1 (OL24)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "VIERNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "GESTIÓN DE PERSONAS Y EQUIPOS"
+            },
+            "subgroup": "1B",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "GESTIÓN DE PERSONAS Y EQUIPOS - 1B (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "LUNES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1B",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "FUNDAMENTOS DE PROGRAMACIÓN - 1B (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MARTES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1B",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "FUNDAMENTOS MATEMÁTICOS - 1B (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MIERCOLES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1B",
+            "classroom": "NA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "ESTADÍSTICA - 1B (NA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "JUEVES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1B",
+            "classroom": "NA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA - 1B (NA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "LUNES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1B",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "FUNDAMENTOS DE PROGRAMACIÓN - 1B (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MARTES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1B",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "FUNDAMENTOS MATEMÁTICOS - 1B (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MIERCOLES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1B",
+            "classroom": "NA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "ESTADÍSTICA - 1B (NA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "JUEVES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1B",
+            "classroom": "NA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA - 1B (NA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "LUNES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1B3",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos De Programación - 1B3 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MARTES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1B2",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos Matemáticos - 1B2 (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MIERCOLES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1B2",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Estadística - 1B2 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "JUEVES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1B2",
+            "classroom": "OL24",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos Físicos De La Informática - 1B2 (OL24)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "LUNES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+            },
+            "subgroup": "1B3",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos De Programación - 1B3 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MARTES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS MATEMÁTICOS"
+            },
+            "subgroup": "1B2",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos Matemáticos - 1B2 (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "MIERCOLES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "ESTADÍSTICA"
+            },
+            "subgroup": "1B2",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Estadística - 1B2 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1B",
+            "day": "JUEVES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA"
+            },
+            "subgroup": "1B2",
+            "classroom": "OL24",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 2,
+                "raw_text": "Fundamentos Físicos De La Informática - 1B2 (OL24)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2A1",
+            "classroom": "NL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Estructuras De Datos - 2A1 (NL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2A1",
+            "classroom": "NL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Operativos - 2A1 (NL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "JUEVES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "MARKETING TIC"
+            },
+            "subgroup": "2A",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "MARKETING TIC - 2A (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2A1",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Bases De Datos - 2A1 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "unknown_classroom"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2A1",
+            "classroom": "NL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Estructuras De Datos - 2A1 (NL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2A1",
+            "classroom": "NL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Operativos - 2A1 (NL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "JUEVES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "MARKETING TIC"
+            },
+            "subgroup": "2A",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "MARKETING TIC - 2A (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2A1",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Bases De Datos - 2A1 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "unknown_classroom"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2A",
+            "classroom": "SA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "ESTRUCTURAS DE DATOS - 2A (SA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2A",
+            "classroom": "SA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS OPERATIVOS - 2A (SA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "JUEVES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "MARKETING TIC"
+            },
+            "subgroup": "2A",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "MARKETING TIC - 2A (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2A",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "BASES DE DATOS - 2A (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2A",
+            "classroom": "SA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "ESTRUCTURAS DE DATOS - 2A (SA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2A",
+            "classroom": "SA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS OPERATIVOS - 2A (SA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2A",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "BASES DE DATOS - 2A (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2A2",
+            "classroom": "NL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Estructuras De Datos - 2A2 (NL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2A2",
+            "classroom": "NL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Operativos - 2A2 (NL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2A2",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Bases De Datos - 2A2 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "unknown_classroom"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2A2",
+            "classroom": "NL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Estructuras De Datos - 2A2 (NL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2A2",
+            "classroom": "NL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Operativos - 2A2 (NL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2A2",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Bases De Datos - 2A2 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "unknown_classroom"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2B1",
+            "classroom": "NL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Estructuras De Datos - 2B1 (NL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2B1",
+            "classroom": "NL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Operativos - 2B1 (NL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MIERCOLES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE INFORMACIÓN CONTABLE"
+            },
+            "subgroup": "2A",
+            "classroom": "EA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS DE INFORMACIÓN CONTABLE - 2A (EA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2B1",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Bases De Datos - 2B1 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2B1",
+            "classroom": "NL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Estructuras De Datos - 2B1 (NL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2B1",
+            "classroom": "NL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Operativos - 2B1 (NL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MIERCOLES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE INFORMACIÓN CONTABLE"
+            },
+            "subgroup": "2A",
+            "classroom": "EA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS DE INFORMACIÓN CONTABLE - 2A (EA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2B2",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Bases De Datos - 2B2 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2B",
+            "classroom": "NA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "ESTRUCTURAS DE DATOS - 2B (NA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2B",
+            "classroom": "NA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS OPERATIVOS - 2B (NA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MIERCOLES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE INFORMACIÓN CONTABLE"
+            },
+            "subgroup": "2A",
+            "classroom": "EA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS DE INFORMACIÓN CONTABLE - 2A (EA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2B",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "BASES DE DATOS - 2B (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2B",
+            "classroom": "NA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "ESTRUCTURAS DE DATOS - 2B (NA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2B",
+            "classroom": "NA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS OPERATIVOS - 2B (NA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2B",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "BASES DE DATOS - 2B (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2B2",
+            "classroom": "NL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Estructuras De Datos - 2B2 (NL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2B2",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Operativos - 2B2 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2B2",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Bases De Datos - 2B2 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS DE DATOS"
+            },
+            "subgroup": "2B2",
+            "classroom": "NL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Estructuras De Datos - 2B2 (NL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "2B2",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Operativos - 2B2 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "BASES DE DATOS"
+            },
+            "subgroup": "2B2",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 3,
+                "raw_text": "Bases De Datos - 2B2 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2E",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "DATA STRUCTURES"
+            },
+            "subgroup": "2E",
+            "classroom": "OA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 4,
+                "raw_text": "DATA STRUCTURES - 2E (OA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2E",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "DATA STRUCTURES"
+            },
+            "subgroup": "2E",
+            "classroom": "OA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 4,
+                "raw_text": "DATA STRUCTURES - 2E (OA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2E",
+            "day": "JUEVES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "DATABASES"
+            },
+            "subgroup": "2E",
+            "classroom": "OA5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 4,
+                "raw_text": "DATABASES - 2E (OA5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2E",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "DATA STRUCTURES"
+            },
+            "subgroup": "2E1",
+            "classroom": "NL4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 4,
+                "raw_text": "Data Structures - 2E1 (NL4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2E",
+            "day": "JUEVES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "DATABASES"
+            },
+            "subgroup": "2E",
+            "classroom": "OA5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 4,
+                "raw_text": "DATABASES - 2E (OA5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2E",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "DATA STRUCTURES"
+            },
+            "subgroup": "2E1",
+            "classroom": "NL4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 4,
+                "raw_text": "Data Structures - 2E1 (NL4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2E",
+            "day": "JUEVES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "DATABASES"
+            },
+            "subgroup": "2E1",
+            "classroom": "OA5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 4,
+                "raw_text": "Databases - 2E1 (OA5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2E",
+            "day": "JUEVES",
+            "start_time": "14:00",
+            "end_time": "14:55",
+            "subject": {
+                "code": null,
+                "name": "DATABASES"
+            },
+            "subgroup": "2E1",
+            "classroom": "OA5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 4,
+                "raw_text": "Databases - 2E1 (OA5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "3B1",
+            "classroom": "EL4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Ampliación De Sistemas Operativos - 3B1 (EL4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "3B1",
+            "classroom": "EL4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Ampliación De Sistemas Operativos - 3B1 (EL4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "PARADIGMAS DE PROGRAMACIÓN"
+            },
+            "subgroup": "3A",
+            "classroom": "SA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "PARADIGMAS DE PROGRAMACIÓN - 3A (SA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "3B",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "AMPLIACIÓN DE SISTEMAS OPERATIVOS - 3B (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "PARADIGMAS DE PROGRAMACIÓN"
+            },
+            "subgroup": "3A",
+            "classroom": "SA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "PARADIGMAS DE PROGRAMACIÓN - 3A (SA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "3B",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "AMPLIACIÓN DE SISTEMAS OPERATIVOS - 3B (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "PARADIGMAS DE PROGRAMACIÓN"
+            },
+            "subgroup": "3A1",
+            "classroom": "SA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Paradigmas De Programación - 3A1 (SA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "PARADIGMAS DE PROGRAMACIÓN"
+            },
+            "subgroup": "3A2",
+            "classroom": "SA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Paradigmas De Programación - 3A2 (SA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "3B2",
+            "classroom": "EL4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Ampliación De Sistemas Operativos - 3B2 (EL4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "PARADIGMAS DE PROGRAMACIÓN"
+            },
+            "subgroup": "3A1",
+            "classroom": "SA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Paradigmas De Programación - 3A1 (SA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "PARADIGMAS DE PROGRAMACIÓN"
+            },
+            "subgroup": "3A2",
+            "classroom": "SA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Paradigmas De Programación - 3A2 (SA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "3B2",
+            "classroom": "EL4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Ampliación De Sistemas Operativos - 3B2 (EL4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "PARADIGMAS DE PROGRAMACIÓN"
+            },
+            "subgroup": "3B",
+            "classroom": "EA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "PARADIGMAS DE PROGRAMACIÓN - 3B (EA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "3A1",
+            "classroom": "EL4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Ampliación De Sistemas Operativos - 3A1 (EL4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "3A2",
+            "classroom": "EL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Ampliación De Sistemas Operativos - 3A2 (EL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "INGENIERÍA DEL SOFTWARE AVANZADA"
+            },
+            "subgroup": "3A1",
+            "classroom": "NL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Ingeniería Del Software Avanzada - 3A1 (NL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "LUNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. DE INFORMACIÓN PARA LA GESTIÓN DE COSTES"
+            },
+            "subgroup": "3A",
+            "classroom": "NA5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "SIST. DE INFORMACIÓN PARA LA GESTIÓN DE COSTES - 3A (NA5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "PARADIGMAS DE PROGRAMACIÓN"
+            },
+            "subgroup": "3B",
+            "classroom": "EA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "PARADIGMAS DE PROGRAMACIÓN - 3B (EA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "3A1",
+            "classroom": "EL4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Ampliación De Sistemas Operativos - 3A1 (EL4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS"
+            },
+            "subgroup": "3A2",
+            "classroom": "EL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Ampliación De Sistemas Operativos - 3A2 (EL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE INFORMACIÓN DE APOYO A PROCESOS Y TOMA DE DECISIONES"
+            },
+            "subgroup": "3A",
+            "classroom": "NA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "SISTEMAS DE INFORMACIÓN DE APOYO A PROCESOS Y TOMA DE DECISIONES - 3A (NA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "INGENIERÍA DEL SOFTWARE AVANZADA"
+            },
+            "subgroup": "3A1",
+            "classroom": "NL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 5,
+                "raw_text": "Ingeniería Del Software Avanzada - 3A1 (NL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "ARQUITECTURA Y DISEÑO DE SISTEMAS WEB Y C/S"
+            },
+            "subgroup": "4A",
+            "classroom": "NA8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "ARQUITECTURA Y DISEÑO DE SISTEMAS WEB Y C/S - 4A (NA8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE VISION ARTIFICIAL"
+            },
+            "subgroup": "4A3",
+            "classroom": "OL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sistemas De Vision Artificial - 4A3 (OL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "IMAGEN"
+            },
+            "subgroup": "4A",
+            "classroom": "OA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "IMAGEN - 4A (OA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS AUDIOVISUALES Y APLICACIONES MULTIMEDIA"
+            },
+            "subgroup": "4A1",
+            "classroom": "SL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sistemas Audiovisuales Y Aplicaciones Multimedia - 4A1 (SL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE CONTROL INTELIGENTE"
+            },
+            "subgroup": "4A",
+            "classroom": "NA8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "SISTEMAS DE CONTROL INTELIGENTE - 4A (NA8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "INTELIGENCIA ARTIFICIAL GENERATIVA CON GRANDES MODELOS DE LENGUAJE"
+            },
+            "subgroup": "4A",
+            "classroom": "NA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "INTELIGENCIA ARTIFICIAL GENERATIVA CON GRANDES MODELOS DE LENGUAJE - 4A (NA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "ARQUITECTURA Y DISEÑO DE SISTEMAS WEB Y C/S"
+            },
+            "subgroup": "4A1",
+            "classroom": "NL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Arquitectura Y Diseño De Sistemas Web Y C/S - 4A1 (NL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE CONTROL PARA ROBOTS"
+            },
+            "subgroup": "4A",
+            "classroom": "NA8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "SISTEMAS DE CONTROL PARA ROBOTS - 4A (NA8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS AUDIOVISUALES Y APLICACIONES MULTIMEDIA"
+            },
+            "subgroup": "4A2",
+            "classroom": "SL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sistemas Audiovisuales Y Aplicaciones Multimedia - 4A2 (SL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE VISION ARTIFICIAL"
+            },
+            "subgroup": "4A3",
+            "classroom": "OL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sistemas De Vision Artificial - 4A3 (OL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "APLICACIONES DEL SOFT- COMPUTING EN ENERGÍA, VOZ E IMAGEN"
+            },
+            "subgroup": "4A",
+            "classroom": "OA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "APLICACIONES DEL SOFT- COMPUTING EN ENERGÍA, VOZ E IMAGEN - 4A (OA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS AUDIOVISUALES Y APLICACIONES MULTIMEDIA"
+            },
+            "subgroup": "4A1",
+            "classroom": "SL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sistemas Audiovisuales Y Aplicaciones Multimedia - 4A1 (SL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE CONTROL INTELIGENTE"
+            },
+            "subgroup": "4A",
+            "classroom": "NA8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "SISTEMAS DE CONTROL INTELIGENTE - 4A (NA8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "ARQUITECTURA Y DISEÑO DE SISTEMAS WEB Y C/S"
+            },
+            "subgroup": "4A1",
+            "classroom": "NL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Arquitectura Y Diseño De Sistemas Web Y C/S - 4A1 (NL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE CONTROL PARA ROBOTS"
+            },
+            "subgroup": "4A",
+            "classroom": "NA8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "SISTEMAS DE CONTROL PARA ROBOTS - 4A (NA8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS AUDIOVISUALES Y APLICACIONES MULTIMEDIA"
+            },
+            "subgroup": "4A2",
+            "classroom": "SL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sistemas Audiovisuales Y Aplicaciones Multimedia - 4A2 (SL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. CONTROL INTELIGENTE"
+            },
+            "subgroup": "4A1",
+            "classroom": "OL1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sist. Control Inteligente - 4A1 (OL1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. CONTROL INTELIGENTE"
+            },
+            "subgroup": "4A2",
+            "classroom": "OL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sist. Control Inteligente - 4A2 (OL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. CONTROL INTELIGENTE"
+            },
+            "subgroup": "4A3",
+            "classroom": "OL5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sist. Control Inteligente - 4A3 (OL5)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE VISION ARTIFICIAL"
+            },
+            "subgroup": "4A3",
+            "classroom": "OL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sistemas De Vision Artificial - 4A3 (OL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "MODELOS DE LENGUAJE"
+            },
+            "subgroup": "4A",
+            "classroom": "NA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "MODELOS DE LENGUAJE - 4A (NA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "APLICACIONES DEL SOFT-COMPUTING EN ENERGÍA, VOZ E IMAGEN"
+            },
+            "subgroup": "4A1",
+            "classroom": "OA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Aplicaciones Del Soft-Computing En Energía, Voz E Imagen - 4A1 (OA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS AUDIOVISUALES Y APLICACIONES MULTIMEDIA"
+            },
+            "subgroup": "4A1",
+            "classroom": "SL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sistemas Audiovisuales Y Aplicaciones Multimedia - 4A1 (SL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. CONTROL INTELIGENTE"
+            },
+            "subgroup": "4B1",
+            "classroom": "OL1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sist. Control Inteligente - 4B1 (OL1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "incompatible_subgroup"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "ARQUITECTURA Y DISEÑO DE SISTEMAS WEB Y C/S"
+            },
+            "subgroup": "4A2",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Arquitectura Y Diseño De Sistemas Web Y C/S - 4A2 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "unknown_classroom"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE CONTROL PARA ROBOTS"
+            },
+            "subgroup": "4A1",
+            "classroom": "PL21",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sistemas De Control Para Robots - 4A1 (PL21)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "VIERNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS AUDIOVISUALES Y APLICACIONES MULTIMEDIA"
+            },
+            "subgroup": "4A2",
+            "classroom": "SL7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 7,
+                "raw_text": "Sistemas Audiovisuales Y Aplicaciones Multimedia - 4A2 (SL7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2025/2026",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "INTRODUCTION TO QUANTUM MECHANICS AND QUANTUM COMPUTING"
+            },
+            "subgroup": "4E",
+            "classroom": "NA8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 9,
+                "raw_text": "INTRODUCTION TO QUANTUM MECHANICS AND QUANTUM COMPUTING - 4E (NA8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2025/2026",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "INTRODUCTION TO QUANTUM MECHANICS AND QUANTUM COMPUTING"
+            },
+            "subgroup": "4E",
+            "classroom": "NA8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 9,
+                "raw_text": "INTRODUCTION TO QUANTUM MECHANICS AND QUANTUM COMPUTING - 4E (NA8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2025/2026",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "INTRODUCTION TO QUANTUM MECHANICS AND QUANTUM COMPUTING"
+            },
+            "subgroup": "4E1",
+            "classroom": "NA8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 9,
+                "raw_text": "Introduction To Quantum Mechanics And Quantum Computing - 4E1 (NA8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2025/2026",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "INTRODUCTION TO QUANTUM MECHANICS AND QUANTUM COMPUTING"
+            },
+            "subgroup": "4E1",
+            "classroom": "NA8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 9,
+                "raw_text": "Introduction To Quantum Mechanics And Quantum Computing - 4E1 (NA8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2025/2026",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "MARTES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "COMPUTER VISION SYSTEMS"
+            },
+            "subgroup": "4E1",
+            "classroom": "OL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 9,
+                "raw_text": "Computer Vision Systems - 4E1 (OL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2025/2026",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "COMPUTER VISION SYSTEMS"
+            },
+            "subgroup": "4E1",
+            "classroom": "OL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 9,
+                "raw_text": "Computer Vision Systems - 4E1 (OL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2025/2026",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "COMPUTER VISION SYSTEMS"
+            },
+            "subgroup": "4E1",
+            "classroom": "OL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 9,
+                "raw_text": "Computer Vision Systems - 4E1 (OL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G581",
+                "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+            },
+            "academic_year": "2025/2026",
+            "semester": 7,
+            "year": 4,
+            "group": "4E",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "COMPUTER VISION SYSTEMS"
+            },
+            "subgroup": "4E1",
+            "classroom": "OL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GISI.pdf",
+                "page": 9,
+                "raw_text": "Computer Vision Systems - 4E1 (OL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        }
+    ],
+    "rejected_records": [
+        {
+            "reason": [
+                "missing_subject",
+                "missing_classroom"
+            ],
+            "record": {
+                "degree": {
+                    "code": "G581",
+                    "name": "INGENIERÍA EN SISTEMAS DE INFORMACIÓN"
+                },
+                "academic_year": "2026/2027",
+                "semester": 7,
+                "year": 4,
+                "group": "4A",
+                "day": "MIERCOLES",
+                "start_time": "09:00",
+                "end_time": "09:55",
+                "subject": {
+                    "code": null,
+                    "name": null
+                },
+                "subgroup": null,
+                "classroom": null,
+                "notes": [],
+                "source": {
+                    "file": "Semestre1_GISI.pdf",
+                    "page": 7,
+                    "raw_text": "APLICACIONES DEL SOFT- COMPUTING EN ENERGÍA, VOZ E"
+                },
+                "extraction": {
+                    "degree_source": "document",
+                    "confidence": 0.45,
+                    "issues": [
+                        "missing_subject",
+                        "missing_classroom"
+                    ]
+                }
+            }
+        }
+    ]
+}

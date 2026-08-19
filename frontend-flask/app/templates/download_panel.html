@@ -156,6 +156,54 @@
 
     </main>
 
+    <!-- MODAL RESUMEN DE EXTRACCIÓN -->
+    <div class="modal-overlay" id="summaryModalOverlay">
+        <div class="modal-box">
+
+            <div class="modal-header">
+                <h2>Extracción finalizada</h2>
+                <p>Resumen de los resultados. Puedes revisarlos y corregirlos antes de darlos por buenos.</p>
+            </div>
+
+            <div class="modal-body">
+                <div class="summary-grid">
+
+                    <div class="summary-item">
+                        <span class="summary-value" id="sumPdfsProcessed">0/0</span>
+                        <span class="summary-label">PDFs procesados</span>
+                    </div>
+
+                    <div class="summary-item danger">
+                        <span class="summary-value" id="sumPdfsFailed">0</span>
+                        <span class="summary-label">PDFs fallidos</span>
+                    </div>
+
+                    <div class="summary-item success">
+                        <span class="summary-value" id="sumValid">0</span>
+                        <span class="summary-label">Registros válidos</span>
+                    </div>
+
+                    <div class="summary-item warning">
+                        <span class="summary-value" id="sumWarnings">0</span>
+                        <span class="summary-label">Con warnings</span>
+                    </div>
+
+                    <div class="summary-item danger">
+                        <span class="summary-value" id="sumRejected">0</span>
+                        <span class="summary-label">Rechazados</span>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="modal-actions">
+                <button id="modalCloseBtn" class="modal-btn-secondary">Cerrar</button>
+                <button id="modalReviewBtn" class="modal-btn-primary">Revisar resultados</button>
+            </div>
+
+        </div>
+    </div>
+
     <script>
 
         // =========================================
@@ -197,6 +245,15 @@
 
         const lastDumpDate =
             document.getElementById("lastDumpDate");
+
+        const summaryModalOverlay =
+            document.getElementById("summaryModalOverlay");
+
+        const modalCloseBtn =
+            document.getElementById("modalCloseBtn");
+
+        const modalReviewBtn =
+            document.getElementById("modalReviewBtn");
 
         // =========================================
         // VARIABLES
@@ -393,12 +450,60 @@
                         data.errors && data.errors.length > 0
                             ? "Finalizado con errores"
                             : "Finalizado";
+
+                    showExtractionSummaryModal();
                 }
 
             } catch (e) {
                 console.error("Error consultando estado extracción:", e);
             }
         }
+
+        // =========================================
+        // MODAL RESUMEN DE EXTRACCIÓN
+        // =========================================
+
+        async function showExtractionSummaryModal() {
+
+            try {
+
+                const response = await fetch("/review-summary");
+
+                if (!response.ok) {
+                    return;
+                }
+
+                const data = await response.json();
+
+                document.getElementById("sumPdfsProcessed").textContent =
+                    `${data.pdfs_processed}/${data.pdfs_found}`;
+
+                document.getElementById("sumPdfsFailed").textContent =
+                    data.pdfs_failed;
+
+                document.getElementById("sumValid").textContent =
+                    data.accepted_records - data.records_with_warnings;
+
+                document.getElementById("sumWarnings").textContent =
+                    data.records_with_warnings;
+
+                document.getElementById("sumRejected").textContent =
+                    data.rejected_records;
+
+                summaryModalOverlay.classList.add("open");
+
+            } catch (e) {
+                console.error("No se pudo cargar el resumen de la extracción:", e);
+            }
+        }
+
+        modalCloseBtn.addEventListener("click", () => {
+            summaryModalOverlay.classList.remove("open");
+        });
+
+        modalReviewBtn.addEventListener("click", () => {
+            window.location.href = "/revision";
+        });
 
         // =========================================
         // PAUSAR

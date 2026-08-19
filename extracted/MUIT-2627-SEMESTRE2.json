@@ -1,0 +1,23 @@
+{
+    "source": {
+        "file": "MUIT-2627-SEMESTRE2.pdf",
+        "path": "/data/downloaded_pdfs/MUIT-2627-SEMESTRE2.pdf",
+        "pages": 1
+    },
+    "statistics": {
+        "accepted_records": 0,
+        "rejected_records": 0,
+        "records_with_warnings": 0,
+        "pages": [
+            {
+                "page": 1,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            }
+        ]
+    },
+    "records": [],
+    "rejected_records": []
+}

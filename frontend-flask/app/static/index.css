@@ -158,10 +158,10 @@ main {
 /* ─── CARDS ──────────────────────────────────────────── */
 .cards-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     gap: 24px;
     width: 100%;
-    max-width: 820px;
+    max-width: 1160px;
 }
 
 .nav-card {
@@ -200,6 +200,7 @@ main {
 
 .card-icon.green  { background: rgba(25, 135, 84, 0.22); }
 .card-icon.blue   { background: rgba(31, 79, 139, 0.30); }
+.card-icon.violet { background: rgba(124, 58, 237, 0.28); }
 
 .card-title {
     font-size: 1.12rem;

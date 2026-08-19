@@ -3,6 +3,7 @@
 import re
 
 from text_utils import (
+    GROUP_PATTERN,
     clean_text,
     remove_time_ranges,
     normalize_group,
@@ -10,9 +11,59 @@ from text_utils import (
 )
 
 
-GROUP_PATTERN = r"\d+[A-Z](?:\d+)?"
-
 CLASSROOM_PATTERN = r"[^()]{1,50}"
+
+# Anotaciones de redirección entre grupos, p.ej.:
+#
+# PROGRAMACIÓN - 1A → 1A(GII) (NA7)
+#
+# El fragmento "1A → 1A(GII)" no forma parte del nombre de la
+# asignatura ni es un aula: se extrae como nota y se retira del texto
+# antes de aplicar los parsers de formato.
+REDIRECT_NOTE_PATTERN = re.compile(
+
+    rf"""
+    {GROUP_PATTERN}
+    \s*(?:→|->)\s*
+    {GROUP_PATTERN}
+    \s*\([A-Z0-9]{{1,10}}\)
+    """,
+
+    re.I | re.X
+)
+
+# Prefijos de código interno de tipo "abreviatura + dígitos + guion"
+# que a veces preceden al nombre real de la asignatura, p.ej.:
+#
+# GD. 202012-SISTEMAS ELÉCTRICOS DE POTENCIA
+LEADING_CODE_PATTERN = re.compile(
+    r"^[A-ZÁÉÍÓÚÑ]{1,6}\.?\s*\d{3,8}\s*-\s*",
+    re.I
+)
+
+
+# ==========================================
+# NOTES EXTRACTION
+# ==========================================
+
+def extract_redirect_notes(text):
+
+    if not text:
+        return text, []
+
+    notes = [
+        clean_text(match.group(0))
+        for match in REDIRECT_NOTE_PATTERN.finditer(text)
+    ]
+
+    if not notes:
+        return text, []
+
+    cleaned = clean_text(
+        REDIRECT_NOTE_PATTERN.sub(" ", text)
+    )
+
+    return cleaned, notes
 
 
 # ==========================================
@@ -51,7 +102,22 @@ def clean_subject_name(name):
         name
     )
 
+    # Elimina prefijos de código interno:
+    #
+    # GD. 202012-SISTEMAS ELÉCTRICOS DE POTENCIA
+    #
+    # ->
+    #
+    # SISTEMAS ELÉCTRICOS DE POTENCIA
+
+    name = LEADING_CODE_PATTERN.sub(
+        "",
+        name
+    )
+
     name = clean_text(name)
+
+    name = name.strip(" -*")
 
     return name if name else None
 
@@ -279,6 +345,8 @@ def parse_subjects(text):
     text = remove_time_ranges(text)
     text = clean_text(text)
 
+    text, notes = extract_redirect_notes(text)
+
     if not text:
         return []
 
@@ -295,6 +363,10 @@ def parse_subjects(text):
         results = parser(text)
 
         if results:
+
+            for result in results:
+                result["notas"] = notes
+
             return results
 
     return []

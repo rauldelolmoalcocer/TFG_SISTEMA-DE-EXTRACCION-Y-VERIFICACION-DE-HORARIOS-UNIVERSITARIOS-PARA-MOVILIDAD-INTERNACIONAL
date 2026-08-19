@@ -53,34 +53,24 @@ def process_page(
             cell["text"]
         )
 
-        # Si la celda no se ha podido
-        # interpretar, la guardamos para debug.
+        # Si la celda no se ha podido interpretar como ninguno de los
+        # formatos conocidos, seguimos tratándola como un registro
+        # (con la asignatura vacía) para no perder el día/hora/grado
+        # ya identificados. validate_record la rechazará con el
+        # motivo "missing_subject", conservando toda la información
+        # parcial disponible.
 
         if not subjects:
 
-            rejected_records.append({
+            subjects = [{
 
-                "reason": [
-                    "subject_not_parsed"
-                ],
-
-                "source": {
-                    "file": os.path.basename(
-                        pdf_path
-                    ),
-                    "page": page_number
-                },
-
-                "schedule": {
-                    "day": cell["dia"],
-                    "start_time": cell["hora_inicio"],
-                    "end_time": cell["hora_fin"]
-                },
-
-                "raw_text": cell["text"]
-            })
-
-            continue
+                "codigo_asignatura": None,
+                "nombre": None,
+                "subgrupo": None,
+                "aula": None,
+                "texto_original": cell["text"],
+                "notas": []
+            }]
 
         for subject in subjects:
 
@@ -128,10 +118,18 @@ def process_page(
                     ]
                 })
 
+    records_with_warnings = sum(
+
+        1
+        for record in accepted_records
+        if record["extraction"]["issues"]
+    )
+
     return {
         "accepted": accepted_records,
         "rejected": rejected_records,
-        "cells_detected": len(cells)
+        "cells_detected": len(cells),
+        "warnings": records_with_warnings
     }
 
 
@@ -150,6 +148,8 @@ def process_pdf(pdf_path):
     rejected_records = []
 
     page_stats = []
+
+    records_with_warnings = 0
 
     for page_number, page in enumerate(
         document,
@@ -170,6 +170,10 @@ def process_pdf(pdf_path):
             result["rejected"]
         )
 
+        records_with_warnings += result[
+            "warnings"
+        ]
+
         page_stats.append({
 
             "page": page_number,
@@ -181,7 +185,10 @@ def process_pdf(pdf_path):
                 len(result["accepted"]),
 
             "rejected":
-                len(result["rejected"])
+                len(result["rejected"]),
+
+            "warnings":
+                result["warnings"]
         })
 
     result = {
@@ -204,6 +211,9 @@ def process_pdf(pdf_path):
 
             "rejected_records":
                 len(rejected_records),
+
+            "records_with_warnings":
+                records_with_warnings,
 
             "pages": page_stats
         },

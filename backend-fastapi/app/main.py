@@ -6,9 +6,11 @@ import psycopg2
 import os
 import threading
 import time
+from typing import Optional
 
 from app.crawler.crawler import CrawlerConfig, CrawlerState, PdfCrawler
 from app.extractor.pdf_extractor import ExtractorState, run_extraction
+from app.review import store as review_store
 
 
 app = FastAPI()
@@ -33,6 +35,35 @@ class LoginRequest(BaseModel):
 
 class DownloadRequest(BaseModel):
     url: str
+
+
+class DegreeEdit(BaseModel):
+    code: Optional[str] = None
+    name: Optional[str] = None
+
+
+class SubjectEdit(BaseModel):
+    code: Optional[str] = None
+    name: Optional[str] = None
+
+
+class RecordEditRequest(BaseModel):
+    degree: DegreeEdit
+    academic_year: Optional[str] = None
+    semester: Optional[int] = None
+    year: Optional[int] = None
+    group: Optional[str] = None
+    day: Optional[str] = None
+    start_time: Optional[str] = None
+    end_time: Optional[str] = None
+    subject: SubjectEdit
+    subgroup: Optional[str] = None
+    classroom: Optional[str] = None
+    notes: list[str] = []
+
+
+class RecordStatusRequest(BaseModel):
+    status: str
 
 
 # =========================================================
@@ -62,6 +93,8 @@ os.makedirs(EXTRACT_FOLDER, exist_ok=True)
 extract_state = ExtractorState()
 extract_lock = threading.Lock()
 extract_thread = None
+
+review_lock = threading.Lock()
 
 download_state = {
     "running": False,
@@ -386,3 +419,154 @@ def extraction_status():
             "logs": list(extract_state.logs),
             "errors": list(extract_state.errors),
         }
+
+
+# =========================================================
+# ENDPOINTS DE REVISIÓN MANUAL
+# =========================================================
+#
+# Trabajan siempre sobre reviewed_schedules.json (copia editable).
+# all_schedules.json (resultado original de la extracción) nunca se
+# modifica desde aquí, solo se lee para construir/reconstruir la
+# copia editable.
+
+def _require_reviewed():
+    """Carga reviewed_schedules.json o lanza 404 si todavía no existe
+    ninguna extracción (o falló antes de generar all_schedules.json)."""
+    reviewed = review_store.load_reviewed(EXTRACT_FOLDER)
+    if reviewed is None:
+        try:
+            reviewed = review_store.ensure_reviewed(EXTRACT_FOLDER)
+        except review_store.ReviewError:
+            raise HTTPException(
+                status_code=404,
+                detail="Todavía no hay ninguna extracción con resultados que revisar.",
+            )
+    return reviewed
+
+
+@app.get("/review/summary")
+def review_summary():
+    summary = review_store.compute_summary(EXTRACT_FOLDER)
+    if summary is None:
+        raise HTTPException(
+            status_code=404,
+            detail="Todavía no hay ninguna extracción con resultados que revisar.",
+        )
+    return summary
+
+
+@app.get("/review/filters")
+def review_filters():
+    reviewed = _require_reviewed()
+    return review_store.compute_filter_options(reviewed["items"])
+
+
+@app.get("/review/tree")
+def review_tree(
+    status: Optional[str] = None,
+    degree: Optional[str] = None,
+    year: Optional[str] = None,
+    semester: Optional[str] = None,
+    group: Optional[str] = None,
+    day: Optional[str] = None,
+    pdf: Optional[str] = None,
+    issue: Optional[str] = None,
+    search: Optional[str] = None,
+):
+    reviewed = _require_reviewed()
+    filters = {
+        "status": status, "degree": degree, "year": year, "semester": semester,
+        "group": group, "day": day, "pdf": pdf, "issue": issue, "search": search,
+    }
+    filtered = review_store.apply_filters(reviewed["items"], filters)
+    return {"tree": review_store.compute_tree(filtered), "total": len(filtered)}
+
+
+@app.get("/review/records")
+def review_records(
+    page: int = 1,
+    page_size: int = 50,
+    status: Optional[str] = None,
+    degree: Optional[str] = None,
+    year: Optional[str] = None,
+    semester: Optional[str] = None,
+    group: Optional[str] = None,
+    day: Optional[str] = None,
+    pdf: Optional[str] = None,
+    issue: Optional[str] = None,
+    search: Optional[str] = None,
+):
+    reviewed = _require_reviewed()
+    filters = {
+        "status": status, "degree": degree, "year": year, "semester": semester,
+        "group": group, "day": day, "pdf": pdf, "issue": issue, "search": search,
+    }
+    filtered = review_store.apply_filters(reviewed["items"], filters)
+    ordered = review_store.sort_items(filtered)
+    page_items, total = review_store.paginate(ordered, page, page_size)
+
+    return {
+        "items": page_items,
+        "total": total,
+        "page": page,
+        "page_size": page_size,
+        "total_pages": (total + page_size - 1) // page_size if page_size else 0,
+    }
+
+
+@app.get("/review/records/{item_id}")
+def review_record_detail(item_id: str):
+    reviewed = _require_reviewed()
+    item = review_store.find_item(reviewed, item_id)
+    if item is None:
+        raise HTTPException(status_code=404, detail="Registro no encontrado.")
+    return item
+
+
+@app.put("/review/records/{item_id}")
+def review_record_edit(item_id: str, payload: RecordEditRequest):
+    with review_lock:
+        reviewed = _require_reviewed()
+        item = review_store.find_item(reviewed, item_id)
+        if item is None:
+            raise HTTPException(status_code=404, detail="Registro no encontrado.")
+
+        try:
+            review_store.apply_edit(item, payload.model_dump())
+        except review_store.ReviewError as e:
+            raise HTTPException(status_code=400, detail=str(e))
+
+        review_store.save_reviewed(EXTRACT_FOLDER, reviewed)
+        return {"success": True, "message": "Cambios guardados.", "item": item}
+
+
+@app.post("/review/records/{item_id}/status")
+def review_record_status(item_id: str, payload: RecordStatusRequest):
+    with review_lock:
+        reviewed = _require_reviewed()
+        item = review_store.find_item(reviewed, item_id)
+        if item is None:
+            raise HTTPException(status_code=404, detail="Registro no encontrado.")
+
+        try:
+            review_store.set_status(item, payload.status)
+        except review_store.ReviewError as e:
+            raise HTTPException(status_code=400, detail=str(e))
+
+        review_store.save_reviewed(EXTRACT_FOLDER, reviewed)
+        return {"success": True, "message": "Estado actualizado.", "item": item}
+
+
+@app.post("/review/records/{item_id}/restore")
+def review_record_restore(item_id: str):
+    with review_lock:
+        reviewed = _require_reviewed()
+        item = review_store.find_item(reviewed, item_id)
+        if item is None:
+            raise HTTPException(status_code=404, detail="Registro no encontrado.")
+
+        review_store.restore_item(item)
+
+        review_store.save_reviewed(EXTRACT_FOLDER, reviewed)
+        return {"success": True, "message": "Registro restaurado al original.", "item": item}

@@ -1,0 +1,491 @@
+{
+    "source": {
+        "file": "Semestre1Transversales.pdf",
+        "path": "/data/downloaded_pdfs/Semestre1Transversales.pdf",
+        "pages": 3
+    },
+    "statistics": {
+        "accepted_records": 9,
+        "rejected_records": 4,
+        "records_with_warnings": 9,
+        "pages": [
+            {
+                "page": 1,
+                "cells_detected": 8,
+                "accepted": 9,
+                "rejected": 4,
+                "warnings": 9
+            },
+            {
+                "page": 2,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 3,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            }
+        ]
+    },
+    "records": [
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1T",
+            "day": "VIERNES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "CAPACITACIÓN EN EL USO DE LAS TIC (1C)"
+            },
+            "subgroup": "1T",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1Transversales.pdf",
+                "page": 1,
+                "raw_text": "CAPACITACIÓN EN EL USO DE LAS TIC (1C) - 1T (NL8)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1T",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "CAPACITACIÓN EN EL USO DE LAS TIC (1C)"
+            },
+            "subgroup": "1T",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1Transversales.pdf",
+                "page": 1,
+                "raw_text": "CAPACITACIÓN EN EL USO DE LAS TIC (1C) - 1T (NL8)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1T",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "CAPACITACIÓN EN EL USO DE LAS TIC (1C)"
+            },
+            "subgroup": "1T",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1Transversales.pdf",
+                "page": 1,
+                "raw_text": "CAPACITACIÓN EN EL USO DE LAS TIC (1C) - 1T (NL8)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1T",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE"
+            },
+            "subgroup": "1T",
+            "classroom": "SA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1Transversales.pdf",
+                "page": 1,
+                "raw_text": "AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1T",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "EVOLUCIÓN HISTÓRICA DE LA INGENIERÍA"
+            },
+            "subgroup": "1T",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1Transversales.pdf",
+                "page": 1,
+                "raw_text": "EVOLUCIÓN HISTÓRICA DE LA INGENIERÍA - 1T (OA1)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1T",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "HERRAMIENTAS PARA INGENIERÍA DE SIMULACIÓN - 1T-A1 (OL11) HERRAMIENTAS PARA INGENIERÍA DE SIMULACIÓN - 1T-A2 (OA6) SIMULATION ENGINEERING TOOLS - 1T - E (PL21) ROBÓTICA PARA TODOS"
+            },
+            "subgroup": "1T",
+            "classroom": "OL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1Transversales.pdf",
+                "page": 1,
+                "raw_text": "Herramientas Para Ingeniería De Simulación - 1T-A1 (OL11) Herramientas Para Ingeniería De Simulación - 1T-A2 (OA6) Simulation Engineering Tools - 1T - E (PL21) ROBÓTICA PARA TODOS - 1T (OL2)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1T",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍAS PARA LA SOCIEDAD DIGITAL"
+            },
+            "subgroup": "1T",
+            "classroom": "EA5",
+            "notes": [],
+            "source": {
+                "file": "Semestre1Transversales.pdf",
+                "page": 1,
+                "raw_text": "(OA3) TECNOLOGÍAS PARA LA SOCIEDAD DIGITAL - 1T (EA5)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1T",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "CAPACITACIÓN EN EL USO DE LAS TIC (1C)"
+            },
+            "subgroup": "1T",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1Transversales.pdf",
+                "page": 1,
+                "raw_text": "CAPACITACIÓN EN EL USO DE LAS TIC (1C) - 1T (NL8)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1T",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE"
+            },
+            "subgroup": "1T",
+            "classroom": "SA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1Transversales.pdf",
+                "page": 1,
+                "raw_text": "AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T (SA2)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        }
+    ],
+    "rejected_records": [
+        {
+            "reason": [
+                "missing_subject",
+                "missing_classroom",
+                "missing_degree"
+            ],
+            "record": {
+                "degree": {
+                    "code": null,
+                    "name": null
+                },
+                "academic_year": "2026/2027",
+                "semester": 1,
+                "year": 1,
+                "group": "1T",
+                "day": "LUNES",
+                "start_time": "11:00",
+                "end_time": "11:55",
+                "subject": {
+                    "code": null,
+                    "name": null
+                },
+                "subgroup": null,
+                "classroom": null,
+                "notes": [],
+                "source": {
+                    "file": "Semestre1Transversales.pdf",
+                    "page": 1,
+                    "raw_text": "Junta de Escuela con fecha 30/06/2026 transversal de laboratorio de"
+                },
+                "extraction": {
+                    "degree_source": null,
+                    "confidence": 0.3,
+                    "issues": [
+                        "missing_subject",
+                        "missing_classroom",
+                        "missing_degree"
+                    ]
+                }
+            }
+        },
+        {
+            "reason": [
+                "missing_subject",
+                "missing_classroom",
+                "missing_degree"
+            ],
+            "record": {
+                "degree": {
+                    "code": null,
+                    "name": null
+                },
+                "academic_year": "2026/2027",
+                "semester": 1,
+                "year": 1,
+                "group": "1T",
+                "day": "MARTES",
+                "start_time": "11:00",
+                "end_time": "11:55",
+                "subject": {
+                    "code": null,
+                    "name": null
+                },
+                "subgroup": null,
+                "classroom": null,
+                "notes": [],
+                "source": {
+                    "file": "Semestre1Transversales.pdf",
+                    "page": 1,
+                    "raw_text": "- (****)=Aula no perteneciente a la química para ingeniería se impartirá del"
+                },
+                "extraction": {
+                    "degree_source": null,
+                    "confidence": 0.3,
+                    "issues": [
+                        "missing_subject",
+                        "missing_classroom",
+                        "missing_degree"
+                    ]
+                }
+            }
+        },
+        {
+            "reason": [
+                "missing_subject",
+                "missing_classroom",
+                "missing_degree"
+            ],
+            "record": {
+                "degree": {
+                    "code": null,
+                    "name": null
+                },
+                "academic_year": "2026/2027",
+                "semester": 1,
+                "year": 1,
+                "group": "1T",
+                "day": "MIERCOLES",
+                "start_time": "11:00",
+                "end_time": "11:55",
+                "subject": {
+                    "code": null,
+                    "name": null
+                },
+                "subgroup": null,
+                "classroom": null,
+                "notes": [],
+                "source": {
+                    "file": "Semestre1Transversales.pdf",
+                    "page": 1,
+                    "raw_text": "EPS - (LabQ)=Lab. Química Inorgánica, 10 al 25 de septiembre de 15:00-19:00,"
+                },
+                "extraction": {
+                    "degree_source": null,
+                    "confidence": 0.3,
+                    "issues": [
+                        "missing_subject",
+                        "missing_classroom",
+                        "missing_degree"
+                    ]
+                }
+            }
+        },
+        {
+            "reason": [
+                "missing_subject",
+                "missing_classroom",
+                "missing_degree"
+            ],
+            "record": {
+                "degree": {
+                    "code": null,
+                    "name": null
+                },
+                "academic_year": "2026/2027",
+                "semester": 1,
+                "year": 1,
+                "group": "1T",
+                "day": "JUEVES",
+                "start_time": "11:00",
+                "end_time": "11:55",
+                "subject": {
+                    "code": null,
+                    "name": null
+                },
+                "subgroup": null,
+                "classroom": null,
+                "notes": [],
+                "source": {
+                    "file": "Semestre1Transversales.pdf",
+                    "page": 1,
+                    "raw_text": "Edificio de Farmacia - 12 sesiones seguidas de prácticas"
+                },
+                "extraction": {
+                    "degree_source": null,
+                    "confidence": 0.3,
+                    "issues": [
+                        "missing_subject",
+                        "missing_classroom",
+                        "missing_degree"
+                    ]
+                }
+            }
+        }
+    ]
+}

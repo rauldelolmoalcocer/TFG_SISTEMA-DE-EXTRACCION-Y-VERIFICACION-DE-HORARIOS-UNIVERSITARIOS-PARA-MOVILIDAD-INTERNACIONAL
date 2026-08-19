@@ -1,0 +1,677 @@
+{
+    "source": {
+        "file": "Semestre2_TRV_26-27.pdf",
+        "path": "/data/downloaded_pdfs/Semestre2_TRV_26-27.pdf",
+        "pages": 2
+    },
+    "statistics": {
+        "accepted_records": 20,
+        "rejected_records": 0,
+        "records_with_warnings": 20,
+        "pages": [
+            {
+                "page": 1,
+                "cells_detected": 17,
+                "accepted": 20,
+                "rejected": 0,
+                "warnings": 20
+            },
+            {
+                "page": 2,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            }
+        ]
+    },
+    "records": [
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "VIERNES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "CAPACITACIÓN EN EL USO DE LAS TIC (2C)"
+            },
+            "subgroup": "2T",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "CAPACITACIÓN EN EL USO DE LAS TIC (2C) - 2T (NL8)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "VIERNES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE BIOINGENIERÍA"
+            },
+            "subgroup": "2T",
+            "classroom": "OA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "FUNDAMENTOS DE BIOINGENIERÍA - 2T (OA3)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "LUNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA (2C)"
+            },
+            "subgroup": "2T",
+            "classroom": "OA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) - 2T (OA3)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "CAPACITACIÓN EN EL USO DE LAS TIC (2C)"
+            },
+            "subgroup": "2T",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "CAPACITACIÓN EN EL USO DE LAS TIC (2C) - 2T (NL8)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE BIOINGENIERÍA"
+            },
+            "subgroup": "2T",
+            "classroom": "OA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "FUNDAMENTOS DE BIOINGENIERÍA - 2T (OA3)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "LUNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA (2C)"
+            },
+            "subgroup": "2T",
+            "classroom": "OA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA (2C) - 2T (OA3)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "JUEVES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL"
+            },
+            "subgroup": "2T",
+            "classroom": "2C",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "CAPACITACIÓN EN EL USO DE LAS TIC (2C)"
+            },
+            "subgroup": "2T",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "CAPACITACIÓN EN EL USO DE LAS TIC (2C) - 2T (NL8)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "FUNDAMENTOS DE BIOINGENIERÍA"
+            },
+            "subgroup": "2T",
+            "classroom": "OA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "FUNDAMENTOS DE BIOINGENIERÍA - 2T (OA3)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "LUNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA"
+            },
+            "subgroup": "2T",
+            "classroom": "2C",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "Búsqueda y Gestión de la Información y Recursos Multimedia (2C) - 2T"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "JUEVES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL"
+            },
+            "subgroup": "2T",
+            "classroom": "2C",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "CAPACITACIÓN EN EL USO DE LAS TIC (2C)"
+            },
+            "subgroup": "2T",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "CAPACITACIÓN EN EL USO DE LAS TIC (2C) - 2T (NL8)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "LUNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA"
+            },
+            "subgroup": "2T",
+            "classroom": "2C",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "Búsqueda y Gestión de la Información y Recursos Multimedia (2C) - 2T"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "JUEVES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL"
+            },
+            "subgroup": "2T",
+            "classroom": "2C",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "JUEVES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "CIENCIA COGNITIVA: FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL"
+            },
+            "subgroup": "2T",
+            "classroom": "2C",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial (2C) - 2T"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.7,
+                "issues": [
+                    "unknown_classroom",
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "MIERCOLES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "PROMPTS FOR GENERATIVE AI"
+            },
+            "subgroup": "2T",
+            "classroom": "SL10",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "PROMPTS FOR GENERATIVE AI - 2T (SL10)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "TECN. VIDEOJUEGOS - 2T-B1"
+            },
+            "subgroup": null,
+            "classroom": "EL6",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "Tecn. Videojuegos - 2T-B1 (EL6)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "MERCADO LABORAL Y ENTORNO PROFESIONAL TIC"
+            },
+            "subgroup": "2T",
+            "classroom": "EA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "MERCADO LABORAL Y ENTORNO PROFESIONAL TIC - 2T (EA7)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "MIERCOLES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "PROMPTS FOR GENERATIVE AI"
+            },
+            "subgroup": "2T",
+            "classroom": "SL10",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "PROMPTS FOR GENERATIVE AI - 2T (SL10)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": null,
+                "name": null
+            },
+            "academic_year": "2026/2027",
+            "semester": 2,
+            "year": 1,
+            "group": "2T",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "TECN. VIDEOJUEGOS - 2T-B1"
+            },
+            "subgroup": null,
+            "classroom": "EL6",
+            "notes": [],
+            "source": {
+                "file": "Semestre2_TRV_26-27.pdf",
+                "page": 1,
+                "raw_text": "Tecn. Videojuegos - 2T-B1 (EL6)"
+            },
+            "extraction": {
+                "degree_source": null,
+                "confidence": 0.85,
+                "issues": [
+                    "missing_degree"
+                ]
+            }
+        }
+    ],
+    "rejected_records": []
+}

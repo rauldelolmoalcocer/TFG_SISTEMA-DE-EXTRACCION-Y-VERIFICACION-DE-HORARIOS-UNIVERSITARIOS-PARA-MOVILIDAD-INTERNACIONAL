@@ -16,7 +16,7 @@ def normalize_subject_name(value):
 
     value = clean_text(value)
 
-    value = value.strip(" -")
+    value = value.strip(" -*")
 
     return value.upper()
 
@@ -82,6 +82,8 @@ def normalize_record(record):
         "classroom": normalize_classroom(
             record.get("aula")
         ),
+
+        "notes": record.get("notas") or [],
 
         "source": {
 

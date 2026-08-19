@@ -1,0 +1,4983 @@
+{
+    "source": {
+        "file": "Semestre1_GITI.pdf",
+        "path": "/data/downloaded_pdfs/Semestre1_GITI.pdf",
+        "pages": 5
+    },
+    "statistics": {
+        "accepted_records": 159,
+        "rejected_records": 4,
+        "records_with_warnings": 2,
+        "pages": [
+            {
+                "page": 1,
+                "cells_detected": 22,
+                "accepted": 32,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 2,
+                "cells_detected": 26,
+                "accepted": 34,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 3,
+                "cells_detected": 34,
+                "accepted": 54,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 4,
+                "cells_detected": 4,
+                "accepted": 4,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 5,
+                "cells_detected": 31,
+                "accepted": 35,
+                "rejected": 4,
+                "warnings": 2
+            }
+        ]
+    },
+    "records": [
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "QUÍMICA GENERAL"
+            },
+            "subgroup": "1A1",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Química General - 1A1 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "QUÍMICA GENERAL"
+            },
+            "subgroup": "1A2",
+            "classroom": "OA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Química General - 1A2 (OA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "QUÍMICA GENERAL"
+            },
+            "subgroup": "1A1",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Química General - 1A1 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "QUÍMICA GENERAL"
+            },
+            "subgroup": "1A2",
+            "classroom": "OA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Química General - 1A2 (OA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "LUNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "ÁLGEBRA"
+            },
+            "subgroup": "1A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "ÁLGEBRA - 1A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "FÍSICA I"
+            },
+            "subgroup": "1A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "FÍSICA I - 1A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "QUÍMICA GENERAL"
+            },
+            "subgroup": "1A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "QUÍMICA GENERAL - 1A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "EXPRESIÓN GRÁFICA"
+            },
+            "subgroup": "1A2",
+            "classroom": "OA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Expresión Gráfica - 1A2 (OA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "ÁLGEBRA"
+            },
+            "subgroup": "1A1",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Álgebra - 1A1 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "CÁLCULO I"
+            },
+            "subgroup": "1A1",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Cálculo I - 1A1 (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "FÍSICA I"
+            },
+            "subgroup": "1A2",
+            "classroom": "SA8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Física I - 1A2 (SA8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "LUNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "ÁLGEBRA"
+            },
+            "subgroup": "1A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "ÁLGEBRA - 1A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "FÍSICA I"
+            },
+            "subgroup": "1A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "FÍSICA I - 1A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MIERCOLES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "QUÍMICA GENERAL"
+            },
+            "subgroup": "1A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "QUÍMICA GENERAL - 1A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "EXPRESIÓN GRÁFICA"
+            },
+            "subgroup": "1A2",
+            "classroom": "OA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Expresión Gráfica - 1A2 (OA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "ÁLGEBRA"
+            },
+            "subgroup": "1A1",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Álgebra - 1A1 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "CÁLCULO I"
+            },
+            "subgroup": "1A1",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Cálculo I - 1A1 (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "FÍSICA I"
+            },
+            "subgroup": "1A2",
+            "classroom": "SA8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Física I - 1A2 (SA8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "LUNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "EXPRESIÓN GRÁFICA"
+            },
+            "subgroup": "1A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "EXPRESIÓN GRÁFICA - 1A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "CÁLCULO I"
+            },
+            "subgroup": "1A2",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Cálculo I - 1A2 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "EXPRESIÓN GRÁFICA"
+            },
+            "subgroup": "1A3",
+            "classroom": "OA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Expresión Gráfica - 1A3 (OA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MIERCOLES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "CÁLCULO I"
+            },
+            "subgroup": "1A",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "CÁLCULO I - 1A (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "EXPRESIÓN GRÁFICA"
+            },
+            "subgroup": "1A1",
+            "classroom": "OA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Expresión Gráfica - 1A1 (OA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "ÁLGEBRA"
+            },
+            "subgroup": "1A2",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Álgebra - 1A2 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "VIERNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "FÍSICA I"
+            },
+            "subgroup": "1A1",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Física I - 1A1 (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "LUNES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "EXPRESIÓN GRÁFICA"
+            },
+            "subgroup": "1A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "EXPRESIÓN GRÁFICA - 1A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "CÁLCULO I"
+            },
+            "subgroup": "1A2",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Cálculo I - 1A2 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "EXPRESIÓN GRÁFICA"
+            },
+            "subgroup": "1A3",
+            "classroom": "OA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Expresión Gráfica - 1A3 (OA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "MIERCOLES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "CÁLCULO I"
+            },
+            "subgroup": "1A",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "CÁLCULO I - 1A (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "EXPRESIÓN GRÁFICA"
+            },
+            "subgroup": "1A1",
+            "classroom": "OA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Expresión Gráfica - 1A1 (OA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "JUEVES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "ÁLGEBRA"
+            },
+            "subgroup": "1A2",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Álgebra - 1A2 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 1,
+            "year": 1,
+            "group": "1A",
+            "day": "VIERNES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "FÍSICA I"
+            },
+            "subgroup": "1A1",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 1,
+                "raw_text": "Física I - 1A1 (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "TEORÍA DE MÁQUINAS Y MECANISMOS"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "TEORÍA DE MÁQUINAS Y MECANISMOS - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "ECUACIONES DIFERENCIALES"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "ECUACIONES DIFERENCIALES - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MIERCOLES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "CIRCUITOS ELÉCTRICOS"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "CIRCUITOS ELÉCTRICOS - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "ECUACIONES DIFERENCIALES"
+            },
+            "subgroup": "2A1",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Ecuaciones Diferenciales - 2A1 (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "TEORÍA DE MÁQUINAS Y MECANISMOS"
+            },
+            "subgroup": "2A2",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Teoría De Máquinas Y Mecanismos - 2A2 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "CIRCUITOS ELÉCTRICOS"
+            },
+            "subgroup": "2A1",
+            "classroom": "OA4/SL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Circuitos Eléctricos - 2A1 (OA4/SL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "INGENIERÍA TÉRMICA"
+            },
+            "subgroup": "2A2",
+            "classroom": "PL16/OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Ingeniería Térmica - 2A2 (PL16/OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "TEORÍA DE MÁQUINAS Y MECANISMOS"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "TEORÍA DE MÁQUINAS Y MECANISMOS - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "ECUACIONES DIFERENCIALES"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "ECUACIONES DIFERENCIALES - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MIERCOLES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "CIRCUITOS ELÉCTRICOS"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "CIRCUITOS ELÉCTRICOS - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "ECUACIONES DIFERENCIALES"
+            },
+            "subgroup": "2A1",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Ecuaciones Diferenciales - 2A1 (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "TEORÍA DE MÁQUINAS Y MECANISMOS"
+            },
+            "subgroup": "2A2",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Teoría De Máquinas Y Mecanismos - 2A2 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "CIRCUITOS ELÉCTRICOS"
+            },
+            "subgroup": "2A1",
+            "classroom": "OA4/SL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Circuitos Eléctricos - 2A1 (OA4/SL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "INGENIERÍA TÉRMICA"
+            },
+            "subgroup": "2A2",
+            "classroom": "PL16/OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Ingeniería Térmica - 2A2 (PL16/OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "CIENCIA DE MATERIALES"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "CIENCIA DE MATERIALES - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "CIENCIA DE MATERIALES"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "CIENCIA DE MATERIALES - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MIERCOLES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "INGENIERÍA TÉRMICA"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "INGENIERÍA TÉRMICA - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "JUEVES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "ECUACIONES DIFERENCIALES"
+            },
+            "subgroup": "2A2",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Ecuaciones Diferenciales - 2A2 (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "JUEVES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "TEORÍA DE MÁQUINAS Y MECANISMOS"
+            },
+            "subgroup": "2A1",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Teoría De Máquinas Y Mecanismos - 2A1 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "CIRCUITOS ELÉCTRICOS"
+            },
+            "subgroup": "2A2",
+            "classroom": "SL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Circuitos Eléctricos - 2A2 (SL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "INGENIERÍA TÉRMICA"
+            },
+            "subgroup": "2A1",
+            "classroom": "PL16/OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Ingeniería Térmica - 2A1 (PL16/OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "CIENCIA DE MATERIALES"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "CIENCIA DE MATERIALES - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "CIENCIA DE MATERIALES"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "CIENCIA DE MATERIALES - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MIERCOLES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "INGENIERÍA TÉRMICA"
+            },
+            "subgroup": "2A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "INGENIERÍA TÉRMICA - 2A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "JUEVES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "ECUACIONES DIFERENCIALES"
+            },
+            "subgroup": "2A2",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Ecuaciones Diferenciales - 2A2 (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "JUEVES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "TEORÍA DE MÁQUINAS Y MECANISMOS"
+            },
+            "subgroup": "2A1",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Teoría De Máquinas Y Mecanismos - 2A1 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "CIRCUITOS ELÉCTRICOS"
+            },
+            "subgroup": "2A2",
+            "classroom": "SL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Circuitos Eléctricos - 2A2 (SL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "VIERNES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "INGENIERÍA TÉRMICA"
+            },
+            "subgroup": "2A1",
+            "classroom": "PL16/OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Ingeniería Térmica - 2A1 (PL16/OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "CIENCIA DE MATERIALES"
+            },
+            "subgroup": "2A2",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Ciencia De Materiales - 2A2 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "CIRCUITOS ELÉCTRICOS"
+            },
+            "subgroup": "2A4",
+            "classroom": "SL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Circuitos Eléctricos - 2A4 (SL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MIERCOLES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "CIRCUITOS ELÉCTRICOS"
+            },
+            "subgroup": "2A3",
+            "classroom": "SL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Circuitos Eléctricos - 2A3 (SL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "LUNES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "CIENCIA DE MATERIALES"
+            },
+            "subgroup": "2A2",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Ciencia De Materiales - 2A2 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MARTES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "CIRCUITOS ELÉCTRICOS"
+            },
+            "subgroup": "2A4",
+            "classroom": "SL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Circuitos Eléctricos - 2A4 (SL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 3,
+            "year": 2,
+            "group": "2A",
+            "day": "MIERCOLES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "CIRCUITOS ELÉCTRICOS"
+            },
+            "subgroup": "2A3",
+            "classroom": "SL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 2,
+                "raw_text": "Circuitos Eléctricos - 2A3 (SL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "LUNES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. PROD. INDUSTRIAL"
+            },
+            "subgroup": "3A4",
+            "classroom": "OLP10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sist. Prod. Industrial - 3A4 (OLP10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "LUNES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A5",
+            "classroom": "OL12",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos - 3A5 (OL12)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. PROD. INDUSTRIAL"
+            },
+            "subgroup": "3A3",
+            "classroom": "OLP10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sist. Prod. Industrial - 3A3 (OLP10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A4",
+            "classroom": "OL12",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos - 3A4 (OL12)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "JUEVES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I"
+            },
+            "subgroup": "3A5",
+            "classroom": "PL13",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Tecnología Eléctrica I - 3A5 (PL13)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A2",
+            "classroom": "OL12",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos - 3A2 (OL12)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATIZACIÓN"
+            },
+            "subgroup": "3A3",
+            "classroom": "EL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Automatización - 3A3 (EL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "LUNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. PROD. INDUSTRIAL"
+            },
+            "subgroup": "3A4",
+            "classroom": "OLP10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sist. Prod. Industrial - 3A4 (OLP10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "LUNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A5",
+            "classroom": "OL12",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos - 3A5 (OL12)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS - 3A TUTORÍA"
+            },
+            "subgroup": null,
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS ELECTRÓNICOS - 3A TUTORÍA (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. PROD. INDUSTRIAL"
+            },
+            "subgroup": "3A3",
+            "classroom": "OLP10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sist. Prod. Industrial - 3A3 (OLP10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A4",
+            "classroom": "OL12",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos - 3A4 (OL12)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "JUEVES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I"
+            },
+            "subgroup": "3A5",
+            "classroom": "PL13",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Tecnología Eléctrica I - 3A5 (PL13)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A2",
+            "classroom": "OL12",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos - 3A2 (OL12)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATIZACIÓN"
+            },
+            "subgroup": "3A3",
+            "classroom": "EL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Automatización - 3A3 (EL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "LUNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I"
+            },
+            "subgroup": "3A",
+            "classroom": "SA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "TECNOLOGÍA ELÉCTRICA I - 3A (SA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "OPERACIONES BÁSICAS EN LA INDUSTRIA"
+            },
+            "subgroup": "3A1",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Operaciones Básicas En La Industria - 3A1 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "OPERACIONES BÁSICAS EN LA INDUSTRIA"
+            },
+            "subgroup": "3A2",
+            "classroom": "EL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Operaciones Básicas En La Industria - 3A2 (EL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL"
+            },
+            "subgroup": "3A",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL - 3A (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. PROD. INDUSTRIAL"
+            },
+            "subgroup": "3A1",
+            "classroom": "OLP10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sist. Prod. Industrial - 3A1 (OLP10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I"
+            },
+            "subgroup": "3A2",
+            "classroom": "PL13",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Tecnología Eléctrica I - 3A2 (PL13)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "JUEVES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS ELECTRÓNICOS - 3A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATIZACIÓN"
+            },
+            "subgroup": "3A1",
+            "classroom": "EL9/EL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Automatización - 3A1 (EL9/EL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A3",
+            "classroom": "OL12",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos - 3A3 (OL12)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "LUNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I"
+            },
+            "subgroup": "3A",
+            "classroom": "SA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "TECNOLOGÍA ELÉCTRICA I - 3A (SA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "OPERACIONES BÁSICAS EN LA INDUSTRIA"
+            },
+            "subgroup": "3A1",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Operaciones Básicas En La Industria - 3A1 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "OPERACIONES BÁSICAS EN LA INDUSTRIA"
+            },
+            "subgroup": "3A2",
+            "classroom": "EL2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Operaciones Básicas En La Industria - 3A2 (EL2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL"
+            },
+            "subgroup": "3A",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL - 3A (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. PROD. INDUSTRIAL"
+            },
+            "subgroup": "3A1",
+            "classroom": "OLP10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sist. Prod. Industrial - 3A1 (OLP10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I"
+            },
+            "subgroup": "3A2",
+            "classroom": "PL13",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Tecnología Eléctrica I - 3A2 (PL13)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "JUEVES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS ELECTRÓNICOS - 3A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATIZACIÓN"
+            },
+            "subgroup": "3A1",
+            "classroom": "EL8/EL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Automatización - 3A1 (EL8/EL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A3",
+            "classroom": "OL12",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos - 3A3 (OL12)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "LUNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL"
+            },
+            "subgroup": "3A",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL - 3A (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATIZACIÓN"
+            },
+            "subgroup": "3A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "AUTOMATIZACIÓN - 3A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I - 3A/3A1"
+            },
+            "subgroup": null,
+            "classroom": "NA5/PL13",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Tecnología Eléctrica I - 3A/3A1 (NA5/PL13)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "JUEVES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "OPERACIONES BÁSICAS EN LA INDUSTRIA"
+            },
+            "subgroup": "3A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "OPERACIONES BÁSICAS EN LA INDUSTRIA - 3A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATIZACIÓN"
+            },
+            "subgroup": "3A2",
+            "classroom": "EL9/EL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Automatización - 3A2 (EL9/EL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "12:00",
+            "end_time": "12:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A1",
+            "classroom": "OL12",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos - 3A1 (OL12)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "LUNES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL"
+            },
+            "subgroup": "3A",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL - 3A (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATIZACIÓN"
+            },
+            "subgroup": "3A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "AUTOMATIZACIÓN - 3A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MIERCOLES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I - 3A/3A1"
+            },
+            "subgroup": null,
+            "classroom": "NA5/PL13",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Tecnología Eléctrica I - 3A/3A1 (NA5/PL13)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "JUEVES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "OPERACIONES BÁSICAS EN LA INDUSTRIA"
+            },
+            "subgroup": "3A",
+            "classroom": "OA2",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "OPERACIONES BÁSICAS EN LA INDUSTRIA - 3A (OA2)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATIZACIÓN"
+            },
+            "subgroup": "3A2",
+            "classroom": "EL8/EL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Automatización - 3A2 (EL8/EL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "VIERNES",
+            "start_time": "13:00",
+            "end_time": "13:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS ELECTRÓNICOS"
+            },
+            "subgroup": "3A1",
+            "classroom": "OL12",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sistemas Electrónicos - 3A1 (OL12)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "LUNES",
+            "start_time": "14:00",
+            "end_time": "14:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL - 3A TUTORÍA"
+            },
+            "subgroup": null,
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL - 3A TUTORÍA (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I"
+            },
+            "subgroup": "3A4",
+            "classroom": "PL13",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Tecnología Eléctrica I - 3A4 (PL13)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. PROD. INDUSTRIAL"
+            },
+            "subgroup": "3A2",
+            "classroom": "OLP10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sist. Prod. Industrial - 3A2 (OLP10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. PROD. INDUSTRIAL"
+            },
+            "subgroup": "3A5",
+            "classroom": "OLP10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sist. Prod. Industrial - 3A5 (OLP10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I"
+            },
+            "subgroup": "3A3",
+            "classroom": "PL13",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Tecnología Eléctrica I - 3A3 (PL13)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I"
+            },
+            "subgroup": "3A4",
+            "classroom": "PL13",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Tecnología Eléctrica I - 3A4 (PL13)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. PROD. INDUSTRIAL"
+            },
+            "subgroup": "3A2",
+            "classroom": "OLP10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sist. Prod. Industrial - 3A2 (OLP10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "SIST. PROD. INDUSTRIAL"
+            },
+            "subgroup": "3A5",
+            "classroom": "OLP10",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Sist. Prod. Industrial - 3A5 (OLP10)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3A",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "TECNOLOGÍA ELÉCTRICA I"
+            },
+            "subgroup": "3A3",
+            "classroom": "PL13",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 3,
+                "raw_text": "Tecnología Eléctrica I - 3A3 (PL13)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3E",
+            "day": "MARTES",
+            "start_time": "08:00",
+            "end_time": "08:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATION"
+            },
+            "subgroup": "3E",
+            "classroom": "SA5B",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 4,
+                "raw_text": "AUTOMATION - 3E (SA5B)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3E",
+            "day": "MARTES",
+            "start_time": "09:00",
+            "end_time": "09:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATION"
+            },
+            "subgroup": "3E",
+            "classroom": "SA5B",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 4,
+                "raw_text": "AUTOMATION - 3E (SA5B)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3E",
+            "day": "MARTES",
+            "start_time": "10:00",
+            "end_time": "10:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATION"
+            },
+            "subgroup": "3E",
+            "classroom": "EL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 4,
+                "raw_text": "Automation - 3E (EL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 5,
+            "year": 3,
+            "group": "3E",
+            "day": "MARTES",
+            "start_time": "11:00",
+            "end_time": "11:55",
+            "subject": {
+                "code": null,
+                "name": "AUTOMATION"
+            },
+            "subgroup": "3E",
+            "classroom": "EL9",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 4,
+                "raw_text": "Automation - 3E (EL9)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "14:00",
+            "end_time": "14:55",
+            "subject": {
+                "code": null,
+                "name": "LUNES ELECT. DE POTENCIA"
+            },
+            "subgroup": "4A2",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "LUNES Elect. De Potencia - 4A2 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "PROCESOS DE ORGANIZACIÓN INDUSTRIAL"
+            },
+            "subgroup": "4A3",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Procesos De Organización Industrial - 4A3 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS Y CONSTRUCCIONES INDUSTRIALES"
+            },
+            "subgroup": "4A1",
+            "classroom": "OA6",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Estructuras Y Construcciones Industriales - 4A1 (OA6)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA DE POTENCIA"
+            },
+            "subgroup": "4A",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "ELECTRÓNICA DE POTENCIA - 4A (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE FLUIDOS"
+            },
+            "subgroup": "4A",
+            "classroom": "OA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "SISTEMAS DE FLUIDOS - 4A (OA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "PROYECTOS"
+            },
+            "subgroup": "4A1",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Proyectos - 4A1 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS Y CONSTRUCCIONES INDUSTRIALES"
+            },
+            "subgroup": "4A2",
+            "classroom": "OA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Estructuras Y Construcciones Industriales - 4A2 (OA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "VIERNES",
+            "start_time": "15:00",
+            "end_time": "15:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS Y CONSTRUCCIONES INDUSTRIALES"
+            },
+            "subgroup": "4A",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "ESTRUCTURAS Y CONSTRUCCIONES INDUSTRIALES - 4A (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "ELECT. DE POTENCIA"
+            },
+            "subgroup": "4A2",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Elect. De Potencia - 4A2 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "PROCESOS DE ORGANIZACIÓN INDUSTRIAL"
+            },
+            "subgroup": "4A3",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Procesos De Organización Industrial - 4A3 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA DE POTENCIA"
+            },
+            "subgroup": "4A",
+            "classroom": "SA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "ELECTRÓNICA DE POTENCIA - 4A (SA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE FLUIDOS"
+            },
+            "subgroup": "4A",
+            "classroom": "OA3",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "SISTEMAS DE FLUIDOS - 4A (OA3)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "PROYECTOS"
+            },
+            "subgroup": "4A1",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Proyectos - 4A1 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS Y CONSTRUCCIONES INDUSTRIALES"
+            },
+            "subgroup": "4A2",
+            "classroom": "OA7",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Estructuras Y Construcciones Industriales - 4A2 (OA7)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "VIERNES",
+            "start_time": "16:00",
+            "end_time": "16:55",
+            "subject": {
+                "code": null,
+                "name": "ESTRUCTURAS Y CONSTRUCCIONES INDUSTRIALES"
+            },
+            "subgroup": "4A",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "ESTRUCTURAS Y CONSTRUCCIONES INDUSTRIALES - 4A (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "4A1 (OA6) PROCESOS DE ORGANIZACIÓN INDUSTRIAL"
+            },
+            "subgroup": "4A",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "- 4A1 (OA6) PROCESOS DE ORGANIZACIÓN INDUSTRIAL - 4A (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA DE POTENCIA"
+            },
+            "subgroup": "4A4",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Electrónica De Potencia - 4A4 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "PROYECTOS"
+            },
+            "subgroup": "4A2",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Proyectos - 4A2 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA DE POTENCIA"
+            },
+            "subgroup": "4A1",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Electrónica De Potencia - 4A1 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "PROYECTOS"
+            },
+            "subgroup": "4A",
+            "classroom": "SA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "PROYECTOS - 4A (SA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "VIERNES",
+            "start_time": "17:00",
+            "end_time": "17:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE FLUIDOS"
+            },
+            "subgroup": "4A1",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Sistemas De Fluidos - 4A1 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "PROCESOS DE ORGANIZACIÓN INDUSTRIAL"
+            },
+            "subgroup": "4A",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "PROCESOS DE ORGANIZACIÓN INDUSTRIAL - 4A (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA DE POTENCIA"
+            },
+            "subgroup": "4A4",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Electrónica De Potencia - 4A4 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "PROYECTOS"
+            },
+            "subgroup": "4A2",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Proyectos - 4A2 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MIERCOLES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "ELECTRÓNICA DE POTENCIA"
+            },
+            "subgroup": "4A1",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Electrónica De Potencia - 4A1 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "PROYECTOS"
+            },
+            "subgroup": "4A",
+            "classroom": "SA4",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "PROYECTOS - 4A (SA4)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "VIERNES",
+            "start_time": "18:00",
+            "end_time": "18:55",
+            "subject": {
+                "code": null,
+                "name": "SISTEMAS DE FLUIDOS"
+            },
+            "subgroup": "4A1",
+            "classroom": "OA1",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Sistemas De Fluidos - 4A1 (OA1)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "PROCESOS DE ORGANIZACIÓN INDUSTRIAL"
+            },
+            "subgroup": "4A1",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Procesos De Organización Industrial - 4A1 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "PROCESOS DE ORGANIZACIÓN INDUSTRIAL"
+            },
+            "subgroup": "4A2",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Procesos De Organización Industrial - 4A2 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "unknown_classroom"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "ELECT. DE POTENCIA"
+            },
+            "subgroup": "4A3",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Elect. De Potencia - 4A3 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "19:00",
+            "end_time": "19:55",
+            "subject": {
+                "code": null,
+                "name": "PROYECTOS"
+            },
+            "subgroup": "4A3",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Proyectos - 4A3 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "LUNES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "PROCESOS DE ORGANIZACIÓN INDUSTRIAL"
+            },
+            "subgroup": "4A1",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Procesos De Organización Industrial - 4A1 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "PROCESOS DE ORGANIZACIÓN INDUSTRIAL"
+            },
+            "subgroup": "4A2",
+            "classroom": "LAB",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Procesos De Organización Industrial - 4A2 (lab)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 0.85,
+                "issues": [
+                    "unknown_classroom"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "MARTES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "ELECT. DE POTENCIA"
+            },
+            "subgroup": "4A3",
+            "classroom": "OL11",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Elect. De Potencia - 4A3 (OL11)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        },
+        {
+            "degree": {
+                "code": "G610",
+                "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+            },
+            "academic_year": "2026/2027",
+            "semester": 7,
+            "year": 4,
+            "group": "4A",
+            "day": "JUEVES",
+            "start_time": "20:00",
+            "end_time": "20:55",
+            "subject": {
+                "code": null,
+                "name": "PROYECTOS"
+            },
+            "subgroup": "4A3",
+            "classroom": "NL8",
+            "notes": [],
+            "source": {
+                "file": "Semestre1_GITI.pdf",
+                "page": 5,
+                "raw_text": "Proyectos - 4A3 (NL8)"
+            },
+            "extraction": {
+                "degree_source": "document",
+                "confidence": 1.0,
+                "issues": []
+            }
+        }
+    ],
+    "rejected_records": [
+        {
+            "reason": [
+                "missing_subject",
+                "missing_classroom"
+            ],
+            "record": {
+                "degree": {
+                    "code": "G610",
+                    "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+                },
+                "academic_year": "2026/2027",
+                "semester": 7,
+                "year": 4,
+                "group": "4A",
+                "day": "MARTES",
+                "start_time": "14:00",
+                "end_time": "14:55",
+                "subject": {
+                    "code": null,
+                    "name": null
+                },
+                "subgroup": null,
+                "classroom": null,
+                "notes": [],
+                "source": {
+                    "file": "Semestre1_GITI.pdf",
+                    "page": 5,
+                    "raw_text": "MARTES"
+                },
+                "extraction": {
+                    "degree_source": "document",
+                    "confidence": 0.45,
+                    "issues": [
+                        "missing_subject",
+                        "missing_classroom"
+                    ]
+                }
+            }
+        },
+        {
+            "reason": [
+                "missing_subject",
+                "missing_classroom"
+            ],
+            "record": {
+                "degree": {
+                    "code": "G610",
+                    "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+                },
+                "academic_year": "2026/2027",
+                "semester": 7,
+                "year": 4,
+                "group": "4A",
+                "day": "MIERCOLES",
+                "start_time": "14:00",
+                "end_time": "14:55",
+                "subject": {
+                    "code": null,
+                    "name": null
+                },
+                "subgroup": null,
+                "classroom": null,
+                "notes": [],
+                "source": {
+                    "file": "Semestre1_GITI.pdf",
+                    "page": 5,
+                    "raw_text": "MIÉRCOLES"
+                },
+                "extraction": {
+                    "degree_source": "document",
+                    "confidence": 0.45,
+                    "issues": [
+                        "missing_subject",
+                        "missing_classroom"
+                    ]
+                }
+            }
+        },
+        {
+            "reason": [
+                "missing_subject",
+                "missing_classroom"
+            ],
+            "record": {
+                "degree": {
+                    "code": "G610",
+                    "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+                },
+                "academic_year": "2026/2027",
+                "semester": 7,
+                "year": 4,
+                "group": "4A",
+                "day": "JUEVES",
+                "start_time": "14:00",
+                "end_time": "14:55",
+                "subject": {
+                    "code": null,
+                    "name": null
+                },
+                "subgroup": null,
+                "classroom": null,
+                "notes": [],
+                "source": {
+                    "file": "Semestre1_GITI.pdf",
+                    "page": 5,
+                    "raw_text": "JUEVES"
+                },
+                "extraction": {
+                    "degree_source": "document",
+                    "confidence": 0.45,
+                    "issues": [
+                        "missing_subject",
+                        "missing_classroom"
+                    ]
+                }
+            }
+        },
+        {
+            "reason": [
+                "missing_subject",
+                "missing_classroom"
+            ],
+            "record": {
+                "degree": {
+                    "code": "G610",
+                    "name": "INGENIERIA EN TECNOLOGIAS INDUSTRIALES"
+                },
+                "academic_year": "2026/2027",
+                "semester": 7,
+                "year": 4,
+                "group": "4A",
+                "day": "VIERNES",
+                "start_time": "14:00",
+                "end_time": "14:55",
+                "subject": {
+                    "code": null,
+                    "name": null
+                },
+                "subgroup": null,
+                "classroom": null,
+                "notes": [],
+                "source": {
+                    "file": "Semestre1_GITI.pdf",
+                    "page": 5,
+                    "raw_text": "VIERNES"
+                },
+                "extraction": {
+                    "degree_source": "document",
+                    "confidence": 0.45,
+                    "issues": [
+                        "missing_subject",
+                        "missing_classroom"
+                    ]
+                }
+            }
+        }
+    ]
+}

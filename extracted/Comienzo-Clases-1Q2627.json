@@ -1,0 +1,65 @@
+{
+    "source": {
+        "file": "Comienzo-Clases-1Q2627.pdf",
+        "path": "/data/downloaded_pdfs/Comienzo-Clases-1Q2627.pdf",
+        "pages": 7
+    },
+    "statistics": {
+        "accepted_records": 0,
+        "rejected_records": 0,
+        "records_with_warnings": 0,
+        "pages": [
+            {
+                "page": 1,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 2,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 3,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 4,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 5,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 6,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            },
+            {
+                "page": 7,
+                "cells_detected": 0,
+                "accepted": 0,
+                "rejected": 0,
+                "warnings": 0
+            }
+        ]
+    },
+    "records": [],
+    "rejected_records": []
+}

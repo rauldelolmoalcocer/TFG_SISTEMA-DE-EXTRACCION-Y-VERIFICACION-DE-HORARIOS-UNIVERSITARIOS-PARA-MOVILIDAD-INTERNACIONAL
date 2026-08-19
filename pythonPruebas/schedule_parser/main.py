@@ -135,7 +135,14 @@ def main():
                 len(global_records),
 
             "rejected_records":
-                len(global_rejected)
+                len(global_rejected),
+
+            "records_with_warnings":
+                sum(
+                    1
+                    for record in global_records
+                    if record["extraction"]["issues"]
+                )
         },
 
         "files":

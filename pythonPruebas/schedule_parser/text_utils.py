@@ -4,6 +4,11 @@ import re
 import unicodedata
 
 
+# Patrón de grupo/subgrupo compartido entre subject_parser.py y validator.py
+# (p.ej. "3A", "3A1").
+GROUP_PATTERN = r"\d+[A-Z](?:\d+)?"
+
+
 def clean_text(text):
 
     if not text:
@@ -82,8 +87,13 @@ def normalize_academic_year(value):
 
     value = clean_text(value)
 
+    # OJO: el orden importa. Con "\d{2}|\d{4}" la alternancia probaba
+    # primero \d{2} y, al no haber ancla de fin, se quedaba con los dos
+    # primeros dígitos de un año de 4 dígitos (p.ej. "2026" -> "20"),
+    # produciendo años como "2025/2020". "\d{2,4}" es un cuantificador
+    # (no una alternancia) y captura codicioso hasta 4 dígitos primero.
     match = re.match(
-        r"(\d{4})/(\d{2}|\d{4})",
+        r"(\d{4})/(\d{2,4})",
         value
     )
 
