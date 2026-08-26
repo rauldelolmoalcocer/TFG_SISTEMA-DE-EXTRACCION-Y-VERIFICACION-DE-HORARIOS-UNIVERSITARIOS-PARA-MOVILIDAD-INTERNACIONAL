@@ -1,0 +1,562 @@
+[
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.53,
+      793.85,
+      542.41
+    ],
+    "n_rows": 53,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "CAPACITACIÓN EN EL USO DE LAS"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "TIC (2C) – 2T (NL8)"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "FUNDAMENTOS DE BIOINGENIERÍA -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2T (OA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "CAPACITACIÓN EN EL USO DE LAS"
+      ],
+      [
+        null,
+        "BÚSQUEDA Y GESTIÓN DE LA",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "TIC (2C) – 2T (NL8)"
+      ],
+      [
+        "9:00/9:55",
+        "INFORMACIÓN Y RECURSOS",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "FUNDAMENTOS DE BIOINGENIERÍA -"
+      ],
+      [
+        null,
+        "MULTIMEDIA (2C) – 2T (OA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2T (OA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "CAPACITACIÓN EN EL USO DE LAS"
+      ],
+      [
+        null,
+        "BÚSQUEDA Y GESTIÓN DE LA",
+        null,
+        null,
+        "Ciencia Cognitiva: Fundamentos de",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "TIC (2C) – 2T (NL8)"
+      ],
+      [
+        "10:00/10:55",
+        "INFORMACIÓN Y RECURSOS",
+        null,
+        null,
+        "la Inteligencia Artificial (2C) - 2T-B1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "FUNDAMENTOS DE BIOINGENIERÍA -"
+      ],
+      [
+        null,
+        "MULTIMEDIA (2C) – 2T (OA3)",
+        null,
+        null,
+        "(NA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2T (OA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Búsqueda y Gestión de la",
+        null,
+        null,
+        "Ciencia Cognitiva: Fundamentos de",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "CAPACITACIÓN EN EL USO DE LAS"
+      ],
+      [
+        "11:00/11:55",
+        "Información y Recursos",
+        null,
+        null,
+        "la Inteligencia Artificial (2C) - 2T-B1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "TIC (2C) – 2T (NL8)"
+      ],
+      [
+        null,
+        "Multimedia (2C) – 2T-A1 (OA3)",
+        null,
+        null,
+        "(NA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Búsqueda y Gestión de la",
+        null,
+        null,
+        "Ciencia Cognitiva: Fundamentos de",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        "Información y Recursos",
+        null,
+        null,
+        "la Inteligencia Artificial (2C) - 2T-B2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Multimedia (2C) – 2T-A1 (OA3)",
+        null,
+        null,
+        "(NA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Ciencia Cognitiva: Fundamentos de",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        "la Inteligencia Artificial (2C) - 2T-B2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(NA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "PROMPTS FOR GENERATIVE AI – 2T",
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        "Tecn. Videojuegos - 2T-B1 (EL6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(SL10)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "MERCADO LABORAL Y ENTORNO",
+        "PROMPTS FOR GENERATIVE AI – 2T",
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        "Tecn. Videojuegos - 2T-B1 (EL6)",
+        null
+      ],
+      [
+        null,
+        null,
+        "PROFESIONAL TIC - 2T (EA7)",
+        "(SL10)",
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      11.41,
+      515.98,
+      135.66
+    ],
+    "n_rows": 17,
+    "n_cols": 4,
+    "rows": [
+      [
+        null,
+        null,
+        "TECNOLOGÍA MUSICAL - 2T (SL7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "PROMPTS FOR GENERATIVE AI – 2T"
+      ],
+      [
+        "17:00/17:55",
+        null,
+        "MERCADO LABORAL Y ENTORNO",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(SL10)"
+      ],
+      [
+        null,
+        null,
+        "PROFESIONAL TIC - 2T (EA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "TECN MUSICAL - 2T (SL7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        "Tecn. Musical - 2T-B1 (SL7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "Tecn. Musical - 2T-B1 (SL7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

@@ -1,0 +1,523 @@
+[
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "09:00",
+    "time_end": "10:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "BÚSQUEDA Y GESTIÓN DE LA\nINFORMACIÓN Y RECURSOS\nMULTIMEDIA (2C) – 2T (OA3)",
+    "subject_name": "BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA – 2T",
+    "rooms": [
+      "2C",
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "11:00",
+    "time_end": "12:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Búsqueda y Gestión de la\nInformación y Recursos\nMultimedia (2C) – 2T-A1 (OA3)",
+    "subject_name": "Búsqueda y Gestión de la Información y Recursos Multimedia – 2T-A1",
+    "rooms": [
+      "2C",
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "MERCADO LABORAL Y ENTORNO\nPROFESIONAL TIC - 2T (EA7)",
+    "subject_name": "MERCADO LABORAL Y ENTORNO PROFESIONAL TIC - 2T",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "PROMPTS FOR GENERATIVE AI – 2T\n(SL10)",
+    "subject_name": "PROMPTS FOR GENERATIVE AI – 2T",
+    "rooms": [
+      "SL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Ciencia Cognitiva: Fundamentos de\nla Inteligencia Artificial (2C) - 2T-B1\n(NA8)",
+    "subject_name": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial - 2T-B1",
+    "rooms": [
+      "2C",
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Ciencia Cognitiva: Fundamentos de\nla Inteligencia Artificial (2C) - 2T-B2\n(NA8)",
+    "subject_name": "Ciencia Cognitiva: Fundamentos de la Inteligencia Artificial - 2T-B2",
+    "rooms": [
+      "2C",
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Tecn. Videojuegos - 2T-B1 (EL6)",
+    "subject_name": "Tecn. Videojuegos - 2T-B1",
+    "rooms": [
+      "EL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      3
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "10:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "CAPACITACIÓN EN EL USO DE LAS\nTIC (2C) – 2T (NL8)\nFUNDAMENTOS DE BIOINGENIERÍA -\n2T (OA3)",
+    "subject_name": "CAPACITACIÓN EN EL USO DE LAS TIC – 2T FUNDAMENTOS DE BIOINGENIERÍA - 2T",
+    "rooms": [
+      "2C",
+      "NL8",
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "CAPACITACIÓN EN EL USO DE LAS\nTIC (2C) – 2T (NL8)",
+    "subject_name": "CAPACITACIÓN EN EL USO DE LAS TIC – 2T",
+    "rooms": [
+      "2C",
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "TECNOLOGÍA MUSICAL - 2T (SL7)\nMERCADO LABORAL Y ENTORNO\nPROFESIONAL TIC - 2T (EA7)",
+    "subject_name": "TECNOLOGÍA MUSICAL - 2T MERCADO LABORAL Y ENTORNO PROFESIONAL TIC - 2T",
+    "rooms": [
+      "SL7",
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "TECN MUSICAL - 2T (SL7)",
+    "subject_name": "TECN MUSICAL - 2T",
+    "rooms": [
+      "SL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Tecn. Musical - 2T-B1 (SL7)",
+    "subject_name": "Tecn. Musical - 2T-B1",
+    "rooms": [
+      "SL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "PROMPTS FOR GENERATIVE AI – 2T\n(SL10)",
+    "subject_name": "PROMPTS FOR GENERATIVE AI – 2T",
+    "rooms": [
+      "SL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "TECN. MUSICAL - 2T (SL7)\nTECN. VIDEOJUEGOS - 2T (EA7)",
+    "subject_name": "TECN. MUSICAL - 2T TECN. VIDEOJUEGOS - 2T",
+    "rooms": [
+      "SL7",
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Tecnología Musical - 2T-B2 (SL7)\nTecn. Videojuegos - 2T-B2 (EL6)",
+    "subject_name": "Tecnología Musical - 2T-B2 Tecn. Videojuegos - 2T-B2",
+    "rooms": [
+      "SL7",
+      "EL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_TRV_26-27.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": null,
+    "group": "2ºT",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "20:00",
+    "time_end": "20:55",
+    "time_start_raw": "20:00/20:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Tecn. Musical - 2T-B2 (SL7)\nTecn. De Videojuegos - 2T-B2 (EL6)",
+    "subject_name": "Tecn. Musical - 2T-B2 Tecn. De Videojuegos - 2T-B2",
+    "rooms": [
+      "SL7",
+      "EL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

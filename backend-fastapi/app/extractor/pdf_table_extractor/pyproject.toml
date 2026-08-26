@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pdf-table-extractor"
+version = "0.1.0"
+description = "Generic, structure-driven extraction of schedule grids from PDFs using pdfplumber."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pdfplumber>=0.11,<0.12",
+]
+
+[project.optional-dependencies]
+# Only needed for the optional stage 3 (pdf_table_extractor.llm_review /
+# `pdf-extract-llm-review`), which talks to a local Ollama server -- no
+# cloud API, no key. The base package and its two CLI commands work fully
+# without this extra.
+llm = [
+    "ollama>=0.4",
+    "pydantic>=2.0",
+]
+
+[project.scripts]
+pdf-extract-diagnose = "pdf_table_extractor.cli.diagnose:main"
+pdf-extract-normalize = "pdf_table_extractor.cli.normalize:main"
+pdf-extract-llm-review = "pdf_table_extractor.cli.llm_review:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

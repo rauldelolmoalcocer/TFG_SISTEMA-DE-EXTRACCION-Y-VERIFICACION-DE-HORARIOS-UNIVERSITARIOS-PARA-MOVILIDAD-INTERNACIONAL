@@ -1,0 +1,124 @@
+[
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 4,
+    "table_index": 0,
+    "strategy": "text",
+    "reason": "no_day_header",
+    "detail": "Row 0 doesn't look like a day-name header -- it's probably a title line or subject content pdfplumber pulled into row 0: ['Escuela', 'Politécnica']",
+    "rows": [
+      [
+        "Escuela",
+        "Politécnica"
+      ],
+      [
+        "Superio",
+        "r"
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "UATRIMESTR",
+        "E 4º (Curso"
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "HORA",
+        "LUNES"
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "8:00/ 15:55",
+        null
+      ],
+      [
+        "14:00/14:55",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "17:00/17:55 S",
+        "E: 202498-INGE"
+      ],
+      [
+        null,
+        "DE CALIDAD"
+      ],
+      [
+        "18:00/18:55",
+        "(SA8)"
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "ULAS (planta baja):",
+        "SA8=Sur-A8"
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "E: Sin Especialidad",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "horarios podrán camb",
+        "iar ocasionalment"
+      ],
+      [
+        "a alumno asistirá a un",
+        "único grupo redu"
+      ]
+    ]
+  }
+]

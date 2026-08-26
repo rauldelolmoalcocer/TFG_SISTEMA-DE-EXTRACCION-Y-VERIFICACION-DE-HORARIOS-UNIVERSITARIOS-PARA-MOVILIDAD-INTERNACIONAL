@@ -1,0 +1,107 @@
+PDF: Semestre1Transversales.pdf
+
+Pages: 3
+
+PAGE 1
+----------------------------
+
+Words detected: 199
+Lines detected: 18
+Rectangles detected: 52
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 5  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 59  Columns: 5
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 54  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 5, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Multiline cell detected at row 1, col 5
+- [lines] Multiline cell detected at row 2, col 5
+- [lines] Multiline cell detected at row 3, col 5
+- [lines] Multiline cell detected at row 4, col 5
+
+PAGE 2
+----------------------------
+
+Words detected: 240
+Lines detected: 19
+Rectangles detected: 52
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 5  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 84  Columns: 7
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 81  Columns: 5
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Multiline cell detected at row 0, col 5
+- [lines] Multiline cell detected at row 1, col 5
+- [lines] Multiline cell detected at row 2, col 5
+
+PAGE 3
+----------------------------
+
+Words detected: 305
+Lines detected: 20
+Rectangles detected: 60
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 6  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 49  Columns: 21
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 46  Columns: 5
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 1, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 1, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Multiline cell detected at row 0, col 2
+- [lines] Multiline cell detected at row 1, col 1
+- [lines] Multiline cell detected at row 1, col 2
+- [lines] Multiline cell detected at row 1, col 3
+- [lines] Multiline cell detected at row 1, col 4
+- [lines] Multiline cell detected at row 1, col 5
+- [lines] Multiline cell detected at row 2, col 1
+- [lines] Multiline cell detected at row 2, col 2
+- [lines] Multiline cell detected at row 2, col 3
+- [lines] Multiline cell detected at row 2, col 4
+- [lines] Multiline cell detected at row 2, col 5
+- [lines] Multiline cell detected at row 3, col 1
+- [lines] Multiline cell detected at row 3, col 2
+- [lines] Multiline cell detected at row 3, col 3
+- [lines] Multiline cell detected at row 3, col 4
+- [lines] Multiline cell detected at row 3, col 5
+- [lines] Multiline cell detected at row 4, col 4
+- [lines] Multiline cell detected at row 5, col 4

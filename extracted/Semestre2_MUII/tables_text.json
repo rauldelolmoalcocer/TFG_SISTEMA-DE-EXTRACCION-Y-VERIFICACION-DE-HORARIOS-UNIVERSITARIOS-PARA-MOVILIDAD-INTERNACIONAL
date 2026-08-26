@@ -1,0 +1,1111 @@
+[
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "text",
+    "table_index": 0,
+    "bbox": [
+      46.02,
+      120.44,
+      731.8,
+      572.99
+    ],
+    "n_rows": 36,
+    "n_cols": 10,
+    "rows": [
+      [
+        "HORA",
+        null,
+        "LUNES",
+        null,
+        "M",
+        "ARTES",
+        "MIÉR",
+        "COLES",
+        "JUEVES",
+        "VIERNE"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/ 13:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "201992-INGE"
+      ],
+      [
+        "15:00/15:55",
+        "Diseño y E",
+        "nsayo de",
+        "Máquinas-1",
+        null,
+        null,
+        null,
+        "S",
+        "istemas Electrónicos",
+        null
+      ],
+      [
+        null,
+        null,
+        "(",
+        ")",
+        null,
+        null,
+        null,
+        "y de",
+        "Instrumentación-1 ( )",
+        "ENERGÉTICA"
+      ],
+      [
+        null,
+        null,
+        "SL1/OA",
+        "7",
+        "201989-T",
+        "ECNOLOGÍA E",
+        "201992-I",
+        "NGENIERÍA",
+        "OL2",
+        null
+      ],
+      [
+        null,
+        "Siste",
+        "mas Elect",
+        "rónicos",
+        "INGENIERÍA",
+        "ELÉCTRICA (OA1)",
+        "ENERGÉ",
+        "TICA (OA1) Ing",
+        "eniería Fluidotérmica-2",
+        null
+      ],
+      [
+        "16:00/16:55",
+        "y de Inst",
+        "rumentac",
+        "ión-4 (OL2)",
+        null,
+        null,
+        null,
+        null,
+        "(OLPFL)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "201989-TE",
+        "CNOLOGÍA E",
+        "20",
+        "1995-ORGAN"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "INGENIERÍA E",
+        "LÉCTRICA (OA1)",
+        null,
+        "INDUSTRIAL"
+      ],
+      [
+        null,
+        "201991-",
+        "DISEÑO Y",
+        "ENSAYO DE",
+        "201997-I",
+        "NSTALACIONES",
+        null,
+        null,
+        "201990-INGENIERÍA",
+        null
+      ],
+      [
+        null,
+        "MÁQ",
+        "UINAS (",
+        ") [1]",
+        "INDUSTRI",
+        "ALES I (OA1) [1]",
+        null,
+        "FLU",
+        "IDOTÉRMICA (OA1) [2]",
+        null
+      ],
+      [
+        null,
+        null,
+        "O",
+        "A1",
+        null,
+        null,
+        "201988-SIST.",
+        "ELECTRÓNICOS",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Y",
+        "DE INSTRUM",
+        "ENTACIÓN (OA1)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        "Instalac",
+        "iones Indu",
+        "striales I-1",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OA1)",
+        null,
+        "Ingeniería",
+        "Fluidotérmica-1",
+        "Sistemas",
+        "Electrónicos S",
+        "istemas Electrónicos Inst",
+        "alaciones Ind"
+      ],
+      [
+        null,
+        "Diseño y E",
+        "nsayo de",
+        "Máquinas-2",
+        "(OA",
+        "1/OLPFL)",
+        "y de Instrume",
+        "ntación-3 (OL2) y de",
+        "Instrumentación-2 (OL2)",
+        "2 (OA1"
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "(SL1/OA",
+        "7)",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "AULAS (planta",
+        "baja): OA",
+        "1=Oeste-",
+        "A1; OA7=Oeste-",
+        "A7",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "LABORATORIO",
+        "S (1ª plan",
+        "ta): SL1=S",
+        "ur-L1, OL2=Oes",
+        "te-L2, OLPFL",
+        "=Oeste-Pesados-Fluido",
+        "térmica",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "[1] Los gr",
+        "upos redu",
+        "cidos (GP",
+        "1 y GP2) de esta",
+        "s asignatura",
+        "s (201991 y 201997) se",
+        "impartirán du",
+        "rante, al menos, 9 sema",
+        "nas.",
+        null
+      ],
+      [
+        "[2] Esta a",
+        "signatura",
+        "(201990)",
+        "solo tiene 3 sem",
+        "anas en gru",
+        "po reducido (1 y 2), yen",
+        "do el resto de",
+        "días todos los estudiant",
+        "es al GP 1 (martes de 19 a 21 ho",
+        "ras)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "s horarios podrá",
+        "n cambiar o",
+        "casionalm",
+        "ente por reajustes",
+        "de carga no",
+        "previstos.",
+        null,
+        null,
+        "Aprobad",
+        "o en Junta de"
+      ],
+      [
+        "da alumno asisti",
+        "rá a un úni",
+        "co grupo re",
+        "ducido de entre l",
+        "os publicados",
+        "para cada asignatura (en",
+        "minúscula y cur",
+        "siva). R",
+        "evisar versión actualizada en: http:/",
+        "/www.uah.es"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 2,
+    "strategy": "text",
+    "table_index": 0,
+    "bbox": [
+      58.32,
+      33.16,
+      641.36,
+      572.99
+    ],
+    "n_rows": 31,
+    "n_cols": 5,
+    "rows": [
+      [
+        "Escuela",
+        "Politécnica MASTER U",
+        "NIVERSITARIO EN INGE",
+        "NIERÍA INDUSTRIAL (",
+        "MUII)"
+      ],
+      [
+        "Superio",
+        "r Esp",
+        "ecialización en Robótic",
+        "a y Percepción (RP)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "UATRIMESTRE",
+        "4º (Curso 2º, Semestre 2º)",
+        "Curso 2026",
+        "/27",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/ 13:55",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "RP. 202008-SISTEMAS",
+        "RP.",
+        "202010-CONTROL",
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        "RP.",
+        "202005-SISTEMAS"
+      ],
+      [
+        "EM",
+        "POTRADOS EN EL ÁMBITO RP. 20200",
+        "3-ROBÓTICA MÓVIL INTELIG",
+        "ENTE EN SISTEMAS DE",
+        "PERCEPCIÓN"
+      ],
+      [
+        null,
+        "DE LA ROBÓTICA",
+        "(PL21)",
+        "TRANSPORTE",
+        null
+      ],
+      [
+        "18:00/18:55",
+        "(EL4)",
+        null,
+        "( )",
+        "(OL5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "OL1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "BORATORIOS (1ª pl",
+        "anta): EL4=Este-L4; OL1=Oeste-L1; OL2=Oe",
+        "ste-L2; OL5=Oeste-L5.",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        ": Especialización en",
+        "Robótica y Percepción",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "orarios podrán cambia",
+        "r ocasionalmente por reajustes de carga no pre",
+        "vistos.",
+        null,
+        null
+      ],
+      [
+        "alumno asistirá a un ú",
+        "nico grupo reducido de entre los publicados pa",
+        "ra cada asignatura (en minúscula y",
+        "cursiva). Revisa",
+        "r versión actualizad"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 3,
+    "strategy": "text",
+    "table_index": 0,
+    "bbox": [
+      51.48,
+      33.16,
+      600.88,
+      572.99
+    ],
+    "n_rows": 35,
+    "n_cols": 6,
+    "rows": [
+      [
+        "Escuela",
+        "Politécnica",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "MASTER",
+        "UNIVERSITARIO EN",
+        "INGENIERÍA INDUS",
+        "TRIAL (M",
+        "UII)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "Superio",
+        "r",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Especialización e",
+        "n Generación y Dis",
+        "tribución Inteligent",
+        "e de la En",
+        "ergía"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "UATRIMESTR",
+        "E 4º (Curso 2º, Semestre 2º)",
+        "Curso",
+        "2026/27",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "HORA",
+        "LUNES M",
+        "ARTES",
+        "MIÉRCOLES",
+        "JUE",
+        "VES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/ 15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "GD. 202",
+        "012-SISTEMAS GD",
+        ". 202012-SISTEMAS",
+        null,
+        null
+      ],
+      [
+        null,
+        "ELÉCTRICO",
+        "S DE POTENCIA ELÉC",
+        "TRICOS DE POTENCIA",
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "GD. 202011-",
+        "(EA6)",
+        "(EA6)",
+        "GD. 20201",
+        "3-GEN"
+      ],
+      [
+        null,
+        "ALMACENAMIENTO",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "DE ENERGÍA",
+        null,
+        null,
+        "DISTRIBUIDA",
+        "Y CALI"
+      ],
+      [
+        "17:00/17:55",
+        "(EA6) GD. 202016",
+        "-INTRO. A REDES GD. 2",
+        "02016-INTRO. A REDES",
+        "RED",
+        "(EA6)"
+      ],
+      [
+        null,
+        "INTELIGEN",
+        "TES DE ENERGÍA INTE",
+        "LIGENTES DE ENERGÍA",
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        "(",
+        "OL10)",
+        "(OL10)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "ULAS (planta baja):",
+        "EA6=Este-A6",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "ABORATORIOS (1ª p",
+        "lanta): OL10=Oeste-L10",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "D: Especialización e",
+        "n Generación y Distribución Inteligente",
+        "de la Energía",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "horarios podrán camb",
+        "iar ocasionalmente por reajustes de carga no",
+        "previstos.",
+        null,
+        null,
+        null
+      ],
+      [
+        "a alumno asistirá a un",
+        "único grupo reducido de entre los publicado",
+        "s para cada asignatura (en min",
+        "úscula y cursiva).",
+        "Revisar",
+        "versión"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 4,
+    "strategy": "text",
+    "table_index": 0,
+    "bbox": [
+      51.48,
+      33.16,
+      197.68,
+      572.99
+    ],
+    "n_rows": 28,
+    "n_cols": 2,
+    "rows": [
+      [
+        "Escuela",
+        "Politécnica"
+      ],
+      [
+        "Superio",
+        "r"
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "UATRIMESTR",
+        "E 4º (Curso"
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "HORA",
+        "LUNES"
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "8:00/ 15:55",
+        null
+      ],
+      [
+        "14:00/14:55",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "17:00/17:55 S",
+        "E: 202498-INGE"
+      ],
+      [
+        null,
+        "DE CALIDAD"
+      ],
+      [
+        "18:00/18:55",
+        "(SA8)"
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "ULAS (planta baja):",
+        "SA8=Sur-A8"
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "E: Sin Especialidad",
+        null
+      ],
+      [
+        null,
+        null
+      ],
+      [
+        "horarios podrán camb",
+        "iar ocasionalment"
+      ],
+      [
+        "a alumno asistirá a un",
+        "único grupo redu"
+      ]
+    ],
+    "warnings": []
+  }
+]

@@ -1,0 +1,764 @@
+[
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SEGURIDAD - 3D (SA4)",
+    "subject_name": "SEGURIDAD - 3D",
+    "rooms": [
+      "SA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "CONMUTACION - 3D (SA4)",
+    "subject_name": "CONMUTACION - 3D",
+    "rooms": [
+      "SA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Sistemas Operativos - 3D2 (EL5)\nConmutación - 3D1 (EL11)",
+    "subject_name": "Sistemas Operativos - 3D2 Conmutación - 3D1",
+    "rooms": [
+      "EL5",
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas Operativos - 3D1 (EL5)\nConmutación - 3D2 (EL11)",
+    "subject_name": "Sistemas Operativos - 3D1 Conmutación - 3D2",
+    "rooms": [
+      "EL5",
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas Operativos - 3D3 (EL5)",
+    "subject_name": "Sistemas Operativos - 3D3",
+    "rooms": [
+      "EL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Seguridad - 3D2 (EL11)",
+    "subject_name": "Seguridad - 3D2",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS OPERATIVOS - 3D (SA4)",
+    "subject_name": "SISTEMAS OPERATIVOS - 3D",
+    "rooms": [
+      "SA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Seguridad - 3D1 (EL11)",
+    "subject_name": "Seguridad - 3D1",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "LAB. DE REDES, SIST. Y SERVICIOS -\n3D1 (EL11)",
+    "subject_name": "LAB. DE REDES, SIST. Y SERVICIOS - 3D1",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Laboratorio De Redes, Sistemas Y\nServicios - 3D1 (EL11)",
+    "subject_name": "Laboratorio De Redes, Sistemas Y Servicios - 3D1",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "LAB. DE REDES, SIST. Y SERVICIOS -\n3D2 (EL11)",
+    "subject_name": "LAB. DE REDES, SIST. Y SERVICIOS - 3D2",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºD",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Laboratorio De Redes, Sistemas Y\nServicios - 3D2 (EL11)",
+    "subject_name": "Laboratorio De Redes, Sistemas Y Servicios - 3D2",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºE",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "SECURITY - 4E (Aula)",
+    "subject_name": "SECURITY - 4E",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "3ºE",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Security - 4E1 (Aula)",
+    "subject_name": "Security - 4E1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "4ºD",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "INGENIERÍA DEL SOFTWARE - 4C\n(SA3)",
+    "subject_name": "INGENIERÍA DEL SOFTWARE - 4C",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "4ºD",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Ingeniería Del Software - 4C1 (NL8)",
+    "subject_name": "Ingeniería Del Software - 4C1",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "4ºD",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "TECN. DE SIST. DE\nTELECOMUNICACIÓN – 4OPT (SL9)",
+    "subject_name": "TECN. DE SIST. DE TELECOMUNICACIÓN – 4OPT",
+    "rooms": [
+      "SL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "4ºD",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Tecn. de Sist. De Telecomunicación\n– 4OPT (SL9)",
+    "subject_name": "Tecn. de Sist. De Telecomunicación – 4OPT",
+    "rooms": [
+      "SL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "4ºD",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Tecn. En Sist. Elect. – 4OPT\n(OL10)",
+    "subject_name": "Tecn. En Sist. Elect. – 4OPT",
+    "rooms": [
+      "OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "4ºD",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Tecnologías Fotónicas – 4D1\n(NA6/OL6)",
+    "subject_name": "Tecnologías Fotónicas – 4D1",
+    "rooms": [
+      "NA6/OL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "4ºD",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Tecnologías Fotónicas - 4D1\n(NA6/OL6)",
+    "subject_name": "Tecnologías Fotónicas - 4D1",
+    "rooms": [
+      "NA6/OL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "4ºD",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D (SL10)\nCOMUNICACIONES MÓVILES - 4D (SA8)",
+    "subject_name": "SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D COMUNICACIONES MÓVILES - 4D",
+    "rooms": [
+      "SL10",
+      "SA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "4ºD",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Sist. Intelig. Y Sost. De Nueva Generación - 4D1 (SL10)\nComunicaciones Móviles -\n4D1 (SL9)",
+    "subject_name": "Sist. Intelig. Y Sost. De Nueva Generación - 4D1 Comunicaciones Móviles - 4D1",
+    "rooms": [
+      "SL10",
+      "SL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "4ºD",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "TECN. EN SIST. ELECT. –\n4OPT (OL10)",
+    "subject_name": "TECN. EN SIST. ELECT. – 4OPT",
+    "rooms": [
+      "OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G380) (GIT)",
+    "group": "4ºD",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "TECN. FOTÓNICAS - 4D\n(NA6)",
+    "subject_name": "TECN. FOTÓNICAS - 4D",
+    "rooms": [
+      "NA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

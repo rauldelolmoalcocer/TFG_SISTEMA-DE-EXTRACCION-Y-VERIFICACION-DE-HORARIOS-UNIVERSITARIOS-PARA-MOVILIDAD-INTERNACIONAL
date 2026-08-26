@@ -1,0 +1,2919 @@
+[
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "INGENIERÍA DEL SOFTWARE - 1A\n(NA1)",
+    "subject_name": "INGENIERÍA DEL SOFTWARE - 1A",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      17,
+      21
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Ingeniería Del Software - 1A1 (NL8)",
+    "subject_name": "Ingeniería Del Software - 1A1",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Programación - 1A2 → 1A2(GII)\n(lab)",
+    "subject_name": "Programación - 1A2 → 1A2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "PROGRAMACIÓN – 1A → 1A(GII)\n(NA7)",
+    "subject_name": "PROGRAMACIÓN – 1A → 1A",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      17,
+      21
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Programación - 1A1\n(NL8)",
+    "subject_name": "Programación - 1A1",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      26,
+      27
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Programación - 1B1 (NL8)",
+    "subject_name": "Programación - 1B1",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      31,
+      35
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "PROGRAMACIÓN - 1B (NA7)",
+    "subject_name": "PROGRAMACIÓN - 1B",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      41,
+      45
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Programación - 1B2 (lab)",
+    "subject_name": "Programación - 1B2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      27,
+      27
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "ESTADÍSTICA EMPRESARIAL II - 1A\n(*) (16:30)",
+    "subject_name": "ESTADÍSTICA EMPRESARIAL II - 1A",
+    "rooms": [
+      "16:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      31,
+      35
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ESTADÍSTICA EMPRESARIAL II - 1A\n(*)",
+    "subject_name": "ESTADÍSTICA EMPRESARIAL II - 1A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      41,
+      41
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "ESTADÍSTICA EMPRESARIAL II - 1A\n(*) (19:30)",
+    "subject_name": "ESTADÍSTICA EMPRESARIAL II - 1A",
+    "rooms": [
+      "19:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      35,
+      35
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Estadística Empresarial II - 1A (*)",
+    "subject_name": "Estadística Empresarial II - 1A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      41,
+      41
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Estadística Empresarial II - 1A (*)\n(19:30)",
+    "subject_name": "Estadística Empresarial II - 1A",
+    "rooms": [
+      "19:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Estructuras Discretas - 1A1 (NA7)",
+    "subject_name": "Estructuras Discretas - 1A1",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ESTRUCTURAS DISCRETAS - 1A\n(NA7)",
+    "subject_name": "ESTRUCTURAS DISCRETAS - 1A",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      17,
+      21
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Estructuras Discretas - 1A2 (NA7)",
+    "subject_name": "Estructuras Discretas - 1A2",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      26,
+      27
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Estructuras Discretas - 1B1 (NA7)",
+    "subject_name": "Estructuras Discretas - 1B1",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      31,
+      35
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ESTRUCTURAS DISCRETAS - 1B\n(NA7)",
+    "subject_name": "ESTRUCTURAS DISCRETAS - 1B",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      41,
+      45
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Estructuras Discretas - 1B2 (NA7)",
+    "subject_name": "Estructuras Discretas - 1B2",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      7
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SOFTWARE ENGINEERING - 1E\n(SA5A)",
+    "subject_name": "SOFTWARE ENGINEERING - 1E",
+    "rooms": [
+      "SA5A"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      11,
+      12
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Software Engineering - 1E1 (NL7)",
+    "subject_name": "Software Engineering - 1E1",
+    "rooms": [
+      "NL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ANÁLISIS DE LAS OPERACIONES\nFINANCIERAS - 2A (*) (11:30)",
+    "subject_name": "ANÁLISIS DE LAS OPERACIONES FINANCIERAS - 2A",
+    "rooms": [
+      "11:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      13,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "ANÁLISIS DE LAS OPERACIONES\nFINANCIERAS - 2A (*)",
+    "subject_name": "ANÁLISIS DE LAS OPERACIONES FINANCIERAS - 2A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      17,
+      17
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ANÁLISIS DE LAS OPERACIONES\nFINANCIERAS - 2A (*)\nANÁLISIS DE LAS OPERACIONES",
+    "subject_name": "ANÁLISIS DE LAS OPERACIONES FINANCIERAS - 2A ANÁLISIS DE LAS OPERACIONES",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      22,
+      22
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "FINANCIERAS - 2A (*) (14:30)",
+    "subject_name": "FINANCIERAS - 2A",
+    "rooms": [
+      "14:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "ANÁLISIS DE LAS OPERACIONES\nFINANCIERAS - 2A (*) (9:30)",
+    "subject_name": "ANÁLISIS DE LAS OPERACIONES FINANCIERAS - 2A",
+    "rooms": [
+      "9:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "ANÁLISIS DE LAS OPERACIONES\nFINANCIERAS - 2A (*)",
+    "subject_name": "ANÁLISIS DE LAS OPERACIONES FINANCIERAS - 2A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ANÁLISIS DE LAS OPERACIONES\nFINANCIERAS - 2A (*) (11:30)",
+    "subject_name": "ANÁLISIS DE LAS OPERACIONES FINANCIERAS - 2A",
+    "rooms": [
+      "11:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      26,
+      26
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "TEORÍA ECONÓMICA II - 2A (*)\n(16:30)",
+    "subject_name": "TEORÍA ECONÓMICA II - 2A",
+    "rooms": [
+      "16:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      30,
+      30
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "TEORÍA ECONÓMICA II - 2A (*)",
+    "subject_name": "TEORÍA ECONÓMICA II - 2A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      31,
+      31
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Teoría Económica II - 2A (*)",
+    "subject_name": "Teoría Económica II - 2A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      32,
+      32
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Teoría Económica II - 2A (*) (19:30)",
+    "subject_name": "Teoría Económica II - 2A",
+    "rooms": [
+      "19:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "ALGORITMIA Y COMPLEJIDAD - 2ª\n(NA4)",
+    "subject_name": "ALGORITMIA Y COMPLEJIDAD - 2ª",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ALGORITMIA Y COMPLEJIDAD - 2A\n(NA4)",
+    "subject_name": "ALGORITMIA Y COMPLEJIDAD - 2A",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      13,
+      17
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Algoritmia Y Complejidad - 2A1\n(NL9)",
+    "subject_name": "Algoritmia Y Complejidad - 2A1",
+    "rooms": [
+      "NL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      9
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ESTRUCTURA Y ORGANIZACIÓN DE COMPUTADORES –\n2A → 1A(GII) (NA7)",
+    "subject_name": "ESTRUCTURA Y ORGANIZACIÓN DE COMPUTADORES – 2A → 1A",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      13,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Estructura Y Organización De Computadores – 2A2\n(NL5)",
+    "subject_name": "Estructura Y Organización De Computadores – 2A2",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      17,
+      17
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Estructura Y Organización De Computadores - 2A2 (NL5)",
+    "subject_name": "Estructura Y Organización De Computadores - 2A2",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      26,
+      26
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "CONTABILIDAD FINANCIERA Y DE SOCIEDADES - 2A (*)\n(16:30)",
+    "subject_name": "CONTABILIDAD FINANCIERA Y DE SOCIEDADES - 2A",
+    "rooms": [
+      "16:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      30,
+      30
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "CONTABILIDAD FINANCIERA Y DE SOCIEDADES - 2A (*)",
+    "subject_name": "CONTABILIDAD FINANCIERA Y DE SOCIEDADES - 2A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      31,
+      31
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Contabilidad Financiera Y De Sociedades - 2A2 (*)",
+    "subject_name": "Contabilidad Financiera Y De Sociedades - 2A2",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      32,
+      32
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Contabilidad Financiera Y De Sociedades - 2A2 (*)\n(19:30)",
+    "subject_name": "Contabilidad Financiera Y De Sociedades - 2A2",
+    "rooms": [
+      "19:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      7
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Computer Structure And\nOrganization - 2EM1 (NL5)",
+    "subject_name": "Computer Structure And Organization - 2EM1",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      11,
+      15
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Computer Structure And\nOrganization - 2EM (NA2)",
+    "subject_name": "Computer Structure And Organization - 2EM",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      20,
+      24
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Computer Structure And\nOrganization - 2ET (NA2)",
+    "subject_name": "Computer Structure And Organization - 2ET",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      28,
+      32
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Computer Structure And\nOrganization - 2ET1 (NL5)",
+    "subject_name": "Computer Structure And Organization - 2ET1",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      7
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Computer Structure And\nOrganization - 2EM2 (NL5)",
+    "subject_name": "Computer Structure And Organization - 2EM2",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      11,
+      15
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Computer Structure And\nOrganization - 2EM3 (EL7)",
+    "subject_name": "Computer Structure And Organization - 2EM3",
+    "rooms": [
+      "EL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      20,
+      24
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Computer Structure And\nOrganization - 2ET2 (NL5)",
+    "subject_name": "Computer Structure And Organization - 2ET2",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS EMPRESARIALES – 3A\n(SA4)",
+    "subject_name": "SISTEMAS EMPRESARIALES – 3A",
+    "rooms": [
+      "SA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      14
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas Empresariales –\n3A1 → 3A3 (GII) (NL9)",
+    "subject_name": "Sistemas Empresariales – 3A1 → 3A3",
+    "rooms": [
+      "NL9"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      22,
+      26
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Bases De Datos Avanzadas -\n3A1 → 2B1(GII) (NL11)",
+    "subject_name": "Bases De Datos Avanzadas - 3A1 → 2B1",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      30,
+      34
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "BASES DE DATOS AVANZADAS -\n3A → 2B(GII) (NA4)",
+    "subject_name": "BASES DE DATOS AVANZADAS - 3A → 2B",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Economía Española y Mundial – 3A\n(*) (11:30)",
+    "subject_name": "Economía Española y Mundial – 3A",
+    "rooms": [
+      "11:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      10
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Economía Española y Mundial – 3A\n(*)",
+    "subject_name": "Economía Española y Mundial – 3A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      14,
+      14
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Economía Española y Mundial – 3A\n(*)\nEconomía Española y Mundial – 3A",
+    "subject_name": "Economía Española y Mundial – 3A Economía Española y Mundial – 3A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      19,
+      19
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "(*) (14:30)",
+    "subject_name": null,
+    "rooms": [
+      "14:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      22,
+      26
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "PROGRAMACIÓN AVANZADA -\n3A → 2B(GII) (NA4)",
+    "subject_name": "PROGRAMACIÓN AVANZADA - 3A → 2B",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      30,
+      34
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Programación Avanzada -\n3A1 → 2B1(GII) (NL8)",
+    "subject_name": "Programación Avanzada - 3A1 → 2B1",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "REDES DE COMPUTADORES -\n3A → 2A(GII) (NA4)",
+    "subject_name": "REDES DE COMPUTADORES - 3A → 2A",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      14
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Redes De Computadores -\n3A1 → 2A1(GII) (EL11)",
+    "subject_name": "Redes De Computadores - 3A1 → 2A1",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      26,
+      26
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Estados Financieros – 3A\n(*) (16:30)",
+    "subject_name": "Estados Financieros – 3A",
+    "rooms": [
+      "16:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      30,
+      34
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Estados Financieros – 3A\n(*)",
+    "subject_name": "Estados Financieros – 3A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      38,
+      38
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Estados Financieros – 3A\n(*) (20:30)",
+    "subject_name": "Estados Financieros – 3A",
+    "rooms": [
+      "20:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºE",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Advanced Programming -\n3E1 → 2E1(GII) (NL11)",
+    "subject_name": "Advanced Programming - 3E1 → 2E1",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "3ºE",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ADVANCED PROGRAMMING -\n3E → 2E(GII) (SA5B)",
+    "subject_name": "ADVANCED PROGRAMMING - 3E → 2E",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [
+      "GII"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      30,
+      38
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "17:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "Dirección Financiera II 4A1\n(*)",
+    "subject_name": "Dirección Financiera II 4A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "08:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "8:00/8:55",
+    "subject_raw": "Marketing: Fundamentos 4A1 (*)\n(08:30)",
+    "subject_name": "Marketing: Fundamentos 4A1",
+    "rooms": [
+      "08:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      9
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "09:00",
+    "time_end": "10:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "Marketing: Fundamentos 4A1 (*)",
+    "subject_name": "Marketing: Fundamentos 4A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      13,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Marketing: Fundamentos 4A1 (*)\n(11:30)",
+    "subject_name": "Marketing: Fundamentos 4A1",
+    "rooms": [
+      "11:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "CONOCIMIENTO Y RAZONAMIENTO\nAUTOMATIZADO - 3A (NA4)",
+    "subject_name": "CONOCIMIENTO Y RAZONAMIENTO AUTOMATIZADO - 3A",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      17,
+      23
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Conocimiento Y Razonamiento\nAutomatizado - 3A1 (NL10)",
+    "subject_name": "Conocimiento Y Razonamiento Automatizado - 3A1",
+    "rooms": [
+      "NL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      30,
+      34
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Conocimiento y Razonamiento\nAutomatizado 4A1 → 3B1 GII (--)",
+    "subject_name": "Conocimiento y Razonamiento Automatizado 4A1 → 3B1 GII",
+    "rooms": [],
+    "non_room_annotations": [
+      "--"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      38,
+      42
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "CONOCIMIENTO Y RAZONAMIENTO\nAUTOMATIZADO 4A → 3B GII (OA1)",
+    "subject_name": "CONOCIMIENTO Y RAZONAMIENTO AUTOMATIZADO 4A → 3B GII",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      46,
+      46
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Conocimiento y Razonamiento",
+    "subject_name": "Conocimiento y Razonamiento",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "08:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "8:00/8:55",
+    "subject_raw": "Régimen Fiscal de la Empresa 4A (*) (08:30)",
+    "subject_name": "Régimen Fiscal de la Empresa 4A",
+    "rooms": [
+      "08:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "09:00",
+    "time_end": "11:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Régimen Fiscal de la Empresa 4A (*)",
+    "subject_name": "Régimen Fiscal de la Empresa 4A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      17,
+      17
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Régimen Fiscal de la Empresa 4A (*) (12:30)",
+    "subject_name": "Régimen Fiscal de la Empresa 4A",
+    "rooms": [
+      "12:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Paradigmas Avanzados De\nProgramación - 4A → 3A1 (lab)",
+    "subject_name": "Paradigmas Avanzados De Programación - 4A → 3A1",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "PARADIGMAS AVANZADOS DE\nPROG. 4A → 3A GII (NA7)",
+    "subject_name": "PARADIGMAS AVANZADOS DE PROG. 4A → 3A GII",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      17,
+      23
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Paradigmas Avanzados De\nProgramación - 4A → 3A2 (lab)\nParadigmas Avanzados De\nProgramación - 4A → 3A3 (lab)",
+    "subject_name": "Paradigmas Avanzados De Programación - 4A → 3A2 Paradigmas Avanzados De Programación - 4A → 3A3",
+    "rooms": [
+      "lab",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "20:00",
+    "time_end": "20:55",
+    "time_start_raw": "20:00/20:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Conocimiento y Razonamiento\nAutomatizado 4A1 → 3B2 GII (--)",
+    "subject_name": "Conocimiento y Razonamiento Automatizado 4A1 → 3B2 GII",
+    "rooms": [],
+    "non_room_annotations": [
+      "--"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºA",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Gestión De Proyectos – 5A1 → 3A1\n(NL12)",
+    "subject_name": "Gestión De Proyectos – 5A1 → 3A1",
+    "rooms": [
+      "NL12"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºA",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "GESTIÓN DE PROYECTOS – 5A → 3A\n(NA2)",
+    "subject_name": "GESTIÓN DE PROYECTOS – 5A → 3A",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      17,
+      21
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºA",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Gestión De Proyectos – 5A1 → 3A2\n(NL12)",
+    "subject_name": "Gestión De Proyectos – 5A1 → 3A2",
+    "rooms": [
+      "NL12"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      26,
+      26
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºA",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "DIRECCIÓN ESTRATÉGICA EMPRESARIAL 5A (*) (15:30)",
+    "subject_name": "DIRECCIÓN ESTRATÉGICA EMPRESARIAL 5A",
+    "rooms": [
+      "15:30"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      30,
+      30
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºA",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "DIRECCIÓN ESTRATÉGICA EMPRESARIAL 5A (*)",
+    "subject_name": "DIRECCIÓN ESTRATÉGICA EMPRESARIAL 5A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      38,
+      40
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºA",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "18:00",
+    "time_end": "20:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "ORGANIZACIÓN Y RECURSOS HUMANOS – 5A (*)",
+    "subject_name": "ORGANIZACIÓN Y RECURSOS HUMANOS – 5A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      26,
+      34
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºA",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "17:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "DIRECCIÓN ESTRATÉGICA\nEMPRESARIAL 5A (*)",
+    "subject_name": "DIRECCIÓN ESTRATÉGICA EMPRESARIAL 5A",
+    "rooms": [],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºA",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Planificación Automática - 5A1 →\n3A1 (NL8)",
+    "subject_name": "Planificación Automática - 5A1 → 3A1",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      13
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºA",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "PLANIFICACIÓN AUTOMATICA - 5A1\n→ 3A (EA3)",
+    "subject_name": "PLANIFICACIÓN AUTOMATICA - 5A1 → 3A",
+    "rooms": [
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      17,
+      21
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºA",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Planificación Automática - 5A1 →\n3A2 (NL8)",
+    "subject_name": "Planificación Automática - 5A1 → 3A2",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºE",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "PROJECT MANAGEMENT – 5A → 3E\n(NA3)",
+    "subject_name": "PROJECT MANAGEMENT – 5A → 3E",
+    "rooms": [
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      12,
+      12
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºE",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "PROJECT MANAGEMENT 5A →- 3E\n(NA3)",
+    "subject_name": "PROJECT MANAGEMENT 5A →- 3E",
+    "rooms": [
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      16,
+      20
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA INFORMÁTICA Y ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS (G782) (INFOADE)",
+    "group": "5ºE",
+    "semester": 10,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Project Management 5A →- 3E1\n(NL4)",
+    "subject_name": "Project Management 5A →- 3E1",
+    "rooms": [
+      "NL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

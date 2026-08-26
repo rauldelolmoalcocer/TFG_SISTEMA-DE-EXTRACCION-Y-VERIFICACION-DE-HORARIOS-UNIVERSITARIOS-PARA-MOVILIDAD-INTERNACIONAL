@@ -1,0 +1,639 @@
+{
+  "pdf_count": 33,
+  "pdfs": [
+    {
+      "source_file": "Comienzo-Clases-1Q2627.pdf",
+      "page_count": 7,
+      "word_count": 1054,
+      "tables_detected_by_strategy": {
+        "lines": 2,
+        "text": 6,
+        "combined": 2
+      },
+      "warning_count": 0,
+      "best_strategy_per_page": [
+        null,
+        "text",
+        "text",
+        "text",
+        "text",
+        "text",
+        "text"
+      ]
+    },
+    {
+      "source_file": "MUIT-2627-SEMESTRE1-3.pdf",
+      "page_count": 1,
+      "word_count": 163,
+      "tables_detected_by_strategy": {
+        "lines": 3,
+        "text": 1,
+        "combined": 3
+      },
+      "warning_count": 11,
+      "best_strategy_per_page": [
+        "lines"
+      ]
+    },
+    {
+      "source_file": "MUIT-2627-SEMESTRE2.pdf",
+      "page_count": 1,
+      "word_count": 94,
+      "tables_detected_by_strategy": {
+        "lines": 1,
+        "text": 1,
+        "combined": 1
+      },
+      "warning_count": 4,
+      "best_strategy_per_page": [
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1-GIST-tercero-cuarto.pdf",
+      "page_count": 3,
+      "word_count": 576,
+      "tables_detected_by_strategy": {
+        "lines": 3,
+        "text": 3,
+        "combined": 3
+      },
+      "warning_count": 81,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1-GIT-tercero-cuarto.pdf",
+      "page_count": 3,
+      "word_count": 537,
+      "tables_detected_by_strategy": {
+        "lines": 3,
+        "text": 3,
+        "combined": 3
+      },
+      "warning_count": 71,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1-GITT-tercero-cuarto.pdf",
+      "page_count": 4,
+      "word_count": 782,
+      "tables_detected_by_strategy": {
+        "lines": 4,
+        "text": 4,
+        "combined": 4
+      },
+      "warning_count": 75,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1-GTIC-primero-segundo.pdf",
+      "page_count": 11,
+      "word_count": 2355,
+      "tables_detected_by_strategy": {
+        "lines": 11,
+        "text": 11,
+        "combined": 11
+      },
+      "warning_count": 221,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1Transversales.pdf",
+      "page_count": 3,
+      "word_count": 744,
+      "tables_detected_by_strategy": {
+        "lines": 3,
+        "text": 3,
+        "combined": 3
+      },
+      "warning_count": 35,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1_GIC.pdf",
+      "page_count": 10,
+      "word_count": 1913,
+      "tables_detected_by_strategy": {
+        "lines": 10,
+        "text": 10,
+        "combined": 10
+      },
+      "warning_count": 217,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1_GIEAI.pdf",
+      "page_count": 11,
+      "word_count": 1945,
+      "tables_detected_by_strategy": {
+        "lines": 11,
+        "text": 11,
+        "combined": 11
+      },
+      "warning_count": 204,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1_GIEC.pdf",
+      "page_count": 4,
+      "word_count": 651,
+      "tables_detected_by_strategy": {
+        "lines": 4,
+        "text": 4,
+        "combined": 4
+      },
+      "warning_count": 81,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "text"
+      ]
+    },
+    {
+      "source_file": "Semestre1_GIECAI.pdf",
+      "page_count": 6,
+      "word_count": 995,
+      "tables_detected_by_strategy": {
+        "lines": 6,
+        "text": 6,
+        "combined": 6
+      },
+      "warning_count": 127,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1_GII.pdf",
+      "page_count": 11,
+      "word_count": 2095,
+      "tables_detected_by_strategy": {
+        "lines": 11,
+        "text": 11,
+        "combined": 11
+      },
+      "warning_count": 244,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1_GISI.pdf",
+      "page_count": 9,
+      "word_count": 1879,
+      "tables_detected_by_strategy": {
+        "lines": 9,
+        "text": 9,
+        "combined": 9
+      },
+      "warning_count": 209,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1_GITI.pdf",
+      "page_count": 5,
+      "word_count": 1169,
+      "tables_detected_by_strategy": {
+        "lines": 5,
+        "text": 5,
+        "combined": 5
+      },
+      "warning_count": 123,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1_GMC.pdf",
+      "page_count": 9,
+      "word_count": 1631,
+      "tables_detected_by_strategy": {
+        "lines": 9,
+        "text": 9,
+        "combined": 9
+      },
+      "warning_count": 138,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1_INFOADE.pdf",
+      "page_count": 8,
+      "word_count": 1611,
+      "tables_detected_by_strategy": {
+        "lines": 8,
+        "text": 8,
+        "combined": 8
+      },
+      "warning_count": 174,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre1_MUII.pdf",
+      "page_count": 3,
+      "word_count": 563,
+      "tables_detected_by_strategy": {
+        "lines": 3,
+        "text": 3,
+        "combined": 3
+      },
+      "warning_count": 46,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+      "page_count": 11,
+      "word_count": 2675,
+      "tables_detected_by_strategy": {
+        "lines": 11,
+        "text": 11,
+        "combined": 11
+      },
+      "warning_count": 269,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2-GIC.pdf",
+      "page_count": 9,
+      "word_count": 1648,
+      "tables_detected_by_strategy": {
+        "lines": 10,
+        "text": 9,
+        "combined": 10
+      },
+      "warning_count": 203,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2-GIEC-tercero-cuarto.pdf",
+      "page_count": 2,
+      "word_count": 404,
+      "tables_detected_by_strategy": {
+        "lines": 2,
+        "text": 2,
+        "combined": 2
+      },
+      "warning_count": 50,
+      "best_strategy_per_page": [
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2-GII.pdf",
+      "page_count": 12,
+      "word_count": 1794,
+      "tables_detected_by_strategy": {
+        "lines": 12,
+        "text": 12,
+        "combined": 12
+      },
+      "warning_count": 255,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2-GISI.pdf",
+      "page_count": 9,
+      "word_count": 1634,
+      "tables_detected_by_strategy": {
+        "lines": 9,
+        "text": 9,
+        "combined": 9
+      },
+      "warning_count": 175,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+      "page_count": 2,
+      "word_count": 355,
+      "tables_detected_by_strategy": {
+        "lines": 2,
+        "text": 2,
+        "combined": 2
+      },
+      "warning_count": 53,
+      "best_strategy_per_page": [
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+      "page_count": 3,
+      "word_count": 465,
+      "tables_detected_by_strategy": {
+        "lines": 3,
+        "text": 3,
+        "combined": 3
+      },
+      "warning_count": 53,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2-GITI.pdf",
+      "page_count": 4,
+      "word_count": 1253,
+      "tables_detected_by_strategy": {
+        "lines": 4,
+        "text": 4,
+        "combined": 4
+      },
+      "warning_count": 124,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+      "page_count": 3,
+      "word_count": 586,
+      "tables_detected_by_strategy": {
+        "lines": 3,
+        "text": 3,
+        "combined": 3
+      },
+      "warning_count": 54,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2_GIEAI.pdf",
+      "page_count": 10,
+      "word_count": 1770,
+      "tables_detected_by_strategy": {
+        "lines": 11,
+        "text": 10,
+        "combined": 11
+      },
+      "warning_count": 195,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "text",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2_GIECAI.pdf",
+      "page_count": 6,
+      "word_count": 1016,
+      "tables_detected_by_strategy": {
+        "lines": 6,
+        "text": 6,
+        "combined": 6
+      },
+      "warning_count": 132,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2_GMC.pdf",
+      "page_count": 9,
+      "word_count": 1633,
+      "tables_detected_by_strategy": {
+        "lines": 9,
+        "text": 9,
+        "combined": 9
+      },
+      "warning_count": 111,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2_INFOADE.pdf",
+      "page_count": 10,
+      "word_count": 1571,
+      "tables_detected_by_strategy": {
+        "lines": 10,
+        "text": 9,
+        "combined": 10
+      },
+      "warning_count": 6,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines",
+        "lines"
+      ]
+    },
+    {
+      "source_file": "Semestre2_MUII.pdf",
+      "page_count": 4,
+      "word_count": 574,
+      "tables_detected_by_strategy": {
+        "lines": 4,
+        "text": 4,
+        "combined": 4
+      },
+      "warning_count": 27,
+      "best_strategy_per_page": [
+        "lines",
+        "lines",
+        "lines",
+        "text"
+      ]
+    },
+    {
+      "source_file": "Semestre2_TRV_26-27.pdf",
+      "page_count": 2,
+      "word_count": 317,
+      "tables_detected_by_strategy": {
+        "lines": 2,
+        "text": 2,
+        "combined": 2
+      },
+      "warning_count": 31,
+      "best_strategy_per_page": [
+        "lines",
+        "lines"
+      ]
+    }
+  ]
+}

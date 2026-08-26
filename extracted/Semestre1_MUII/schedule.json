@@ -1,0 +1,928 @@
+[
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "201986-Técnicas de Fabricación\ny Producción-G3 (OLP10)\n201987-Técnicas de\nAutomatización-G3 (EL9)",
+    "subject_name": "201986-Técnicas de Fabricación y Producción-G3 201987-Técnicas de Automatización-G3",
+    "rooms": [
+      "OLP10",
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "201987-TÉCNICAS DE\nAUTOMATIZACIÓN-G1\n(SA3/EL9)\n201987-Técnicas de\nAutomatización-G2 (EL9)",
+    "subject_name": "201987-TÉCNICAS DE AUTOMATIZACIÓN-G1 201987-Técnicas de Automatización-G2",
+    "rooms": [
+      "SA3/EL9",
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "201983-CF: MECÁNICA DE\nFLUIDOS EN APLICACIONES\nINDUSTRIALES\n(SA3/OLPFL)",
+    "subject_name": "201983-CF: MECÁNICA DE FLUIDOS EN APLICACIONES INDUSTRIALES",
+    "rooms": [
+      "SA3/OLPFL"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "207981-CF: ELECTROTECNIA\n(SA3)",
+    "subject_name": "207981-CF: ELECTROTECNIA",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "201984-CF: MECÁNICA DE\nESTRUCTURAS (SA3)\n201986-Técnicas de Fabricación\ny Producción-G2 (OLP10)",
+    "subject_name": "201984-CF: MECÁNICA DE ESTRUCTURAS 201986-Técnicas de Fabricación y Producción-G2",
+    "rooms": [
+      "SA3",
+      "OLP10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "201994-ADMINISTRACIÓN Y\nDIRECCIÓN DE EMPRESAS\n(SA3)",
+    "subject_name": "201994-ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "201986-TÉCNICAS DE\nFABRICACIÓN Y PRODUCCIÓN\n(G1)\n(SA3/OLP10) [1]",
+    "subject_name": "201986-TÉCNICAS DE FABRICACIÓN Y PRODUCCIÓN [1]",
+    "rooms": [
+      "G1",
+      "SA3/OLP10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "201980-CF: EQ. DIFERENCIALES\nY MÉTODOS NUMÉRICOS\n(SA3/OA7)",
+    "subject_name": "201980-CF: EQ. DIFERENCIALES Y MÉTODOS NUMÉRICOS",
+    "rooms": [
+      "SA3/OA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "201979-CF: QUÍMICA\nINDUSTRIAL (SA3) [2]",
+    "subject_name": "201979-CF: QUÍMICA INDUSTRIAL [2]",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "201982-CF: ECA. ANALÓGICA Y\nDIGITAL (OL10)",
+    "subject_name": "201982-CF: ECA. ANALÓGICA Y DIGITAL",
+    "rooms": [
+      "OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "201993-OPERACIONES BÁSICAS\nE ING. DE LA REACCIÓN\nQUÍMICA\n(EA2) [1]",
+    "subject_name": "201993-OPERACIONES BÁSICAS E ING. DE LA REACCIÓN QUÍMICA [1]",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "201999-INGENIERÍA DEL\nTRANSPORTE (EA2)",
+    "subject_name": "201999-INGENIERÍA DEL TRANSPORTE",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "202000-Construcciones y\nUrbanismo Industrial-3 (NA8)",
+    "subject_name": "202000-Construcciones y Urbanismo Industrial-3",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "201996-DIREC. PROYECTOS\nINDUST. E INNOVACIÓN\nTECNOLÓGICA (EA2) (E.F.)",
+    "subject_name": "201996-DIREC. PROYECTOS INDUST. E INNOVACIÓN TECNOLÓGICA",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [
+      "E.F."
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "201998-INSTALACIONES\nINDUSTRIALES II (EA2)",
+    "subject_name": "201998-INSTALACIONES INDUSTRIALES II",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "201996-DIREC. PROYECTOS\nINDUST. E INNOVACIÓN\nTECNOLÓGICA (NA8) (E.F.)",
+    "subject_name": "201996-DIREC. PROYECTOS INDUST. E INNOVACIÓN TECNOLÓGICA",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [
+      "E.F."
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "202000-Construcciones y\nUrbanismo Industrial-1 (NA8)",
+    "subject_name": "202000-Construcciones y Urbanismo Industrial-1",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "202000-CONSTRUCCIONES Y\nURBANISMO INDUSTRIAL (NA8)",
+    "subject_name": "202000-CONSTRUCCIONES Y URBANISMO INDUSTRIAL",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "202000-Construcciones y\nUrbanismo Industrial-2 (NA8)",
+    "subject_name": "202000-Construcciones y Urbanismo Industrial-2",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": null,
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "201986-Técnicas de Fabricación\ny Producción-3 (OLP10)\n201987-Técnicas de\nAutomatización-3 (EL9)",
+    "subject_name": "201986-Técnicas de Fabricación y Producción-3 201987-Técnicas de Automatización-3",
+    "rooms": [
+      "OLP10",
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": null,
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "201987-TÉCNICAS DE\nAUTOMATIZACIÓN-G1\n(SA3/EL9)\n201987-Técnicas de\nAutomatización-G2 (EL9)",
+    "subject_name": "201987-TÉCNICAS DE AUTOMATIZACIÓN-G1 201987-Técnicas de Automatización-G2",
+    "rooms": [
+      "SA3/EL9",
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": null,
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "201993-OPERACIONES BÁSICAS\nE ING. DE LA REACCIÓN\nQUÍMICA\n(EA2) [1]",
+    "subject_name": "201993-OPERACIONES BÁSICAS E ING. DE LA REACCIÓN QUÍMICA [1]",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": null,
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "201999-INGENIERÍA DEL\nTRANSPORTE (EA2)",
+    "subject_name": "201999-INGENIERÍA DEL TRANSPORTE",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": null,
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "201996-DIREC. PROYECTOS\nINDUST. E INNOVACIÓN\nTECNOLÓGICA (EA2) (E.F.)",
+    "subject_name": "201996-DIREC. PROYECTOS INDUST. E INNOVACIÓN TECNOLÓGICA",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [
+      "E.F."
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": null,
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "201994-ADMINISTRACIÓN Y\nDIRECCIÓN DE EMPRESAS\n(SA3)",
+    "subject_name": "201994-ADMINISTRACIÓN Y DIRECCIÓN DE EMPRESAS",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": null,
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "201986-TÉCNICAS DE\nFABRICACIÓN Y PRODUCCIÓN-\nG1\n(SA3/OLP10)",
+    "subject_name": "201986-TÉCNICAS DE FABRICACIÓN Y PRODUCCIÓN- G1",
+    "rooms": [
+      "SA3/OLP10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": null,
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "201996-DIREC. PROYECTOS\nINDUST. E INNOVACIÓN\nTECNOLÓGICA (NA8) (E.F.)",
+    "subject_name": "201996-DIREC. PROYECTOS INDUST. E INNOVACIÓN TECNOLÓGICA",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [
+      "E.F."
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": null,
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "202000-Construcciones y\nUrbanismo Industrial-1 (NA8)",
+    "subject_name": "202000-Construcciones y Urbanismo Industrial-1",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": null,
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "202000-CONSTRUCCIONES Y\nURBANISMO INDUSTRIAL\n(NA8)",
+    "subject_name": "202000-CONSTRUCCIONES Y URBANISMO INDUSTRIAL",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": null,
+    "group": null,
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "202000-Construcciones y\nUrbanismo Industrial-2 (NA8)",
+    "subject_name": "202000-Construcciones y Urbanismo Industrial-2",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

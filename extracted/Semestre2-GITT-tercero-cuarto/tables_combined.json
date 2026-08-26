@@ -1,0 +1,1085 @@
+[
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.53,
+      787.55,
+      524.36
+    ],
+    "n_rows": 49,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Digitales - 3A1"
+      ],
+      [
+        null,
+        "MÉTODOS NÚMERICOS Y",
+        null,
+        null,
+        "Métodos Numéricos Y Técnicas De",
+        null
+      ],
+      [
+        null,
+        null,
+        "COMUNICACIONES DIGITALES - 3A",
+        "Tecnologías De Alta Frecuencia -",
+        null,
+        "(SA1)"
+      ],
+      [
+        "10:00/10:55",
+        "TÉCNICAS DE OPTIMIZACIÓN - 3A",
+        null,
+        null,
+        "Optimización - 3A1 (EL2)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA3)",
+        "3A1 (SA3/PL15)",
+        null,
+        "Subsist. Electrónicos - 3A2"
+      ],
+      [
+        null,
+        "(SA1)",
+        null,
+        null,
+        "Sistemas Operativos - 3A2 (EL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(SA3/OL5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Digitales - 3A1"
+      ],
+      [
+        null,
+        "MÉTODOS NÚMERICOS Y",
+        null,
+        null,
+        "Métodos Numéricos Y Técnicas De",
+        null
+      ],
+      [
+        null,
+        null,
+        "COMUNICACIONES DIGITALES - 3A",
+        "Tecnologías De Alta Frecuencia -",
+        null,
+        "(SA1)"
+      ],
+      [
+        "11:00/11:55",
+        "TÉCNICAS DE OPTIMIZACIÓN - 3A",
+        null,
+        null,
+        "Optimización - 3A1 (EL2)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA3)",
+        "3A1 (SA3/PL15)",
+        null,
+        "Subsist. Electrónicos - 3A2"
+      ],
+      [
+        null,
+        "(SA1)",
+        null,
+        null,
+        "Sistemas Operativos - 3A2 (EL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(SA3/OL5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Digitales - 3A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Operativos - 3A1 (EL5)",
+        null
+      ],
+      [
+        null,
+        "SUBSISTEMAS ELECTRÓNICOS - 3A",
+        "TECNOLOGIAS DE ALTA FRECUENCIA",
+        null,
+        null,
+        "(SA1)"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        "SISTEMAS OPERATIVOS - 3A (SA3)",
+        "Métodos Numéricos Y Técnicas De",
+        null
+      ],
+      [
+        null,
+        "(SA1)",
+        "- 3A (SA3)",
+        null,
+        null,
+        "Subsist. Electrónicos - 3A1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Optimización - 3A2 (EL2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(SA3/OL5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Digitales - 3A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Operativos - 3A1 (EL5)",
+        null
+      ],
+      [
+        null,
+        "SUBSISTEMAS ELECTRÓNICOS - 3A",
+        "TECNOLOGIAS DE ALTA FRECUENCIA",
+        null,
+        null,
+        "(SA1)"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        "SISTEMAS OPERATIVOS - 3A (SA3)",
+        "Métodos Numéricos Y Técnicas De",
+        null
+      ],
+      [
+        null,
+        "(SA1)",
+        "- 3A (SA3)",
+        null,
+        null,
+        "Subsist. Electrónicos - 3A1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Optimización - 3A2 (EL2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(SA3/OL5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Tecnologías De Alta Frecuencia - 3A2",
+        null,
+        null,
+        "Tecnologías De Alta Frecuencia –"
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        "Sistemas Operativos – 3A3 (EL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(PL15)",
+        null,
+        null,
+        "3A3 (PL15)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Tecnologías De Alta Frecuencia - 3A2",
+        null,
+        null,
+        "Tecnologías De Alta Frecuencia –"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        "Sistemas Operativos – 3A3 (EL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(PL15)",
+        null,
+        null,
+        "3A3 (PL15)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      147.43,
+      787.55,
+      542.61
+    ],
+    "n_rows": 53,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        "Seguridad - 3D1 (EL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        "Seguridad - 3D1 (EL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SEGURIDAD - 3D",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SEGURIDAD - 3D",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        "Seguridad - 3D2 (EL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        "Seguridad - 3D2 (EL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Control Electrónico - 4A1 (OL1)",
+        null,
+        "TECNOLOGÍA ELECTRÓNICA - 4A (SA1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "INGENIERÍA DE TRÁFICO - 4A (EA3)",
+        null,
+        "COMUNICACIONES MÓVILES - 4A (SA8)",
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        "Visión Artificial – 4C1 (OL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "SISTEMAS DE TELECOMUNICACIÓN - 4A",
+        null,
+        "LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A (EL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA6)",
+        null,
+        "SIST. INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4A (SL10)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "TECNOLOGÍA ELECTRÓNICA - 4A (SA1)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Control Electrónico - 4A1 (OL1)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "COMUNICACIONES MÓVILES - 4A (SA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        "INGENIERÍA DE TRÁFICO - 4A (EA3)",
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        "Visión Artificial - 4C1 (OL5)",
+        "LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A (EL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        "SISTEMAS DE TELECOMUNICACIÓN - 4A",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "SISTEMAS INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4A",
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SL10)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "CONTROL ELECTRÓNICO - 4A (OL1)",
+        null,
+        "Tecnología Electrónica - 4A1 (OL10)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Ingeniería De Tráfico - 4A1 (EL11)",
+        null,
+        "Lab. De Redes, Sistemas Y Servicios - 4A1 (EL11)",
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        "Visión Artificial - 4C1 (OL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas De Telecomunicación - 4A1",
+        null,
+        "Comunicaciones Móviles - 4A1 (SL9)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA6)",
+        null,
+        "Sist. Inteligentes Y Sostenibles De Nueva Generación - 4A1 (SL10)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "CONTROL ELECTRÓNICO - 4A (OL1)",
+        null,
+        "Tecnología Electrónica - 4A1 (OL10)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Ingeniería De Tráfico - 4A1 (EL11)",
+        null,
+        "Lab. De Redes, Sistemas Y Servicios - 4A1 (EL11)",
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        "Visión Artificial – 4C1 (OL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas De Telecomunicación - 4A1",
+        null,
+        "Comunicaciones Móviles - 4A1 (SL9)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA6)",
+        null,
+        "Sist. Inteligentes Y Sostenibles De Nueva Generación - 4A1 (SL10)",
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.55,
+      409.21
+    ],
+    "n_rows": 27,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "SECURITY - 4E (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "SECURITY - 4E (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        "Security - 4E1 (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        "Security - 4E1 (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

@@ -1,0 +1,634 @@
+[
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Radiación Y Radiocomunicación -\n3B3 (EA6/SL10)",
+    "subject_name": "Radiación Y Radiocomunicación - 3B3",
+    "rooms": [
+      "EA6/SL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Radiación Y Radiocomunicación -\n3B2 (EA6/SL10)",
+    "subject_name": "Radiación Y Radiocomunicación - 3B2",
+    "rooms": [
+      "EA6/SL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Radiación Y Radiocomunicación -\n3B1 (EA6/SL10)",
+    "subject_name": "Radiación Y Radiocomunicación - 3B1",
+    "rooms": [
+      "EA6/SL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "COMUNICACIONES ÓPTICAS - 3B\n(SA8)",
+    "subject_name": "COMUNICACIONES ÓPTICAS - 3B",
+    "rooms": [
+      "SA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "SISTEMAS DE TELECOMUNICACIÓN -\n3B (SA8)",
+    "subject_name": "SISTEMAS DE TELECOMUNICACIÓN - 3B",
+    "rooms": [
+      "SA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "RADIACIÓN Y RADIOCOMUNICACIÓN\n- 3B (SA8)",
+    "subject_name": "RADIACIÓN Y RADIOCOMUNICACIÓN - 3B",
+    "rooms": [
+      "SA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "CIRCUITOS DE COMUNICACIÓN - 3B\n(SA8)",
+    "subject_name": "CIRCUITOS DE COMUNICACIÓN - 3B",
+    "rooms": [
+      "SA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Circuitos De Comunicación - 3B2\n(SA8)",
+    "subject_name": "Circuitos De Comunicación - 3B2",
+    "rooms": [
+      "SA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Sistemas De Telecomunicación - 3B1\n(SA8)\nSistemas De Telecomunicación - 3B2\n(aula)",
+    "subject_name": "Sistemas De Telecomunicación - 3B1 Sistemas De Telecomunicación - 3B2",
+    "rooms": [
+      "SA8"
+    ],
+    "non_room_annotations": [
+      "aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Circuitos De Comunicación - 3B1\n(SA8)",
+    "subject_name": "Circuitos De Comunicación - 3B1",
+    "rooms": [
+      "SA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Comunicaciones Ópticas - 3B1 (SL3)",
+    "subject_name": "Comunicaciones Ópticas - 3B1",
+    "rooms": [
+      "SL3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Comunicaciones Ópticas - 3B2 (SL3)",
+    "subject_name": "Comunicaciones Ópticas - 3B2",
+    "rooms": [
+      "SL3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "3ºB",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Comunicaciones Ópticas –\n3B3 (SL3)",
+    "subject_name": "Comunicaciones Ópticas – 3B3",
+    "rooms": [
+      "SL3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "4ºB",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "INGENIERÍA DEL SOFTWARE -\n4B (SA3)",
+    "subject_name": "INGENIERÍA DEL SOFTWARE - 4B",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "4ºB",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Ingeniería Del Software -\n4B1 (NL8)",
+    "subject_name": "Ingeniería Del Software - 4B1",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "4ºB",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "TECN. DE REDES Y SERV. TELEM. -\n4OPT (EA8)",
+    "subject_name": "TECN. DE REDES Y SERV. TELEM. - 4OPT",
+    "rooms": [
+      "EA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "4ºB",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Tecn. De Redes y Serv. Telem. - 4OPT\n(EA8)",
+    "subject_name": "Tecn. De Redes y Serv. Telem. - 4OPT",
+    "rooms": [
+      "EA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "4ºB",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Tecn. en Sist. Elect. – 4OPT (OL10)",
+    "subject_name": "Tecn. en Sist. Elect. – 4OPT",
+    "rooms": [
+      "OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "4ºB",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Tecnologías Fotónicas - 4B2\n(NA6/OL6)",
+    "subject_name": "Tecnologías Fotónicas - 4B2",
+    "rooms": [
+      "NA6/OL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "4ºB",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "TECN. EN SIST. ELECT. – 4OPT (OL10)",
+    "subject_name": "TECN. EN SIST. ELECT. – 4OPT",
+    "rooms": [
+      "OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE TELECOMUNICACIÓN (G390) (GIST)",
+    "group": "4ºB",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "TECN. FOTÓNICAS - 4B (NA6)",
+    "subject_name": "TECN. FOTÓNICAS - 4B",
+    "rooms": [
+      "NA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

@@ -1,0 +1,2835 @@
+[
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.33,
+      154.31,
+      787.1,
+      544.67
+    ],
+    "n_rows": 46,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        "Programación - 1A2 → 1A2(GII)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Estructuras Discretas - 1A1 (NA7)"
+      ],
+      [
+        null,
+        null,
+        "(lab)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        "Programación - 1A2 → 1A2(GII)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Estructuras Discretas - 1A1 (NA7)"
+      ],
+      [
+        null,
+        null,
+        "(lab)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "INGENIERÍA DEL SOFTWARE - 1A",
+        "PROGRAMACIÓN – 1A → 1A(GII)",
+        null,
+        null,
+        "ESTRUCTURAS DISCRETAS - 1A"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NA1)",
+        "(NA7)",
+        null,
+        null,
+        "(NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "INGENIERÍA DEL SOFTWARE - 1A",
+        "PROGRAMACIÓN – 1A → 1A(GII)",
+        null,
+        null,
+        "ESTRUCTURAS DISCRETAS - 1A"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NA1)",
+        "(NA7)",
+        null,
+        null,
+        "(NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "Programación - 1A1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Ingeniería Del Software - 1A1 (NL8)",
+        null,
+        null,
+        null,
+        "Estructuras Discretas - 1A2 (NA7)"
+      ],
+      [
+        null,
+        null,
+        "(NL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "Programación - 1A1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Ingeniería Del Software - 1A1 (NL8)",
+        null,
+        null,
+        null,
+        "Estructuras Discretas - 1A2 (NA7)"
+      ],
+      [
+        null,
+        null,
+        "(NL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Programación - 1B1 (NL8)",
+        null,
+        null,
+        "Estructuras Discretas - 1B1 (NA7)"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        "ESTADÍSTICA EMPRESARIAL II - 1A",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Programación - 1B1 (NL8)",
+        null,
+        null,
+        "Estructuras Discretas - 1B1 (NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(*) (16:30)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        "ESTADÍSTICA EMPRESARIAL II - 1A",
+        null,
+        "ESTRUCTURAS DISCRETAS - 1B"
+      ],
+      [
+        null,
+        null,
+        "PROGRAMACIÓN - 1B (NA7)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(*)",
+        null,
+        "(NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "ESTADÍSTICA EMPRESARIAL II - 1A",
+        null,
+        "ESTRUCTURAS DISCRETAS - 1B"
+      ],
+      [
+        null,
+        null,
+        "PROGRAMACIÓN - 1B (NA7)",
+        null,
+        "Estadística Empresarial II - 1A (*)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(*)",
+        null,
+        "(NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        "ESTADÍSTICA EMPRESARIAL II - 1A",
+        "Estadística Empresarial II - 1A (*)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Programación - 1B2 (lab)",
+        null,
+        null,
+        "Estructuras Discretas - 1B2 (NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(*) (19:30)",
+        "(19:30)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "Programación - 1B2 (lab)",
+        null,
+        null,
+        "Estructuras Discretas - 1B2 (NA7)"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.33,
+      154.31,
+      787.14,
+      438.57
+    ],
+    "n_rows": 20,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "SOFTWARE ENGINEERING - 1E",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA5A)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "SOFTWARE ENGINEERING - 1E",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA5A)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        "Software Engineering - 1E1 (NL7)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        "Software Engineering - 1E1 (NL7)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 12 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 12,
+        "col_index": 1
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.33,
+      154.31,
+      787.14,
+      492.78
+    ],
+    "n_rows": 37,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        "ANÁLISIS DE LAS OPERACIONES",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "FINANCIERAS - 2A (*) (9:30)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "ANÁLISIS DE LAS OPERACIONES",
+        "ALGORITMIA Y COMPLEJIDAD - 2ª",
+        "ESTRUCTURA Y ORGANIZACIÓN DE COMPUTADORES –",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "FINANCIERAS - 2A (*)",
+        "(NA4)",
+        "2A → 1A(GII) (NA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "ANÁLISIS DE LAS OPERACIONES",
+        "ANÁLISIS DE LAS OPERACIONES",
+        "ALGORITMIA Y COMPLEJIDAD - 2A",
+        "ESTRUCTURA Y ORGANIZACIÓN DE COMPUTADORES –",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "FINANCIERAS - 2A (*) (11:30)",
+        "FINANCIERAS - 2A (*) (11:30)",
+        "(NA4)",
+        "2A → 1A(GII) (NA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        "ANÁLISIS DE LAS OPERACIONES",
+        null,
+        "Algoritmia Y Complejidad - 2A1",
+        "Estructura Y Organización De Computadores – 2A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "FINANCIERAS - 2A (*)",
+        null,
+        "(NL9)",
+        "(NL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        "ANÁLISIS DE LAS OPERACIONES",
+        null,
+        "Algoritmia Y Complejidad - 2A1",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Estructura Y Organización De Computadores - 2A2 (NL5)",
+        null
+      ],
+      [
+        null,
+        "FINANCIERAS - 2A (*)",
+        null,
+        "(NL9)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ANÁLISIS DE LAS OPERACIONES",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "FINANCIERAS - 2A (*) (14:30)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "TEORÍA ECONÓMICA II - 2A (*)",
+        null,
+        "CONTABILIDAD FINANCIERA Y DE SOCIEDADES - 2A (*)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(16:30)",
+        null,
+        "(16:30)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        "TEORÍA ECONÓMICA II - 2A (*)",
+        null,
+        "CONTABILIDAD FINANCIERA Y DE SOCIEDADES - 2A (*)",
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "Teoría Económica II - 2A (*)",
+        null,
+        "Contabilidad Financiera Y De Sociedades - 2A2 (*)",
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        "Contabilidad Financiera Y De Sociedades - 2A2 (*)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Teoría Económica II - 2A (*) (19:30)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(19:30)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 32 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 32,
+        "col_index": 4
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.33,
+      154.31,
+      787.14,
+      511.16
+    ],
+    "n_rows": 38,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        "Computer Structure And",
+        "Computer Structure And",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Organization - 2EM1 (NL5)",
+        "Organization - 2EM2 (NL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        "Computer Structure And",
+        "Computer Structure And",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Organization - 2EM1 (NL5)",
+        "Organization - 2EM2 (NL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        "Computer Structure And",
+        "Computer Structure And",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Organization - 2EM (NA2)",
+        "Organization - 2EM3 (EL7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        "Computer Structure And",
+        "Computer Structure And",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Organization - 2EM (NA2)",
+        "Organization - 2EM3 (EL7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        "Computer Structure And",
+        "Computer Structure And",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Organization - 2ET (NA2)",
+        "Organization - 2ET2 (NL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        "Computer Structure And",
+        "Computer Structure And",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Organization - 2ET (NA2)",
+        "Organization - 2ET2 (NL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        "Computer Structure And",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Organization - 2ET1 (NL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        "Computer Structure And",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Organization - 2ET1 (NL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.33,
+      154.31,
+      786.79,
+      516.95
+    ],
+    "n_rows": 43,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "SISTEMAS EMPRESARIALES – 3A",
+        null,
+        null,
+        "REDES DE COMPUTADORES -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA4)",
+        null,
+        null,
+        "3A → 2A(GII) (NA4)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "SISTEMAS EMPRESARIALES – 3A",
+        "Economía Española y Mundial – 3A",
+        null,
+        "REDES DE COMPUTADORES -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA4)",
+        "(*) (11:30)",
+        null,
+        "3A → 2A(GII) (NA4)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "Sistemas Empresariales –",
+        "Economía Española y Mundial – 3A",
+        null,
+        "Redes De Computadores -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3A1 → 3A3 (GII) (NL9)",
+        "(*)",
+        null,
+        "3A1 → 2A1(GII) (EL11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "Sistemas Empresariales –",
+        "Economía Española y Mundial – 3A",
+        null,
+        "Redes De Computadores -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3A1 → 3A3 (GII) (NL9)",
+        "(*)",
+        null,
+        "3A1 → 2A1(GII) (EL11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Economía Española y Mundial – 3A",
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(*) (14:30)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Bases De Datos Avanzadas -",
+        null,
+        "PROGRAMACIÓN AVANZADA -",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3A1 → 2B1(GII) (NL11)",
+        null,
+        "3A → 2B(GII) (NA4)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Bases De Datos Avanzadas -",
+        null,
+        "PROGRAMACIÓN AVANZADA -",
+        "Estados Financieros – 3A"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3A1 → 2B1(GII) (NL11)",
+        null,
+        "3A → 2B(GII) (NA4)",
+        "(*) (16:30)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        "BASES DE DATOS AVANZADAS -",
+        null,
+        "Programación Avanzada -",
+        "Estados Financieros – 3A"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3A → 2B(GII) (NA4)",
+        null,
+        "3A1 → 2B1(GII) (NL8)",
+        "(*)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "BASES DE DATOS AVANZADAS -",
+        null,
+        "Programación Avanzada -",
+        "Estados Financieros – 3A"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3A → 2B(GII) (NA4)",
+        null,
+        "3A1 → 2B1(GII) (NL8)",
+        "(*)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        "Estados Financieros – 3A"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(*) (20:30)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.33,
+      142.29,
+      786.89,
+      450.69
+    ],
+    "n_rows": 26,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        "Advanced Programming -",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "3E1 → 2E1(GII) (NL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        "Advanced Programming -",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "3E1 → 2E1(GII) (NL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        "ADVANCED PROGRAMMING -",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "3E → 2E(GII) (SA5B)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        "ADVANCED PROGRAMMING -",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "3E → 2E(GII) (SA5B)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.33,
+      142.29,
+      786.75,
+      550.93
+    ],
+    "n_rows": 47,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        "Marketing: Fundamentos 4A1 (*)",
+        null,
+        null,
+        "Paradigmas Avanzados De"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Régimen Fiscal de la Empresa 4A (*) (08:30)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(08:30)",
+        null,
+        null,
+        "Programación - 4A → 3A1 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        "Paradigmas Avanzados De"
+      ],
+      [
+        null,
+        null,
+        "Marketing: Fundamentos 4A1 (*)",
+        null,
+        "Régimen Fiscal de la Empresa 4A (*)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Programación - 4A → 3A1 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        "CONOCIMIENTO Y RAZONAMIENTO",
+        null,
+        "PARADIGMAS AVANZADOS DE"
+      ],
+      [
+        null,
+        null,
+        "Marketing: Fundamentos 4A1 (*)",
+        null,
+        "Régimen Fiscal de la Empresa 4A (*)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "AUTOMATIZADO - 3A (NA4)",
+        null,
+        "PROG. 4A → 3A GII (NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "Marketing: Fundamentos 4A1 (*)",
+        "CONOCIMIENTO Y RAZONAMIENTO",
+        null,
+        "PARADIGMAS AVANZADOS DE"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Régimen Fiscal de la Empresa 4A (*)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(11:30)",
+        "AUTOMATIZADO - 3A (NA4)",
+        null,
+        "PROG. 4A → 3A GII (NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        "Paradigmas Avanzados De"
+      ],
+      [
+        null,
+        null,
+        null,
+        "Conocimiento Y Razonamiento",
+        null,
+        "Programación - 4A → 3A2 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Régimen Fiscal de la Empresa 4A (*) (12:30)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Automatizado - 3A1 (NL10)",
+        null,
+        "Paradigmas Avanzados De"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Programación - 4A → 3A3 (lab)"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        "Paradigmas Avanzados De"
+      ],
+      [
+        null,
+        null,
+        null,
+        "Conocimiento Y Razonamiento",
+        null,
+        "Programación - 4A → 3A2 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Automatizado - 3A1 (NL10)",
+        null,
+        "Paradigmas Avanzados De"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Programación - 4A → 3A3 (lab)"
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "Dirección Financiera II 4A1",
+        null,
+        "Conocimiento y Razonamiento",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(*)",
+        null,
+        "Automatizado 4A1 → 3B1 GII (--)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "Dirección Financiera II 4A1",
+        null,
+        "Conocimiento y Razonamiento",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(*)",
+        null,
+        "Automatizado 4A1 → 3B1 GII (--)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        "Dirección Financiera II 4A1",
+        null,
+        "CONOCIMIENTO Y RAZONAMIENTO",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(*)",
+        null,
+        "AUTOMATIZADO 4A → 3B GII (OA1)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        "CONOCIMIENTO Y RAZONAMIENTO",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "AUTOMATIZADO 4A → 3B GII (OA1)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        "Conocimiento y Razonamiento",
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.19,
+      5.99,
+      787.0,
+      49.67
+    ],
+    "n_rows": 5,
+    "n_cols": 6,
+    "rows": [
+      [
+        null,
+        null,
+        null,
+        "Automatizado 4A1 → 3B2 GII (--)",
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        "Conocimiento y Razonamiento",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Automatizado 4A1 → 3B2 GII (--)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.33,
+      166.44,
+      786.88,
+      531.01
+    ],
+    "n_rows": 41,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        "Gestión De Proyectos – 5A1 → 3A1",
+        null,
+        null,
+        "Planificación Automática - 5A1 →",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NL12)",
+        null,
+        null,
+        "3A1 (NL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        "Gestión De Proyectos – 5A1 → 3A1",
+        null,
+        null,
+        "Planificación Automática - 5A1 →",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NL12)",
+        null,
+        null,
+        "3A1 (NL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "GESTIÓN DE PROYECTOS – 5A → 3A",
+        null,
+        null,
+        "PLANIFICACIÓN AUTOMATICA - 5A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NA2)",
+        null,
+        null,
+        "→ 3A (EA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "GESTIÓN DE PROYECTOS – 5A → 3A",
+        null,
+        null,
+        "PLANIFICACIÓN AUTOMATICA - 5A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NA2)",
+        null,
+        null,
+        "→ 3A (EA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        "Gestión De Proyectos – 5A1 → 3A2",
+        null,
+        null,
+        "Planificación Automática - 5A1 →",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NL12)",
+        null,
+        null,
+        "3A2 (NL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        "Gestión De Proyectos – 5A1 → 3A2",
+        null,
+        null,
+        "Planificación Automática - 5A1 →",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NL12)",
+        null,
+        null,
+        "3A2 (NL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        "DIRECCIÓN ESTRATÉGICA",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "DIRECCIÓN ESTRATÉGICA EMPRESARIAL 5A (*) (15:30)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "EMPRESARIAL 5A (*)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        "DIRECCIÓN ESTRATÉGICA",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "DIRECCIÓN ESTRATÉGICA EMPRESARIAL 5A (*)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "EMPRESARIAL 5A (*)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        "DIRECCIÓN ESTRATÉGICA",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "EMPRESARIAL 5A (*)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "ORGANIZACIÓN Y RECURSOS HUMANOS – 5A (*)",
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        "ORGANIZACIÓN Y RECURSOS HUMANOS – 5A (*)",
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "ORGANIZACIÓN Y RECURSOS HUMANOS – 5A (*)",
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 39 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 39,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 40 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 40,
+        "col_index": 2
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2_INFOADE.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.33,
+      154.31,
+      786.89,
+      462.78
+    ],
+    "n_rows": 26,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "PROJECT MANAGEMENT – 5A → 3E",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "PROJECT MANAGEMENT 5A →- 3E",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        "Project Management 5A →- 3E1",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NL4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        "Project Management 5A →- 3E1",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NL4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

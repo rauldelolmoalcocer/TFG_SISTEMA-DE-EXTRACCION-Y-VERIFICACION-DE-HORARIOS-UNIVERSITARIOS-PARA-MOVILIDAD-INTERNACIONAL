@@ -1,0 +1,790 @@
+[
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Diseño y Ensayo de Máquinas-1\n(SL1/OA7)\nSistemas Electrónicos\ny de Instrumentación-4 (OL2)",
+    "subject_name": "Diseño y Ensayo de Máquinas-1 Sistemas Electrónicos y de Instrumentación-4",
+    "rooms": [
+      "SL1/OA7",
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "201991-DISEÑO Y ENSAYO DE\nMÁQUINAS (OA1) [1]",
+    "subject_name": "201991-DISEÑO Y ENSAYO DE MÁQUINAS [1]",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Instalaciones Industriales I-1\n(OA1)\nDiseño y Ensayo de Máquinas-2\n(SL1/OA7)",
+    "subject_name": "Instalaciones Industriales I-1 Diseño y Ensayo de Máquinas-2",
+    "rooms": [
+      "OA1",
+      "SL1/OA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "201989-TECNOLOGÍA E\nINGENIERÍA ELÉCTRICA (OA1)",
+    "subject_name": "201989-TECNOLOGÍA E INGENIERÍA ELÉCTRICA",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "201997-INSTALACIONES\nINDUSTRIALES I (OA1) [1]",
+    "subject_name": "201997-INSTALACIONES INDUSTRIALES I [1]",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Ingeniería Fluidotérmica-1\n(OA1/OLPFL)",
+    "subject_name": "Ingeniería Fluidotérmica-1",
+    "rooms": [
+      "OA1/OLPFL"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "201992-INGENIERÍA\nENERGÉTICA (OA1)",
+    "subject_name": "201992-INGENIERÍA ENERGÉTICA",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "201989-TECNOLOGÍA E\nINGENIERÍA ELÉCTRICA (OA1)",
+    "subject_name": "201989-TECNOLOGÍA E INGENIERÍA ELÉCTRICA",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "201988-SIST. ELECTRÓNICOS\nY DE INSTRUMENTACIÓN (OA1)",
+    "subject_name": "201988-SIST. ELECTRÓNICOS Y DE INSTRUMENTACIÓN",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Sistemas Electrónicos\ny de Instrumentación-3 (OL2)",
+    "subject_name": "Sistemas Electrónicos y de Instrumentación-3",
+    "rooms": [
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Sistemas Electrónicos\ny de Instrumentación-1 (OL2)\nIngeniería Fluidotérmica-2\n(OLPFL)",
+    "subject_name": "Sistemas Electrónicos y de Instrumentación-1 Ingeniería Fluidotérmica-2",
+    "rooms": [
+      "OL2"
+    ],
+    "non_room_annotations": [
+      "OLPFL"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "201990-INGENIERÍA\nFLUIDOTÉRMICA (OA1) [2]",
+    "subject_name": "201990-INGENIERÍA FLUIDOTÉRMICA [2]",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Sistemas Electrónicos\ny de Instrumentación-2 (OL2)",
+    "subject_name": "Sistemas Electrónicos y de Instrumentación-2",
+    "rooms": [
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "201992-INGENIERÍA\nENERGÉTICA (OA1)",
+    "subject_name": "201992-INGENIERÍA ENERGÉTICA",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "201995-ORGANIZACIÓN\nINDUSTRIAL (OA1)",
+    "subject_name": "201995-ORGANIZACIÓN INDUSTRIAL",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Instalaciones Industriales I-\n2 (OA1)",
+    "subject_name": "Instalaciones Industriales I- 2",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "RP. 202008-SISTEMAS\nEMPOTRADOS EN EL ÁMBITO\nDE LA ROBÓTICA\n(EL4)",
+    "subject_name": "RP. 202008-SISTEMAS EMPOTRADOS EN EL ÁMBITO DE LA ROBÓTICA",
+    "rooms": [
+      "EL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "RP. 202003-ROBÓTICA MÓVIL\n(PL21)",
+    "subject_name": "RP. 202003-ROBÓTICA MÓVIL",
+    "rooms": [
+      "PL21"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "RP. 202010-CONTROL\nINTELIGENTE EN SISTEMAS DE\nTRANSPORTE\n(OL1)",
+    "subject_name": "RP. 202010-CONTROL INTELIGENTE EN SISTEMAS DE TRANSPORTE",
+    "rooms": [
+      "OL1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "RP. 202005-SISTEMAS DE\nPERCEPCIÓN\n(OL5)",
+    "subject_name": "RP. 202005-SISTEMAS DE PERCEPCIÓN",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "GD. 202011-\nALMACENAMIENTO\nDE ENERGÍA\n(EA6)",
+    "subject_name": "GD. 202011- ALMACENAMIENTO DE ENERGÍA",
+    "rooms": [
+      "EA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "GD. 202012-SISTEMAS\nELÉCTRICOS DE POTENCIA\n(EA6)",
+    "subject_name": "GD. 202012-SISTEMAS ELÉCTRICOS DE POTENCIA",
+    "rooms": [
+      "EA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "GD. 202016-INTRO. A REDES\nINTELIGENTES DE ENERGÍA\n(OL10)",
+    "subject_name": "GD. 202016-INTRO. A REDES INTELIGENTES DE ENERGÍA",
+    "rooms": [
+      "OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "GD. 202012-SISTEMAS\nELÉCTRICOS DE POTENCIA\n(EA6)",
+    "subject_name": "GD. 202012-SISTEMAS ELÉCTRICOS DE POTENCIA",
+    "rooms": [
+      "EA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "GD. 202016-INTRO. A REDES\nINTELIGENTES DE ENERGÍA\n(OL10)",
+    "subject_name": "GD. 202016-INTRO. A REDES INTELIGENTES DE ENERGÍA",
+    "rooms": [
+      "OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MASTER UNIVERSITARIO EN INGENIERÍA INDUSTRIAL (MUII)",
+    "group": null,
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "GD. 202013-GENERA.\nDISTRIBUIDA Y CALIDAD EN\nRED (EA6)",
+    "subject_name": "GD. 202013-GENERA. DISTRIBUIDA Y CALIDAD EN RED",
+    "rooms": [
+      "EA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

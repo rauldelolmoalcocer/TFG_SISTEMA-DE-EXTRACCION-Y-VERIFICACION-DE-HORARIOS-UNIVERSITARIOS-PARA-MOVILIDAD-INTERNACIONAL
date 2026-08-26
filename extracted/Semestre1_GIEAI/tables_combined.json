@@ -1,0 +1,3509 @@
+[
+  {
+    "source_file": "Semestre1_GIEAI.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.53,
+      787.55,
+      482.31
+    ],
+    "n_rows": 39,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        "Informática - 1A3 (NL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        "Informática - 1A3 (NL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Informática - 1A1 (NL5)",
+        "Álgebra Lineal Y Ecuaciones"
+      ],
+      [
+        null,
+        "ÁLGEBRA LINEAL Y ECUACIONES",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "CÁLCULO I - 1A (OA4)",
+        "EXPRESIÓN GRÁFICA - 1A/G (OA4)",
+        "Álgebra Lineal Y Ecuaciones",
+        "Diferenciales - 1A1 (OA4)"
+      ],
+      [
+        null,
+        "DIFERENCIALES - 1A/G (OA4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Diferenciales - 1A2/G (OA3)",
+        "Expresión Gráfica - 1A2 (OA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Informática - 1A1 (NL5)",
+        "Álgebra Lineal Y Ecuaciones"
+      ],
+      [
+        null,
+        "ÁLGEBRA LINEAL Y ECUACIONES",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "CÁLCULO I - 1A (OA4)",
+        "EXPRESIÓN GRÁFICA - 1A/G (OA4)",
+        "Álgebra Lineal Y Ecuaciones",
+        "Diferenciales - 1A1 (OA4)"
+      ],
+      [
+        null,
+        "DIFERENCIALES - 1A/G (OA4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Diferenciales - 1A2/G (OA3)",
+        "Expresión Gráfica - 1A2 (OA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Informática - 1A2 (NL5)",
+        "Cálculo I - 1A2 (OA4)"
+      ],
+      [
+        "12:00/12:55",
+        "Física I - 1A1/G (SA7)",
+        "INFORMÁTICA - 1A (OA4)",
+        "FÍSICA I - 1A/G (OA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Cálculo I - 1A1 (OA4)",
+        "Expresión Gráfica - 1A1/2G1 (OA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Informática - 1A2 (NL5)",
+        "Cálculo I - 1A2 (OA4)"
+      ],
+      [
+        "13:00/13:55",
+        "Física I - 1A1/G (SA7)",
+        "INFORMÁTICA - 1A (OA4)",
+        "FÍSICA I - 1A/G (OA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Cálculo I - 1A1 (OA4)",
+        "Expresión Gráfica - 1A1/2G1 (OA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEAI.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.55,
+      457.61
+    ],
+    "n_rows": 35,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ÁLGEBRA LINEAL Y ECUACIONES",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "FÍSICA I - 1B (OA4)",
+        "CÁLCULO I - 1B (OA4)",
+        "Cálculo I - 1B1 (OA3)",
+        "Expresión Gráfica - 1B1 (OA7)"
+      ],
+      [
+        null,
+        "DIFERENCIALES - 1B (OA4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ÁLGEBRA LINEAL Y ECUACIONES",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "FÍSICA I - 1B (OA4)",
+        "CÁLCULO I - 1B (OA4)",
+        "Cálculo I - 1B1 (OA3)",
+        "Expresión Gráfica - 1B1 (OA7)"
+      ],
+      [
+        null,
+        "DIFERENCIALES - 1B (OA4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Álgebra Lineal Y Ecuaciones",
+        null
+      ],
+      [
+        "17:00/17:55",
+        "EXPRESIÓN GRÁFICA - 1B (OA4)",
+        "INFORMÁTICA - 1B (OA4)",
+        "Física I - 1B1 (OA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Diferenciales - 1B1 (OA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Álgebra Lineal Y Ecuaciones",
+        null
+      ],
+      [
+        "18:00/18:55",
+        "EXPRESIÓN GRÁFICA - 1B (OA4)",
+        "INFORMÁTICA - 1B (OA4)",
+        "Física I - 1B1 (OA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Diferenciales - 1B1 (OA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        "Informática - 1B1 (NL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        "Informática - 1B1 (NL5)",
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEAI.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.55,
+      409.21
+    ],
+    "n_rows": 27,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "COMPUTER SCIENCE - 1E (EA1B)",
+        null,
+        "Computer Science - 1E1 (EL7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "COMPUTER SCIENCE - 1E (EA1B)",
+        null,
+        "Computer Science - 1E1 (EL7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEAI.pdf",
+    "page": 4,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      146.93,
+      787.55,
+      493.71
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        "ELECTRÓNICA DIGITAL - 2A (NA4)",
+        "ESTADÍSTICA - 2A TUTORÍA (SA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Ciencia De Los Materiales - 2A1/G",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Electrónica Analógica - 2A1 (OL12)",
+        null,
+        "Ciencia De Los Materiales - 2A2"
+      ],
+      [
+        null,
+        null,
+        "(OA3)",
+        null,
+        "Electrónica Analógica – 2A3 (OL12)",
+        null
+      ],
+      [
+        null,
+        "Electrónica Digital - 2A2 (OL7)",
+        null,
+        "Electrónica Digital - 2A3 (OL7)",
+        null,
+        "(SA6)"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "Electrónica Analógica - 2A2 (OL12)",
+        null,
+        "Electrónica Digital - 2A1 (OL7)",
+        null
+      ],
+      [
+        null,
+        "Ingeniería Térmica - 2A1 (OA3)",
+        null,
+        "Electrónica Digital - 2A4 (OL7)",
+        null,
+        "Electrónica Analógica - 2A4 (OL10)"
+      ],
+      [
+        null,
+        null,
+        "Ingeniería Térmica – 2A3/G",
+        null,
+        "Estadística - 2A2 (EL2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Ingeniería Térmica - 2A2 (OA3)",
+        null,
+        "Estadística - 2A1/G (EL2)"
+      ],
+      [
+        null,
+        null,
+        "(GIEAI) (NA4)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Ciencia De Los Materiales – 2A1/G",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Electrónica Analógica - 2A1 (OL12)",
+        null,
+        "Ciencia De Los Materiales - 2A2"
+      ],
+      [
+        null,
+        null,
+        "(OA3)",
+        null,
+        "Electrónica Analógica - 2A3 (OL12)",
+        null
+      ],
+      [
+        null,
+        "Electrónica Digital - 2A2 (OL7)",
+        null,
+        "Electrónica Digital - 2A3 (OL7)",
+        null,
+        "(SA6)"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "Electrónica Analógica - 2A2 (OL12)",
+        null,
+        "Electrónica Digital - 2A1 (OL7)",
+        null
+      ],
+      [
+        null,
+        "Ingeniería Térmica - 2A1 (OA3)",
+        null,
+        "Electrónica Digital - 2A4 (OL7)",
+        null,
+        "Electrónica Analógica - 2A4 (OL10)"
+      ],
+      [
+        null,
+        null,
+        "Ingeniería Térmica – 2A3/G",
+        null,
+        "Estadística - 2A2 (EL2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Ingeniería Térmica - 2A2 (OA3)",
+        null,
+        "Estadística - 2A1/G (EL2)"
+      ],
+      [
+        null,
+        null,
+        "(GIEAI) (NA4)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA TÉRMICA - 2A/G",
+        null,
+        null,
+        "ELECTRÓNICA ANALÓGICA - 2A",
+        "CIENCIA DE LOS MATERIALES - 2A/G"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "ELECTRÓNICA DIGITAL - 2A/G (NA4)",
+        "ESTADÍSTICA - 2A/G (SA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        "(OA4)",
+        null,
+        null,
+        "(NA2)",
+        "(NA4)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA TÉRMICA - 2A/G",
+        null,
+        null,
+        "ELECTRÓNICA ANALÓGICA - 2A",
+        "CIENCIA DE LOS MATERIALES - 2A/G"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "ELECTRÓNICA DIGITAL - 2A/G (NA4)",
+        "ESTADÍSTICA - 2A/G (SA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        "(OA4)",
+        null,
+        null,
+        "(NA2)",
+        "(NA4)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ELECTRÓNICA ANALÓGICA - 2A",
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(NA4)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEAI.pdf",
+    "page": 5,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      146.93,
+      787.65,
+      457.61
+    ],
+    "n_rows": 37,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA TÉRMICA - 2B",
+        "ELECTRÓNICA ANALÓGICA - 2B",
+        "ELECTRÓNICA DIGITAL - 2B (NA5)",
+        "ESTADÍSTICA - 2B TUTORÍA (NA5)",
+        "CIENCIA DE LOS MATERIALES - 2B"
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TUTORÍA (NA7)",
+        "(NA5)",
+        null,
+        null,
+        "TUTORÍA (NA1)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "ELECTRÓNICA ANALÓGICA - 2B",
+        "CIENCIA DE LOS MATERIALES - 2B"
+      ],
+      [
+        "15:00/15:55",
+        "INGENIERÍA TÉRMICA - 2B (NA7)",
+        "ELECTRÓNICA DIGITAL - 2B (NA5)",
+        "ESTADÍSTICA - 2B (NA5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(NA5)",
+        "(NA1)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "ELECTRÓNICA ANALÓGICA - 2B",
+        "CIENCIA DE LOS MATERIALES - 2B"
+      ],
+      [
+        "16:00/16:55",
+        "INGENIERÍA TÉRMICA - 2B (NA7)",
+        "ELECTRÓNICA DIGITAL - 2B (NA5)",
+        "ESTADÍSTICA - 2B (NA5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(NA5)",
+        "(NA1)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Ciencia De Los Materiales - 2B1",
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        "Electrónica Digital - 2B1 (OL7)",
+        null,
+        "Ingeniería Térmica - 2B1 (NA5)",
+        "Estadística - 2B1 (NA3)",
+        "Electrónica Analógica - 2B1 (OL12)"
+      ],
+      [
+        null,
+        null,
+        "(EA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Ciencia De Los Materiales - 2B1",
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        "Electrónica Digital - 2B1 (OL7)",
+        null,
+        "Ingeniería Térmica - 2B1 (NA5)",
+        "Estadística - 2B1 (NA3)",
+        "Electrónica Analógica - 2B1 (OL12)"
+      ],
+      [
+        null,
+        null,
+        "(EA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        "Electrónica Analógica - 2B2 (OL12)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        "Electrónica Analógica - 2B2 (OL12)",
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEAI.pdf",
+    "page": 6,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.55,
+      421.31
+    ],
+    "n_rows": 29,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "DIGITAL ELECTRONICS - 2E TUTORÍA",
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(SA5A)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        "Analog Electronics - 2E1 (OL10)",
+        "Digital Electronics - 2E1 (OL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        "Analog Electronics - 2E1 (OL10)",
+        "Digital Electronics - 2E1 (OL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "DIGITAL ELECTRONICS - 2E (OA3)",
+        null,
+        "ANALOG ELECTRONICS - 2E (SA5B)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "DIGITAL ELECTRONICS - 2E (OA3)",
+        null,
+        "ANALOG ELECTRONICS - 2E (SA5B)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        "ANALOG ELECTRONICS - 2E (OA3)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEAI.pdf",
+    "page": 7,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      146.93,
+      787.55,
+      463.36
+    ],
+    "n_rows": 41,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Ingeniería De Control II - 3A3 (EL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "MÁQUINAS ELÉCTRICAS - 3A",
+        null,
+        "AUTOMATIZACIÓN - 3A/G TUTORÍA",
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        "Sistemas Electrónicos Digitales -",
+        null,
+        "Automatización – 3A1/G (EL9)",
+        null
+      ],
+      [
+        null,
+        "TUTORÍA (OA4)",
+        null,
+        "(OA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3A2/G (OL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Ingeniería De Control II - 3A3 (EL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA DE CONTROL II - 3A",
+        null,
+        "SISTEMAS ELECTRÓNICOS DIGITALES",
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        "Sistemas Electrónicos Digitales -",
+        null,
+        "Automatización - 3A1/G (EL9)",
+        null
+      ],
+      [
+        null,
+        "TUTORÍA (OA4)",
+        null,
+        "- 3A/G TUTORÍA (OA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3A2/G (OL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS ELECTRÓNICOS",
+        "INGENIERÍA DE CONTROL II - 3A",
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        "MÁQUINAS ELÉCTRICAS - 3A (SA3)",
+        "AUTOMATIZACIÓN - 3A/G (SA6)",
+        null
+      ],
+      [
+        null,
+        "DIGITALES - 3A/G (SA6)",
+        "(SA3)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS ELECTRÓNICOS",
+        "INGENIERÍA DE CONTROL II - 3A",
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        "MÁQUINAS ELÉCTRICAS - 3A (SA3)",
+        "AUTOMATIZACIÓN - 3A/G (SA6)",
+        null
+      ],
+      [
+        null,
+        "DIGITALES - 3A/G (SA6)",
+        "(SA3)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Automatización - 3A2 (EL9)",
+        null
+      ],
+      [
+        null,
+        "MÁQUINAS ELÉCTRICAS - 3A (SA6)",
+        "Ingeniería De Control II - 3A2 (EL8)",
+        "Ingeniería De Control II - 3A1 (EL8)",
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        "Sistemas Electrónicos Digitales - 3A1",
+        null
+      ],
+      [
+        null,
+        "Máquinas Eléctricas - 3A1 (PL13)",
+        "Máquinas Eléctricas - 3A3 (PL13)",
+        "Máquinas Eléctricas - 3A2 (PL13)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(OL1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Automatización - 3A2 (EL9)",
+        null
+      ],
+      [
+        null,
+        "MÁQUINAS ELÉCTRICAS - 3A (SA6)",
+        "Ingeniería De Control II - 3A2 (EL8)",
+        "Ingeniería De Control II - 3A1 (EL8)",
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        "Sistemas Electrónicos Digitales - 3A1",
+        null
+      ],
+      [
+        null,
+        "Máquinas Eléctricas - 3A1 (PL13)",
+        "Máquinas Eléctricas - 3A3 (PL13)",
+        "Máquinas Eléctricas - 3A2 (PL13)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(OL1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEAI.pdf",
+    "page": 8,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      146.93,
+      787.55,
+      457.41
+    ],
+    "n_rows": 39,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "MÁQUINAS ELÉCTRICAS - 3B",
+        null,
+        "AUTOMATIZACIÓN - 3B TUTORÍA",
+        "INGENIERÍA DE CONTROL II - 3B",
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TUTORÍA (OA3)",
+        null,
+        "(OA4)",
+        "TUTORÍA (OA4)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Máquinas Eléctricas - 3B2 (PL13)",
+        "Ingeniería De Control II - 3B1 (EL8)",
+        null,
+        null
+      ],
+      [
+        null,
+        "MÁQUINAS ELÉCTRICAS - 3B (OA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Sistemas Electrónicos Digitales - 3B1",
+        "Sistemas Electrónicos Digitales - 3B2",
+        "AUTOMATIZACIÓN - 3B (OA4)",
+        null
+      ],
+      [
+        null,
+        "Máquinas Eléctricas - 3B1/G (PL13)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL5)",
+        "(OL1)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Máquinas Eléctricas - 3B2 (PL13)",
+        "Ingeniería De Control II - 3B1 (EL8)",
+        null,
+        null
+      ],
+      [
+        null,
+        "MÁQUINAS ELÉCTRICAS - 3B (OA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Sistemas Electrónicos Digitales - 3B1",
+        "Sistemas Electrónicos Digitales - 3B2",
+        "AUTOMATIZACIÓN - 3B (OA4)",
+        null
+      ],
+      [
+        null,
+        "Máquinas Eléctricas - 3B1/G (PL13)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL5)",
+        "(OL1)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS ELECTRÓNICOS",
+        "INGENIERÍA DE CONTROL II - 3B",
+        "MÁQUINAS ELÉCTRICAS - 3B/G",
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        "Automatización - 3B1 (EL9)",
+        null
+      ],
+      [
+        null,
+        "DIGITALES - 3B (OA3)",
+        "(OA3)",
+        "(OA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS ELECTRÓNICOS",
+        "INGENIERÍA DE CONTROL II - 3B",
+        "MÁQUINAS ELÉCTRICAS - 3B/G",
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        "Automatización - 3B1 (EL9)",
+        null
+      ],
+      [
+        null,
+        "DIGITALES - 3B (OA3)",
+        "(OA3)",
+        "(OA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS ELECTRÓNICOS",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        "Ingeniería De Control II - 3B2 (EL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "DIGITALES - 3B TUTORÍA (OA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "Ingeniería De Control II - 3B2 (EL8)",
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEAI.pdf",
+    "page": 9,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.65,
+      469.71
+    ],
+    "n_rows": 37,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        "AUTOMATION - 3E (EA1B)",
+        "AUTOMATION - 3E TUTORÍA (SA5B)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "CONTROL ENGINEERING II - 3E",
+        null,
+        "DIGITAL ELECTRONIC SYSTEMS – 3E",
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        "AUTOMATION - 3E (EA1B)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TUTORÍA (SA5B)",
+        null,
+        "TUTORÍA (SA5B)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "DIGITAL ELECTRONIC SYSTEMS –",
+        null,
+        null,
+        "CONTROL ENGINEERING II - 3E",
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "Automation - 3E1 (EL9)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3E (SA5B)",
+        null,
+        null,
+        "(OA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "DIGITAL ELECTRONIC SYSTEMS –",
+        null,
+        null,
+        "CONTROL ENGINEERING II - 3E",
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "Automation - 3E1 (EL9)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3E (SA5B)",
+        null,
+        null,
+        "(OA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Digital Electronic Systems - 3E1",
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        "Control Engineering II - 3E1 (EL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL1)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Digital Electronic Systems - 3E1",
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        "Control Engineering II - 3E1 (EL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL1)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEAI.pdf",
+    "page": 10,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.65,
+      475.46
+    ],
+    "n_rows": 41,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Proyectos - 4A1 (EA4)"
+      ],
+      [
+        null,
+        "SISTEMAS DE TIEMPO REAL - 4A",
+        "SISTEMAS DE PRODUCCIÓN",
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        "Sistemas Robotizados - 4A1 (PL21)",
+        "DISEÑO ELECTRÓNICO - 4A (SA5B)",
+        "Sistemas De Producción Industrial -"
+      ],
+      [
+        null,
+        "(EL9)",
+        "INDUSTRIAL - 4A (SA1)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "4A2 (SA5A)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Proyectos - 4A1 (EA4)"
+      ],
+      [
+        null,
+        "SISTEMAS DE TIEMPO REAL - 4A",
+        "SISTEMAS DE PRODUCCIÓN",
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        "Sistemas Robotizados - 4A1 (PL21)",
+        "DISEÑO ELECTRÓNICO - 4A (SA5B)",
+        "Sistemas De Producción Industrial -"
+      ],
+      [
+        null,
+        "(EL9)",
+        "INDUSTRIAL - 4A (SA1)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "4A2 (SA5A)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Sistemas De Producción Industrial -",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas De Tiempo Real - 4A1",
+        "SISTEMAS ROBOTIZADOS - 4A/G",
+        "4A1 (OA3)",
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        "Diseño Electrónico - 4A1 (OL6)",
+        "PROYECTOS - 4A (EA4)"
+      ],
+      [
+        null,
+        "(EL9)",
+        "(NA5)",
+        "Sistemas Robotizados - 4A2/G",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(PL21)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Sistemas De Producción Industrial -",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas De Tiempo Real - 4A1",
+        "SISTEMAS ROBOTIZADOS - 4A/G",
+        "4A1 (OA3)",
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        "Diseño Electrónico - 4A1 (OL6)",
+        "PROYECTOS - 4A (EA4)"
+      ],
+      [
+        null,
+        "(EL9)",
+        "(NA5)",
+        "Sistemas Robotizados - 4A2/G",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(PL21)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEAI.pdf",
+    "page": 11,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.65,
+      499.66
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        "Proyectos - 4B1 (EA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Robotizados - 4B1 (PL21)",
+        null
+      ],
+      [
+        null,
+        "CENTRALES ELÉCTRICAS - 4B",
+        "SISTEMAS ROBOTIZADOS - 4B",
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        "VISIÓN ARTIFICIAL - 4A (NA2)",
+        "Ruido e interferencias en sistemas",
+        "Proyectos - 4B1 (EA2)"
+      ],
+      [
+        null,
+        "(SA7)",
+        "(NA7)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "electrónicos - 4A (lab)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Robotizados - 4B1 (PL21)",
+        null
+      ],
+      [
+        null,
+        "CENTRALES ELÉCTRICAS - 4B",
+        "SISTEMAS ROBOTIZADOS - 4B",
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        "VISIÓN ARTIFICIAL - 4A (NA2)",
+        "Ruido e interferencias en sistemas",
+        "PROYECTOS - 4B (EA2)"
+      ],
+      [
+        null,
+        "(SA7)",
+        "(NA7)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "electrónicos - 4A (lab)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Instalaciones Eléctricas",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Industriales - 4B1 (SA7)",
+        "SISTEMAS DE PRODUCCIÓN",
+        null,
+        "Sistemas De Producción Industrial -",
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        "Visión Artificial - 4A1 (EL8)",
+        null,
+        "PROYECTOS - 4B (EA2)"
+      ],
+      [
+        null,
+        "RUIDO E INTERFERENCIAS EN SIST.",
+        "INDUSTRIAL - 4B (NA7)",
+        null,
+        "4B1 (OA4)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ELECTRÓNICOS – 4A (SA5A)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Instalaciones Eléctricas",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Industriales - 4B1 (SA7)",
+        "SISTEMAS DE PRODUCCIÓN",
+        null,
+        "Sistemas De Producción Industrial -",
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        "Visión Artificial - 4A1 (EL8)",
+        null,
+        null
+      ],
+      [
+        null,
+        "RUIDO E INTERFERENCIAS EN SIST.",
+        "INDUSTRIAL - 4B (NA7)",
+        null,
+        "4B1 (OA4)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ELECTRÓNICOS – 4A (SA5A)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INSTALACIONES ELÉCTRICAS",
+        null,
+        null,
+        "INSTALACIONES ELÉCTRICAS",
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        "Centrales Eléctricas - 4B1 (NA7)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INDUSTRIALES - 4B (SA7)",
+        null,
+        null,
+        "INDUSTRIALES - 4B (OA4)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INSTALACIONES ELÉCTRICAS",
+        null,
+        null,
+        "INSTALACIONES ELÉCTRICAS",
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "Centrales Eléctricas - 4B1 (NA7)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INDUSTRIALES - 4B (SA7)",
+        null,
+        null,
+        "INDUSTRIALES - 4B (OA4)",
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

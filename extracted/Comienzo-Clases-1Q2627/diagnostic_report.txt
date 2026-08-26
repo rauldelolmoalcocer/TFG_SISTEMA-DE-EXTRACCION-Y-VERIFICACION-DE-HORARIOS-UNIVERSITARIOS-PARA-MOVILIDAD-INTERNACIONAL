@@ -1,0 +1,153 @@
+PDF: Comienzo-Clases-1Q2627.pdf
+
+Pages: 7
+
+PAGE 1
+----------------------------
+
+Words detected: 30
+Lines detected: 0
+Rectangles detected: 0
+
+Strategy: lines
+Tables detected: 0
+
+Strategy: text
+Tables detected: 0
+
+Strategy: combined
+Tables detected: 0
+
+BEST CANDIDATE: strategy = none
+
+Warnings: none
+
+PAGE 2
+----------------------------
+
+Words detected: 256
+Lines detected: 0
+Rectangles detected: 25
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 1  Columns: 11
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 33  Columns: 12
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 1  Columns: 11
+
+BEST CANDIDATE: strategy = text
+
+Warnings: none
+
+PAGE 3
+----------------------------
+
+Words detected: 153
+Lines detected: 0
+Rectangles detected: 1
+
+Strategy: lines
+Tables detected: 0
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 25  Columns: 6
+
+Strategy: combined
+Tables detected: 0
+
+BEST CANDIDATE: strategy = text
+
+Warnings: none
+
+PAGE 4
+----------------------------
+
+Words detected: 160
+Lines detected: 0
+Rectangles detected: 0
+
+Strategy: lines
+Tables detected: 0
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 23  Columns: 4
+
+Strategy: combined
+Tables detected: 0
+
+BEST CANDIDATE: strategy = text
+
+Warnings: none
+
+PAGE 5
+----------------------------
+
+Words detected: 101
+Lines detected: 0
+Rectangles detected: 21
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 1  Columns: 20
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 17  Columns: 5
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 1  Columns: 20
+
+BEST CANDIDATE: strategy = text
+
+Warnings: none
+
+PAGE 6
+----------------------------
+
+Words detected: 153
+Lines detected: 0
+Rectangles detected: 4
+
+Strategy: lines
+Tables detected: 0
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 25  Columns: 7
+
+Strategy: combined
+Tables detected: 0
+
+BEST CANDIDATE: strategy = text
+
+Warnings: none
+
+PAGE 7
+----------------------------
+
+Words detected: 201
+Lines detected: 0
+Rectangles detected: 4
+
+Strategy: lines
+Tables detected: 0
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 26  Columns: 8
+
+Strategy: combined
+Tables detected: 0
+
+BEST CANDIDATE: strategy = text
+
+Warnings: none

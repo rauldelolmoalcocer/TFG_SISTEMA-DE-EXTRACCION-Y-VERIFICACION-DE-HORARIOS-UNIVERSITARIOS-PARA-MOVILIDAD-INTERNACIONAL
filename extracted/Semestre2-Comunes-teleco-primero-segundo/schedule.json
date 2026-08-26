@@ -1,0 +1,3821 @@
+[
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "PROGRAMACIÓN - 1A (EA2)",
+    "subject_name": "PROGRAMACIÓN - 1A",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "CÁLCULO II - 1A (EA2)",
+    "subject_name": "CÁLCULO II - 1A",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Análisis De Circuitos - 1A3\n(EA6/SL11)",
+    "subject_name": "Análisis De Circuitos - 1A3",
+    "rooms": [
+      "EA6/SL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Análisis De Circuitos - 1A2\n(EA6/SL11)\nProgramación - 1A1 (EL8)",
+    "subject_name": "Análisis De Circuitos - 1A2 Programación - 1A1",
+    "rooms": [
+      "EA6/SL11",
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Análisis De Circuitos - 1A1\n(EA6/SL11)\nProgramación - 1A2 (EL8)",
+    "subject_name": "Análisis De Circuitos - 1A1 Programación - 1A2",
+    "rooms": [
+      "EA6/SL11",
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Programación - 1A3 (EL8)",
+    "subject_name": "Programación - 1A3",
+    "rooms": [
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Cálculo II - 1A1 (EA2)\nFundamentos Físicos I - 1A2 (SA1)",
+    "subject_name": "Cálculo II - 1A1 Fundamentos Físicos I - 1A2",
+    "rooms": [
+      "EA2",
+      "SA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Cálculo II - 1A2 (EA2)\nFundamentos Físicos I - 1A1 (SA1)",
+    "subject_name": "Cálculo II - 1A2 Fundamentos Físicos I - 1A1",
+    "rooms": [
+      "EA2",
+      "SA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ANÁLISIS DE CIRCUITOS - 1A (EA2)",
+    "subject_name": "ANÁLISIS DE CIRCUITOS - 1A",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "FUNDAMENTOS FÍSICOS I - 1A\n(EA2)",
+    "subject_name": "FUNDAMENTOS FÍSICOS I - 1A",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Programación - 1A4 (EL8)",
+    "subject_name": "Programación - 1A4",
+    "rooms": [
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "09:00",
+    "time_end": "11:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ECONOMÍA DE LA EMPRESA –\nECOM1 - (EA2)",
+    "subject_name": "ECONOMÍA DE LA EMPRESA – ECOM1 -",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Análisis De Circuitos - 1B3\n(EA6/SL11)\nProgramación - 1B1 (EL8)",
+    "subject_name": "Análisis De Circuitos - 1B3 Programación - 1B1",
+    "rooms": [
+      "EA6/SL11",
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Programación - 1B2 (EL8)",
+    "subject_name": "Programación - 1B2",
+    "rooms": [
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Análisis De Circuitos - 1B2\n(EA6/SL11)\nProgramación - 1B3 (EL8)",
+    "subject_name": "Análisis De Circuitos - 1B2 Programación - 1B3",
+    "rooms": [
+      "EA6/SL11",
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "09:00",
+    "time_end": "11:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ECONOMÍA DE LA EMPRESA –\nECOM2 - (NA4)",
+    "subject_name": "ECONOMÍA DE LA EMPRESA – ECOM2 -",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "CÁLCULO II - 1B (EA2)",
+    "subject_name": "CÁLCULO II - 1B",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Fundamentos Físicos I - 1B1 (SA5A)\nCálculo II - 1B2 (SA7)",
+    "subject_name": "Fundamentos Físicos I - 1B1 Cálculo II - 1B2",
+    "rooms": [
+      "SA5A",
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Fundamentos Físicos I - 1B2 (SA5A)",
+    "subject_name": "Fundamentos Físicos I - 1B2",
+    "rooms": [
+      "SA5A"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ANÁLISIS DE CIRCUITOS - 1B (SA7)",
+    "subject_name": "ANÁLISIS DE CIRCUITOS - 1B",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "FUNDAMENTOS FÍSICOS I - 1B (SA7)",
+    "subject_name": "FUNDAMENTOS FÍSICOS I - 1B",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "PROGRAMACIÓN - 1B (SA7)",
+    "subject_name": "PROGRAMACIÓN - 1B",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ANÁLISIS DE CIRCUITOS - 1C (EA5)",
+    "subject_name": "ANÁLISIS DE CIRCUITOS - 1C",
+    "rooms": [
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "FUNDAMENTOS FÍSICOS I - 1C\n(EA5)",
+    "subject_name": "FUNDAMENTOS FÍSICOS I - 1C",
+    "rooms": [
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Cálculo II - 1C2 (EA8)\nFundamentos Físicos I - 1C1 (EA3)",
+    "subject_name": "Cálculo II - 1C2 Fundamentos Físicos I - 1C1",
+    "rooms": [
+      "EA8",
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Cálculo II - 1C1 (EA8)\nFundamentos Físicos I - 1C2 (EA3)",
+    "subject_name": "Cálculo II - 1C1 Fundamentos Físicos I - 1C2",
+    "rooms": [
+      "EA8",
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Análisis De Circuitos - 1C3\n(EA6/SL11)",
+    "subject_name": "Análisis De Circuitos - 1C3",
+    "rooms": [
+      "EA6/SL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Análisis De Circuitos - 1C2\n(EA6/SL11)\nProgramación - 1C1 (EL8)",
+    "subject_name": "Análisis De Circuitos - 1C2 Programación - 1C1",
+    "rooms": [
+      "EA6/SL11",
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Análisis De Circuitos - 1C1\n(EA6/SL11)\nProgramación - 1C3 (OA6)",
+    "subject_name": "Análisis De Circuitos - 1C1 Programación - 1C3",
+    "rooms": [
+      "EA6/SL11",
+      "OA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Programación - 1C2 (EL2)",
+    "subject_name": "Programación - 1C2",
+    "rooms": [
+      "EL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "PROGRAMACIÓN - 1C (EA5)",
+    "subject_name": "PROGRAMACIÓN - 1C",
+    "rooms": [
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "CÁLCULO II - 1C (EA5)",
+    "subject_name": "CÁLCULO II - 1C",
+    "rooms": [
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "09:00",
+    "time_end": "11:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ECONOMÍA DE LA EMPRESA –\nECOM3 - (EA5)",
+    "subject_name": "ECONOMÍA DE LA EMPRESA – ECOM3 -",
+    "rooms": [
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºC",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Programación - 1C4 (EL8)",
+    "subject_name": "Programación - 1C4",
+    "rooms": [
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºD",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "FUNDAMENTOS FÍSICOS I - 1D\n(EA7)",
+    "subject_name": "FUNDAMENTOS FÍSICOS I - 1D",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºD",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "PROGRAMACIÓN - 1D (EA7)",
+    "subject_name": "PROGRAMACIÓN - 1D",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºD",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "CÁLCULO II - 1D (EA7)",
+    "subject_name": "CÁLCULO II - 1D",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºD",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ANÁLISIS DE CIRCUITOS - 1D (EA7)",
+    "subject_name": "ANÁLISIS DE CIRCUITOS - 1D",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºD",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Fundamentos Físicos I – 1D1 (NA3)\nCálculo II – 1D2 (NA3)",
+    "subject_name": "Fundamentos Físicos I – 1D1 Cálculo II – 1D2",
+    "rooms": [
+      "NA3",
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºD",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Fundamentos Físicos I – 1D2 (NA3)\nCálculo II – 1D1 (NA3)",
+    "subject_name": "Fundamentos Físicos I – 1D2 Cálculo II – 1D1",
+    "rooms": [
+      "NA3",
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºD",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Análisis De Circuitos - 1D3\n(EA6/SL11)\nProgramación - 1D2 (EL8)",
+    "subject_name": "Análisis De Circuitos - 1D3 Programación - 1D2",
+    "rooms": [
+      "EA6/SL11",
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºD",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Análisis De Circuitos - 1D2\n(EA6/SL11)\nProgramación - 1D1 (OA6)",
+    "subject_name": "Análisis De Circuitos - 1D2 Programación - 1D1",
+    "rooms": [
+      "EA6/SL11",
+      "OA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºD",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Análisis De Circuitos - 1D1\n(EA6/SL11)\nProgramación - 1D3 (OA6)",
+    "subject_name": "Análisis De Circuitos - 1D1 Programación - 1D3",
+    "rooms": [
+      "EA6/SL11",
+      "OA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºD",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "09:00",
+    "time_end": "11:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ECONOMÍA DE LA EMPRESA –\nECOM4 - (EA2)",
+    "subject_name": "ECONOMÍA DE LA EMPRESA – ECOM4 -",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Programming - 1E1 (OA6)",
+    "subject_name": "Programming - 1E1",
+    "rooms": [
+      "OA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Fundamentals Of Physics I - 1E1\n(SA5A)",
+    "subject_name": "Fundamentals Of Physics I - 1E1",
+    "rooms": [
+      "SA5A"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "CIRCUIT ANALYSIS - 1E (EA1B)",
+    "subject_name": "CIRCUIT ANALYSIS - 1E",
+    "rooms": [
+      "EA1B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "CALCULUS II - 1E (EA1B)",
+    "subject_name": "CALCULUS II - 1E",
+    "rooms": [
+      "EA1B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "PROGRAMMING - 1E (SA5A)",
+    "subject_name": "PROGRAMMING - 1E",
+    "rooms": [
+      "SA5A"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "FUNDAMENTALS OF PHYSICS I - 1E\n(SA5A)",
+    "subject_name": "FUNDAMENTALS OF PHYSICS I - 1E",
+    "rooms": [
+      "SA5A"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Circuit Analysis - 1E1 (SA5A/SL11)",
+    "subject_name": "Circuit Analysis - 1E1",
+    "rooms": [
+      "SA5A/SL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Calculus II - 1E1 (SA5A)",
+    "subject_name": "Calculus II - 1E1",
+    "rooms": [
+      "SA5A"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºF",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Cálculo II – 1F1 (EA2)",
+    "subject_name": "Cálculo II – 1F1",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºF",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Fundamentos Físicos I – 1F1 (EA2)",
+    "subject_name": "Fundamentos Físicos I – 1F1",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºF",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Análisis De Circuitos - 1F1\n(SA1/SL11)\nProgramación - 1F3 (OA6)",
+    "subject_name": "Análisis De Circuitos - 1F1 Programación - 1F3",
+    "rooms": [
+      "SA1/SL11",
+      "OA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºF",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Análisis De Circuitos - 1F2\n(SA1/SL11)\nProgramación - 1F1 (EL8)",
+    "subject_name": "Análisis De Circuitos - 1F2 Programación - 1F1",
+    "rooms": [
+      "SA1/SL11",
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºF",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Análisis De Circuitos – 1F3\n(SA1/SL11)\nAnálisis De Circuitos - 1F4\n(SA3/SL11)\nProgramación - 1F2 (EL8)",
+    "subject_name": "Análisis De Circuitos – 1F3 Análisis De Circuitos - 1F4 Programación - 1F2",
+    "rooms": [
+      "SA1/SL11",
+      "SA3/SL11",
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºF",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "20:00",
+    "time_end": "20:55",
+    "time_start_raw": "20:00/20:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Análisis De Circuitos - 1F3\n(SA1/SL11)\nAnálisis De Circuitos - 1F4\n(SA3/SL11)\nProgramación - 1F2 (EL8)",
+    "subject_name": "Análisis De Circuitos - 1F3 Análisis De Circuitos - 1F4 Programación - 1F2",
+    "rooms": [
+      "SA1/SL11",
+      "SA3/SL11",
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºF",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "ANÁLISIS DE CIRCUITOS - 1F (EA2)",
+    "subject_name": "ANÁLISIS DE CIRCUITOS - 1F",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºF",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "CÁLCULO II - 1F (EA2)",
+    "subject_name": "CÁLCULO II - 1F",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºF",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "FUNDAMENTOS FÍSICOS I - 1F (EA2)",
+    "subject_name": "FUNDAMENTOS FÍSICOS I - 1F",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºF",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "PROGRAMACIÓN - 1F (EA2)",
+    "subject_name": "PROGRAMACIÓN - 1F",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "1ºF",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "17:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "ECONOMÍA DE LA EMPRESA –\nECOT2 - (EA2)",
+    "subject_name": "ECONOMÍA DE LA EMPRESA – ECOT2 -",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL - 2A (SA2)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2A",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "PROPAGACIÓN DE ONDAS - 2A\n(SA2)",
+    "subject_name": "PROPAGACIÓN DE ONDAS - 2A",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "09:00",
+    "time_end": "11:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ELECTRÓNICA DE CIRCUITOS - 2A\n(SA2)",
+    "subject_name": "ELECTRÓNICA DE CIRCUITOS - 2A",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "TEORÍA DE LA COMUNICACIÓN - 2A\n(SA2)",
+    "subject_name": "TEORÍA DE LA COMUNICACIÓN - 2A",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL - 2A (SA2)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2A",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ARQUITECTURA DE REDES II - 2A\n(SA2)",
+    "subject_name": "ARQUITECTURA DE REDES II - 2A",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Electrónica De Circuitos - 2A1 (OL8)\nElectrónica De Circuitos - 2A4 (OL8)\nElectrónica Digital - 2A2 (OL7/OL10)\nElectrónica Digital - 2A3 (OL7/OL10)",
+    "subject_name": "Electrónica De Circuitos - 2A1 Electrónica De Circuitos - 2A4 Electrónica Digital - 2A2 Electrónica Digital - 2A3",
+    "rooms": [
+      "OL8",
+      "OL8",
+      "OL7/OL10",
+      "OL7/OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Propagación De Ondas - 2A2\n(EA3/PL14/PL15)\nTeoría De La Comunicación - 2A1\n(EA8)",
+    "subject_name": "Propagación De Ondas - 2A2 Teoría De La Comunicación - 2A1",
+    "rooms": [
+      "EA3/PL14/PL15",
+      "EA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Propagación De Ondas - 2A1\n(EA3/PL14/PL15)\nTeoría De La Comunicación - 2A2\n(EA8)",
+    "subject_name": "Propagación De Ondas - 2A1 Teoría De La Comunicación - 2A2",
+    "rooms": [
+      "EA3/PL14/PL15",
+      "EA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Arq. De Redes II - 2A2 (EL11)",
+    "subject_name": "Arq. De Redes II - 2A2",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Electrónica De Circuitos - 2A2\n(EA7/OL8)\nElectrónica De Circuitos - 2A3 (OL8)\nElectrónica Digital - 2A1 (OL7)",
+    "subject_name": "Electrónica De Circuitos - 2A2 Electrónica De Circuitos - 2A3 Electrónica Digital - 2A1",
+    "rooms": [
+      "EA7/OL8",
+      "OL8",
+      "OL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Electrónica De Circuitos - 2B1\n(EA8/OL8)\nElectrónica De Circuitos - 2B4 (OL8)\nElectrónica Digital - 2B2 (OL7/OL10)\nElectrónica Digital - 2B3 (OL7/OL10)",
+    "subject_name": "Electrónica De Circuitos - 2B1 Electrónica De Circuitos - 2B4 Electrónica Digital - 2B2 Electrónica Digital - 2B3",
+    "rooms": [
+      "EA8/OL8",
+      "OL8",
+      "OL7/OL10",
+      "OL7/OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "ELECT. DE CIRCUITOS - 2B (EA4)",
+    "subject_name": "ELECT. DE CIRCUITOS - 2B",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "PROPAGACIÓN DE ONDAS - 2B\n(EA4)",
+    "subject_name": "PROPAGACIÓN DE ONDAS - 2B",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL - 2B (EA4)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2B",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "TEORÍA DE LA COMUNICACIÓN - 2B\n(EA4)",
+    "subject_name": "TEORÍA DE LA COMUNICACIÓN - 2B",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ELECT. DE CIRCUITOS - 2B (EA4)",
+    "subject_name": "ELECT. DE CIRCUITOS - 2B",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Propagación De Ondas - 2B3 (EA3)",
+    "subject_name": "Propagación De Ondas - 2B3",
+    "rooms": [
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL - 2B (EA4)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2B",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Electrónica De Circuitos - 2B2 (OL8)\nElectrónica De Circuitos - 2B3 (OL8)\nElectrónica Digital - 2B1 (OL7)",
+    "subject_name": "Electrónica De Circuitos - 2B2 Electrónica De Circuitos - 2B3 Electrónica Digital - 2B1",
+    "rooms": [
+      "OL8",
+      "OL8",
+      "OL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ARQUITECTURA DE REDES II - 2B\n(EA4)",
+    "subject_name": "ARQUITECTURA DE REDES II - 2B",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Teoría De La Comunicación - 2B2\n(EA3)",
+    "subject_name": "Teoría De La Comunicación - 2B2",
+    "rooms": [
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Propagación De Ondas - 2B2\n(SA8/PL14/PL15)\nTeoría De La Comunicación - 2B1\n(EA3)",
+    "subject_name": "Propagación De Ondas - 2B2 Teoría De La Comunicación - 2B1",
+    "rooms": [
+      "SA8/PL14/PL15",
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºB",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Arq. De Redes II - 2B1 (lab)\nArq. De Redes II - 2B2 (lab)",
+    "subject_name": "Arq. De Redes II - 2B1 Arq. De Redes II - 2B2",
+    "rooms": [
+      "lab",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Arq. Redes II - 2C1 (lab)\nArq. Redes II - 2C2 (lab)",
+    "subject_name": "Arq. Redes II - 2C1 Arq. Redes II - 2C2",
+    "rooms": [
+      "lab",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Propagación De Ondas - 2C2\n(SA8/PL14/PL15)\nTeoría De La Comun. - 2C1 (EA3)",
+    "subject_name": "Propagación De Ondas - 2C2 Teoría De La Comun. - 2C1",
+    "rooms": [
+      "SA8/PL14/PL15",
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Propagación De Ondas - 2C1\n(SA8/PL14/PL15)\nTeoría De La Comun. - 2C2 (EA3)",
+    "subject_name": "Propagación De Ondas - 2C1 Teoría De La Comun. - 2C2",
+    "rooms": [
+      "SA8/PL14/PL15",
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Propagación De Ondas - 2C3\n(EA3)",
+    "subject_name": "Propagación De Ondas - 2C3",
+    "rooms": [
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "TEORÍA DE LA COMUNICACIÓN - 2C\n(EA5)",
+    "subject_name": "TEORÍA DE LA COMUNICACIÓN - 2C",
+    "rooms": [
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Elect. De Circuitos - 2C1 (SA1/OL8)\nElect. De Circuitos - 2C4 (SA1/OL8)\nElectrónica Digital - 2C2 (OL7)\nElectrónica Digital - 2C3 (OL10)",
+    "subject_name": "Elect. De Circuitos - 2C1 Elect. De Circuitos - 2C4 Electrónica Digital - 2C2 Electrónica Digital - 2C3",
+    "rooms": [
+      "SA1/OL8",
+      "SA1/OL8",
+      "OL7",
+      "OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL - 2C (EA5)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2C",
+    "rooms": [
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "PROPAGACIÓN DE ONDAS - 2C\n(EA5)",
+    "subject_name": "PROPAGACIÓN DE ONDAS - 2C",
+    "rooms": [
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "09:00",
+    "time_end": "11:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ELECTRÓNICA DE CIRCUITOS - 2C\n(SA2)",
+    "subject_name": "ELECTRÓNICA DE CIRCUITOS - 2C",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ARQUITECTURA DE REDES II - 2C\n(SA6)",
+    "subject_name": "ARQUITECTURA DE REDES II - 2C",
+    "rooms": [
+      "SA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL - 2C (EA5)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2C",
+    "rooms": [
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºC",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Electrónica De Circuitos - 2C2 (OL8)\nElectrónica De Circuitos - 2C3 (OL8)\nElectrónica Digital - 2C1 (OL7)",
+    "subject_name": "Electrónica De Circuitos - 2C2 Electrónica De Circuitos - 2C3 Electrónica Digital - 2C1",
+    "rooms": [
+      "OL8",
+      "OL8",
+      "OL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "ARQUITECTURA DE REDES II\n- 2D (SA2)",
+    "subject_name": "ARQUITECTURA DE REDES II - 2D",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "PROPAGACIÓN DE ONDAS -\n2D (SA2)",
+    "subject_name": "PROPAGACIÓN DE ONDAS - 2D",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL – 2D (SA2)",
+    "subject_name": "ELECTRÓNICA DIGITAL – 2D",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "TEORÍA DE LA COMUNICACIÓN - 2D (SA2)",
+    "subject_name": "TEORÍA DE LA COMUNICACIÓN - 2D",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL - 2D (SA2)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2D",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "ELECTRÓNICA DE CIRCUITOS – 2D (SA2)",
+    "subject_name": "ELECTRÓNICA DE CIRCUITOS – 2D",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "ELECTRÓNICA DE CIRCUITOS - 2D (SA2)",
+    "subject_name": "ELECTRÓNICA DE CIRCUITOS - 2D",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Arq. De Redes II - 2D1 (lab)\nArq. De Redes II - 2D2 (lab)",
+    "subject_name": "Arq. De Redes II - 2D1 Arq. De Redes II - 2D2",
+    "rooms": [
+      "lab",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Teoría De La Comunicación - 2D1\n(SA3)",
+    "subject_name": "Teoría De La Comunicación - 2D1",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Propagación De Ondas - 2D2\n(SA3/PL14/PL15)\nElectrónica De Circuitos - 2D1\n(EA3/OL8)\nElectrónica De Circuitos - 2D3 (OL12)",
+    "subject_name": "Propagación De Ondas - 2D2 Electrónica De Circuitos - 2D1 Electrónica De Circuitos - 2D3",
+    "rooms": [
+      "SA3/PL14/PL15",
+      "EA3/OL8",
+      "OL12"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "Propagación De Ondas - 2D1\n(SA3/PL14/PL15)\nElectrónica De Circuitos – 2D2 (OL8)",
+    "subject_name": "Propagación De Ondas - 2D1 Electrónica De Circuitos – 2D2",
+    "rooms": [
+      "SA3/PL14/PL15",
+      "OL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Propagación De Ondas - 2D1\n(SA3/PL14/PL15)\nElectrónica De Circuitos - 2D2 (OL8)",
+    "subject_name": "Propagación De Ondas - 2D1 Electrónica De Circuitos - 2D2",
+    "rooms": [
+      "SA3/PL14/PL15",
+      "OL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Teoría De La Comunicación -\n2D2 (SA3)\nElectrónica Digital - 2D1\n(OL7)",
+    "subject_name": "Teoría De La Comunicación - 2D2 Electrónica Digital - 2D1",
+    "rooms": [
+      "SA3",
+      "OL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºD",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Electrónica Digital - 2D2\n(OL7/OL10)\nElectrónica Digital - 2D3\n(OL7/OL10)",
+    "subject_name": "Electrónica Digital - 2D2 Electrónica Digital - 2D3",
+    "rooms": [
+      "OL7/OL10",
+      "OL7/OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "WAVES PROPAGATION - 2E (SA5B)",
+    "subject_name": "WAVES PROPAGATION - 2E",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Circuits Electronics - 2E1\n(SA5B/OL8)",
+    "subject_name": "Circuits Electronics - 2E1",
+    "rooms": [
+      "SA5B/OL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Waves Propagation - 2E1\n(SA5B/PL14/PL15)",
+    "subject_name": "Waves Propagation - 2E1",
+    "rooms": [
+      "SA5B/PL14/PL15"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "14:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "DIGITAL ELECTRONICS - 2E (SA5B)",
+    "subject_name": "DIGITAL ELECTRONICS - 2E",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "NETWORK ARCHITECTURE II - 2E\n(SA5B)",
+    "subject_name": "NETWORK ARCHITECTURE II - 2E",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "COMMUNICATION THEORY - 2E\n(SA5B)",
+    "subject_name": "COMMUNICATION THEORY - 2E",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Digital Electronics - 2E1 (OL10)",
+    "subject_name": "Digital Electronics - 2E1",
+    "rooms": [
+      "OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "14:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "CIRCUITS ELECTRONICS - 2E (SA5B)",
+    "subject_name": "CIRCUITS ELECTRONICS - 2E",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Communication Theory - 2E1\n(EA1B)",
+    "subject_name": "Communication Theory - 2E1",
+    "rooms": [
+      "EA1B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Network Architecture II - 2E1 (EL11)",
+    "subject_name": "Network Architecture II - 2E1",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

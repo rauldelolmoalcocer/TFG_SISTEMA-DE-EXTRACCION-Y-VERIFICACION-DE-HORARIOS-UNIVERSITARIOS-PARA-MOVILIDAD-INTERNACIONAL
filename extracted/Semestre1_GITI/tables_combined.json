@@ -1,0 +1,1647 @@
+[
+  {
+    "source_file": "Semestre1_GITI.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.53,
+      787.85,
+      470.21
+    ],
+    "n_rows": 37,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Química General - 1A1 (OA1)",
+        "Química General - 1A1 (OA1)"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Química General - 1A2 (OA3)",
+        "Química General - 1A2 (OA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Expresión Gráfica - 1A2 (OA7)",
+        "Cálculo I - 1A1 (OA2)"
+      ],
+      [
+        "10:00/10:55",
+        "ÁLGEBRA - 1A (OA2)",
+        "FÍSICA I - 1A (OA2)",
+        "QUÍMICA GENERAL - 1A (OA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Álgebra - 1A1 (OA1)",
+        "Física I - 1A2 (SA8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Expresión Gráfica - 1A2 (OA7)",
+        "Cálculo I - 1A1 (OA2)"
+      ],
+      [
+        "11:00/11:55",
+        "ÁLGEBRA - 1A (OA2)",
+        "FÍSICA I - 1A (OA2)",
+        "QUÍMICA GENERAL - 1A (OA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Álgebra - 1A1 (OA1)",
+        "Física I - 1A2 (SA8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Cálculo I - 1A2 (OA1)",
+        null,
+        "Expresión Gráfica - 1A1 (OA7)",
+        null
+      ],
+      [
+        "12:00/12:55",
+        "EXPRESIÓN GRÁFICA - 1A (OA2)",
+        null,
+        "CÁLCULO I - 1A (SA7)",
+        null,
+        "Física I - 1A1 (OA2)"
+      ],
+      [
+        null,
+        null,
+        "Expresión Gráfica - 1A3 (OA7)",
+        null,
+        "Álgebra - 1A2 (OA1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Cálculo I - 1A2 (OA1)",
+        null,
+        "Expresión Gráfica - 1A1 (OA7)",
+        null
+      ],
+      [
+        "13:00/13:55",
+        "EXPRESIÓN GRÁFICA - 1A (OA2)",
+        null,
+        "CÁLCULO I - 1A (SA7)",
+        null,
+        "Física I - 1A1 (OA2)"
+      ],
+      [
+        null,
+        null,
+        "Expresión Gráfica - 1A3 (OA7)",
+        null,
+        "Álgebra - 1A2 (OA1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GITI.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      146.93,
+      787.55,
+      493.96
+    ],
+    "n_rows": 41,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TEORÍA DE MÁQUINAS Y",
+        "ECUACIONES DIFERENCIALES - 2A",
+        null,
+        "Ecuaciones Diferenciales - 2A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Circuitos Eléctricos - 2A1 (OA4/SL8)"
+      ],
+      [
+        null,
+        "MECANISMOS - 2A (OA2)",
+        "(OA2)",
+        null,
+        "(OA2)",
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        "CIRCUITOS ELÉCTRICOS - 2A (OA2)",
+        null,
+        "Ingeniería Térmica - 2A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Teoría De Máquinas Y Mecanismos -",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(PL16/OA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "2A2 (OA1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TEORÍA DE MÁQUINAS Y",
+        "ECUACIONES DIFERENCIALES - 2A",
+        null,
+        "Ecuaciones Diferenciales - 2A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Circuitos Eléctricos - 2A1 (OA4/SL8)"
+      ],
+      [
+        null,
+        "MECANISMOS - 2A (OA2)",
+        "(OA2)",
+        null,
+        "(OA2)",
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        "CIRCUITOS ELÉCTRICOS - 2A (OA2)",
+        null,
+        "Ingeniería Térmica - 2A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Teoría De Máquinas Y Mecanismos -",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(PL16/OA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "2A2 (OA1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "CIENCIA DE MATERIALES - 2A (OA2)",
+        null,
+        "Ecuaciones Diferenciales - 2A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Circuitos Eléctricos - 2A2 (SL8)"
+      ],
+      [
+        null,
+        null,
+        "Ciencia De Materiales - 2A1",
+        null,
+        "(OA2)",
+        null
+      ],
+      [
+        "17:00/17:55",
+        "CIENCIA DE MATERIALES - 2A (OA2)",
+        null,
+        "INGENIERÍA TÉRMICA - 2A (OA2)",
+        null,
+        "Ingeniería Térmica - 2A1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Teoría De Máquinas Y Mecanismos -",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(PL16/OA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "2A1 (OA1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "CIENCIA DE MATERIALES - 2A (OA2)",
+        null,
+        "Ecuaciones Diferenciales - 2A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Circuitos Eléctricos - 2A2 (SL8)"
+      ],
+      [
+        null,
+        null,
+        "Ciencia De Materiales - 2A1",
+        null,
+        "(OA2)",
+        null
+      ],
+      [
+        "18:00/18:55",
+        "CIENCIA DE MATERIALES - 2A (OA2)",
+        null,
+        "INGENIERÍA TÉRMICA - 2A (OA2)",
+        null,
+        "Ingeniería Térmica - 2A1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Teoría De Máquinas Y Mecanismos -",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(PL16/OA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "2A1 (OA1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        "Ciencia De Materiales - 2A2 (OA1)",
+        "Circuitos Eléctricos - 2A4 (SL8)",
+        "Circuitos Eléctricos - 2A3 (SL8)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        "Ciencia De Materiales - 2A2 (OA1)",
+        "Circuitos Eléctricos - 2A4 (SL8)",
+        "Circuitos Eléctricos - 2A3 (SL8)",
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GITI.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      134.83,
+      787.85,
+      487.56
+    ],
+    "n_rows": 47,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sist. Prod. Industrial - 3A4 (OLP10)",
+        null,
+        "Sist. Prod. Industrial - 3A3 (OLP10)",
+        null,
+        "Sistemas Electrónicos - 3A2 (OL12)"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        "Tecnología Eléctrica I - 3A5 (PL13)",
+        null
+      ],
+      [
+        null,
+        "Sistemas Electrónicos - 3A5 (OL12)",
+        null,
+        "Sistemas Electrónicos - 3A4 (OL12)",
+        null,
+        "Automatización - 3A3 (EL9)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sist. Prod. Industrial - 3A4 (OLP10)",
+        "SISTEMAS ELECTRÓNICOS - 3A",
+        "Sist. Prod. Industrial - 3A3 (OLP10)",
+        null,
+        "Sistemas Electrónicos - 3A2 (OL12)"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        "Tecnología Eléctrica I - 3A5 (PL13)",
+        null
+      ],
+      [
+        null,
+        "Sistemas Electrónicos - 3A5 (OL12)",
+        "TUTORÍA (OA1)",
+        "Sistemas Electrónicos - 3A4 (OL12)",
+        null,
+        "Automatización - 3A3 (EL9)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Operaciones Básicas En La Industria -",
+        "SISTEMAS DE PRODUCCIÓN",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TECNOLOGÍA ELÉCTRICA I - 3A",
+        "3A1 (OA1)",
+        "INDUSTRIAL - 3A (OA1)",
+        "SISTEMAS ELECTRÓNICOS - 3A",
+        "Automatización - 3A1 (EL9/EL8)"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA3)",
+        "Operaciones Básicas En La Industria -",
+        "Sist. Prod. Industrial - 3A1 (OLP10)",
+        "(OA2)",
+        "Sistemas Electrónicos - 3A3 (OL12)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3A2 (EL2)",
+        "Tecnología Eléctrica I - 3A2 (PL13)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Operaciones Básicas En La Industria -",
+        "SISTEMAS DE PRODUCCIÓN",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TECNOLOGÍA ELÉCTRICA I - 3A",
+        "3A1 (OA1)",
+        "INDUSTRIAL - 3A (OA1)",
+        "SISTEMAS ELECTRÓNICOS - 3A",
+        "Automatización - 3A1 (EL8/EL9)"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA3)",
+        "Operaciones Básicas En La Industria -",
+        "Sist. Prod. Industrial - 3A1 (OLP10)",
+        "(OA2)",
+        "Sistemas Electrónicos - 3A3 (OL12)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3A2 (EL2)",
+        "Tecnología Eléctrica I - 3A2 (PL13)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS DE PRODUCCIÓN",
+        null,
+        "Tecnología Eléctrica I – 3A/3A1",
+        "OPERACIONES BÁSICAS EN LA",
+        "Automatización - 3A2 (EL9/EL8)"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "AUTOMATIZACIÓN - 3A (OA2)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INDUSTRIAL - 3A (OA1)",
+        null,
+        "(NA5/PL13)",
+        "INDUSTRIA - 3A (OA2)",
+        "Sistemas Electrónicos - 3A1 (OL12)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS DE PRODUCCIÓN",
+        null,
+        "Tecnología Eléctrica I – 3A/3A1",
+        "OPERACIONES BÁSICAS EN LA",
+        "Automatización - 3A2 (EL8/EL9)"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "AUTOMATIZACIÓN - 3A (OA2)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INDUSTRIAL - 3A (OA1)",
+        null,
+        "(NA5/PL13)",
+        "INDUSTRIA - 3A (OA2)",
+        "Sistemas Electrónicos - 3A1 (OL12)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS DE PRODUCCIÓN",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INDUSTRIAL - 3A TUTORÍA (OA1)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Tecnología Eléctrica I - 3A4 (PL13)",
+        null,
+        "Sist. Prod. Industrial - 3A5 (OLP10)",
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sist. Prod. Industrial - 3A2 (OLP10)",
+        null,
+        "Tecnología Eléctrica I - 3A3 (PL13)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Tecnología Eléctrica I - 3A4 (PL13)",
+        null,
+        "Sist. Prod. Industrial - 3A5 (OLP10)",
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sist. Prod. Industrial - 3A2 (OLP10)",
+        null,
+        "Tecnología Eléctrica I - 3A3 (PL13)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GITI.pdf",
+    "page": 4,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      146.93,
+      787.55,
+      397.11
+    ],
+    "n_rows": 27,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        "AUTOMATION – 3E (SA5B)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        "AUTOMATION – 3E (SA5B)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "Automation – 3E (EL9)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "Automation – 3E (EL9)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GITI.pdf",
+    "page": 5,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      146.93,
+      787.55,
+      457.01
+    ],
+    "n_rows": 43,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Elect. De Potencia - 4A2 (OL11)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Procesos De Organización Industrial - 4A3",
+        null,
+        null,
+        "Proyectos - 4A1 (NL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "SISTEMAS DE FLUIDOS - 4A",
+        null,
+        "ESTRUCTURAS Y CONSTRUCCIONES"
+      ],
+      [
+        "15:00/15:55",
+        "(NL8)",
+        "ELECTRÓNICA DE POTENCIA - 4A (SA7)",
+        null,
+        "Estructuras Y Construcciones",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(OA3)",
+        null,
+        "INDUSTRIALES - 4A (OA1)"
+      ],
+      [
+        null,
+        "Estructuras Y Construcciones Industriales",
+        null,
+        null,
+        "Industriales - 4A2 (OA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "- 4A1 (OA6)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Elect. De Potencia - 4A2 (OL11)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Procesos De Organización Industrial - 4A3",
+        null,
+        null,
+        "Proyectos - 4A1 (NL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "SISTEMAS DE FLUIDOS - 4A",
+        null,
+        "ESTRUCTURAS Y CONSTRUCCIONES"
+      ],
+      [
+        "16:00/16:55",
+        "(NL8)",
+        "ELECTRÓNICA DE POTENCIA - 4A (SA7)",
+        null,
+        "Estructuras Y Construcciones",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(OA3)",
+        null,
+        "INDUSTRIALES - 4A (OA1)"
+      ],
+      [
+        null,
+        "Estructuras Y Construcciones Industriales",
+        null,
+        null,
+        "Industriales - 4A2 (OA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "- 4A1 (OA6)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "PROCESOS DE ORGANIZACIÓN",
+        "Electrónica De Potencia - 4A4 (OL11)",
+        "Electrónica De Potencia – 4A1",
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        "PROYECTOS - 4A (SA4)",
+        "Sistemas De Fluidos - 4A1 (OA1)"
+      ],
+      [
+        null,
+        "INDUSTRIAL - 4A (OA1)",
+        "Proyectos - 4A2 (NL8)",
+        "(OL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "PROCESOS DE ORGANIZACIÓN",
+        "Electrónica De Potencia - 4A4 (OL11)",
+        "Electrónica De Potencia - 4A1",
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        "PROYECTOS - 4A (SA4)",
+        "Sistemas De Fluidos - 4A1 (OA1)"
+      ],
+      [
+        null,
+        "INDUSTRIAL - 4A (OA1)",
+        "Proyectos - 4A2 (NL8)",
+        "(OL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Procesos De Organización Industrial -",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Procesos De Organización Industrial - 4A1",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        "4A2 (lab)",
+        null,
+        "Proyectos - 4A3 (NL8)",
+        null
+      ],
+      [
+        null,
+        "(NL8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Elect. De Potencia - 4A3 (OL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Procesos De Organización Industrial -",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Procesos De Organización Industrial - 4A1",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "4A2 (lab)",
+        null,
+        "Proyectos - 4A3 (NL8)",
+        null
+      ],
+      [
+        null,
+        "(NL8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Elect. De Potencia - 4A3 (OL11)",
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

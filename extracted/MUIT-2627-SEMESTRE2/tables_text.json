@@ -1,0 +1,250 @@
+[
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "text",
+    "table_index": 0,
+    "bbox": [
+      123.51,
+      163.88,
+      1266.66,
+      914.08
+    ],
+    "n_rows": 21,
+    "n_cols": 9,
+    "rows": [
+      [
+        null,
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        null,
+        "Vi",
+        "ernes",
+        null
+      ],
+      [
+        "TECNOLOGÍAS D",
+        "E RADIONAVEGACIÓN, TECNOLOGÍAS D",
+        "E RADIONAVEGACIÓN, ARQUITE",
+        "CTURA DE NUEVAS",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00-16:00",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "TECNOLOGÍA",
+        "S DE INTERNET (GP)",
+        "INTERNET",
+        "DE",
+        "LAS COSAS",
+        "(GP)"
+      ],
+      [
+        "RADAR Y POSI",
+        "CIONAMIENTO (GG) RADAR Y POS",
+        "ICIONAMIENTO (GP) TECNOLOGÍAS",
+        "DE COMUNICACIÓN (GP)",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(OA3)",
+        null,
+        "(O",
+        "A3)",
+        null
+      ],
+      [
+        "16:00-17:00",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(OA3)",
+        "(OA3)",
+        "(OA3)",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ARQUITE",
+        "CTURA DE NUEVAS",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00-18:00",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "ELECTRONICA DE",
+        "COMUNICACIONES (GP) ELECTRONICA DE",
+        "COMUNICACIONES (GG)",
+        "TECNOLOGÍA",
+        "S DE INTERNET (GG)",
+        "INTERNET",
+        "DE",
+        "LAS COSAS",
+        "(GG)"
+      ],
+      [
+        null,
+        null,
+        "TECNOLOGÍAS",
+        "DE COMUNICACIÓN (GG)",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(OA3)",
+        "(OA3)",
+        null,
+        "(OA3)",
+        null,
+        "(O",
+        "A3)",
+        null
+      ],
+      [
+        "18:00-19:00",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(OA3)",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Aprobado en la reunión d",
+        "e la Junta",
+        "de",
+        "Escuela del",
+        "08/07/2022"
+      ]
+    ],
+    "warnings": []
+  }
+]

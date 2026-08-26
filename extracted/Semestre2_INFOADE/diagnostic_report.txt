@@ -1,0 +1,238 @@
+PDF: Semestre2_INFOADE.pdf
+
+Pages: 10
+
+PAGE 1
+----------------------------
+
+Words detected: 234
+Lines detected: 0
+Rectangles detected: 620
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 46  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 53  Columns: 16
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 45  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings: none
+
+PAGE 2
+----------------------------
+
+Words detected: 75
+Lines detected: 0
+Rectangles detected: 605
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 20  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 35  Columns: 5
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 31  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 1, row 12 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+
+PAGE 3
+----------------------------
+
+Words detected: 234
+Lines detected: 0
+Rectangles detected: 580
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 37  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 47  Columns: 12
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 41  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 4, row 32 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+
+PAGE 4
+----------------------------
+
+Words detected: 153
+Lines detected: 0
+Rectangles detected: 617
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 38  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 45  Columns: 9
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 41  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings: none
+
+PAGE 5
+----------------------------
+
+Words detected: 228
+Lines detected: 0
+Rectangles detected: 587
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 43  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 44  Columns: 12
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 40  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings: none
+
+PAGE 6
+----------------------------
+
+Words detected: 83
+Lines detected: 0
+Rectangles detected: 607
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 26  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 33  Columns: 3
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 33  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings: none
+
+PAGE 7
+----------------------------
+
+Words detected: 263
+Lines detected: 0
+Rectangles detected: 586
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 47  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 56  Columns: 17
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 48  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [text] Multiline cell detected at row 14, col 5
+- [text] Multiline cell detected at row 7, col 14
+
+PAGE 8
+----------------------------
+
+Words detected: 29
+Lines detected: 0
+Rectangles detected: 86
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 5  Columns: 6
+
+Strategy: text
+Tables detected: 0
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 5  Columns: 3
+
+BEST CANDIDATE: strategy = lines
+
+Warnings: none
+
+PAGE 9
+----------------------------
+
+Words detected: 192
+Lines detected: 0
+Rectangles detected: 618
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 41  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 43  Columns: 15
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 43  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 2, row 39 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 40 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+
+PAGE 10
+----------------------------
+
+Words detected: 80
+Lines detected: 0
+Rectangles detected: 607
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 26  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 39  Columns: 5
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 35  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings: none

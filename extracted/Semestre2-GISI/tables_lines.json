@@ -1,0 +1,2357 @@
+[
+  {
+    "source_file": "Semestre2-GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      152.29,
+      787.55,
+      485.26
+    ],
+    "n_rows": 14,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        "Fundamentos De Los Sistemas De\nInformación - 1A1 (NL7)",
+        "Programación - 1A1 (NL11)",
+        "Estructuras Discretas - 1A1 (NA5)",
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        "Fundamentos De Los Sistemas De\nInformación - 1A1 (NL7)",
+        "Programación - 1A1 (NL11)",
+        "Estructuras Discretas - 1A1 (NA5)",
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "FUNDAMENTOS DE LOS SISTEMAS\nDE INFORMACIÓN - 1A (NA5)",
+        "PROGRAMACIÓN - 1A (NA5)",
+        "ESTRUCTURAS DISCRETAS - 1A\n(NA5)",
+        "FUNDAMENTOS DE LA EMPRESA -\n1A (NA5)"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "FUNDAMENTOS DE LOS SISTEMAS\nDE INFORMACIÓN - 1A (NA5)",
+        "PROGRAMACIÓN - 1A (NA5)",
+        "ESTRUCTURAS DISCRETAS - 1A\n(NA5)",
+        "FUNDAMENTOS DE LA EMPRESA -\n1A (NA5)"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "Fundamentos De Los Sistemas De\nInformación - 1A2 (NL7)",
+        "Programación - 1A2 (NL11)",
+        "Estructuras Discretas - 1A2 (NA5)",
+        "FUNDAMENTOS DE LA EMPRESA -\n1A (NA5)"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "Fundamentos De Los Sistemas De\nInformación - 1A2 (NL7)",
+        "Programación - 1A2 (NL11)",
+        "Estructuras Discretas - 1A2 (NA5)",
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 1, col 2",
+        "table_index": 0,
+        "row_index": 1,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 2, col 2",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 2",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 4",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 5",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 2",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 4",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 5",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 2",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 5",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 2",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 5
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2-GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      152.29,
+      787.55,
+      485.26
+    ],
+    "n_rows": 14,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "FUNDAMENTOS DE LA EMPRESA -\n1B (NA5)",
+        "FUNDAMENTOS DE LOS SISTEMAS\nDE INFORMACIÓN - 1B (NA5)",
+        "Programación - 1B1 (NL11)\nProgramación - 1B3 (--)",
+        "Estructuras Discretas - 1B1 (NA1)",
+        null
+      ],
+      [
+        "16:00/16:55",
+        "FUNDAMENTOS DE LA EMPRESA -\n1B (NA5)",
+        "FUNDAMENTOS DE LOS SISTEMAS\nDE INFORMACIÓN - 1B (NA5)",
+        "Programación - 1B1 (NL11)\nProgramación - 1B3 (--)",
+        "Estructuras Discretas - 1B1 (NA1)",
+        null
+      ],
+      [
+        "17:00/17:55",
+        "FUNDAMENTOS DE LA EMPRESA -\n1B (NA5)",
+        "Fundamentos De Los Sistemas De\nInformación - 1B1 (NL7)",
+        "PROGRAMACIÓN - 1B (NA5)",
+        "ESTRUCTURAS DISCRETAS - 1B\n(NA1)",
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "Fundamentos De Los Sistemas De\nInformación - 1B1 (NL7)",
+        "PROGRAMACIÓN - 1B (NA5)",
+        "ESTRUCTURAS DISCRETAS - 1B\n(NA1)",
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        "Fundamentos De Los Sistemas De\nInformación - 1B2 (NL7)",
+        "Programación - 1B2 (NL11)",
+        "Estructuras Discretas - 1B2 (NA1)",
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "Fundamentos De Los Sistemas De\nInformación - 1B2 (NL7)",
+        "Programación - 1B2 (NL11)",
+        "Estructuras Discretas - 1B2 (NA1)",
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 1",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 2",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 3",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 1",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 2",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 3",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 10, col 1",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 10, col 2",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 10, col 4",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 11, col 2",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 11, col 4",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 12, col 2",
+        "table_index": 0,
+        "row_index": 12,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 13, col 2",
+        "table_index": 0,
+        "row_index": 13,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 10 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 13 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 13,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 13 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 13,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 13 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 13,
+        "col_index": 4
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2-GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      152.29,
+      787.55,
+      509.46
+    ],
+    "n_rows": 14,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        "Redes - 2A1 (NL7)\nRedes – 2A3 ()",
+        null,
+        "Ingeniería Del Software - 2A1 (NL7)",
+        "Bases De Datos Avanzadas - 2A1\n(NL11)",
+        null
+      ],
+      [
+        "9:00/9:55",
+        "Redes - 2A1 (NL7)\nRedes – 2A3 ()",
+        null,
+        "Ingeniería Del Software - 2A1 (NL7)",
+        "Bases De Datos Avanzadas - 2A1\n(NL11)",
+        "ANÁLISIS Y VALORACIÓN DE\nPROYECTOS DE INV. - 2A (SA4)"
+      ],
+      [
+        "10:00/10:55",
+        "REDES - 2A (NA5)",
+        null,
+        "INGENIERÍA DEL SOFTWARE - 2A\n(EA7)",
+        "BASES DE DATOS AVANZADAS - 2A\n(SA4)",
+        "ANÁLISIS Y VALORACIÓN DE\nPROYECTOS DE INV. - 2A (SA4)"
+      ],
+      [
+        "11:00/11:55",
+        "REDES – 2A (NA5)",
+        "TIC EN LA EMPRESA - 2A (NA3)",
+        "INGENIERÍA DEL SOFTWARE - 2A\n(EA7)",
+        "BASES DE DATOS AVANZADAS - 2A\n(SA4)",
+        "Análisis Y Valoración De Proyectos\nDe Inv. - 2A1 (SA4)"
+      ],
+      [
+        "12:00/12:55",
+        "Redes – 2A2 (NL6)",
+        "TIC EN LA EMPRESA - 2A (NA3)",
+        "Ingeniería Del Software - 2A2 (NL7)",
+        "Bases De Datos Avanzadas - 2A2\n(NL6)",
+        "Análisis Y Valoración De Proyectos\nDe Inv. - 2A1 (SA4)"
+      ],
+      [
+        "13:00/13:55",
+        "Redes – 2A2 (NL6)",
+        "TIC EN LA EMPRESA - 2A (NA3)",
+        "Ingeniería Del Software - 2A2 (NL7)",
+        "Bases De Datos Avanzadas - 2A2\n(NL6)",
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "Redes - 2B1 (NL9)\nRedes - 2B2 (NL7)",
+        null,
+        "Ingeniería Del Software - 2A3 (NL9)",
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "Redes - 2B1 (NL9)\nRedes - 2B2 (NL7)",
+        null,
+        "Ingeniería Del Software - 2A3 (NL9)",
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        "REDES - 2B (NA2)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        "REDES – 2B (NA2)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 1, col 1",
+        "table_index": 0,
+        "row_index": 1,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 1, col 4",
+        "table_index": 0,
+        "row_index": 1,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 2, col 1",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 2, col 4",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 2, col 5",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 3",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 4",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 5",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 3",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 4",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 5",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 4",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 5",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 4",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 1",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 1",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 5
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2-GISI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      152.29,
+      787.55,
+      533.66
+    ],
+    "n_rows": 14,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        "Bases De Datos Avanzadas - 2B1\n(NL6)\nBases De Datos Avanzadas - 2B3\n(lab)",
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        "Bases De Datos Avanzadas - 2B1\n(NL6)\nBases De Datos Avanzadas - 2B3\n(lab)",
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        "ANÁLISIS Y VALORACIÓN DE\nPROYECTOS DE INV. - 2B (SA6)",
+        "BASES DE DATOS AVANZADAS - 2B\n(SA6)",
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        "ANÁLISIS Y VALORACIÓN DE\nPROYECTOS DE INV. - 2B (SA6)",
+        "BASES DE DATOS AVANZADAS - 2B\n(SA6)",
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        "Análisis Y Valoración De Proyectos\nDe Inversión - 2B1 (SA6)",
+        "Bases De Datos Avanzadas - 2B2\n(NL11)",
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        "Análisis Y Valoración De Proyectos\nDe Inversión - 2B1 (SA6)",
+        "Bases De Datos Avanzadas - 2B2\n(NL11)",
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 4",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 4",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 10, col 3",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 10, col 4",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 11, col 3",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 11, col 4",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 12, col 3",
+        "table_index": 0,
+        "row_index": 12,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 12, col 4",
+        "table_index": 0,
+        "row_index": 12,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 13, col 3",
+        "table_index": 0,
+        "row_index": 13,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 13, col 4",
+        "table_index": 0,
+        "row_index": 13,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 13 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 13,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 13 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 13,
+        "col_index": 4
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2-GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      140.19,
+      787.55,
+      424.76
+    ],
+    "n_rows": 14,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "SOFTWARE ENGINEERING - 2E\n(SA5A)",
+        "ADVANCED DATABASES- 2E\n(NA2)",
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "SOFTWARE ENGINEERING - 2E\n(SA5A)",
+        "ADVANCED DATABASES- 2E\n(NA2)",
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        "Software Engineering - 2E1 (NL7)",
+        "Advanced Databases - 2E1 (lab)",
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        "Software Engineering - 2E1 (NL7)",
+        "Advanced Databases - 2E1 (lab)",
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 1",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 2",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 1",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 2",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 2
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2-GISI.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      152.29,
+      787.55,
+      514.96
+    ],
+    "n_rows": 9,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "Modelos De Tecn. Para Los Sist. De\nInformación – 3A1 (NL6)\nModelos De Tecn. Para Los Sist. De\nInformación – 3A3 (lab)",
+        "TECNOLOGÍA EN LOS NEGOCIOS –\n3A (NA1)",
+        null,
+        "Gestión De Proyectos - 3A1 (NL10)\nGestión De Proyectos - 3A3 (lab)",
+        "Desarrollo Con Tecnologías\nEmergentes - 3A1 (NL8)\nDesarrollo Con Tecnologías\nEmergentes - 3A3 (lab)"
+      ],
+      [
+        "16:00/16:55",
+        "Modelos De Tecn. Para Los Sist. De\nInformación – 3A1 (NL6)\nModelos De Tecn. Para Los Sist. De\nInformación – 3A3 (lab)",
+        "TECNOLOGÍA EN LOS NEGOCIOS –\n3A (NA1)",
+        "ORGANIZACIÓN DE LA\nINFORMACIÓN Y PROYECTOS - 3A\n(SA3)",
+        "Gestión De Proyectos - 3A1 (NL10)\nGestión De Proyectos - 3A3 (lab)",
+        "Desarrollo Con Tecnologías\nEmergentes - 3A1 (NL8)\nDesarrollo Con Tecnologías\nEmergentes - 3A3 (lab)"
+      ],
+      [
+        "17:00/17:55",
+        "MODELOS DE TECNOLOGÍAS PARA\nLOS SISTEMAS DE INFORMACIÓN -\n3A (NA1)",
+        "Tecnología En Los Negocios - 3A1\n(NA1)",
+        "ORGANIZACIÓN DE LA\nINFORMACIÓN Y PROYECTOS - 3A\n(SA3)",
+        "GESTIÓN DE PROYECTOS - 3A\n(NA2)",
+        "DESARROLLO CON TECNOLOGÍAS\nEMERGENTES - 3A (NA2)"
+      ],
+      [
+        "18:00/18:55",
+        "MODELOS DE TECNOLOGÍAS PARA\nLOS SISTEMAS DE INFORMACIÓN -\n3A (NA1)",
+        "Tecnología En Los Negocios - 3A1\n(NA1)",
+        "ORGANIZACIÓN DE LA\nINFORMACIÓN Y PROYECTOS - 3A\n(SA3)",
+        "GESTIÓN DE PROYECTOS - 3A\n(NA2)",
+        "DESARROLLO CON TECNOLOGÍAS\nEMERGENTES - 3A (NA2)"
+      ],
+      [
+        "19:00/19:55",
+        "Modelos De Tecnologías Para Los\nSistemas De Información - 3A2\n(NL6)",
+        "Tecnología En Los Negocios – 3A2\n(NA1)\nTecnología En Los Negocios – 3A3\n(NA2)",
+        null,
+        "Gestión De Proyectos - 3A2 (NL8)",
+        "Desarrollo Con Tecnologías\nEmergentes - 3A2 (NL8)"
+      ],
+      [
+        "20:00/20:55",
+        "Modelos De Tecnologías Para Los\nSistemas De Información - 3A2\n(NL6)",
+        "Tecnología En Los Negocios - 3A2\n(NA1)\nTecnología En Los Negocios – 3A3\n(NA2)",
+        null,
+        "Gestión De Proyectos - 3A2 (NL8)",
+        "Desarrollo Con Tecnologías\nEmergentes - 3A2 (NL8)"
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 1",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 2",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 4",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 5",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 1",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 2",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 3",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 4",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 5",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 1",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 2",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 3",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 4",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 5",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 1",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 2",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 3",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 4",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 5",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 7, col 1",
+        "table_index": 0,
+        "row_index": 7,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 7, col 2",
+        "table_index": 0,
+        "row_index": 7,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 7, col 5",
+        "table_index": 0,
+        "row_index": 7,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 1",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 2",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 5",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 8 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 8 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 8 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 5
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2-GISI.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      152.29,
+      787.55,
+      436.86
+    ],
+    "n_rows": 14,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "PROJECT MANAGEMENT - 3E\n(NA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "PROJECT MANAGEMENT - 3E\n(NA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        "Project Management - 3E1 (NL4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        "Project Management - 3E1 (NL4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 1",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 1",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 1
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2-GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      152.29,
+      787.55,
+      524.46
+    ],
+    "n_rows": 14,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        "Seguridad - 4A1 (EL11)",
+        null,
+        null,
+        "Bioingeniería - 4A2 (OL4)"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        "Seguridad - 4A1 (EL11)",
+        null,
+        null,
+        "Bioingeniería - 4A2 (OL4)"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "SEGURIDAD - 4A (NA6)",
+        "GESTIÓN Y DES. DEL TALENTO - 4A (EA8)",
+        null,
+        "BIOINGENIERÍA - 4A (SA6)"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "SEGURIDAD - 4A (NA6)",
+        "GESTIÓN Y DES. DEL TALENTO – 4A (EA8)",
+        null,
+        "BIOINGENIERÍA - 4A (SA6)"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "Seguridad - 4A2 (EL11)",
+        "GESTIÓN Y DES. DEL TALENTO - 4A (EA8)",
+        null,
+        "Bioingeniería - 4A1 (OL4)"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "Seguridad - 4A2 (EL11)",
+        "GESTIÓN Y DES. DEL TALENTO - 4A (EA8)",
+        null,
+        "Bioingeniería - 4A1 (OL4)"
+      ],
+      [
+        "14:00/14:55",
+        null,
+        "Fundamentos Del Comercio Electrónico - 4A2\n(NL4)",
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Fundamentos Del Comercio Electrónico - 4A2\n(NL4)",
+        "Sistemas de Visión Artificial – 4A (OL5)",
+        "SEGURIDAD EN SISTEMAS DISTRIBUIDOS -\n4A (NA5)",
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "FUNDAMENTOS DEL COMERCIO ELECTRÓNICO\n- 4A (NA2)",
+        "Sistemas de Visión Artificial – 4A (OL5)",
+        "SEGURIDAD EN SISTEMAS DISTRIBUIDOS -\n4A (NA5)",
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        "Fund. Comercio Electrónico - 4A1 (NL4)\nFund. Comercio Electrónico - 4A3 (N)",
+        "Sistemas de Visión Artificial – 4A (OL5)",
+        "Seg. En Sistemas Distribuidos - 4A1 (SA1)\nSeg. En Sistemas Distribuidos - 4A2 (SA2)",
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "Fund. Comercio Electrónico - 4A1 (NL4)\nFund. Comercio Electrónico - 4A3 (N)",
+        "Sistemas de Visión Artificial – 4A (OL5)",
+        "Seg. En Sistemas Distribuidos - 4A1 (SA1)\nSeg. En Sistemas Distribuidos - 4A2 (SA2)",
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        "Seg. En Sistemas Distribuidos - 4A3 (SA1)\nSeg. En Sistemas Distribuidos - 4A4 (SA2)",
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        "Seg. En Sistemas Distribuidos - 4A3 (SA1)\nSeg. En Sistemas Distribuidos - 4A4 (SA2)",
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 7, col 2",
+        "table_index": 0,
+        "row_index": 7,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 2",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 4",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 2",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 4",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 10, col 2",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 10, col 4",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 11, col 2",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 11, col 4",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 12, col 4",
+        "table_index": 0,
+        "row_index": 12,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 13, col 4",
+        "table_index": 0,
+        "row_index": 13,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 8 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 10 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 13 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 13,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 5
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2-GISI.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      200.69,
+      787.55,
+      509.46
+    ],
+    "n_rows": 14,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "SECURITY – 4E (Aula)",
+        "Software Quality, Testing and\nMaintenance – 4E1 (Aula)",
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "SECURITY – 4E (Aula)",
+        "Software Quality, Testing and\nMaintenance – 4E1 (Aula)",
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        "Security – 4E1 (Aula)",
+        "SOFTWARE QUALITY, TESTING AND\nMAINTENANCE – 4E (Aula)",
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        "Security – 4E1 (Aula)",
+        "SOFTWARE QUALITY, TESTING AND\nMAINTENANCE – 4E (Aula)",
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 2",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 2",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 10, col 2",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 11, col 2",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 2
+      }
+    ]
+  }
+]

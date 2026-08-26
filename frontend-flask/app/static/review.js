@@ -8,7 +8,7 @@ const state = {
     filters: {
         status: "",
         degree: "",
-        year: "",
+        course_year: "",
         semester: "",
         group: "",
         day: "",
@@ -35,6 +35,8 @@ const chipValid = document.getElementById("chipValid");
 const chipWarning = document.getElementById("chipWarning");
 const chipInvalid = document.getElementById("chipInvalid");
 const chipReviewed = document.getElementById("chipReviewed");
+const chipLlmBlock = document.getElementById("chipLlmBlock");
+const chipLlmReviewed = document.getElementById("chipLlmReviewed");
 
 const treeContainer = document.getElementById("treeContainer");
 
@@ -63,24 +65,30 @@ const detailFeedback = document.getElementById("detailFeedback");
 const roFile = document.getElementById("roFile");
 const roPage = document.getElementById("roPage");
 const roRawText = document.getElementById("roRawText");
-const roConfidence = document.getElementById("roConfidence");
+const roStrategy = document.getElementById("roStrategy");
 const roIssues = document.getElementById("roIssues");
+const roAnnotations = document.getElementById("roAnnotations");
+const roLlmBlock = document.getElementById("roLlmBlock");
+const roLlm = document.getElementById("roLlm");
+const roRawTableBlock = document.getElementById("roRawTableBlock");
+const roRawTable = document.getElementById("roRawTable");
 
-const fDegreeCode = document.getElementById("fDegreeCode");
-const fDegreeName = document.getElementById("fDegreeName");
-const fAcademicYear = document.getElementById("fAcademicYear");
+const fDegree = document.getElementById("fDegree");
+const fCourseYear = document.getElementById("fCourseYear");
 const fSemester = document.getElementById("fSemester");
-const fYear = document.getElementById("fYear");
 const fGroup = document.getElementById("fGroup");
 const fDay = document.getElementById("fDay");
-const fStartTime = document.getElementById("fStartTime");
-const fEndTime = document.getElementById("fEndTime");
-const fSubjectCode = document.getElementById("fSubjectCode");
+const fTimeStart = document.getElementById("fTimeStart");
+const fTimeEnd = document.getElementById("fTimeEnd");
 const fSubjectName = document.getElementById("fSubjectName");
-const fSubgroup = document.getElementById("fSubgroup");
-const fClassroom = document.getElementById("fClassroom");
+const fRooms = document.getElementById("fRooms");
+const fMultipleEntries = document.getElementById("fMultipleEntries");
 const fNotes = document.getElementById("fNotes");
 
+const duplicateBtn = document.getElementById("duplicateBtn");
+const llmReviewOneBtn = document.getElementById("llmReviewOneBtn");
+const llmReviewAllBtn = document.getElementById("llmReviewAllBtn");
+const llmReviewStatusText = document.getElementById("llmReviewStatusText");
 const restoreBtn = document.getElementById("restoreBtn");
 const markInvalidBtn = document.getElementById("markInvalidBtn");
 const markValidBtn = document.getElementById("markValidBtn");
@@ -127,10 +135,17 @@ async function loadSummary() {
     const data = await res.json();
 
     chipTotal.textContent = data.total_records;
-    chipValid.textContent = data.accepted_records - data.records_with_warnings;
+    chipValid.textContent = data.accepted_records - data.records_with_warnings - data.invalid_records;
     chipWarning.textContent = data.records_with_warnings;
-    chipInvalid.textContent = data.rejected_records;
+    chipInvalid.textContent = data.invalid_records + data.skipped_records;
     chipReviewed.textContent = data.reviewed_records;
+
+    if (data.llm_review && data.llm_review.enabled && !data.llm_review.error) {
+        chipLlmBlock.hidden = false;
+        chipLlmReviewed.textContent = data.llm_review.reviewed_count ?? 0;
+    } else {
+        chipLlmBlock.hidden = true;
+    }
 }
 
 // =========================================================
@@ -159,14 +174,14 @@ async function loadFilterOptions() {
 
     fillSelect(
         degreeFilter,
-        data.degrees.map(d => ({ value: d.code || d.name, label: d.name || d.code })),
+        data.degrees.map(d => ({ value: d, label: d })),
         state.filters.degree
     );
 
     fillSelect(
         yearFilter,
-        data.years.map(y => ({ value: y, label: `Curso ${y}` })),
-        state.filters.year
+        data.course_years.map(y => ({ value: y, label: y })),
+        state.filters.course_year
     );
 
     fillSelect(
@@ -213,7 +228,7 @@ function buildQueryParams(extra) {
 
 function onFilterChange() {
     state.filters.degree = degreeFilter.value;
-    state.filters.year = yearFilter.value;
+    state.filters.course_year = yearFilter.value;
     state.filters.semester = semesterFilter.value;
     state.filters.group = groupFilter.value;
     state.filters.day = dayFilter.value;
@@ -253,7 +268,7 @@ function syncStatusTabs() {
 
 clearFiltersBtn.addEventListener("click", () => {
     state.filters = {
-        status: "", degree: "", year: "", semester: "", group: "",
+        status: "", degree: "", course_year: "", semester: "", group: "",
         day: "", pdf: "", issue: "", search: "",
     };
     state.page = 1;
@@ -270,7 +285,7 @@ clearFiltersBtn.addEventListener("click", () => {
 
 const NULL_LABELS = {
     degree: "Sin titulación",
-    year: "Sin curso",
+    year: "Sin año académico",
     semester: "Sin cuatrimestre",
     group: "Sin grupo",
 };
@@ -297,7 +312,6 @@ function renderTree(tree) {
 
     tree.forEach(degreeNode => {
         const degreeValue = treeValueOrNull(degreeNode.degree_name, "degree");
-        const realDegreeValue = degreeNode.degree_code || degreeValue;
 
         const degreeDetails = document.createElement("details");
         degreeDetails.open = tree.length <= 3;
@@ -309,12 +323,12 @@ function renderTree(tree) {
         degreeDetails.appendChild(degreeSummary);
 
         degreeNode.years.forEach(yearNode => {
-            const yearValue = treeValueOrNull(yearNode.year, "year");
+            const yearValue = treeValueOrNull(yearNode.course_year, "year");
 
             const yearDetails = document.createElement("details");
             const yearSummary = document.createElement("summary");
             yearSummary.innerHTML =
-                `<span class="tree-node-label">Curso ${escapeHtml(yearNode.year)}</span>` +
+                `<span class="tree-node-label">${escapeHtml(yearNode.course_year)}</span>` +
                 `<span class="tree-node-count">${yearNode.count}</span>`;
             yearDetails.appendChild(yearSummary);
 
@@ -334,8 +348,8 @@ function renderTree(tree) {
                     const leaf = document.createElement("div");
                     leaf.className = "tree-leaf";
                     if (
-                        state.filters.degree === realDegreeValue &&
-                        state.filters.year === String(yearValue) &&
+                        state.filters.degree === degreeValue &&
+                        state.filters.course_year === String(yearValue) &&
                         state.filters.semester === String(semesterValue) &&
                         state.filters.group === String(groupValue)
                     ) {
@@ -347,7 +361,7 @@ function renderTree(tree) {
                         `<span class="tree-node-count">${groupNode.count}</span>`;
 
                     leaf.addEventListener("click", () => {
-                        selectTreeLeaf(realDegreeValue, yearValue, semesterValue, groupValue);
+                        selectTreeLeaf(degreeValue, yearValue, semesterValue, groupValue);
                     });
 
                     semesterDetails.appendChild(leaf);
@@ -365,7 +379,7 @@ function renderTree(tree) {
 
 function selectTreeLeaf(degree, year, semester, group) {
     state.filters.degree = String(degree);
-    state.filters.year = String(year);
+    state.filters.course_year = String(year);
     state.filters.semester = String(semester);
     state.filters.group = String(group);
     state.page = 1;
@@ -376,7 +390,7 @@ function selectTreeLeaf(degree, year, semester, group) {
 
 function syncFilterSelects() {
     degreeFilter.value = state.filters.degree || "";
-    yearFilter.value = state.filters.year || "";
+    yearFilter.value = state.filters.course_year || "";
     semesterFilter.value = state.filters.semester || "";
     groupFilter.value = state.filters.group || "";
     dayFilter.value = state.filters.day || "";
@@ -427,6 +441,14 @@ function renderTable(items) {
         const tr = document.createElement("tr");
         tr.addEventListener("click", () => openDetail(item.id));
 
+        const originTag = item.origin === "skipped"
+            ? '<span class="origin-tag origin-skipped">Tabla omitida</span>'
+            : c.multiple_entries_suspected
+                ? '<span class="origin-tag origin-mixed">Asignaturas mezcladas</span>'
+                : item.origin === "manual"
+                    ? '<span class="origin-tag origin-manual">Manual</span>'
+                    : "";
+
         tr.innerHTML = `
             <td>
                 <span class="status-icon ${item.status}" title="${STATUS_LABEL[item.status]}">${STATUS_ICON[item.status]}</span>
@@ -434,15 +456,15 @@ function renderTable(items) {
             </td>
             <td>
                 <div class="subject-cell">
-                    <span class="subject-name">${escapeHtml(c.subject.name) || "(sin nombre)"}</span>
-                    ${c.subject.code ? `<span class="subject-code">${escapeHtml(c.subject.code)}</span>` : ""}
+                    <span class="subject-name">${item.origin === "skipped" ? "— tabla omitida, sin datos —" : (escapeHtml(c.subject_name) || "(sin nombre)")}</span>
+                    ${originTag}
                 </div>
             </td>
-            <td>${escapeHtml(c.degree.code) || escapeHtml(c.degree.name) || "—"}</td>
-            <td>${c.year ?? "—"} / ${c.semester ?? "—"}</td>
-            <td>${escapeHtml(c.group) || "—"}${c.subgroup ? " · " + escapeHtml(c.subgroup) : ""}</td>
-            <td>${escapeHtml(c.day) || "—"}<br>${escapeHtml(c.start_time) || "?"}–${escapeHtml(c.end_time) || "?"}</td>
-            <td>${escapeHtml(c.classroom) || "—"}</td>
+            <td>${escapeHtml(c.degree) || "—"}</td>
+            <td>${escapeHtml(c.course_year) || "—"} / ${c.semester ?? "—"}</td>
+            <td>${escapeHtml(c.group) || "—"}</td>
+            <td>${escapeHtml(c.day) || "—"}<br>${escapeHtml(c.time_start) || "?"}–${escapeHtml(c.time_end) || "?"}</td>
+            <td>${(c.rooms && c.rooms.length) ? escapeHtml(c.rooms.join(", ")) : "—"}</td>
             <td class="pdf-cell">${escapeHtml(item.source.file)}<br>pág. ${item.source.page}</td>
         `;
 
@@ -490,13 +512,25 @@ async function openDetail(id) {
 
 function populateDetail(item) {
     const c = item.current;
+    const ex = item.extraction || {};
 
-    detailTitle.textContent = c.subject.name || "Registro sin nombre de asignatura";
+    detailTitle.textContent = item.origin === "skipped"
+        ? "Tabla omitida (sin datos extraídos)"
+        : (c.subject_name || "Registro sin nombre de asignatura");
     detailFeedback.textContent = "";
     detailFeedback.className = "detail-feedback";
 
+    const originBadge = item.origin === "skipped"
+        ? '<span class="badge origin-skipped">📋 Tabla omitida — el extractor no consiguió leer nada de esta página</span>'
+        : c.multiple_entries_suspected
+            ? '<span class="badge origin-mixed">⚠ Esta celda mezcla más de una asignatura — sepáralas con "Duplicar" abajo</span>'
+            : item.origin === "manual"
+                ? '<span class="badge origin-manual">✎ Registro creado a mano</span>'
+                : "";
+
     detailBadges.innerHTML = `
         <span class="badge ${item.status}">${STATUS_ICON[item.status]} ${STATUS_LABEL[item.status]}</span>
+        ${originBadge}
         ${item.manually_modified ? '<span class="badge modified">✎ Modificado manualmente</span>' : ""}
         ${item.reviewed ? '<span class="badge reviewed">Revisado</span>' : ""}
     `;
@@ -504,51 +538,61 @@ function populateDetail(item) {
     roFile.textContent = item.source.file || "—";
     roPage.textContent = item.source.page ?? "—";
     roRawText.textContent = item.source.raw_text || "—";
-    roConfidence.textContent = item.confidence !== null && item.confidence !== undefined
-        ? `${Math.round(item.confidence * 100)}%`
+    roStrategy.textContent = (ex.strategy || ex.table_index !== undefined)
+        ? `${ex.strategy || "—"} (tabla ${ex.table_index ?? "—"})`
         : "—";
     roIssues.textContent = (item.original_reason && item.original_reason.length)
         ? item.original_reason.join(", ")
         : "Sin problemas detectados.";
+    roAnnotations.textContent = (ex.non_room_annotations && ex.non_room_annotations.length)
+        ? ex.non_room_annotations.join(", ")
+        : "—";
 
-    fDegreeCode.value = c.degree.code || "";
-    fDegreeName.value = c.degree.name || "";
-    fAcademicYear.value = c.academic_year || "";
+    if (ex.llm_reviewed) {
+        roLlmBlock.hidden = false;
+        roLlm.textContent = `Confianza: ${ex.llm_confidence || "—"}. ${ex.llm_note || ""}`.trim();
+    } else {
+        roLlmBlock.hidden = true;
+    }
+
+    if (ex.rows && ex.rows.length) {
+        roRawTableBlock.hidden = false;
+        const tableHtml = ex.rows.map(row =>
+            "<tr>" + row.map(cell => `<td>${escapeHtml(cell)}</td>`).join("") + "</tr>"
+        ).join("");
+        roRawTable.innerHTML = `<div class="raw-table-wrap"><table class="raw-table"><tbody>${tableHtml}</tbody></table></div>`;
+    } else {
+        roRawTableBlock.hidden = true;
+        roRawTable.innerHTML = "";
+    }
+
+    fDegree.value = c.degree || "";
+    fCourseYear.value = c.course_year || "";
     fSemester.value = c.semester ?? "";
-    fYear.value = c.year ?? "";
     fGroup.value = c.group || "";
     fDay.value = c.day || "";
-    fStartTime.value = c.start_time || "";
-    fEndTime.value = c.end_time || "";
-    fSubjectCode.value = c.subject.code || "";
-    fSubjectName.value = c.subject.name || "";
-    fSubgroup.value = c.subgroup || "";
-    fClassroom.value = c.classroom || "";
+    fTimeStart.value = c.time_start || "";
+    fTimeEnd.value = c.time_end || "";
+    fSubjectName.value = c.subject_name || "";
+    fRooms.value = (c.rooms || []).join(", ");
+    fMultipleEntries.checked = !!c.multiple_entries_suspected;
     fNotes.value = (c.notes || []).join("\n");
 }
 
 function readFormPayload() {
     const semester = fSemester.value.trim();
-    const year = fYear.value.trim();
 
     return {
-        degree: {
-            code: fDegreeCode.value.trim() || null,
-            name: fDegreeName.value.trim() || null,
-        },
-        academic_year: fAcademicYear.value.trim() || null,
+        degree: fDegree.value.trim() || null,
+        course_year: fCourseYear.value.trim() || null,
         semester: semester === "" ? null : Number(semester),
-        year: year === "" ? null : Number(year),
         group: fGroup.value.trim() || null,
-        day: fDay.value || null,
-        start_time: fStartTime.value.trim() || null,
-        end_time: fEndTime.value.trim() || null,
-        subject: {
-            code: fSubjectCode.value.trim() || null,
-            name: fSubjectName.value.trim() || null,
-        },
-        subgroup: fSubgroup.value.trim() || null,
-        classroom: fClassroom.value.trim() || null,
+        day: fDay.value.trim() || null,
+        time_start: fTimeStart.value.trim() || null,
+        time_end: fTimeEnd.value.trim() || null,
+        subject_name: fSubjectName.value.trim() || null,
+        rooms: fRooms.value.split(",").map(r => r.trim()).filter(Boolean),
+        multiple_entries_suspected: fMultipleEntries.checked,
         notes: fNotes.value.split("\n").map(n => n.trim()).filter(Boolean),
     };
 }
@@ -643,6 +687,116 @@ async function restoreCurrent() {
     }
 }
 
+async function duplicateRecord() {
+    if (!state.currentItemId) return;
+
+    duplicateBtn.disabled = true;
+    try {
+        const res = await fetch(`/review-records/${encodeURIComponent(state.currentItemId)}/duplicate`, {
+            method: "POST",
+        });
+
+        const data = await res.json();
+
+        if (!res.ok || !data.success) {
+            showFeedback(data.message || "No se pudo duplicar el registro.", "error");
+            return;
+        }
+
+        await Promise.all([loadRecords(), loadTree(), loadSummary()]);
+
+        // Abre directamente la copia nueva para seguir editándola (p.ej.
+        // para meter la segunda asignatura de una celda mezclada).
+        state.currentItemId = data.item.id;
+        state.currentItem = data.item;
+        populateDetail(data.item);
+        showFeedback("Registro duplicado. Edita esta copia con los datos que faltaban y guarda.", "success");
+
+    } catch (e) {
+        showFeedback("No se pudo conectar con el servidor.", "error");
+    } finally {
+        duplicateBtn.disabled = false;
+    }
+}
+
+// =========================================================
+// REVISIÓN CON IA (bajo demanda, uno o todos los registros)
+// =========================================================
+
+let llmReviewPollTimer = null;
+
+async function pollLlmReviewStatus() {
+    try {
+        const res = await fetch("/review-llm-review-status");
+        if (!res.ok) return;
+        const status = await res.json();
+
+        if (status.running) {
+            llmReviewStatusText.textContent = status.total
+                ? `Revisando con IA… ${status.attempted}/${status.total}`
+                : "Revisando con IA…";
+            llmReviewPollTimer = setTimeout(pollLlmReviewStatus, 1500);
+            return;
+        }
+
+        llmReviewAllBtn.disabled = false;
+        llmReviewOneBtn.disabled = false;
+
+        const errorCount = (status.errors || []).length;
+        llmReviewStatusText.textContent =
+            `IA: ${status.resolved || 0} resueltos, ${status.split || 0} separados` +
+            (errorCount ? `, ${errorCount} con error` : "");
+
+        await Promise.all([loadRecords(), loadTree(), loadSummary()]);
+
+        // Si el detalle abierto es uno de los que se acaban de procesar,
+        // refresca su contenido para ver el resultado sin tener que cerrarlo.
+        if (state.currentItemId) {
+            const itemRes = await fetch(`/review-records/${encodeURIComponent(state.currentItemId)}`);
+            if (itemRes.ok) {
+                const item = await itemRes.json();
+                state.currentItem = item;
+                populateDetail(item);
+            }
+        }
+
+    } catch (e) {
+        llmReviewStatusText.textContent = "No se pudo consultar el estado de la revisión con IA.";
+        llmReviewAllBtn.disabled = false;
+        llmReviewOneBtn.disabled = false;
+    }
+}
+
+async function startLlmReview(itemIds) {
+    clearTimeout(llmReviewPollTimer);
+    llmReviewAllBtn.disabled = true;
+    llmReviewOneBtn.disabled = true;
+    llmReviewStatusText.textContent = "Iniciando revisión con IA…";
+
+    try {
+        const res = await fetch("/review-llm-review", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ item_ids: itemIds }),
+        });
+        const data = await res.json();
+
+        if (!res.ok || !data.success) {
+            llmReviewStatusText.textContent = data.message || "No se pudo iniciar la revisión con IA.";
+            llmReviewAllBtn.disabled = false;
+            llmReviewOneBtn.disabled = false;
+            return;
+        }
+
+        pollLlmReviewStatus();
+
+    } catch (e) {
+        llmReviewStatusText.textContent = "No se pudo conectar con el servidor.";
+        llmReviewAllBtn.disabled = false;
+        llmReviewOneBtn.disabled = false;
+    }
+}
+
 function closeDetail() {
     detailModalOverlay.classList.remove("open");
     state.currentItemId = null;
@@ -658,6 +812,11 @@ saveEditBtn.addEventListener("click", saveEdit);
 markValidBtn.addEventListener("click", () => markStatus("VALID"));
 markInvalidBtn.addEventListener("click", () => markStatus("INVALID"));
 restoreBtn.addEventListener("click", restoreCurrent);
+duplicateBtn.addEventListener("click", duplicateRecord);
+llmReviewOneBtn.addEventListener("click", () => {
+    if (state.currentItemId) startLlmReview([state.currentItemId]);
+});
+llmReviewAllBtn.addEventListener("click", () => startLlmReview(null));
 
 // =========================================================
 // ARRANQUE

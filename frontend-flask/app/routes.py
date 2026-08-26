@@ -180,6 +180,7 @@ def dump_db():
     try:
         response = requests.post(
             f"{BACKEND_URL}/extract/start",
+            json=request.get_json(silent=True) or {},
             timeout=15,
         )
         return jsonify(response.json()), response.status_code
@@ -366,6 +367,51 @@ def review_record_restore(item_id):
         response = requests.post(
             f"{BACKEND_URL}/review/records/{item_id}/restore", timeout=15
         )
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-records/<item_id>/duplicate", methods=["POST"])
+def review_record_duplicate(item_id):
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.post(
+            f"{BACKEND_URL}/review/records/{item_id}/duplicate", timeout=15
+        )
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-llm-review", methods=["POST"])
+def review_llm_review_start():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.post(
+            f"{BACKEND_URL}/review/llm-review",
+            json=request.get_json(silent=True) or {},
+            timeout=15,
+        )
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-llm-review-status", methods=["GET"])
+def review_llm_review_status():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.get(f"{BACKEND_URL}/review/llm-review/status", timeout=15)
         return jsonify(response.json()), response.status_code
     except Exception:
         return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500

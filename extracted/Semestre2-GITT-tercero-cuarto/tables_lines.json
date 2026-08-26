@@ -1,0 +1,730 @@
+[
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      152.29,
+      787.55,
+      527.3
+    ],
+    "n_rows": 11,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "MÉTODOS NÚMERICOS Y\nTÉCNICAS DE OPTIMIZACIÓN - 3A\n(SA1)",
+        "COMUNICACIONES DIGITALES - 3A\n(SA3)",
+        "Tecnologías De Alta Frecuencia -\n3A1 (SA3/PL15)",
+        "Métodos Numéricos Y Técnicas De\nOptimización - 3A1 (EL2)\nSistemas Operativos - 3A2 (EL5)",
+        "Comunicaciones Digitales - 3A1\n(SA1)\nSubsist. Electrónicos - 3A2\n(SA3/OL5)"
+      ],
+      [
+        "11:00/11:55",
+        "MÉTODOS NÚMERICOS Y\nTÉCNICAS DE OPTIMIZACIÓN - 3A\n(SA1)",
+        "COMUNICACIONES DIGITALES - 3A\n(SA3)",
+        "Tecnologías De Alta Frecuencia -\n3A1 (SA3/PL15)",
+        "Métodos Numéricos Y Técnicas De\nOptimización - 3A1 (EL2)\nSistemas Operativos - 3A2 (EL5)",
+        "Comunicaciones Digitales - 3A1\n(SA1)\nSubsist. Electrónicos - 3A2\n(SA3/OL5)"
+      ],
+      [
+        "12:00/12:55",
+        "SUBSISTEMAS ELECTRÓNICOS - 3A\n(SA1)",
+        "TECNOLOGIAS DE ALTA FRECUENCIA\n- 3A (SA3)",
+        "SISTEMAS OPERATIVOS - 3A (SA3)",
+        "Sistemas Operativos - 3A1 (EL5)\nMétodos Numéricos Y Técnicas De\nOptimización - 3A2 (EL2)",
+        "Comunicaciones Digitales - 3A2\n(SA1)\nSubsist. Electrónicos - 3A1\n(SA3/OL5)"
+      ],
+      [
+        "13:00/13:55",
+        "SUBSISTEMAS ELECTRÓNICOS - 3A\n(SA1)",
+        "TECNOLOGIAS DE ALTA FRECUENCIA\n- 3A (SA3)",
+        "SISTEMAS OPERATIVOS - 3A (SA3)",
+        "Sistemas Operativos - 3A1 (EL5)\nMétodos Numéricos Y Técnicas De\nOptimización - 3A2 (EL2)",
+        "Comunicaciones Digitales - 3A2\n(SA1)\nSubsist. Electrónicos - 3A1\n(SA3/OL5)"
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Tecnologías De Alta Frecuencia - 3A2\n(PL15)",
+        null,
+        "Sistemas Operativos – 3A3 (EL5)",
+        "Tecnologías De Alta Frecuencia –\n3A3 (PL15)"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Tecnologías De Alta Frecuencia - 3A2\n(PL15)",
+        null,
+        "Sistemas Operativos – 3A3 (EL5)",
+        "Tecnologías De Alta Frecuencia –\n3A3 (PL15)"
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 1",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 2",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 3",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 4",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 5",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 1",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 2",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 3",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 4",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 5",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 1",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 2",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 4",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 5",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 1",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 2",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 4",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 5",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 2",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 5",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 2",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 5",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 5
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      140.19,
+      787.55,
+      545.63
+    ],
+    "n_rows": 12,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        "Seguridad - 3D1 (EL11)",
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        "Seguridad - 3D1 (EL11)",
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "SEGURIDAD - 3D\n(SA4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "SEGURIDAD - 3D\n(SA4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        "Seguridad - 3D2 (EL11)",
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        "Seguridad - 3D2 (EL11)",
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Control Electrónico - 4A1 (OL1)\nINGENIERÍA DE TRÁFICO - 4A (EA3)\nSISTEMAS DE TELECOMUNICACIÓN - 4A\n(EA6)",
+        "Visión Artificial – 4C1 (OL5)",
+        "TECNOLOGÍA ELECTRÓNICA - 4A (SA1)\nCOMUNICACIONES MÓVILES - 4A (SA8)\nLAB. DE REDES, SISTEMAS Y SERVICIOS - 4A (EL11)\nSIST. INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4A (SL10)",
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Control Electrónico - 4A1 (OL1)\nINGENIERÍA DE TRÁFICO - 4A (EA3)\nSISTEMAS DE TELECOMUNICACIÓN - 4A\n(EA6)",
+        "Visión Artificial - 4C1 (OL5)",
+        "TECNOLOGÍA ELECTRÓNICA - 4A (SA1)\nCOMUNICACIONES MÓVILES - 4A (SA8)\nLAB. DE REDES, SISTEMAS Y SERVICIOS - 4A (EL11)\nSISTEMAS INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4A\n(SL10)",
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        "CONTROL ELECTRÓNICO - 4A (OL1)\nIngeniería De Tráfico - 4A1 (EL11)\nSistemas De Telecomunicación - 4A1\n(EA6)",
+        "Visión Artificial - 4C1 (OL5)",
+        "Tecnología Electrónica - 4A1 (OL10)\nLab. De Redes, Sistemas Y Servicios - 4A1 (EL11)\nComunicaciones Móviles - 4A1 (SL9)\nSist. Inteligentes Y Sostenibles De Nueva Generación - 4A1 (SL10)",
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "CONTROL ELECTRÓNICO - 4A (OL1)\nIngeniería De Tráfico - 4A1 (EL11)\nSistemas De Telecomunicación - 4A1\n(EA6)",
+        "Visión Artificial – 4C1 (OL5)",
+        "Tecnología Electrónica - 4A1 (OL10)\nLab. De Redes, Sistemas Y Servicios - 4A1 (EL11)\nComunicaciones Móviles - 4A1 (SL9)\nSist. Inteligentes Y Sostenibles De Nueva Generación - 4A1 (SL10)",
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 1",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 1",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 2",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 8, col 4",
+        "table_index": 0,
+        "row_index": 8,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 2",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 9, col 4",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 10, col 2",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 10, col 4",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 11, col 2",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 11, col 4",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 10 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 4
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      151.79,
+      787.55,
+      412.16
+    ],
+    "n_rows": 14,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "SECURITY - 4E (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "SECURITY - 4E (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        "Security - 4E1 (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        "Security - 4E1 (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 9,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 11,
+        "col_index": 1
+      }
+    ]
+  }
+]

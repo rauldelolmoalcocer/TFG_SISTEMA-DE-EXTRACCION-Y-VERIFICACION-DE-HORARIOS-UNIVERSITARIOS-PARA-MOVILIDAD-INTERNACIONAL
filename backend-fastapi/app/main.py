@@ -37,29 +37,31 @@ class DownloadRequest(BaseModel):
     url: str
 
 
-class DegreeEdit(BaseModel):
-    code: Optional[str] = None
-    name: Optional[str] = None
-
-
-class SubjectEdit(BaseModel):
-    code: Optional[str] = None
-    name: Optional[str] = None
+class ExtractStartRequest(BaseModel):
+    # None -> usa ENABLE_LLM_REVIEW del entorno como valor por defecto
+    # (ver run_extraction). true/false -> lo fuerza para esta extracción,
+    # sea cual sea la variable de entorno.
+    enable_llm_review: Optional[bool] = None
 
 
 class RecordEditRequest(BaseModel):
-    degree: DegreeEdit
-    academic_year: Optional[str] = None
+    degree: Optional[str] = None
+    course_year: Optional[str] = None
     semester: Optional[int] = None
-    year: Optional[int] = None
     group: Optional[str] = None
     day: Optional[str] = None
-    start_time: Optional[str] = None
-    end_time: Optional[str] = None
-    subject: SubjectEdit
-    subgroup: Optional[str] = None
-    classroom: Optional[str] = None
+    time_start: Optional[str] = None
+    time_end: Optional[str] = None
+    subject_name: Optional[str] = None
+    rooms: list[str] = []
+    multiple_entries_suspected: bool = False
     notes: list[str] = []
+
+
+class LlmReviewRequest(BaseModel):
+    # None -> todos los registros con asignaturas mezcladas sin resolver.
+    # Una lista -> solo esos ids (revisión de un único registro).
+    item_ids: Optional[list[str]] = None
 
 
 class RecordStatusRequest(BaseModel):
@@ -95,6 +97,18 @@ extract_lock = threading.Lock()
 extract_thread = None
 
 review_lock = threading.Lock()
+
+llm_review_lock = threading.Lock()
+llm_review_thread = None
+llm_review_state = {
+    "running": False,
+    "attempted": 0,
+    "total": 0,
+    "resolved": 0,
+    "split": 0,
+    "errors": [],
+    "logs": [],
+}
 
 download_state = {
     "running": False,
@@ -381,7 +395,7 @@ def download_file(filename: str):
 # =========================================================
 
 @app.post("/extract/start")
-def start_extraction():
+def start_extraction(data: ExtractStartRequest = ExtractStartRequest()):
     global extract_thread
 
     with extract_lock:
@@ -398,7 +412,7 @@ def start_extraction():
 
     extract_thread = threading.Thread(
         target=run_extraction,
-        args=(DOWNLOAD_FOLDER, EXTRACT_FOLDER, extract_state),
+        args=(DOWNLOAD_FOLDER, EXTRACT_FOLDER, extract_state, data.enable_llm_review),
         daemon=True,
     )
     extract_thread.start()
@@ -466,7 +480,7 @@ def review_filters():
 def review_tree(
     status: Optional[str] = None,
     degree: Optional[str] = None,
-    year: Optional[str] = None,
+    course_year: Optional[str] = None,
     semester: Optional[str] = None,
     group: Optional[str] = None,
     day: Optional[str] = None,
@@ -476,7 +490,7 @@ def review_tree(
 ):
     reviewed = _require_reviewed()
     filters = {
-        "status": status, "degree": degree, "year": year, "semester": semester,
+        "status": status, "degree": degree, "course_year": course_year, "semester": semester,
         "group": group, "day": day, "pdf": pdf, "issue": issue, "search": search,
     }
     filtered = review_store.apply_filters(reviewed["items"], filters)
@@ -489,7 +503,7 @@ def review_records(
     page_size: int = 50,
     status: Optional[str] = None,
     degree: Optional[str] = None,
-    year: Optional[str] = None,
+    course_year: Optional[str] = None,
     semester: Optional[str] = None,
     group: Optional[str] = None,
     day: Optional[str] = None,
@@ -499,7 +513,7 @@ def review_records(
 ):
     reviewed = _require_reviewed()
     filters = {
-        "status": status, "degree": degree, "year": year, "semester": semester,
+        "status": status, "degree": degree, "course_year": course_year, "semester": semester,
         "group": group, "day": day, "pdf": pdf, "issue": issue, "search": search,
     }
     filtered = review_store.apply_filters(reviewed["items"], filters)
@@ -570,3 +584,103 @@ def review_record_restore(item_id: str):
 
         review_store.save_reviewed(EXTRACT_FOLDER, reviewed)
         return {"success": True, "message": "Registro restaurado al original.", "item": item}
+
+
+@app.post("/review/records/{item_id}/duplicate")
+def review_record_duplicate(item_id: str):
+    with review_lock:
+        reviewed = _require_reviewed()
+
+        try:
+            new_item = review_store.duplicate_item(reviewed, item_id)
+        except review_store.ReviewError as e:
+            raise HTTPException(status_code=404, detail=str(e))
+
+        review_store.save_reviewed(EXTRACT_FOLDER, reviewed)
+        return {"success": True, "message": "Registro duplicado.", "item": new_item}
+
+
+# =========================================================
+# REVISIÓN CON IA BAJO DEMANDA (uno o todos los registros)
+# =========================================================
+#
+# Puede tardar bastante (Ollama, en local, por registro) así que corre en
+# segundo plano igual que la extracción o el crawler. Mantiene review_lock
+# tomado durante TODO el proceso -- no solo para leer/guardar -- para que
+# ninguna edición manual concurrente se pisen entre sí; a cambio, mientras
+# esté corriendo, guardar una edición de OTRO registro esperará a que
+# termine (aceptable: en este proyecto solo hay un revisor a la vez).
+
+def _run_llm_review_background(item_ids):
+    host = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+
+    with llm_review_lock:
+        llm_review_state["running"] = True
+        llm_review_state["attempted"] = 0
+        llm_review_state["total"] = 0
+        llm_review_state["resolved"] = 0
+        llm_review_state["split"] = 0
+        llm_review_state["errors"] = []
+        llm_review_state["logs"] = [f"Iniciando revisión con IA vía {host}..."]
+
+    def on_item_done(done, total, item_id, outcome):
+        with llm_review_lock:
+            llm_review_state["attempted"] = done
+            llm_review_state["total"] = total
+            llm_review_state["logs"].append(f"[{done}/{total}] {item_id}: {outcome}")
+
+    try:
+        with review_lock:
+            reviewed = _require_reviewed()
+            result = review_store.llm_review_items(reviewed, item_ids, host, on_item_done=on_item_done)
+            review_store.save_reviewed(EXTRACT_FOLDER, reviewed)
+
+        with llm_review_lock:
+            llm_review_state["resolved"] = result["resolved"]
+            llm_review_state["split"] = result["split"]
+            llm_review_state["errors"] = result["errors"]
+            llm_review_state["logs"].append(
+                f"Terminado. {result['resolved']} resueltos, {result['split']} separados en varios registros, "
+                f"{len(result['errors'])} con error."
+            )
+
+    except Exception as e:
+        with llm_review_lock:
+            llm_review_state["errors"].append({"id": None, "error": str(e)})
+            llm_review_state["logs"].append(f"Error general: {e}")
+
+    finally:
+        with llm_review_lock:
+            llm_review_state["running"] = False
+
+
+@app.post("/review/llm-review")
+def start_llm_review(data: LlmReviewRequest = LlmReviewRequest()):
+    global llm_review_thread
+
+    with llm_review_lock:
+        if llm_review_state["running"]:
+            return {"success": False, "message": "Ya hay una revisión con IA en curso."}
+
+    try:
+        _require_reviewed()
+    except review_store.ReviewError:
+        raise HTTPException(
+            status_code=404,
+            detail="Todavía no hay ninguna extracción con resultados que revisar.",
+        )
+
+    llm_review_thread = threading.Thread(
+        target=_run_llm_review_background,
+        args=(data.item_ids,),
+        daemon=True,
+    )
+    llm_review_thread.start()
+
+    return {"success": True, "message": "Revisión con IA iniciada."}
+
+
+@app.get("/review/llm-review/status")
+def llm_review_status():
+    with llm_review_lock:
+        return dict(llm_review_state)

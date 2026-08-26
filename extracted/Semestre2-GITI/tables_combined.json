@@ -1,0 +1,1526 @@
+[
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.18,
+      787.55,
+      457.56
+    ],
+    "n_rows": 37,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        "Informática - 1A4 (EL7)",
+        null,
+        "Física II - 1A2 (OA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Química Orgánica E Inorgánica - 1A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA - 1A",
+        null,
+        "(SA3)",
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        "Informática - 1A4 (EL7)",
+        null,
+        "Física II - 1A2 (OA2)"
+      ],
+      [
+        null,
+        null,
+        "(EA2)",
+        null,
+        "Química Orgánica E Inorgánica - 1A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Cálculo II - 1A1 (OA1)",
+        "ECONOMÍA DE LA EMPRESA - 1A",
+        null,
+        null,
+        "QUÍMICA ORGÁNICA E INORGÁNICA"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        "INFORMÁTICA - 1A (NA1)",
+        "FÍSICA II - 1A (SA7)",
+        null
+      ],
+      [
+        null,
+        "Informática - 1A2 (NL5)",
+        "(EA2)",
+        null,
+        null,
+        "- 1A (OA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Cálculo II - 1A1 (OA1)",
+        "ECONOMÍA DE LA EMPRESA - 1A",
+        null,
+        null,
+        "QUÍMICA ORGÁNICA E INORGÁNICA"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        "INFORMÁTICA - 1A (NA1)",
+        "FÍSICA II - 1A (SA7)",
+        null
+      ],
+      [
+        null,
+        "Informática - 1A2 (NL5)",
+        "(EA2)",
+        null,
+        null,
+        "- 1A (OA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Cálculo II - 1A2 (OA1)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "CÁLCULO II - 1A (EA5)",
+        "Informática - 1A3 (OL24)",
+        "Informática - 1A5 (OL24)",
+        "Física II - 1A1 (OA2)"
+      ],
+      [
+        null,
+        "Informática - 1A1 (OL24)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Cálculo II - 1A2 (OA1)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "CÁLCULO II - 1A (EA5)",
+        "Informática - 1A3 (OL24)",
+        "Informática - 1A5 (OL24)",
+        "Física II - 1A1 (OA2)"
+      ],
+      [
+        null,
+        "Informática - 1A1 (OL24)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.18,
+      787.65,
+      499.81
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Estadística - 2A1 (OA2)",
+        "Estadística - 2A2 (OA2)",
+        null
+      ],
+      [
+        null,
+        "Fund. Electrónica - 2A1 (OL7)",
+        null,
+        null,
+        null,
+        "METODOS MATEMÁTICOS APL. ING."
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Mecánica De Fluidos - 2A1 (OA2)",
+        "Métodos Matemáticos Apl. Ing. Ind.",
+        "Métodos Matemáticos Apl. Ing. Ind.",
+        null
+      ],
+      [
+        null,
+        "Fund. Electrónica - 2A2 (OL12)",
+        null,
+        null,
+        null,
+        "IND. - 2A (OA2)(**)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "- 2A3 (NA1)(**)",
+        "- 2A1 (NA2)(**)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Estadística - 2A1 (OA2)",
+        "Estadística - 2A2 (OA2)",
+        null
+      ],
+      [
+        null,
+        "Fund. Electrónica - 2A1 (OL7)",
+        null,
+        null,
+        null,
+        "METODOS MATEMÁTICOS APL. ING."
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Mecánica De Fluidos - 2A1 (OA2)",
+        "Métodos Matemáticos Apl. Ing. Ind.",
+        "Métodos Matemáticos Apl. Ing. Ind.",
+        null
+      ],
+      [
+        null,
+        "Fund. Electrónica - 2A2 (OL12)",
+        null,
+        null,
+        null,
+        "IND. - 2A (OA2)(**)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "- 2A3 (NA1)(**)",
+        "- 2A1 (NA2)(**)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Elasticidad Y Resistencia De Mater. -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "FUNDAMENTOS DE ELECTRÓNICA -",
+        "ELASTICIDAD Y RESISTENCIA DE",
+        "2A1 (OA6/OA2)"
+      ],
+      [
+        "17:00/17:55",
+        "MECÁNICA DE FLUIDOS - 2A (OA2)",
+        "ESTADÍSTICA - 2A (OA2)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "2A (OA2)",
+        "MATER. - 2A (OA2)",
+        "Elasticidad Y Resistencia De Mater. -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A2 (SA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Elasticidad Y Resistencia De Mater. -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "FUNDAMENTOS DE ELECTRÓNICA -",
+        "ELASTICIDAD Y RESISTENCIA DE",
+        "2A1 (OA6/OA2)"
+      ],
+      [
+        "18:00/18:55",
+        "MECÁNICA DE FLUIDOS - 2A (OA2)",
+        "ESTADÍSTICA - 2A (OA2)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "2A (OA2)",
+        "MATER. - 2A (OA2)",
+        "Elasticidad Y Resistencia De Mater. -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A2 (SA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fund. Electrónica – 2A3 (OL7)",
+        "Métodos Matemáticos Apl. Ing. Ind.",
+        "Fund. Electrónica - 2A5 (OL7)",
+        null,
+        "Elasticidad Y Resistencia De Mater. -"
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        "Mecánica De Fluidos - 2A2 (OA2)",
+        null
+      ],
+      [
+        null,
+        "Fund. Electrónica - 2A4 (OL12)",
+        "- 2A2 (OA2)(**)",
+        "Mecánica De Fluidos - 2A3 (OA2)",
+        null,
+        "2A3 (OA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fund. Electrónica - 2A3 (OL7)",
+        "Métodos Matemáticos Apl. Ing. Ind.",
+        "Fund. Electrónica - 2A5 (OL7)",
+        null,
+        "Elasticidad Y Resistencia De Mater. -"
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        "Mecánica De Fluidos - 2A2 (OA2)",
+        null
+      ],
+      [
+        null,
+        "Fund. Electrónica - 2A4 (OL12)",
+        "- 2A2 (OA2)(**)",
+        "Mecánica De Fluidos - 2A3 (OA2)",
+        null,
+        "2A3 (OA2)"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.18,
+      787.55,
+      518.26
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        "Tecnología Eléctrica II - 3A5 (PL13)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Tecnologías Medioambientales -",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        "Tecnología Eléctrica II - 3A5 (PL13)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3A1 (OA2)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "TECNOLOGÍA ELÉCTRICA II - 3A",
+        null
+      ],
+      [
+        null,
+        "ELEMENTOS DE MÁQUINAS - 3A",
+        "Ingeniería De Control - 3A2 (EL9)",
+        "TECNOLOGÍAS MEDIOAMBIENTALES",
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        "(OA2)",
+        null
+      ],
+      [
+        null,
+        "(OA2)",
+        "Elem. Máquinas - 3A3 (OA1/OA7)",
+        "- 3A (OA1)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Tecnología Eléctrica II - 3A1 (PL13)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "TECNOLOGÍA ELÉCTRICA II - 3A",
+        null
+      ],
+      [
+        null,
+        "ELEMENTOS DE MÁQUINAS - 3A",
+        "Ingeniería De Control - 3A2 (EL9)",
+        "TECNOLOGÍAS MEDIOAMBIENTALES",
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        "(OA2)",
+        null
+      ],
+      [
+        null,
+        "(OA2)",
+        "Elem. Máquinas - 3A3 (OA1/OA7)",
+        "- 3A (OA1)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Tecnología Eléctrica II - 3A1 (PL13)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA DE CONTROL - 3A",
+        "Elem. Máquinas - 3A1 (OA1/OA6)",
+        "TECNOLOGÍA ELÉCTRICA II - 3A",
+        "Ingeniería De Control - 3A1 (EL9)",
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(OA2)",
+        "Elem. Máquinas - 3A2 (OA2/OA7)",
+        "(OA2)",
+        "Tecnología Eléctrica II - 3A2 (PL13)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA DE CONTROL - 3A",
+        "Elem. Máquinas - 3A1 (OA1/OA6)",
+        "TECNOLOGÍA ELÉCTRICA II - 3A",
+        "Ingeniería De Control - 3A1 (EL9)",
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(OA2)",
+        "Elem. Máquinas - 3A2 (OA2/OA7)",
+        "(OA2)",
+        "Tecnología Eléctrica II - 3A2 (PL13)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Tecnología Eléctrica II - 3A3 (PL13)",
+        null,
+        "Tec. Medioambientales(*) - 3P (--)",
+        "Tec. Medioambientales(*) - 3P (--)",
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Tecnología Eléctrica II - 3A4 (PL13)",
+        null,
+        null,
+        "Tec. Medioambientales(*) - 3P (--)"
+      ],
+      [
+        null,
+        "Ingeniería De Control - 3A4 (EL8)",
+        null,
+        "Tecnología Eléctrica II - 3A6 (PL13)",
+        "Ingeniería De Control – 3A3 (EL9)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Tecnología Eléctrica II - 3A3 (PL13)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Tecnología Eléctrica II - 3A4 (PL13)",
+        "Tecnología Eléctrica II - 3A6 (PL13)",
+        "Ingeniería De Control – 3A3 (EL9)",
+        null
+      ],
+      [
+        null,
+        "Ingeniería De Control - 3A4 (EL8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 4,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      147.08,
+      787.55,
+      517.46
+    ],
+    "n_rows": 55,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "DISEÑO MECÁNICO AVANZADO -",
+        null,
+        "MOVILIDAD INTELIGENTE EN",
+        null
+      ],
+      [
+        null,
+        "AUTOMÓVILES Y FERROCARRILES -",
+        null,
+        "ACÚSTICA Y VIBRACIONES - 4A",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "4A (OA5)",
+        null,
+        "ENTORNOS INDUSTRIALES - 4A",
+        null
+      ],
+      [
+        null,
+        "4A (OA6)",
+        null,
+        "(OA5/NA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "TRACCIÓN ELÉCTRICA Y VEHÍCULOS",
+        null,
+        "(PL21)",
+        "DESARROLLO INDUSTRIAL"
+      ],
+      [
+        "15:00/15:55",
+        "DESARROLLO DE APLICACIONES",
+        null,
+        "BIG DATA EN ENERGÍA – 4A (EA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ELÉCTRICOS – 4A (EA5)",
+        null,
+        "BIG DATA EN ENERGÍA – 4A (NA3)",
+        "SOSTENIBLE – 4A (pendiente asig.)"
+      ],
+      [
+        null,
+        "PARA SIST. INDUST. – 4A (SA5B)",
+        null,
+        "EXP. EN ING. QUIMICA Y AMBIENTAL",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ELECTRÓNICA PARA SISTEMAS",
+        null,
+        "SIMULACIÓN Y OPTIMIZACIÓN DE",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "- 4A (pend. asig.)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "INTELIGENTES INDUST. – 4A (OL7)",
+        null,
+        "PROCESOS QUÍMICOS – 4A (--)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "DISEÑO MECÁNICO AVANZADO -",
+        null,
+        "MOVILIDAD INTELIGENTE EN",
+        null
+      ],
+      [
+        null,
+        "AUTOMÓVILES Y FERROCARRILES -",
+        null,
+        "ACÚSTICA Y VIBRACIONES - 4A",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "4A (OA5)",
+        null,
+        "ENTORNOS INDUSTRIALES - 4A",
+        null
+      ],
+      [
+        null,
+        "4A (OA6)",
+        null,
+        "(OA5/NA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "TRACCIÓN ELÉCTRICA Y VEHÍCULOS",
+        null,
+        "(PL21)",
+        "DESARROLLO INDUSTRIAL"
+      ],
+      [
+        "16:00/16:55",
+        "DESARROLLO DE APLICACIONES",
+        null,
+        "BIG DATA EN ENERGÍA – 4A (EA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ELÉCTRICOS – 4A (EA5)",
+        null,
+        "BIG DATA EN ENERGÍA – 4A (NA3)",
+        "SOSTENIBLE – 4A (pendiente asig.)"
+      ],
+      [
+        null,
+        "PARA SIST. INDUST. – 4A (SA5B)",
+        null,
+        "EXP. EN ING. QUIMICA Y AMBIENTAL",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ELECTRÓNICA PARA SISTEMAS",
+        null,
+        "SIMULACIÓN Y OPTIMIZACIÓN DE",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "- 4A (pend. asig.)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "INTELIGENTES INDUST. – 4A (OL7)",
+        null,
+        "PROCESOS QUÍMICOS – 4A (--)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "MOVILIDAD INTELIGENTE EN",
+        null
+      ],
+      [
+        null,
+        null,
+        "DISEÑO MECÁNICO AVANZADO -",
+        "ACÚSTICA Y VIBRACIONES - 4A",
+        null,
+        null
+      ],
+      [
+        null,
+        "AUTOMÓVILES Y FERROCARRILES -",
+        null,
+        null,
+        "ENTORNOS INDUSTRIALES - 4A",
+        null
+      ],
+      [
+        null,
+        null,
+        "4A (OA5)",
+        "(OA5/NA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        "4A (OA6)",
+        null,
+        null,
+        "(PL21)",
+        null
+      ],
+      [
+        null,
+        null,
+        "TRACCIÓN ELÉCTRICA Y VEHÍCULOS",
+        "SISTEMAS HÍBRIDOS DE ENERGÍA",
+        null,
+        "DESARROLLO INDUSTRIAL"
+      ],
+      [
+        "17:00/17:55",
+        "DESARROLLO DE APLICACIONES",
+        null,
+        null,
+        "SISTEMAS HÍBRIDOS DE ENERGÍA",
+        null
+      ],
+      [
+        null,
+        null,
+        "ELÉCTRICOS – 4A (EA5)",
+        "ELÉCTRICA – 4A (EA6)",
+        null,
+        "SOSTENIBLE – 4A (pendiente asig.)"
+      ],
+      [
+        null,
+        "PARA SIST. INDUST. – 4A (SA5B)",
+        null,
+        null,
+        "ELÉCTRICA – 4A (NA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        "ELECTRÓNICA PARA SISTEMAS",
+        "EXP. EN ING. QUIMICA Y AMBIENTAL",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "SIMULACIÓN Y OPTIMIZACIÓN DE",
+        null
+      ],
+      [
+        null,
+        null,
+        "INTELIGENTES INDUST. – 4A (OL7)",
+        "- 4A (pend. asig.)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "PROCESOS QUÍMICOS – 4A (--)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "MOVILIDAD INTELIGENTE EN",
+        null
+      ],
+      [
+        null,
+        null,
+        "DISEÑO MECÁNICO AVANZADO -",
+        "ACÚSTICA Y VIBRACIONES - 4A",
+        null,
+        null
+      ],
+      [
+        null,
+        "AUTOMÓVILES Y FERROCARRILES -",
+        null,
+        null,
+        "ENTORNOS INDUSTRIALES - 4A",
+        null
+      ],
+      [
+        null,
+        null,
+        "4A (OA5)",
+        "(OA5/NA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        "4A (OA6)",
+        null,
+        null,
+        "(PL21)",
+        null
+      ],
+      [
+        null,
+        null,
+        "TRACCIÓN ELÉCTRICA Y VEHÍCULOS",
+        "SISTEMAS HÍBRIDOS DE ENERGÍA",
+        null,
+        "DESARROLLO INDUSTRIAL"
+      ],
+      [
+        "18:00/18:55",
+        "DESARROLLO DE APLICACIONES",
+        null,
+        null,
+        "SISTEMAS HÍBRIDOS DE ENERGÍA",
+        null
+      ],
+      [
+        null,
+        null,
+        "ELÉCTRICOS – 4A (EA5)",
+        "ELÉCTRICA – 4A (EA6)",
+        null,
+        "SOSTENIBLE – 4A (pendiente asig.)"
+      ],
+      [
+        null,
+        "PARA SIST. INDUST. – 4A (SA5B)",
+        null,
+        null,
+        "ELÉCTRICA – 4A (NA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        "ELECTRÓNICA PARA SISTEMAS",
+        "EXP. EN ING. QUIMICA Y AMBIENTAL",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "SIMULACIÓN Y OPTIMIZACIÓN DE",
+        null
+      ],
+      [
+        null,
+        null,
+        "INTELIGENTES INDUST. – 4A (OL7)",
+        "- 4A (pend. asig.)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "PROCESOS QUÍMICOS – 4A (--)",
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

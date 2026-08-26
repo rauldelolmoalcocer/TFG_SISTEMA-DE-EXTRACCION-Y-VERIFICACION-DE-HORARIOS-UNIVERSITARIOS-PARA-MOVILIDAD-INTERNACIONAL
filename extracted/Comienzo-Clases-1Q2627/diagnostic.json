@@ -1,0 +1,290 @@
+{
+  "source_file": "Comienzo-Clases-1Q2627.pdf",
+  "page_count": 7,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 30,
+      "line_count": 0,
+      "rect_count": 0,
+      "strategies": {
+        "lines": {
+          "tables_detected": 0,
+          "tables": []
+        },
+        "text": {
+          "tables_detected": 0,
+          "tables": []
+        },
+        "combined": {
+          "tables_detected": 0,
+          "tables": []
+        }
+      },
+      "best_strategy": null,
+      "warnings": []
+    },
+    {
+      "page_number": 2,
+      "word_count": 256,
+      "line_count": 0,
+      "rect_count": 25,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 1,
+              "columns": 11,
+              "bbox": [
+                69.02,
+                488.0,
+                325.95,
+                502.3
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 33,
+              "columns": 12,
+              "bbox": [
+                38.61,
+                70.2,
+                742.25,
+                503.24
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 1,
+              "columns": 11,
+              "bbox": [
+                69.02,
+                490.49,
+                325.95,
+                503.24
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "text",
+      "warnings": []
+    },
+    {
+      "page_number": 3,
+      "word_count": 153,
+      "line_count": 0,
+      "rect_count": 1,
+      "strategies": {
+        "lines": {
+          "tables_detected": 0,
+          "tables": []
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 25,
+              "columns": 6,
+              "bbox": [
+                47.15,
+                93.82,
+                733.58,
+                433.71
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 0,
+          "tables": []
+        }
+      },
+      "best_strategy": "text",
+      "warnings": []
+    },
+    {
+      "page_number": 4,
+      "word_count": 160,
+      "line_count": 0,
+      "rect_count": 0,
+      "strategies": {
+        "lines": {
+          "tables_detected": 0,
+          "tables": []
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 23,
+              "columns": 4,
+              "bbox": [
+                47.15,
+                131.33,
+                404.41,
+                464.54
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 0,
+          "tables": []
+        }
+      },
+      "best_strategy": "text",
+      "warnings": []
+    },
+    {
+      "page_number": 5,
+      "word_count": 101,
+      "line_count": 0,
+      "rect_count": 21,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 1,
+              "columns": 20,
+              "bbox": [
+                116.66,
+                313.11,
+                461.61,
+                332.33
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 17,
+              "columns": 5,
+              "bbox": [
+                87.77,
+                51.96,
+                733.39,
+                332.64
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 1,
+              "columns": 20,
+              "bbox": [
+                116.66,
+                316.14,
+                461.61,
+                332.64
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "text",
+      "warnings": []
+    },
+    {
+      "page_number": 6,
+      "word_count": 153,
+      "line_count": 0,
+      "rect_count": 4,
+      "strategies": {
+        "lines": {
+          "tables_detected": 0,
+          "tables": []
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 25,
+              "columns": 7,
+              "bbox": [
+                87.77,
+                133.05,
+                755.63,
+                442.0
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 0,
+          "tables": []
+        }
+      },
+      "best_strategy": "text",
+      "warnings": []
+    },
+    {
+      "page_number": 7,
+      "word_count": 201,
+      "line_count": 0,
+      "rect_count": 4,
+      "strategies": {
+        "lines": {
+          "tables_detected": 0,
+          "tables": []
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 26,
+              "columns": 8,
+              "bbox": [
+                87.77,
+                133.05,
+                737.09,
+                445.62
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 0,
+          "tables": []
+        }
+      },
+      "best_strategy": "text",
+      "warnings": []
+    }
+  ]
+}

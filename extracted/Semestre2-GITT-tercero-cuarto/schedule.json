@@ -1,0 +1,817 @@
+[
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "MÉTODOS NÚMERICOS Y\nTÉCNICAS DE OPTIMIZACIÓN - 3A\n(SA1)",
+    "subject_name": "MÉTODOS NÚMERICOS Y TÉCNICAS DE OPTIMIZACIÓN - 3A",
+    "rooms": [
+      "SA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "SUBSISTEMAS ELECTRÓNICOS - 3A\n(SA1)",
+    "subject_name": "SUBSISTEMAS ELECTRÓNICOS - 3A",
+    "rooms": [
+      "SA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "COMUNICACIONES DIGITALES - 3A\n(SA3)",
+    "subject_name": "COMUNICACIONES DIGITALES - 3A",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "TECNOLOGIAS DE ALTA FRECUENCIA\n- 3A (SA3)",
+    "subject_name": "TECNOLOGIAS DE ALTA FRECUENCIA - 3A",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Tecnologías De Alta Frecuencia - 3A2\n(PL15)",
+    "subject_name": "Tecnologías De Alta Frecuencia - 3A2",
+    "rooms": [
+      "PL15"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Tecnologías De Alta Frecuencia -\n3A1 (SA3/PL15)",
+    "subject_name": "Tecnologías De Alta Frecuencia - 3A1",
+    "rooms": [
+      "SA3/PL15"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "SISTEMAS OPERATIVOS - 3A (SA3)",
+    "subject_name": "SISTEMAS OPERATIVOS - 3A",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Métodos Numéricos Y Técnicas De\nOptimización - 3A1 (EL2)\nSistemas Operativos - 3A2 (EL5)",
+    "subject_name": "Métodos Numéricos Y Técnicas De Optimización - 3A1 Sistemas Operativos - 3A2",
+    "rooms": [
+      "EL2",
+      "EL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas Operativos - 3A1 (EL5)\nMétodos Numéricos Y Técnicas De\nOptimización - 3A2 (EL2)",
+    "subject_name": "Sistemas Operativos - 3A1 Métodos Numéricos Y Técnicas De Optimización - 3A2",
+    "rooms": [
+      "EL5",
+      "EL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas Operativos – 3A3 (EL5)",
+    "subject_name": "Sistemas Operativos – 3A3",
+    "rooms": [
+      "EL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Comunicaciones Digitales - 3A1\n(SA1)\nSubsist. Electrónicos - 3A2\n(SA3/OL5)",
+    "subject_name": "Comunicaciones Digitales - 3A1 Subsist. Electrónicos - 3A2",
+    "rooms": [
+      "SA1",
+      "SA3/OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Comunicaciones Digitales - 3A2\n(SA1)\nSubsist. Electrónicos - 3A1\n(SA3/OL5)",
+    "subject_name": "Comunicaciones Digitales - 3A2 Subsist. Electrónicos - 3A1",
+    "rooms": [
+      "SA1",
+      "SA3/OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Tecnologías De Alta Frecuencia –\n3A3 (PL15)",
+    "subject_name": "Tecnologías De Alta Frecuencia – 3A3",
+    "rooms": [
+      "PL15"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SEGURIDAD - 3D\n(SA4)",
+    "subject_name": "SEGURIDAD - 3D",
+    "rooms": [
+      "SA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Control Electrónico - 4A1 (OL1)\nINGENIERÍA DE TRÁFICO - 4A (EA3)\nSISTEMAS DE TELECOMUNICACIÓN - 4A\n(EA6)",
+    "subject_name": "Control Electrónico - 4A1 INGENIERÍA DE TRÁFICO - 4A SISTEMAS DE TELECOMUNICACIÓN - 4A",
+    "rooms": [
+      "OL1",
+      "EA3",
+      "EA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "CONTROL ELECTRÓNICO - 4A (OL1)\nIngeniería De Tráfico - 4A1 (EL11)\nSistemas De Telecomunicación - 4A1\n(EA6)",
+    "subject_name": "CONTROL ELECTRÓNICO - 4A Ingeniería De Tráfico - 4A1 Sistemas De Telecomunicación - 4A1",
+    "rooms": [
+      "OL1",
+      "EL11",
+      "EA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Seguridad - 3D1 (EL11)",
+    "subject_name": "Seguridad - 3D1",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Seguridad - 3D2 (EL11)",
+    "subject_name": "Seguridad - 3D2",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Visión Artificial – 4C1 (OL5)",
+    "subject_name": "Visión Artificial – 4C1",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      10
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "16:00",
+    "time_end": "17:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "Visión Artificial - 4C1 (OL5)",
+    "subject_name": "Visión Artificial - 4C1",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      11,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Visión Artificial – 4C1 (OL5)",
+    "subject_name": "Visión Artificial – 4C1",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "TECNOLOGÍA ELECTRÓNICA - 4A (SA1)\nCOMUNICACIONES MÓVILES - 4A (SA8)\nLAB. DE REDES, SISTEMAS Y SERVICIOS - 4A (EL11)\nSIST. INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4A (SL10)",
+    "subject_name": "TECNOLOGÍA ELECTRÓNICA - 4A COMUNICACIONES MÓVILES - 4A LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A SIST. INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4A",
+    "rooms": [
+      "SA1",
+      "SA8",
+      "EL11",
+      "SL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "TECNOLOGÍA ELECTRÓNICA - 4A (SA1)\nCOMUNICACIONES MÓVILES - 4A (SA8)\nLAB. DE REDES, SISTEMAS Y SERVICIOS - 4A (EL11)\nSISTEMAS INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4A\n(SL10)",
+    "subject_name": "TECNOLOGÍA ELECTRÓNICA - 4A COMUNICACIONES MÓVILES - 4A LAB. DE REDES, SISTEMAS Y SERVICIOS - 4A SISTEMAS INTELIGENTES Y SOSTENIBLES DE NUEVA GENERACIÓN - 4A",
+    "rooms": [
+      "SA1",
+      "SA8",
+      "EL11",
+      "SL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA EN TECNOLOGÍAS DE LA TELECOMUNICACIÓN (G350) (GITT)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Tecnología Electrónica - 4A1 (OL10)\nLab. De Redes, Sistemas Y Servicios - 4A1 (EL11)\nComunicaciones Móviles - 4A1 (SL9)\nSist. Inteligentes Y Sostenibles De Nueva Generación - 4A1 (SL10)",
+    "subject_name": "Tecnología Electrónica - 4A1 Lab. De Redes, Sistemas Y Servicios - 4A1 Comunicaciones Móviles - 4A1 Sist. Inteligentes Y Sostenibles De Nueva Generación - 4A1",
+    "rooms": [
+      "OL10",
+      "EL11",
+      "SL9",
+      "SL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G350) (GITT)",
+    "group": "4ºE",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "SECURITY - 4E (Aula)",
+    "subject_name": "SECURITY - 4E",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA TELEMÁTICA (G350) (GITT)",
+    "group": "4ºE",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Security - 4E1 (Aula)",
+    "subject_name": "Security - 4E1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

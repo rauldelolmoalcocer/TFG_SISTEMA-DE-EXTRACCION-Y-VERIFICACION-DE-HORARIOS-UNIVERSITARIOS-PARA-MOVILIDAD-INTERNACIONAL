@@ -1,0 +1,4005 @@
+[
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      187.68,
+      787.65,
+      540.61
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos - 1A3",
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA6/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos - 1A3",
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA6/SL11)",
+        null,
+        null,
+        "ECOM1 - (EA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos - 1A2",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Cálculo II - 1A1 (EA2)",
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "10:00/10:55",
+        "PROGRAMACIÓN - 1A (EA2)",
+        "(EA6/SL11)",
+        null,
+        "ANÁLISIS DE CIRCUITOS - 1A (EA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Fundamentos Físicos I - 1A2 (SA1)",
+        null,
+        "ECOM1 - (EA2)"
+      ],
+      [
+        null,
+        null,
+        "Programación - 1A1 (EL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos - 1A2",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Cálculo II - 1A1 (EA2)",
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "11:00/11:55",
+        "PROGRAMACIÓN - 1A (EA2)",
+        "(EA6/SL11)",
+        null,
+        "ANÁLISIS DE CIRCUITOS - 1A (EA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Fundamentos Físicos I - 1A2 (SA1)",
+        null,
+        "ECOM1 - (EA2)"
+      ],
+      [
+        null,
+        null,
+        "Programación - 1A1 (EL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos - 1A1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Cálculo II - 1A2 (EA2)",
+        "FUNDAMENTOS FÍSICOS I - 1A",
+        null
+      ],
+      [
+        "12:00/12:55",
+        "CÁLCULO II - 1A (EA2)",
+        "(EA6/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Fundamentos Físicos I - 1A1 (SA1)",
+        "(EA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Programación - 1A2 (EL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos - 1A1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Cálculo II - 1A2 (EA2)",
+        "FUNDAMENTOS FÍSICOS I - 1A",
+        null
+      ],
+      [
+        "13:00/13:55",
+        "CÁLCULO II - 1A (EA2)",
+        "(EA6/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Fundamentos Físicos I - 1A1 (SA1)",
+        "(EA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Programación - 1A2 (EL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Programación - 1A3 (EL8)",
+        null,
+        "Programación - 1A4 (EL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Programación - 1A3 (EL8)",
+        null,
+        "Programación - 1A4 (EL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      194.48,
+      787.65,
+      510.91
+    ],
+    "n_rows": 41,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Análisis De Circuitos - 1B3",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        "(EA6/SL11)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Programación - 1B1 (EL8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Análisis De Circuitos - 1B3",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA –",
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        "(EA6/SL11)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ECOM2 - (NA4)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Programación - 1B1 (EL8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA –",
+        "Fundamentos Físicos I - 1B1 (SA5A)",
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "Programación - 1B2 (EL8)",
+        null,
+        null,
+        null,
+        "FUNDAMENTOS FÍSICOS I - 1B (SA7)"
+      ],
+      [
+        null,
+        null,
+        "ECOM2 - (NA4)",
+        "Cálculo II - 1B2 (SA7)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA –",
+        "Fundamentos Físicos I - 1B1 (SA5A)",
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "Programación - 1B2 (EL8)",
+        null,
+        null,
+        null,
+        "FUNDAMENTOS FÍSICOS I - 1B (SA7)"
+      ],
+      [
+        null,
+        null,
+        "ECOM2 - (NA4)",
+        "Cálculo II - 1B2 (SA7)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Análisis De Circuitos - 1B2",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        "(EA6/SL11)",
+        "CÁLCULO II - 1B (EA2)",
+        "Fundamentos Físicos I - 1B2 (SA5A)",
+        "ANÁLISIS DE CIRCUITOS - 1B (SA7)",
+        "PROGRAMACIÓN - 1B (SA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Programación - 1B3 (EL8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Análisis De Circuitos - 1B2",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        "(EA6/SL11)",
+        "CÁLCULO II - 1B (EA2)",
+        "Fundamentos Físicos I - 1B2 (SA5A)",
+        "ANÁLISIS DE CIRCUITOS - 1B (SA7)",
+        "PROGRAMACIÓN - 1B (SA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Programación - 1B3 (EL8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      194.48,
+      787.65,
+      547.41
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1C3",
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(EA6/SL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1C3",
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(EA6/SL11)",
+        null,
+        "ECOM3 - (EA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1C2",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Cálculo II - 1C2 (EA8)",
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "10:00/10:55",
+        "ANÁLISIS DE CIRCUITOS - 1C (EA5)",
+        null,
+        "(EA6/SL11)",
+        "PROGRAMACIÓN - 1C (EA5)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Fundamentos Físicos I - 1C1 (EA3)",
+        null,
+        null,
+        "ECOM3 - (EA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación - 1C1 (EL8)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1C2",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Cálculo II - 1C2 (EA8)",
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "11:00/11:55",
+        "ANÁLISIS DE CIRCUITOS - 1C (EA5)",
+        null,
+        "(EA6/SL11)",
+        "PROGRAMACIÓN - 1C (EA5)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Fundamentos Físicos I - 1C1 (EA3)",
+        null,
+        null,
+        "ECOM3 - (EA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación - 1C1 (EL8)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1C1",
+        null,
+        null
+      ],
+      [
+        null,
+        "FUNDAMENTOS FÍSICOS I - 1C",
+        "Cálculo II - 1C1 (EA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        "(EA6/SL11)",
+        "CÁLCULO II - 1C (EA5)",
+        "Programación - 1C4 (EL8)"
+      ],
+      [
+        null,
+        "(EA5)",
+        "Fundamentos Físicos I - 1C2 (EA3)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación - 1C3 (OA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1C1",
+        null,
+        null
+      ],
+      [
+        null,
+        "FUNDAMENTOS FÍSICOS I - 1C",
+        "Cálculo II - 1C1 (EA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        "(EA6/SL11)",
+        "CÁLCULO II - 1C (EA5)",
+        "Programación - 1C4 (EL8)"
+      ],
+      [
+        null,
+        "(EA5)",
+        "Fundamentos Físicos I - 1C2 (EA3)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación - 1C3 (OA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        "Programación - 1C2 (EL2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        "Programación - 1C2 (EL2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 4,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      194.48,
+      787.45,
+      535.11
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1D3",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        "(EA6/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Programación - 1D2 (EL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1D3",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        "(EA6/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ECOM4 - (EA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Programación - 1D2 (EL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1D2",
+        null
+      ],
+      [
+        null,
+        "FUNDAMENTOS FÍSICOS I - 1D",
+        null,
+        "Fundamentos Físicos I – 1D1 (NA3)",
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "CÁLCULO II - 1D (EA7)",
+        null,
+        "(EA6/SL11)",
+        null
+      ],
+      [
+        null,
+        "(EA7)",
+        null,
+        "Cálculo II – 1D2 (NA3)",
+        null,
+        "ECOM4 - (EA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Programación - 1D1 (OA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1D2",
+        null
+      ],
+      [
+        null,
+        "FUNDAMENTOS FÍSICOS I - 1D",
+        null,
+        "Fundamentos Físicos I – 1D1 (NA3)",
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "CÁLCULO II - 1D (EA7)",
+        null,
+        "(EA6/SL11)",
+        null
+      ],
+      [
+        null,
+        "(EA7)",
+        null,
+        "Cálculo II – 1D2 (NA3)",
+        null,
+        "ECOM4 - (EA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Programación - 1D1 (OA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1D1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Fundamentos Físicos I – 1D2 (NA3)",
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        "PROGRAMACIÓN - 1D (EA7)",
+        "ANÁLISIS DE CIRCUITOS - 1D (EA7)",
+        null,
+        "(EA6/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Cálculo II – 1D1 (NA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Programación - 1D3 (OA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Análisis De Circuitos - 1D1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Fundamentos Físicos I – 1D2 (NA3)",
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        "PROGRAMACIÓN - 1D (EA7)",
+        "ANÁLISIS DE CIRCUITOS - 1D (EA7)",
+        null,
+        "(EA6/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Cálculo II – 1D1 (NA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Programación - 1D3 (OA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 5,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      182.38,
+      787.65,
+      456.76
+    ],
+    "n_rows": 31,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "Programming - 1E1 (OA6)",
+        null,
+        "CIRCUIT ANALYSIS - 1E (EA1B)",
+        "PROGRAMMING - 1E (SA5A)",
+        "Circuit Analysis - 1E1 (SA5A/SL11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "Programming - 1E1 (OA6)",
+        null,
+        "CIRCUIT ANALYSIS - 1E (EA1B)",
+        "PROGRAMMING - 1E (SA5A)",
+        "Circuit Analysis - 1E1 (SA5A/SL11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentals Of Physics I - 1E1",
+        null,
+        null,
+        "FUNDAMENTALS OF PHYSICS I - 1E",
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        "CALCULUS II - 1E (EA1B)",
+        null,
+        "Calculus II - 1E1 (SA5A)"
+      ],
+      [
+        null,
+        "(SA5A)",
+        null,
+        null,
+        "(SA5A)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentals Of Physics I - 1E1",
+        null,
+        null,
+        "FUNDAMENTALS OF PHYSICS I - 1E",
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        "CALCULUS II - 1E (EA1B)",
+        null,
+        "Calculus II - 1E1 (SA5A)"
+      ],
+      [
+        null,
+        "(SA5A)",
+        null,
+        null,
+        "(SA5A)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 6,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      194.48,
+      787.65,
+      528.76
+    ],
+    "n_rows": 47,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos - 1F1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "15:00/15:55",
+        "Cálculo II – 1F1 (EA2)",
+        "(SA1/SL11)",
+        "ANÁLISIS DE CIRCUITOS - 1F (EA2)",
+        "FUNDAMENTOS FÍSICOS I - 1F (EA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ECOT2 - (EA2)"
+      ],
+      [
+        null,
+        null,
+        "Programación - 1F3 (OA6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos - 1F1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "16:00/16:55",
+        "Cálculo II – 1F1 (EA2)",
+        "(SA1/SL11)",
+        "ANÁLISIS DE CIRCUITOS - 1F (EA2)",
+        "FUNDAMENTOS FÍSICOS I - 1F (EA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ECOT2 - (EA2)"
+      ],
+      [
+        null,
+        null,
+        "Programación - 1F3 (OA6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos - 1F2",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA –"
+      ],
+      [
+        "17:00/17:55",
+        "Fundamentos Físicos I – 1F1 (EA2)",
+        "(SA1/SL11)",
+        "CÁLCULO II - 1F (EA2)",
+        "PROGRAMACIÓN - 1F (EA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ECOT2 - (EA2)"
+      ],
+      [
+        null,
+        null,
+        "Programación - 1F1 (EL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos - 1F2",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        "Fundamentos Físicos I – 1F1 (EA2)",
+        "(SA1/SL11)",
+        "CÁLCULO II - 1F (EA2)",
+        "PROGRAMACIÓN - 1F (EA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Programación - 1F1 (EL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos – 1F3",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA1/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        "Análisis De Circuitos - 1F4",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA3/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Programación - 1F2 (EL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis De Circuitos - 1F3",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA1/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "Análisis De Circuitos - 1F4",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA3/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Programación - 1F2 (EL8)",
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 7,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      194.48,
+      787.65,
+      528.96
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ELECTRÓNICA DE CIRCUITOS - 2A",
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        "ELECTRÓNICA DIGITAL - 2A (SA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA2)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Propagación De Ondas - 2A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ELECTRÓNICA DE CIRCUITOS - 2A",
+        "ARQUITECTURA DE REDES II - 2A",
+        "(EA3/PL14/PL15)",
+        null
+      ],
+      [
+        "10:00/10:55",
+        "ELECTRÓNICA DIGITAL - 2A (SA2)",
+        null,
+        null,
+        null,
+        "Arq. De Redes II - 2A2 (EL11)"
+      ],
+      [
+        null,
+        null,
+        "(SA2)",
+        "(SA2)",
+        "Teoría De La Comunicación - 2A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(EA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Propagación De Ondas - 2A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ELECTRÓNICA DE CIRCUITOS - 2A",
+        "ARQUITECTURA DE REDES II - 2A",
+        "(EA3/PL14/PL15)",
+        null
+      ],
+      [
+        "11:00/11:55",
+        "ELECTRÓNICA DIGITAL - 2A (SA2)",
+        null,
+        null,
+        null,
+        "Arq. De Redes II - 2A2 (EL11)"
+      ],
+      [
+        null,
+        null,
+        "(SA2)",
+        "(SA2)",
+        "Teoría De La Comunicación - 2A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(EA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Electrónica De Circuitos - 2A1 (OL8)",
+        "Propagación De Ondas - 2A1",
+        "Electrónica De Circuitos - 2A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "PROPAGACIÓN DE ONDAS - 2A",
+        "TEORÍA DE LA COMUNICACIÓN - 2A",
+        "Electrónica De Circuitos - 2A4 (OL8)",
+        "(EA3/PL14/PL15)",
+        "(EA7/OL8)"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA2)",
+        "(SA2)",
+        "Electrónica Digital - 2A2 (OL7/OL10)",
+        "Teoría De La Comunicación - 2A2",
+        "Electrónica De Circuitos - 2A3 (OL8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Electrónica Digital - 2A3 (OL7/OL10)",
+        "(EA8)",
+        "Electrónica Digital - 2A1 (OL7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Electrónica De Circuitos - 2A1 (OL8)",
+        "Propagación De Ondas - 2A1",
+        "Electrónica De Circuitos - 2A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "PROPAGACIÓN DE ONDAS - 2A",
+        "TEORÍA DE LA COMUNICACIÓN - 2A",
+        "Electrónica De Circuitos - 2A4 (OL8)",
+        "(EA3/PL14/PL15)",
+        "(EA7/OL8)"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA2)",
+        "(SA2)",
+        "Electrónica Digital - 2A2 (OL7/OL10)",
+        "Teoría De La Comunicación - 2A2",
+        "Electrónica De Circuitos - 2A3 (OL8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Electrónica Digital - 2A3 (OL7/OL10)",
+        "(EA8)",
+        "Electrónica Digital - 2A1 (OL7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 8,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      194.48,
+      787.65,
+      547.01
+    ],
+    "n_rows": 49,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        "ELECT. DE CIRCUITOS - 2B (EA4)",
+        null,
+        "ELECTRÓNICA DIGITAL - 2B (EA4)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Electrónica De Circuitos - 2B1",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA8/OL8)",
+        null,
+        null,
+        "Electrónica De Circuitos - 2B2 (OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        "PROPAGACIÓN DE ONDAS - 2B",
+        "TEORÍA DE LA COMUNICACIÓN - 2B",
+        null,
+        "Teoría De La Comunicación - 2B2"
+      ],
+      [
+        "10:00/10:55",
+        "Electrónica De Circuitos - 2B4 (OL8)",
+        null,
+        null,
+        "Electrónica De Circuitos - 2B3 (OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA4)",
+        "(EA4)",
+        null,
+        "(EA3)"
+      ],
+      [
+        null,
+        "Electrónica Digital - 2B2 (OL7/OL10)",
+        null,
+        null,
+        "Electrónica Digital - 2B1 (OL7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Electrónica Digital - 2B3 (OL7/OL10)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Electrónica De Circuitos - 2B1",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA8/OL8)",
+        null,
+        null,
+        "Electrónica De Circuitos - 2B2 (OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        "PROPAGACIÓN DE ONDAS - 2B",
+        "TEORÍA DE LA COMUNICACIÓN - 2B",
+        null,
+        "Teoría De La Comunicación - 2B2"
+      ],
+      [
+        "11:00/11:55",
+        "Electrónica De Circuitos - 2B4 (OL8)",
+        null,
+        null,
+        "Electrónica De Circuitos - 2B3 (OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA4)",
+        "(EA4)",
+        null,
+        "(EA3)"
+      ],
+      [
+        null,
+        "Electrónica Digital - 2B2 (OL7/OL10)",
+        null,
+        null,
+        "Electrónica Digital - 2B1 (OL7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Electrónica Digital - 2B3 (OL7/OL10)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Propagación De Ondas - 2B2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "ARQUITECTURA DE REDES II - 2B",
+        "(SA8/PL14/PL15)"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "ELECTRÓNICA DIGITAL - 2B (EA4)",
+        "ELECT. DE CIRCUITOS - 2B (EA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(EA4)",
+        "Teoría De La Comunicación - 2B1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(EA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Propagación De Ondas - 2B2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "ARQUITECTURA DE REDES II - 2B",
+        "(SA8/PL14/PL15)"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "ELECTRÓNICA DIGITAL - 2B (EA4)",
+        "ELECT. DE CIRCUITOS - 2B (EA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(EA4)",
+        "Teoría De La Comunicación - 2B1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(EA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes II - 2B1 (lab)"
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        "Propagación De Ondas - 2B3 (EA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes II - 2B2 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes II - 2B1 (lab)"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        "Propagación De Ondas - 2B3 (EA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes II - 2B2 (lab)"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 9,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      194.48,
+      787.65,
+      541.06
+    ],
+    "n_rows": 47,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Arq. Redes II - 2C1 (lab)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Arq. Redes II - 2C2 (lab)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Arq. Redes II - 2C1 (lab)",
+        null,
+        null,
+        "ELECTRÓNICA DE CIRCUITOS - 2C",
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        "ELECTRÓNICA DIGITAL - 2C (EA5)"
+      ],
+      [
+        null,
+        "Arq. Redes II - 2C2 (lab)",
+        null,
+        null,
+        "(SA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Propagación De Ondas - 2C2",
+        null,
+        null,
+        null,
+        "Electrónica De Circuitos - 2C2 (OL8)"
+      ],
+      [
+        null,
+        null,
+        "TEORÍA DE LA COMUNICACIÓN - 2C",
+        null,
+        "ELECTRÓNICA DE CIRCUITOS - 2C",
+        null
+      ],
+      [
+        "10:00/10:55",
+        "(SA8/PL14/PL15)",
+        null,
+        "ELECTRÓNICA DIGITAL - 2C (EA5)",
+        null,
+        "Electrónica De Circuitos - 2C3 (OL8)"
+      ],
+      [
+        null,
+        null,
+        "(EA5)",
+        null,
+        "(SA2)",
+        null
+      ],
+      [
+        null,
+        "Teoría De La Comun. - 2C1 (EA3)",
+        null,
+        null,
+        null,
+        "Electrónica Digital - 2C1 (OL7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Propagación De Ondas - 2C2",
+        null,
+        null,
+        null,
+        "Electrónica De Circuitos - 2C2 (OL8)"
+      ],
+      [
+        null,
+        null,
+        "TEORÍA DE LA COMUNICACIÓN - 2C",
+        null,
+        "ELECTRÓNICA DE CIRCUITOS - 2C",
+        null
+      ],
+      [
+        "11:00/11:55",
+        "(SA8/PL14/PL15)",
+        null,
+        "ELECTRÓNICA DIGITAL - 2C (EA5)",
+        null,
+        "Electrónica De Circuitos - 2C3 (OL8)"
+      ],
+      [
+        null,
+        null,
+        "(EA5)",
+        null,
+        "(SA2)",
+        null
+      ],
+      [
+        null,
+        "Teoría De La Comun. - 2C1 (EA3)",
+        null,
+        null,
+        null,
+        "Electrónica Digital - 2C1 (OL7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Elect. De Circuitos - 2C1 (SA1/OL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Propagación De Ondas - 2C1",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Elect. De Circuitos - 2C4 (SA1/OL8)",
+        "PROPAGACIÓN DE ONDAS - 2C",
+        "ARQUITECTURA DE REDES II - 2C",
+        null
+      ],
+      [
+        "12:00/12:55",
+        "(SA8/PL14/PL15)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica Digital - 2C2 (OL7)",
+        "(EA5)",
+        "(SA6)",
+        null
+      ],
+      [
+        null,
+        "Teoría De La Comun. - 2C2 (EA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica Digital - 2C3 (OL10)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Elect. De Circuitos - 2C1 (SA1/OL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Propagación De Ondas - 2C1",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Elect. De Circuitos - 2C4 (SA1/OL8)",
+        "PROPAGACIÓN DE ONDAS - 2C",
+        "ARQUITECTURA DE REDES II - 2C",
+        null
+      ],
+      [
+        "13:00/13:55",
+        "(SA8/PL14/PL15)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica Digital - 2C2 (OL7)",
+        "(EA5)",
+        "(SA6)",
+        null
+      ],
+      [
+        null,
+        "Teoría De La Comun. - 2C2 (EA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica Digital - 2C3 (OL10)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Propagación De Ondas - 2C3",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Propagación De Ondas - 2C3",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA3)",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 10,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      206.58,
+      787.65,
+      540.86
+    ],
+    "n_rows": 47,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Teoría De La Comunicación - 2D1",
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Teoría De La Comunicación - 2D1",
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        "ELECTRÓNICA DIGITAL – 2D (SA2)",
+        "ELECTRÓNICA DE CIRCUITOS – 2D (SA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Propagación De Ondas - 2D2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Teoría De La Comunicación -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3/PL14/PL15)",
+        null
+      ],
+      [
+        null,
+        "ARQUITECTURA DE REDES II",
+        null,
+        null,
+        null,
+        "2D2 (SA3)"
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "TEORÍA DE LA COMUNICACIÓN - 2D (SA2)",
+        "ELECTRÓNICA DE CIRCUITOS - 2D (SA2)",
+        "Electrónica De Circuitos - 2D1",
+        null
+      ],
+      [
+        null,
+        "- 2D (SA2)",
+        null,
+        null,
+        null,
+        "Electrónica Digital - 2D1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(EA3/OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(OL7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónica De Circuitos - 2D3 (OL12)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Propagación De Ondas - 2D2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Teoría De La Comunicación -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3/PL14/PL15)",
+        null
+      ],
+      [
+        null,
+        "ARQUITECTURA DE REDES II",
+        null,
+        null,
+        null,
+        "2D2 (SA3)"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "TEORÍA DE LA COMUNICACIÓN - 2D (SA2)",
+        "ELECTRÓNICA DE CIRCUITOS - 2D (SA2)",
+        "Electrónica De Circuitos - 2D1",
+        null
+      ],
+      [
+        null,
+        "- 2D (SA2)",
+        null,
+        null,
+        null,
+        "Electrónica Digital - 2D1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(EA3/OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(OL7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónica De Circuitos - 2D3 (OL12)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Electrónica Digital - 2D2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Propagación De Ondas - 2D1",
+        null
+      ],
+      [
+        null,
+        "PROPAGACIÓN DE ONDAS -",
+        null,
+        "Arq. De Redes II - 2D1 (lab)",
+        null,
+        "(OL7/OL10)"
+      ],
+      [
+        "17:00/17:55",
+        null,
+        "ELECTRÓNICA DIGITAL - 2D (SA2)",
+        null,
+        "(SA3/PL14/PL15)",
+        null
+      ],
+      [
+        null,
+        "2D (SA2)",
+        null,
+        "Arq. De Redes II - 2D2 (lab)",
+        null,
+        "Electrónica Digital - 2D3"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónica De Circuitos – 2D2 (OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(OL7/OL10)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Electrónica Digital - 2D2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Propagación De Ondas - 2D1",
+        null
+      ],
+      [
+        null,
+        "PROPAGACIÓN DE ONDAS -",
+        null,
+        "Arq. De Redes II - 2D1 (lab)",
+        null,
+        "(OL7/OL10)"
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "ELECTRÓNICA DIGITAL - 2D (SA2)",
+        null,
+        "(SA3/PL14/PL15)",
+        null
+      ],
+      [
+        null,
+        "2D (SA2)",
+        null,
+        "Arq. De Redes II - 2D2 (lab)",
+        null,
+        "Electrónica Digital - 2D3"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónica De Circuitos - 2D2 (OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(OL7/OL10)"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-Comunes-teleco-primero-segundo.pdf",
+    "page": 11,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      194.48,
+      787.65,
+      493.06
+    ],
+    "n_rows": 35,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Waves Propagation - 2E1",
+        "NETWORK ARCHITECTURE II - 2E",
+        null,
+        "Communication Theory - 2E1"
+      ],
+      [
+        "10:00/10:55",
+        "WAVES PROPAGATION - 2E (SA5B)",
+        null,
+        null,
+        "Digital Electronics - 2E1 (OL10)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA5B/PL14/PL15)",
+        "(SA5B)",
+        null,
+        "(EA1B)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Waves Propagation - 2E1",
+        "NETWORK ARCHITECTURE II - 2E",
+        null,
+        "Communication Theory - 2E1"
+      ],
+      [
+        "11:00/11:55",
+        "WAVES PROPAGATION - 2E (SA5B)",
+        null,
+        null,
+        "Digital Electronics - 2E1 (OL10)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA5B/PL14/PL15)",
+        "(SA5B)",
+        null,
+        "(EA1B)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Circuits Electronics - 2E1",
+        null,
+        "COMMUNICATION THEORY - 2E",
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "DIGITAL ELECTRONICS - 2E (SA5B)",
+        null,
+        "CIRCUITS ELECTRONICS - 2E (SA5B)",
+        "Network Architecture II - 2E1 (EL11)"
+      ],
+      [
+        null,
+        "(SA5B/OL8)",
+        null,
+        "(SA5B)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Circuits Electronics - 2E1",
+        null,
+        "COMMUNICATION THEORY - 2E",
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "DIGITAL ELECTRONICS - 2E (SA5B)",
+        null,
+        "CIRCUITS ELECTRONICS - 2E (SA5B)",
+        "Network Architecture II - 2E1 (EL11)"
+      ],
+      [
+        null,
+        "(SA5B/OL8)",
+        null,
+        "(SA5B)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        "DIGITAL ELECTRONICS - 2E (SA5B)",
+        null,
+        "CIRCUITS ELECTRONICS - 2E (SA5B)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

@@ -1,0 +1,1021 @@
+[
+  {
+    "source_file": "Semestre1-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.85,
+      505.61
+    ],
+    "n_rows": 47,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Electrónicos Digitales -"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "3B3 (OL1)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "SISTEMAS ELECTRÓNICOS",
+        "Sistemas Electrónicos Digitales -"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "DIGITALES - 3B (EA6)",
+        "3B3 (OL1)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Redes De Comunicaciones - 3B1",
+        "Comunicaciones Digitales - 3B1",
+        "Sistemas Electrónicos Digitales -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TRATAMIENTO DIGITAL DE",
+        "SISTEMAS ELECTRÓNICOS DIGITALES",
+        "(EL10)",
+        "(EA5)",
+        "3B2 (OL1)"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SEÑALES - 3B (OA1)",
+        "- 3B (NA6)",
+        "Redes De Comunicaciones - 3B2",
+        "Tratamiento Digital De Señales -",
+        "Tecnologías De Alta Frecuencia -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(EL11)",
+        "3B2 (EA3)",
+        "3B1 (EA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Redes De Comunicaciones - 3B1",
+        "Comunicaciones Digitales - 3B1",
+        "Sistemas Electrónicos Digitales -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TRATAMIENTO DIGITAL DE",
+        "SISTEMAS ELECTRÓNICOS DIGITALES",
+        "(EL10)",
+        "(EA5)",
+        "3B2 (OL1)"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SEÑALES - 3B (OA1)",
+        "- 3B (NA6)",
+        "Redes De Comunicaciones - 3B2",
+        "Tratamiento Digital De Señales -",
+        "Tecnologías De Alta Frecuencia -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(EL11)",
+        "3B2 (EA3)",
+        "3B1 (EA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Digitales - 3B2",
+        "Sistemas Electrónicos Digitales -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "COMUNICACIONES DIGITALES - 3B",
+        "REDES DE COMUNICACIONES - 3B",
+        "TECNOLOGIAS DE ALTA",
+        "(EA5)",
+        "3B1 (OL1)"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA3)",
+        "(EA2)",
+        "FRECUENCIA - 3B (EA4)",
+        "Tratamiento Digital De Señales -",
+        "Tecnologías De Alta Frecuencia -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "3B1 (EA3)",
+        "3B2 (EA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Digitales - 3B2",
+        "Sistemas Electrónicos Digitales -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "COMUNICACIONES DIGITALES - 3B",
+        "REDES DE COMUNICACIONES - 3B",
+        "TECNOLOGIAS DE ALTA",
+        "(EA5)",
+        "3B1 (OL1)"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA3)",
+        "(EA2)",
+        "FRECUENCIA - 3B (EA4)",
+        "Tratamiento Digital De Señales -",
+        "Tecnologías De Alta Frecuencia -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "3B1 (EA3)",
+        "3B2 (EA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GIST-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.55,
+      433.41
+    ],
+    "n_rows": 31,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "DIGITAL ELECTRONIC SYSTEMS - 3E",
+        "DIGITAL ELECTRONIC SYSTEMS - 3E",
+        "Digital Electronic Systems - 3E1",
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA6)",
+        "(EA6)",
+        "(OL1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "DIGITAL ELECTRONIC SYSTEMS - 3E",
+        "Digital Electronic Systems - 3E1",
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(EA6)",
+        "(OL1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GIST-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.85,
+      481.41
+    ],
+    "n_rows": 43,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Móviles - 4B1",
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "Tecn. Inalámbricas - 4B1 (PL14)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(OA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Móviles - 4B1",
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "Tecn. Inalámbricas - 4B1 (PL14)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(OA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "PROGRAMACIÓN VISUAL - 4D (EL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "COMUNICACIONES MÓVILES - 4B",
+        null,
+        "PROCESADO DE VOZ Y AUDIO - 4B",
+        "TECNOLOGÍAS INALÁMBRICAS - 4B",
+        "AMPLIACIÓN DE SISTEMAS DE"
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "RADIODETERMINACION Y RADAR -",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA2)",
+        null,
+        "(SL7)",
+        "(EA2)",
+        "TELECOMUNICACIÓN - 4B (EA6)"
+      ],
+      [
+        null,
+        null,
+        "4B (SL7)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "PROGRAMACIÓN VISUAL - 4D (EL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "COMUNICACIONES MÓVILES - 4B",
+        null,
+        "PROCESADO DE VOZ Y AUDIO - 4B",
+        "TECNOLOGÍAS INALÁMBRICAS - 4B",
+        "AMPLIACIÓN DE SISTEMAS DE"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "RADIODETERMINACION Y RADAR -",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA2)",
+        null,
+        "(SL7)",
+        "(EA2)",
+        "TELECOMUNICACIÓN - 4B (EA6)"
+      ],
+      [
+        null,
+        null,
+        "4B (SL7)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Procesado De Voz Y Audio - 4B1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "PROCESADO DE IMAGEN Y VISIÓN",
+        null,
+        "COMUNICACIONES POR SATELITE -",
+        "Radiodeterminacion Y Radar - 4B1",
+        "Procesado De Imagen Y Visión Por"
+      ],
+      [
+        "17:00/17:55",
+        null,
+        "(SL7)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "POR COMPUTADOR - 4B (SL7)",
+        null,
+        "4B (EA5)",
+        "(SL10)",
+        "Computador - 4B1 (SL7)"
+      ],
+      [
+        null,
+        null,
+        "Program. Visual - 4D1 (EL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Procesado De Voz Y Audio - 4B1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "PROCESADO DE IMAGEN Y VISIÓN",
+        null,
+        "COMUNICACIONES POR SATELITE -",
+        "Radiodeterminacion Y Radar - 4B1",
+        "Procesado De Imagen Y Visión Por"
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "(SL7)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "POR COMPUTADOR - 4B (SL7)",
+        null,
+        "4B (EA5)",
+        "(SL10)",
+        "Computador - 4B1 (SL7)"
+      ],
+      [
+        null,
+        null,
+        "Program. Visual - 4D1 (EL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Comunicaciones Por Satelite - 4B1",
+        "Ampliación De Sistemas De",
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA7)",
+        "Telecomunicación - 4B1 (EA5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Comunicaciones Por Satelite - 4B1",
+        "Ampliación De Sistemas De",
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA7)",
+        "Telecomunicación - 4B1 (EA5)",
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

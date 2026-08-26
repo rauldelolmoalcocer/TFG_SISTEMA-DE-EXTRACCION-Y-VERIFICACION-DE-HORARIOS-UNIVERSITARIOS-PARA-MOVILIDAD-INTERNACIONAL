@@ -1,0 +1,1522 @@
+[
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 1,
+    "strategy": "text",
+    "table_index": 0,
+    "bbox": [
+      47.64,
+      35.24,
+      790.96,
+      580.97
+    ],
+    "n_rows": 45,
+    "n_cols": 9,
+    "rows": [
+      [
+        "Escuela",
+        "Politécnica",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "Superior",
+        null,
+        "M",
+        "ASTER",
+        "UNIVERSITARIO EN",
+        "INGENIERÍA",
+        "INDUSTRIAL (MUII)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "CUATRIMESTRE 1",
+        "º (Curso 1º, Sem",
+        "estre 1º",
+        ")",
+        "Curso",
+        "2026/27",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "HORA",
+        "LUNES",
+        null,
+        null,
+        "MARTES",
+        "MIÉRCOLE",
+        "S JUE",
+        "VES VIERN",
+        "ES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/ 13:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "201",
+        "986-Técnicas de Fa",
+        "bricación",
+        null,
+        null,
+        "201984-CF: MECÁ",
+        "NICA DE",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "201979-CF:",
+        "QUÍMICA"
+      ],
+      [
+        null,
+        "y Producción-G3 (OL",
+        "P10)",
+        "20198",
+        "3-CF: MECÁNICA DE",
+        "ESTRUCTURAS",
+        "201986-TÉ",
+        "CNICAS DE",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "FLUID",
+        "OS EN APLICACIONES",
+        null,
+        "(SA3)\nFABRICACIÓN",
+        "INDUSTRIAL\nY PRODUCCIÓN",
+        "(SA3) [2]"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "201987-Técnicas",
+        "de",
+        null,
+        "INDUSTRIALES\n20",
+        "1986-Técnicas de",
+        "(G\nFabricación",
+        "1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3/OLPFL)",
+        null,
+        "(SA3/O",
+        "LP10) [1]",
+        null
+      ],
+      [
+        null,
+        "Automatización-G3",
+        "(EL9)",
+        null,
+        null,
+        "y Producción-G2",
+        "(OLP10)",
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "201982-CF: ECA.",
+        "ANALÓGICA"
+      ],
+      [
+        "18:00/18:55",
+        "201987-TÉCNICAS",
+        "DE",
+        null,
+        null,
+        null,
+        null,
+        "DIGITAL (",
+        "OL10)"
+      ],
+      [
+        null,
+        "AUTOMATIZACIÓN",
+        "-G1",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA3/EL9)",
+        null,
+        null,
+        "2",
+        "01994-ADMINIST",
+        "201980-CF: EQ.\nRACIÓN Y",
+        "DIFERENCIALES",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "207981",
+        "-CF: ELECTROTECNIA",
+        null,
+        "Y MÉTODOS",
+        "NUMÉRICOS",
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        "DIRECCIÓN DE EM",
+        "PRESAS\n(",
+        ")",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3)",
+        null,
+        "SA3",
+        "/OA7",
+        null
+      ],
+      [
+        null,
+        "201987-Técnicas",
+        "de",
+        null,
+        null,
+        "(SA3)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Automatización-G2",
+        "(EL9)",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "[1] Esta asignatura s",
+        "olo tiene 3 semanas",
+        "en grupo",
+        "reducido",
+        "(1, 2, 3), yendo el resto de d",
+        "ías todos los estu",
+        "diantes al GP 1 (jueves de 15",
+        "a 18 horas)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "[2] Las prácticas de",
+        "laboratorio se llevar",
+        "án a cabo",
+        "en el Edif",
+        "icio de Farmacia, Módulo I,",
+        "durante la última",
+        "semana del cuatrimestre (del",
+        "11 al 15 de enero) en horario de 15",
+        "a 18h."
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "AULAS (planta baja):",
+        "SA3=Sur-A3.",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "LABORATORIOS (1ª",
+        "planta): EL9=Este-L9",
+        ", OL10=Oe",
+        "ste-L10,",
+        "OLP10=Oeste-Pesados-Fabri",
+        "cación (OLP10); O",
+        "LPFL=Oeste-Pesados-Fluidoté",
+        "rmica (OLP16).",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "s horarios podrán camb",
+        "iar ocasionalmente po",
+        "r reajustes",
+        "de carga n",
+        "o previstos.",
+        null,
+        null,
+        "Aprobado en Junta de Ce",
+        "ntro: 30/06/2"
+      ],
+      [
+        "da alumno asistirá a un",
+        "único grupo reducido",
+        "de entre lo",
+        "s publicad",
+        "os para cada asignatura (en min",
+        "úscula y cursiva).",
+        "Consulte versió",
+        "n actualizada en: http://www.uah.es/es",
+        "cuela-politec"
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 15, col 6",
+        "table_index": 0,
+        "row_index": 15,
+        "col_index": 6
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 15, col 7",
+        "table_index": 0,
+        "row_index": 15,
+        "col_index": 7
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 18, col 4",
+        "table_index": 0,
+        "row_index": 18,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 18, col 6",
+        "table_index": 0,
+        "row_index": 18,
+        "col_index": 6
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 28, col 6",
+        "table_index": 0,
+        "row_index": 28,
+        "col_index": 6
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 30, col 6",
+        "table_index": 0,
+        "row_index": 30,
+        "col_index": 6
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 2,
+    "strategy": "text",
+    "table_index": 0,
+    "bbox": [
+      68.28,
+      116.33,
+      772.69,
+      580.97
+    ],
+    "n_rows": 43,
+    "n_cols": 9,
+    "rows": [
+      [
+        "UATRIMESTRE 3º (Curso 2º",
+        ", Semestre 1º)",
+        null,
+        "C",
+        "urso 202",
+        "6/2027",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "HORA LUNES",
+        "MAR",
+        "TES",
+        null,
+        "MI",
+        "ÉRCOLES",
+        "JUEVES V",
+        "IERNES",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/ 13:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "202000-C",
+        "onstruccion",
+        "es y",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "U",
+        "rbanismo",
+        "Industrial-3",
+        "(NA8)\n202000-C",
+        "onstruccion",
+        "es y"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Urbanismo",
+        "Industrial-1",
+        "( )"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "202000-C",
+        "onstruccion",
+        "es y",
+        null,
+        "NA8"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "U",
+        "rbanismo",
+        "Industrial-3",
+        "(NA8)",
+        null,
+        null
+      ],
+      [
+        null,
+        "201993-OPERAC",
+        "IONES BÁSICAS",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "E ING. DE LA",
+        "REACCIÓN",
+        null,
+        "201996-DI",
+        "REC. PROYE",
+        "CTOS\n202000-CO",
+        "NSTRUCCIO",
+        "NES Y"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        "QUÍM",
+        "ICA",
+        null,
+        "INDUST.",
+        "E INNOVACI",
+        "ÓN\nURBANISMO",
+        "INDUSTRIA",
+        "L (NA8"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "TECNOLÓ",
+        "GICA ( )",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "EA2 (",
+        "E.F.)",
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA2)",
+        "[1]",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "202000-C",
+        "onstruccion",
+        "es y"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "201996-DIREC. PROYECTOS Urbanismo",
+        "Industrial-2",
+        "(NA8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "201998-I",
+        "NSTALACIO",
+        "NES",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        "INDUST",
+        "RIALES II (",
+        "INDUST. E INNOVACIÓN\n)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "EA",
+        "2",
+        null,
+        null
+      ],
+      [
+        null,
+        "201999-INGE",
+        "NIERÍA DEL",
+        null,
+        null,
+        null,
+        "TECNOLÓGICA (NA8) (E.F.)",
+        null,
+        null
+      ],
+      [
+        null,
+        "TRANSPOR",
+        "TE (EA2)",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "as prácticas de laboratorio se lle",
+        "varán a cabo en el Labor",
+        "atorio 1L5 del Edifi",
+        "ci",
+        "o Polivale",
+        "nte en fecha",
+        "s a anunciar.",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "S (planta baja): NA8=Norte-A8;",
+        "EA2=Este-A2.",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rios podrán cambiar ocasionalment",
+        "e por reajustes de carga no",
+        "previstos.",
+        null,
+        null,
+        null,
+        "Aprobado en J",
+        "unta de Cent",
+        "ro: 30/"
+      ],
+      [
+        "mno asistirá a un único grupo reduc",
+        "ido de entre los publicados",
+        "para cada asignatura",
+        "(",
+        "en minúscu",
+        "la y cursiva).",
+        "Consulte versión actualizada en: http://ww",
+        "w.uah.es/escu",
+        "ela-po"
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 10, col 6",
+        "table_index": 0,
+        "row_index": 10,
+        "col_index": 6
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 19, col 6",
+        "table_index": 0,
+        "row_index": 19,
+        "col_index": 6
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 21, col 6",
+        "table_index": 0,
+        "row_index": 21,
+        "col_index": 6
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 31, col 6",
+        "table_index": 0,
+        "row_index": 31,
+        "col_index": 6
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre1_MUII.pdf",
+    "page": 3,
+    "strategy": "text",
+    "table_index": 0,
+    "bbox": [
+      54.48,
+      99.68,
+      780.4,
+      580.97
+    ],
+    "n_rows": 40,
+    "n_cols": 8,
+    "rows": [
+      [
+        "Compati",
+        "bilidad de horari",
+        "o en 1er",
+        "Cuatrimestre, para estudiantes de GI",
+        "TI, que pueden cursar",
+        "estas asignaturas",
+        "de 2º curso",
+        "1er-C."
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "• Asi",
+        "gnaturas de 1er",
+        "curso: e",
+        "n color Azul",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "• Asi",
+        "gnaturas de 2o c",
+        "urso: en",
+        "color Verde",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "UATRIMESTRE 1",
+        "º (Curso 1º, Sem",
+        "estre 1º",
+        "- alumnos de GITI) Curso 2026",
+        "/27",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "HORA",
+        "LUNES",
+        null,
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        null,
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/ 13:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "201",
+        "986-Técnicas de Fa",
+        "bricación",
+        null,
+        null,
+        null,
+        null,
+        "202000-Construcciones"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "y Producción-3 (OL",
+        "P10)",
+        null,
+        null,
+        "201986-TÉCNICAS",
+        "DE\nUr",
+        "banismo Industrial-1 (N"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "F",
+        "ABRICACIÓN Y PRODU",
+        "CCIÓN-",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "201987-Técnicas",
+        "de",
+        null,
+        null,
+        "G1",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "( )",
+        null,
+        null
+      ],
+      [
+        null,
+        "Automatización-3 (",
+        "EL9)",
+        "201993-OPERACIONES BÁSICAS\n201996",
+        "-DIREC. PROYECTOS",
+        "SA3/OLP10",
+        "2",
+        "02000-CONSTRUCCION"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "E ING. DE LA REACCIÓN",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        "INDUS\nQUÍMICA",
+        "T. E INNOVACIÓN",
+        null,
+        null,
+        "URBANISMO INDUSTRI"
+      ],
+      [
+        null,
+        null,
+        null,
+        "TECNO",
+        "LÓGICA ( )",
+        null,
+        null,
+        "(NA8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "EA2 (E.F.)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(EA2) [1]",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        "201987-TÉCNICAS",
+        "DE",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "AUTOMATIZACIÓN",
+        "-G1",
+        null,
+        null,
+        null,
+        null,
+        "202000-Construcciones"
+      ],
+      [
+        null,
+        "(SA3/EL9)",
+        null,
+        "201994-",
+        "ADMINISTRACIÓN Y",
+        "201996-DIREC. PROYE",
+        "CTOS Ur",
+        "banismo Industrial-2 (N"
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        "DIRECC",
+        "IÓN DE EMPRESAS",
+        "INDUST. E INNOVAC",
+        "IÓN",
+        null
+      ],
+      [
+        null,
+        "201987-Técnicas",
+        "de",
+        "201999-INGENIERÍA DEL",
+        "(SA3)",
+        "TECNOLÓGICA (NA8)",
+        "(E.F.)",
+        null
+      ],
+      [
+        null,
+        "Automatización-G2",
+        "(EL9)",
+        "TRANSPORTE (EA2)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "horarios podrán camb",
+        "iar ocasionalmente po",
+        "r reajustes",
+        "de carga no previstos.",
+        null,
+        null,
+        "Aprobado",
+        "en Junta de Centro: 30/06"
+      ],
+      [
+        "a alumno asistirá a un",
+        "único grupo reducido",
+        "de entre los",
+        "publicados para cada asignatura (en minúscula y",
+        "cursiva). C",
+        "onsulte versión actualiz",
+        "ada en: http://",
+        "www.uah.es/escuela-polit"
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 15, col 6",
+        "table_index": 0,
+        "row_index": 15,
+        "col_index": 6
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 21, col 3",
+        "table_index": 0,
+        "row_index": 21,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 24, col 3",
+        "table_index": 0,
+        "row_index": 24,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 0, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 0
+      }
+    ]
+  }
+]

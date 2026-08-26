@@ -1,0 +1,71 @@
+[
+  {
+    "source_file": "Comienzo-Clases-1Q2627.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      69.02,
+      490.49,
+      325.95,
+      503.24
+    ],
+    "n_rows": 1,
+    "n_cols": 11,
+    "rows": [
+      [
+        "La",
+        "reserva",
+        "de",
+        "aulas",
+        "debe",
+        "hacerse",
+        "a",
+        "través",
+        "del",
+        null,
+        "enlace"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Comienzo-Clases-1Q2627.pdf",
+    "page": 5,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      116.66,
+      316.14,
+      461.61,
+      332.64
+    ],
+    "n_rows": 1,
+    "n_cols": 20,
+    "rows": [
+      [
+        "La",
+        null,
+        "reserva",
+        null,
+        "de",
+        null,
+        "aulas",
+        null,
+        "debe",
+        null,
+        "hacerse",
+        null,
+        "a",
+        null,
+        "través",
+        null,
+        "del",
+        null,
+        "enlace",
+        "."
+      ]
+    ],
+    "warnings": []
+  }
+]

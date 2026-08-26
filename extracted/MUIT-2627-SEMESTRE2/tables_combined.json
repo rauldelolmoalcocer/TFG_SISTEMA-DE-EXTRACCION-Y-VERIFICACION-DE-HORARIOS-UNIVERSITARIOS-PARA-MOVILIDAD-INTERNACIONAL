@@ -1,0 +1,171 @@
+[
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      113.56,
+      163.88,
+      1266.25,
+      265.23
+    ],
+    "n_rows": 19,
+    "n_cols": 6,
+    "rows": [
+      [
+        null,
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes"
+      ],
+      [
+        null,
+        "TECNOLOGÍAS DE RADIONAVEGACIÓN,",
+        "TECNOLOGÍAS DE RADIONAVEGACIÓN,",
+        "ARQUITECTURA DE NUEVAS",
+        null,
+        null
+      ],
+      [
+        "15:00-16:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "TECNOLOGÍAS DE INTERNET (GP)",
+        "INTERNET DE LAS COSAS (GP)"
+      ],
+      [
+        null,
+        "RADAR Y POSICIONAMIENTO (GG)",
+        "RADAR Y POSICIONAMIENTO (GP)",
+        "TECNOLOGÍAS DE COMUNICACIÓN (GP)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(OA3)",
+        "(OA3)"
+      ],
+      [
+        "16:00-17:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(OA3)",
+        "(OA3)",
+        "(OA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "ARQUITECTURA DE NUEVAS",
+        null,
+        null
+      ],
+      [
+        "17:00-18:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ELECTRONICA DE COMUNICACIONES (GP)",
+        "ELECTRONICA DE COMUNICACIONES (GG)",
+        null,
+        "TECNOLOGÍAS DE INTERNET (GG)",
+        "INTERNET DE LAS COSAS (GG)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "TECNOLOGÍAS DE COMUNICACIÓN (GG)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(OA3)",
+        "(OA3)",
+        null,
+        "(OA3)",
+        "(OA3)"
+      ],
+      [
+        "18:00-19:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(OA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

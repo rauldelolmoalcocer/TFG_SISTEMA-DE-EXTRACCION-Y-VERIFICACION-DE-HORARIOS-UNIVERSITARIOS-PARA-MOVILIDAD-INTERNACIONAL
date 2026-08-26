@@ -1,0 +1,281 @@
+{
+  "source_file": "Semestre2_MUII.pdf",
+  "page_count": 4,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 226,
+      "line_count": 0,
+      "rect_count": 209,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 9,
+              "columns": 10,
+              "bbox": [
+                39.03,
+                116.48,
+                779.37,
+                368.44
+              ],
+              "warning_count": 16
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 36,
+              "columns": 10,
+              "bbox": [
+                46.02,
+                120.44,
+                731.8,
+                572.99
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 27,
+              "columns": 10,
+              "bbox": [
+                39.03,
+                120.44,
+                779.37,
+                356.96
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 3, col 1",
+        "[lines] Multiline cell detected at row 3, col 3",
+        "[lines] Multiline cell detected at row 3, col 5",
+        "[lines] Multiline cell detected at row 3, col 7",
+        "[lines] Multiline cell detected at row 3, col 9",
+        "[lines] Multiline cell detected at row 4, col 9",
+        "[lines] Multiline cell detected at row 5, col 1",
+        "[lines] Multiline cell detected at row 5, col 3",
+        "[lines] Multiline cell detected at row 5, col 5",
+        "[lines] Multiline cell detected at row 5, col 7",
+        "[lines] Multiline cell detected at row 6, col 5",
+        "[lines] Multiline cell detected at row 7, col 1",
+        "[lines] Multiline cell detected at row 7, col 3",
+        "[lines] Multiline cell detected at row 7, col 5",
+        "[lines] Multiline cell detected at row 7, col 7",
+        "[lines] Multiline cell detected at row 7, col 9"
+      ]
+    },
+    {
+      "page_number": 2,
+      "word_count": 118,
+      "line_count": 0,
+      "rect_count": 212,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 9,
+              "columns": 10,
+              "bbox": [
+                50.21,
+                112.94,
+                783.43,
+                328.54
+              ],
+              "warning_count": 4
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 31,
+              "columns": 5,
+              "bbox": [
+                58.32,
+                33.16,
+                641.36,
+                572.99
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 19,
+              "columns": 10,
+              "bbox": [
+                50.21,
+                116.9,
+                783.43,
+                319.88
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 4, col 1",
+        "[lines] Multiline cell detected at row 4, col 3",
+        "[lines] Multiline cell detected at row 4, col 5",
+        "[lines] Multiline cell detected at row 4, col 7"
+      ]
+    },
+    {
+      "page_number": 3,
+      "word_count": 142,
+      "line_count": 0,
+      "rect_count": 217,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 9,
+              "columns": 10,
+              "bbox": [
+                43.05,
+                130.04,
+                772.29,
+                348.34
+              ],
+              "warning_count": 6
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 35,
+              "columns": 6,
+              "bbox": [
+                51.48,
+                33.16,
+                600.88,
+                572.99
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 17,
+              "columns": 10,
+              "bbox": [
+                43.05,
+                134.0,
+                772.29,
+                339.68
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 3, col 1",
+        "[lines] Multiline cell detected at row 3, col 3",
+        "[lines] Multiline cell detected at row 3, col 5",
+        "[lines] Multiline cell detected at row 3, col 7",
+        "[lines] Multiline cell detected at row 5, col 3",
+        "[lines] Multiline cell detected at row 5, col 5"
+      ]
+    },
+    {
+      "page_number": 4,
+      "word_count": 88,
+      "line_count": 0,
+      "rect_count": 224,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 9,
+              "columns": 10,
+              "bbox": [
+                43.07,
+                112.94,
+                772.27,
+                328.78
+              ],
+              "warning_count": 1
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 28,
+              "columns": 2,
+              "bbox": [
+                51.48,
+                33.16,
+                197.68,
+                572.99
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 16,
+              "columns": 10,
+              "bbox": [
+                43.07,
+                116.9,
+                772.27,
+                320.12
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "text",
+      "warnings": [
+        "[lines] Multiline cell detected at row 4, col 1"
+      ]
+    }
+  ]
+}

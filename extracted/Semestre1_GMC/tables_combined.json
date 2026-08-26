@@ -1,0 +1,2080 @@
+[
+  {
+    "source_file": "Semestre1_GMC.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      53.1,
+      159.38,
+      772.86,
+      287.56
+    ],
+    "n_rows": 17,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/10:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "LENGUAJE Y RAZONAMIENTO",
+        "LENGUAJE Y RAZONAMIENTO"
+      ],
+      [
+        null,
+        null,
+        null,
+        "ANÁLISIS MATEMÁTICO I",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "MATEMÁTICOS",
+        "MATEMÁTICOS (*)"
+      ],
+      [
+        "10:00/12:00",
+        "FESTIVO",
+        "FESTIVO",
+        "1A",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "1A",
+        "1A"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula 5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(Aula 5)",
+        "(Aula 5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "ÁLGEBRA LINEAL",
+        "ANÁLISIS MATEMÁTICO I",
+        "ÁLGEBRA LINEAL (*)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/14:00",
+        "FESTIVO",
+        "FESTIVO",
+        "1A",
+        "1A",
+        "1A"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula 5)",
+        "(Aula 9)",
+        "(Aula 5)"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GMC.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      53.1,
+      147.28,
+      772.86,
+      323.86
+    ],
+    "n_rows": 25,
+    "n_cols": 8,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        null,
+        "JUEVES",
+        "VIERNES",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentos de",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Fundamentos de Programación",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Computadores",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/10:00",
+        null,
+        "1A1",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "1A1",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(Aula De Informática Grande)",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula De Informática Grande)",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentos de",
+        null,
+        null,
+        "Análisis",
+        "Lenguaje y Razonamiento",
+        "Lenguaje y",
+        "Lenguaje y"
+      ],
+      [
+        null,
+        null,
+        "Fundamentos de Programación",
+        "Álgebra Lineal",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Computadores",
+        null,
+        null,
+        "Matemático I",
+        "Matemáticos",
+        "Razonamiento",
+        "Razonamiento"
+      ],
+      [
+        "10:00/12:00",
+        null,
+        "1A",
+        "1A2",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "1A",
+        null,
+        null,
+        "1A1",
+        "1A",
+        "Matemáticos (*)",
+        "Matemáticos (*)"
+      ],
+      [
+        null,
+        null,
+        "(Aula 5)",
+        "(Aula 5)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula 5)",
+        null,
+        null,
+        "(Aula 4)",
+        "(Aula 5)",
+        "1A1 (Aula 4)",
+        "1A2 (Aula 5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentos de",
+        null,
+        "Análisis",
+        null,
+        null,
+        "Álgebra Lineal (*)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Fundamentos de Programación",
+        null,
+        "Álgebra Lineal",
+        "Análisis Matemático I",
+        null,
+        null
+      ],
+      [
+        null,
+        "Computadores",
+        null,
+        "Matemático I",
+        null,
+        null,
+        "1A",
+        null
+      ],
+      [
+        "12:00/14:00",
+        null,
+        "1A2",
+        null,
+        "1A1",
+        "1A",
+        null,
+        null
+      ],
+      [
+        null,
+        "1A2",
+        null,
+        "1A2",
+        null,
+        null,
+        "(Aula 5)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(Aula De Informática Grande)",
+        null,
+        "(Aula 5)",
+        "(Aula 9)",
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula De Informática Grande)",
+        null,
+        "(Aula 4)",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GMC.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      54.9,
+      147.28,
+      767.05,
+      371.36
+    ],
+    "n_rows": 27,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN DECLARATIVA"
+      ],
+      [
+        "8:00/10:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A2 (Aula 11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN DECLARATIVA"
+      ],
+      [
+        "10:00/12:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A (Aula 11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN DECLARATIVA"
+      ],
+      [
+        "12:00/14:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A1 (Aula 11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/15:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "ANÁLISIS MATEMÁTICO III",
+        "SISTEMAS OPERATIVOS",
+        null
+      ],
+      [
+        "15:00/17:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "2A (Aula 5)",
+        "2A1 (Aula 5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "MÉTODOS NUMÉRICOS I",
+        "SISTEMAS OPERATIVOS",
+        null
+      ],
+      [
+        "17:00/19:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "2A (Aula 5)",
+        "2A (Aula 5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "SISTEMAS OPERATIVOS",
+        null
+      ],
+      [
+        "19:00/21:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "2A1 (Aula 5)",
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GMC.pdf",
+    "page": 4,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      54.9,
+      179.48,
+      767.05,
+      439.21
+    ],
+    "n_rows": 32,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN DECLARATIVA"
+      ],
+      [
+        "8:00/10:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A2 (Aula de informática grande)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN DECLARATIVA"
+      ],
+      [
+        "10:00/12:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A (Aula 11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN DECLARATIVA"
+      ],
+      [
+        "12:00/14:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A1 (Aula de informática grande)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/15:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Bases de datos",
+        null,
+        "Sistemas Operativos",
+        null
+      ],
+      [
+        null,
+        "ANÁLISIS MATEMÁTICO III",
+        null,
+        "ANÁLISIS MATEMÁTICO III",
+        null,
+        null
+      ],
+      [
+        "15:00/17:00",
+        null,
+        "2A1",
+        null,
+        "2A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "2A (Aula 5)",
+        null,
+        "2A (Aula 5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(Aula 00)",
+        null,
+        "(Aula Informática Grande)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "BASES DE DATOS",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "MÉTODOS NUMÉRICOS I",
+        null,
+        "MÉTODOS NUMÉRICOS I",
+        "SISTEMAS OPERATIVOS",
+        null
+      ],
+      [
+        "17:00/19:00",
+        "(Aula 5)",
+        "2A",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "2A",
+        null,
+        "2A (Aula 5)",
+        "2A (Aula 5)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(Aula 00)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Bases de datos",
+        null,
+        "Sistemas Operativos",
+        null
+      ],
+      [
+        "19:00/21:00",
+        null,
+        "2A2",
+        null,
+        "2A2",
+        null
+      ],
+      [
+        null,
+        null,
+        "(Aula 00)",
+        null,
+        "(Laboratorio de Idiomas)",
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GMC.pdf",
+    "page": 5,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      54.9,
+      82.43,
+      767.05,
+      366.36
+    ],
+    "n_rows": 35,
+    "n_cols": 7,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        null,
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN DECLARATIVA"
+      ],
+      [
+        "8:00/10:00",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A2 (Aula de informática grande)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN DECLARATIVA"
+      ],
+      [
+        "10:00/12:00",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A (Aula 11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN DECLARATIVA"
+      ],
+      [
+        "12:00/14:00",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A1 (Aula de informática grande)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/15:00",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Métodos",
+        "Análisis",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Bases de datos",
+        null,
+        "Sistemas Operativos",
+        null
+      ],
+      [
+        null,
+        "numéricos I",
+        "Matemático",
+        null,
+        "ANÁLISIS MATEMÁTICO III",
+        null,
+        null
+      ],
+      [
+        "15:00/17:00",
+        null,
+        null,
+        "2A1",
+        null,
+        "2A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "2A2",
+        "III 2A1",
+        null,
+        "2A (Aula 5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula 00)",
+        null,
+        "(Laboratorio de Idiomas)",
+        null
+      ],
+      [
+        null,
+        "(Aula 5)",
+        "(Aula 11)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Análisis",
+        "Métodos",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "BASES DE DATOS",
+        "MÉTODOS NUMÉRICOS I",
+        "SISTEMAS OPERATIVOS",
+        null
+      ],
+      [
+        "17:00/19:00",
+        "Matemático",
+        "numéricos I",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "2A",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "III 2A2",
+        "2A1",
+        "(Aula 00)",
+        "2A (Aula 5)",
+        "2A (Aula 5)",
+        null
+      ],
+      [
+        null,
+        "(Aula 11)",
+        "(Aula 5)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Bases de datos",
+        null,
+        "Sistemas Operativos",
+        null
+      ],
+      [
+        "19:00/21:00",
+        null,
+        null,
+        "2A2",
+        null,
+        "2A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula 00)",
+        null,
+        "(Laboratorio de Idiomas)",
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GMC.pdf",
+    "page": 6,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      53.1,
+      183.58,
+      772.86,
+      323.86
+    ],
+    "n_rows": 19,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Teoría de la Computabilidad",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/10:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        "3A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(Aula Informática pequeña)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "VARIABLE COMPLEJA",
+        "TEORÍA DE LA COMPUTABILIDAD",
+        "MÉTODOS NUMÉRICOS II"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/12:00",
+        "FESTIVO",
+        "FESTIVO",
+        "3A",
+        "3A",
+        "3A"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula 00)",
+        "(Aula 00)",
+        "(Aula 00)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "MÉTODOS NUMÉRICOS II",
+        "Teoría de la Computabilidad",
+        "ANÁLISIS DE DATOS"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/14:00",
+        "FESTIVO",
+        "FESTIVO",
+        "3A",
+        "3A2",
+        "3A"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula 00)",
+        "(Aula Informática pequeña)",
+        "(Aula 00)"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GMC.pdf",
+    "page": 7,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      53.1,
+      195.68,
+      772.86,
+      335.96
+    ],
+    "n_rows": 18,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Inteligencia Artificial",
+        null,
+        "Teoría de la Computabilidad",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/10:00",
+        null,
+        "3A1",
+        null,
+        "3A1",
+        null
+      ],
+      [
+        null,
+        null,
+        "(Aula 00)",
+        null,
+        "(Aula Informática pequeña)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "VARIABLE COMPLEJA",
+        "INTELIGENCIA ARTIFICIAL",
+        "Variable Compleja",
+        "TEORÍA DE LA COMPUTABILIDAD",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "MÉTODOS NUMÉRICOS II"
+      ],
+      [
+        "10:00/12:00",
+        "3A",
+        "3A",
+        "3A1 y 3A2",
+        "3A",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(Aula 00)"
+      ],
+      [
+        null,
+        "(Aula 00)",
+        "(Aula 00)",
+        "(Aula 00)",
+        "(Aula 00)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ANÁLISIS DE DATOS",
+        "Inteligencia Artificial",
+        "Métodos Numéricos II",
+        "Teoría de la Computabilidad",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Análisis de Datos 3A1 y 3A2"
+      ],
+      [
+        "12:00/14:00",
+        "3A",
+        "3A2",
+        "3A1 y 3A2",
+        "3A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(Aula 00)"
+      ],
+      [
+        null,
+        "(Aula 00)",
+        "(Aula 00)",
+        "(Aula 00)",
+        "(Aula Informática pequeña)",
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GMC.pdf",
+    "page": 8,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      54.9,
+      183.58,
+      767.05,
+      417.81
+    ],
+    "n_rows": 27,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/10:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "INFORMÁTICA GRÁFICA",
+        null
+      ],
+      [
+        "10:00/12:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "4A (Aula 04)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "TOPOLOGIA",
+        "INFORMÁTICA GRÁFICA",
+        null
+      ],
+      [
+        "12:00/14:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "4A (Aula 04)",
+        "4A (Aula 04)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/15:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "SISTEMAS DE CONTROL",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "ALGEBRA COMPUTACIONAL",
+        "REDES Y TECNOLOGÍAS DE INTERNET"
+      ],
+      [
+        "15:00/17:00",
+        "FESTIVO",
+        "FESTIVO",
+        "INTELIGENTE 4A",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "4A (Aula 00)",
+        "4A (Aula 00)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula 00)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "SISTEMAS DE CONTROL",
+        "CRIPTOGRAFIA Y TEORIA DE",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "REDES Y TECNOLOGÍAS DE INTERNET"
+      ],
+      [
+        "17:00/19:00",
+        "FESTIVO",
+        "FESTIVO",
+        "INTELIGENTE 4A",
+        "CODIGOS",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "4A (Aula 00)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula 00)",
+        "4A (Aula 00)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/21:00",
+        "FESTIVO",
+        "FESTIVO",
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GMC.pdf",
+    "page": 9,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      54.9,
+      155.03,
+      767.05,
+      412.51
+    ],
+    "n_rows": 30,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/10:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "INFORMÁTICA GRÁFICA",
+        null
+      ],
+      [
+        "10:00/12:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "4A (Aula 04)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "TOPOLOGIA 4A1",
+        "TOPOLOGIA 4A",
+        "INFORMÁTICA GRÁFICA",
+        null
+      ],
+      [
+        "12:00/14:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(Aula 04)",
+        "(Aula 04)",
+        "4A1 (Aula 04)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/15:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "CRIPTOGRAFIA Y TEORIA DE",
+        "SISTEMAS DE CONTROL",
+        null,
+        null
+      ],
+      [
+        null,
+        "FUNDAMENTOS DE CIENCIA",
+        null,
+        null,
+        "ÁLGEBRA COMPUTACIONAL",
+        "REDES Y TECNOLOGÍAS DE INTERNET 4A"
+      ],
+      [
+        "15:00/17:00",
+        null,
+        "CODIGOS",
+        "INTELIGENTE 4A",
+        null,
+        null
+      ],
+      [
+        null,
+        "DE DATOS 4A1 (Aula 00)",
+        null,
+        null,
+        "4A1 (Aula 00)",
+        "(Aula 00)"
+      ],
+      [
+        null,
+        null,
+        "4A (Aula 4)",
+        "(Aula 00)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "CRIPTOGRAFIA Y TEORIA DE",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "SISTEMAS DE CONTROL",
+        null,
+        null
+      ],
+      [
+        null,
+        "FUNDAMENTOS DE CIENCIA",
+        "ÁLGEBRA COMPUTACIONAL",
+        null,
+        "CODIGOS",
+        "REDES Y TECNOLOGÍAS DE INTERNET 4A1"
+      ],
+      [
+        "17:00/19:00",
+        null,
+        null,
+        "INTELIGENTE 4A",
+        null,
+        null
+      ],
+      [
+        null,
+        "DE DATOS 4A (Aula 00)",
+        "4A (Aula 4)",
+        null,
+        "4A1 (Aula 00)",
+        "(Aula 00)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula 00)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "FUNDAMENTOS DE CIENCIA",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/21:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "DE DATOS 4A2 (Aula 00)",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

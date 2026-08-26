@@ -1,0 +1,613 @@
+{
+  "source_file": "Semestre2_INFOADE.pdf",
+  "page_count": 10,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 234,
+      "line_count": 0,
+      "rect_count": 620,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 46,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                154.31,
+                787.1,
+                544.67
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 53,
+              "columns": 16,
+              "bbox": [
+                54.0,
+                96.74,
+                783.04,
+                579.21
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 45,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                158.93,
+                787.1,
+                541.17
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": []
+    },
+    {
+      "page_number": 2,
+      "word_count": 75,
+      "line_count": 0,
+      "rect_count": 605,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 20,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                154.31,
+                787.14,
+                438.57
+              ],
+              "warning_count": 1
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 35,
+              "columns": 5,
+              "bbox": [
+                54.0,
+                158.93,
+                231.66,
+                579.21
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 31,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                158.93,
+                787.14,
+                435.07
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Column 1, row 12 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 3,
+      "word_count": 234,
+      "line_count": 0,
+      "rect_count": 580,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 37,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                154.31,
+                787.14,
+                492.78
+              ],
+              "warning_count": 1
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 47,
+              "columns": 12,
+              "bbox": [
+                51.96,
+                126.52,
+                719.68,
+                579.21
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 41,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                158.93,
+                787.14,
+                489.31
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Column 4, row 32 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 4,
+      "word_count": 153,
+      "line_count": 0,
+      "rect_count": 617,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 38,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                154.31,
+                787.14,
+                511.16
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 45,
+              "columns": 9,
+              "bbox": [
+                54.0,
+                158.93,
+                630.62,
+                579.21
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 41,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                158.93,
+                787.14,
+                507.67
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": []
+    },
+    {
+      "page_number": 5,
+      "word_count": 228,
+      "line_count": 0,
+      "rect_count": 587,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 43,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                154.31,
+                786.79,
+                516.95
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 44,
+              "columns": 12,
+              "bbox": [
+                52.8,
+                96.74,
+                767.1,
+                513.45
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 40,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                158.93,
+                786.79,
+                513.45
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": []
+    },
+    {
+      "page_number": 6,
+      "word_count": 83,
+      "line_count": 0,
+      "rect_count": 607,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 26,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                142.29,
+                786.89,
+                450.69
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 33,
+              "columns": 3,
+              "bbox": [
+                52.8,
+                146.78,
+                623.49,
+                447.19
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 33,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                146.78,
+                786.89,
+                447.19
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": []
+    },
+    {
+      "page_number": 7,
+      "word_count": 263,
+      "line_count": 0,
+      "rect_count": 586,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 47,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                142.29,
+                786.75,
+                550.93
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 56,
+              "columns": 17,
+              "bbox": [
+                52.8,
+                84.62,
+                762.46,
+                579.21
+              ],
+              "warning_count": 2
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 48,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                146.78,
+                786.75,
+                547.77
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[text] Multiline cell detected at row 7, col 14",
+        "[text] Multiline cell detected at row 14, col 5"
+      ]
+    },
+    {
+      "page_number": 8,
+      "word_count": 29,
+      "line_count": 0,
+      "rect_count": 86,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 5,
+              "columns": 6,
+              "bbox": [
+                50.19,
+                5.99,
+                787.0,
+                49.67
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 0,
+          "tables": []
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 5,
+              "columns": 3,
+              "bbox": [
+                50.19,
+                8.85,
+                341.08,
+                46.29
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": []
+    },
+    {
+      "page_number": 9,
+      "word_count": 192,
+      "line_count": 0,
+      "rect_count": 618,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 41,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                166.44,
+                786.88,
+                531.01
+              ],
+              "warning_count": 2
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 43,
+              "columns": 15,
+              "bbox": [
+                52.8,
+                171.05,
+                713.26,
+                527.85
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 43,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                171.05,
+                786.88,
+                527.85
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Column 2, row 39 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 40 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 10,
+      "word_count": 80,
+      "line_count": 0,
+      "rect_count": 607,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 26,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                154.31,
+                786.89,
+                462.78
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 39,
+              "columns": 5,
+              "bbox": [
+                52.8,
+                158.93,
+                228.25,
+                579.21
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 35,
+              "columns": 6,
+              "bbox": [
+                50.33,
+                158.93,
+                786.89,
+                459.31
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": []
+    }
+  ]
+}

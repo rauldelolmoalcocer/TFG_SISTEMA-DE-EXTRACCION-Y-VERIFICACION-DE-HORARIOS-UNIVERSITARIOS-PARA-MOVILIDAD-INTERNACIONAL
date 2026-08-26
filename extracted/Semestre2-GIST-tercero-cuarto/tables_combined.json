@@ -1,0 +1,708 @@
+[
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.53,
+      787.55,
+      536.66
+    ],
+    "n_rows": 49,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Radiación Y Radiocomunicación -",
+        null,
+        null,
+        "Circuitos De Comunicación - 3B2",
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3B3 (EA6/SL10)",
+        null,
+        null,
+        "(SA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Radiación Y Radiocomunicación -",
+        null,
+        null,
+        "Circuitos De Comunicación - 3B2",
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3B3 (EA6/SL10)",
+        null,
+        null,
+        "(SA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas De Telecomunicación - 3B1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Radiación Y Radiocomunicación -",
+        "COMUNICACIONES ÓPTICAS - 3B",
+        "RADIACIÓN Y RADIOCOMUNICACIÓN",
+        "(SA8)",
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Ópticas - 3B1 (SL3)"
+      ],
+      [
+        null,
+        "3B2 (EA6/SL10)",
+        "(SA8)",
+        "- 3B (SA8)",
+        "Sistemas De Telecomunicación - 3B2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(aula)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas De Telecomunicación - 3B1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Radiación Y Radiocomunicación -",
+        "COMUNICACIONES ÓPTICAS - 3B",
+        "RADIACIÓN Y RADIOCOMUNICACIÓN",
+        "(SA8)",
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Ópticas - 3B1 (SL3)"
+      ],
+      [
+        null,
+        "3B2 (EA6/SL10)",
+        "(SA8)",
+        "- 3B (SA8)",
+        "Sistemas De Telecomunicación - 3B2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(aula)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Radiación Y Radiocomunicación -",
+        "SISTEMAS DE TELECOMUNICACIÓN -",
+        "CIRCUITOS DE COMUNICACIÓN - 3B",
+        "Circuitos De Comunicación - 3B1",
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Ópticas - 3B2 (SL3)"
+      ],
+      [
+        null,
+        "3B1 (EA6/SL10)",
+        "3B (SA8)",
+        "(SA8)",
+        "(SA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Radiación Y Radiocomunicación -",
+        "SISTEMAS DE TELECOMUNICACIÓN -",
+        "CIRCUITOS DE COMUNICACIÓN - 3B",
+        "Circuitos De Comunicación - 3B1",
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Ópticas - 3B2 (SL3)"
+      ],
+      [
+        null,
+        "3B1 (EA6/SL10)",
+        "3B (SA8)",
+        "(SA8)",
+        "(SA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Ópticas –"
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "3B3 (SL3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Ópticas –"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "3B3 (SL3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-GIST-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.53,
+      787.55,
+      433.51
+    ],
+    "n_rows": 35,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA DEL SOFTWARE -",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        "Tecn. en Sist. Elect. – 4OPT (OL10)",
+        null,
+        "TECN. EN SIST. ELECT. – 4OPT (OL10)"
+      ],
+      [
+        null,
+        "4B (SA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA DEL SOFTWARE -",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        "Tecn. en Sist. Elect. – 4OPT (OL10)",
+        null,
+        "TECN. EN SIST. ELECT. – 4OPT (OL10)"
+      ],
+      [
+        null,
+        "4B (SA3)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Ingeniería Del Software -",
+        null,
+        "Tecnologías Fotónicas - 4B2",
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        "TECN. FOTÓNICAS - 4B (NA6)"
+      ],
+      [
+        null,
+        "4B1 (NL8)",
+        null,
+        "(NA6/OL6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Ingeniería Del Software -",
+        null,
+        "Tecnologías Fotónicas - 4B2",
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "4B1 (NL8)",
+        null,
+        "(NA6/OL6)",
+        null,
+        "TECN. FOTÓNICAS - 4B (NA6)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "TECN. DE REDES Y SERV. TELEM. -",
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "4OPT (EA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "TECN. DE REDES Y SERV. TELEM. -",
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "4OPT (EA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Tecn. De Redes y Serv. Telem. - 4OPT",
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Tecn. De Redes y Serv. Telem. - 4OPT",
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA8)",
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

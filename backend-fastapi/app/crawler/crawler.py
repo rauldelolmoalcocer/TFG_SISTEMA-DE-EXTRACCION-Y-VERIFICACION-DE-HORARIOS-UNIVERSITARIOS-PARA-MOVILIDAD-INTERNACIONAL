@@ -2,6 +2,7 @@ import os
 import re
 import time
 import queue
+import hashlib
 import threading
 from dataclasses import dataclass, field
 from urllib.parse import urljoin, urlparse, urldefrag, unquote
@@ -35,6 +36,7 @@ class CrawlerState:
     visited_pages: set = field(default_factory=set)
     discovered_pdfs: set = field(default_factory=set)
     downloaded_urls: set = field(default_factory=set)
+    content_hashes: set = field(default_factory=set)
 
     saved_filepaths: list = field(default_factory=list)
     errors: list = field(default_factory=list)
@@ -78,6 +80,27 @@ class PdfCrawler:
         self.page_queue = queue.Queue()
 
         os.makedirs(self.config.download_folder, exist_ok=True)
+        self._index_existing_files()
+
+    def _index_existing_files(self):
+        """Precalcula el hash de los PDFs ya presentes en la carpeta de
+        descargas para poder detectar duplicados de contenido también
+        frente a ejecuciones anteriores del crawler, no solo dentro de
+        la misma ejecución."""
+
+        for entry in os.listdir(self.config.download_folder):
+            if not entry.lower().endswith(".pdf"):
+                continue
+
+            filepath = os.path.join(self.config.download_folder, entry)
+
+            try:
+                with open(filepath, "rb") as f:
+                    self.state.content_hashes.add(
+                        hashlib.sha256(f.read()).hexdigest()
+                    )
+            except OSError:
+                continue
 
     def run(self):
         self.state.running = True
@@ -330,17 +353,32 @@ class PdfCrawler:
                     self.state.downloaded_urls.discard(pdf_url)
                 return
 
+            # response.content agota el stream y devuelve los bytes ya
+            # completos (funciona igual con stream=True), lo necesitamos
+            # enteros en memoria para poder calcular su hash antes de
+            # decidir si merece la pena guardarlo.
+            content = response.content
+            content_hash = hashlib.sha256(content).hexdigest()
+
+            with self.state.lock:
+                if content_hash in self.state.content_hashes:
+                    is_duplicate = True
+                else:
+                    self.state.content_hashes.add(content_hash)
+                    is_duplicate = False
+
+            if is_duplicate:
+                self.state.add_log(
+                    f"PDF duplicado (contenido idéntico a uno ya descargado), se omite: {pdf_url}"
+                )
+                return
+
             filename = self.build_safe_filename(pdf_url)
             filepath = os.path.join(self.config.download_folder, filename)
             filepath = self.ensure_unique_filepath(filepath)
 
             with open(filepath, "wb") as f:
-                if existing_response is not None:
-                    f.write(response.content)
-                else:
-                    for chunk in response.iter_content(chunk_size=8192):
-                        if chunk:
-                            f.write(chunk)
+                f.write(content)
 
             with self.state.lock:
                 self.state.saved_filepaths.append(filepath)

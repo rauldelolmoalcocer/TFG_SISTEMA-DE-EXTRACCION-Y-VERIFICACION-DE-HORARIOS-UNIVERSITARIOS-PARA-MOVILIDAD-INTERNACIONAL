@@ -1,0 +1,1864 @@
+[
+  {
+    "source_file": "Semestre2_GIECAI.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      178.33,
+      787.55,
+      476.91
+    ],
+    "n_rows": 35,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        "Química - 1G1/1G2 (OA4)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Análisis De Circuitos -",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "FÍSICA II - 1A/G (GIEAI) (OA4)",
+        "QUÍMICA - 1A/G (GIEAI) (OA4)",
+        "Programación - 1G1 (GTIC) (EL8)",
+        null
+      ],
+      [
+        null,
+        "1B1(GTIC) (EA6/SL11)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Análisis De Circuitos -",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "FÍSICA II - 1A/G (GIEAI) (OA4)",
+        "QUÍMICA - 1A/G (GIEAI) (OA4)",
+        "Programación - 1G1 (GTIC) (EL8)",
+        null
+      ],
+      [
+        null,
+        "1B1(GTIC) (EA6/SL11)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "ANÁLISIS DE CIRCUITOS -",
+        null
+      ],
+      [
+        "12:00/12:55",
+        "Física II - 1A1/G (GIEAI) (OA4)",
+        "CÁLCULO II - 1B(GTIC) (EA2)",
+        "Cálculo II - 1B1(GTIC) (SA7)",
+        null,
+        "PROGRAMACIÓN - 1B (GTIC) (SA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "1B(GTIC) (SA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "ANÁLISIS DE CIRCUITOS -",
+        null
+      ],
+      [
+        "13:00/13:55",
+        "Física II - 1A1/G (GIEAI) (OA4)",
+        "CÁLCULO II - 1B(GTIC) (EA2)",
+        "Cálculo II - 1B1(GTIC) (SA7)",
+        null,
+        "PROGRAMACIÓN - 1B (GTIC) (SA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "1B(GTIC) (SA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GIECAI.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      178.33,
+      787.55,
+      531.26
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "INFORMÁTICA INDUSTRIAL - 2A/G",
+        null,
+        "Mecánica De Fluidos - 2A1/G",
+        null
+      ],
+      [
+        "8:00/8:55",
+        "Informática Industrial - 2A4 (NL5)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(GIEAI) - TUTORÍA (NA4)",
+        null,
+        "(GIEAI) (EA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Informática Industrial – 2A4",
+        "ELECTRÓNICA DE CIRCUITOS - 2A",
+        null,
+        "Mecánica De Fluidos - 2A1/G",
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NL5)",
+        "(GTIC) - TUTORÍA (SA2)",
+        null,
+        "(GIEAI) (EA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INFORMÁTICA INDUSTRIAL -",
+        "ELECTRÓNICA DE CIRCUITOS - 2A",
+        "MECÁNICA DE FLUIDOS - 2A/G",
+        "Teoría De La Comunicación -",
+        "SISTEMAS MECÁNICOS - 1A/G"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "2A/G (GIEAI) (NA4)",
+        "(GTIC) (SA2)",
+        "(GIEAI) (OA3)",
+        "2A1(GTIC) (EA8)",
+        "(GIEAI) (OA4)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INFORMÁTICA INDUSTRIAL -",
+        "ELECTRÓNICA DE CIRCUITOS -",
+        "MECÁNICA DE FLUIDOS - 2A/G",
+        "Teoría De La Comunicación -",
+        "SISTEMAS MECÁNICOS - 1A/G"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "2A/G (GIEAI) (NA4)",
+        "2A(GTIC) (SA2)",
+        "(GIEAI) (OA3)",
+        "2A1(GTIC) (EA8)",
+        "(GIEAI) (OA4)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Electrónica De Circuitos - 2G1 (GTIC)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Informática Industrial -",
+        "TEORÍA DE LA COMUNICACIÓN -",
+        "(OL12)",
+        "Sistemas Mecánicos - 2G1 (GIEAI)",
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "2G1 (NL5)",
+        "2A(GTIC) (SA2)",
+        "Electrónica De Circuitos – 2G2 (GTIC)",
+        "(OA4)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(OL12)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Electrónica De Circuitos – 2G1 (GTIC)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Informática Industrial -",
+        "TEORÍA DE LA COMUNICACIÓN -",
+        "(OL12)",
+        "Sistemas Mecánicos - 2G1 (GIEAI)",
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "2G1 (NL5)",
+        "2A(GTIC) (SA2)",
+        "Electrónica De Circuitos – 2G2 (GTIC)",
+        "(OA4)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(OL12)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GIECAI.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      178.33,
+      787.55,
+      489.01
+    ],
+    "n_rows": 37,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ECONOMÍA DE LA EMPRESA –",
+        "RESISTENCIA DE MATERIALES",
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3G (EA2)",
+        "TUTORÍA – 3A/G (GIEAI) (SA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INSTRUM. ELECTRÓNICA –",
+        "ECONOMÍA DE LA EMPRESA –",
+        "ARQUITECTURA DE REDES II –",
+        "Resistencia de Materiales – 3A1/G",
+        "Arquitectura de Redes II –"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3C(GIEC) (SA6)",
+        "3G (EA2)",
+        "2A(GTIC) (SA2)",
+        "(GIEAI) (SA3/PL12)",
+        "2A1(GTIC) (EL12)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INSTRUM. ELECTRÓNICA –",
+        "ECONOMÍA DE LA EMPRESA –",
+        "ARQUITECTURA DE REDES II –",
+        "Resistencia de Materiales – 3A1/G",
+        "Arquitectura de Redes II –"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3C(GIEC) (SA6)",
+        "3G (EA2)",
+        "2A(GTIC) (SA2)",
+        "(GIEAI) (SA3/PL12)",
+        "2A1(GTIC) (EL12)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "CONTROL ELECTRÓNICO –",
+        "Instrumentación Electrónica –",
+        "Instrumentación Electrónica –",
+        "Control Electrónico – 3C2 (GIEC)",
+        "RESISTENCIA DE MATERIALES –"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3C(GIEC) (SA6)",
+        "3C3 (*) (OL2)",
+        "3C3 (*) (OL2)",
+        "(OL1)",
+        "3A/G (GIEAI) (SA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "CONTROL ELECTRÓNICO –",
+        "Instrumentación Electrónica –",
+        "Instrumentación Electrónica –",
+        "Control Electrónico – 3C2 (GIEC)",
+        "RESISTENCIA DE MATERIALES –"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3C(GIEC) (SA6)",
+        "3C3 (*) (OL2)",
+        "3C3 (*) (OL2)",
+        "(OL1)",
+        "3A/G (GIEAI) (SA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GIECAI.pdf",
+    "page": 4,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      178.33,
+      787.55,
+      494.96
+    ],
+    "n_rows": 39,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ING. CONTROL ELECTRÓNICO",
+        null,
+        null,
+        "ELECTRÓNICA DE POTENCIA"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(TUTORÍA) 3A/G (GIEAI) (SA6)",
+        null,
+        null,
+        "(TUTORÍA) 3A/G (GIEAI) (SA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónica de Potencia 3A2/G",
+        "ELECTRÓNICA DE POTENCIA 3A/G"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(GIEAI) (OL11)",
+        "(GIEAI) (SA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Ing. Control Electrónico 3A1/G",
+        "PROPAGACIÓN DE ONDAS 2B (GTIC)",
+        "TECNOLOGÍA ELECTRÓNICA 3C",
+        "Electrónica de Potencia 3A2/G",
+        "Propagación de Ondas 2B1 (GTIC)"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(GIEAI) (OL1)",
+        "(EA4)",
+        "(GIEC) (SA6)",
+        "(GIEAI) (OL11)",
+        "(SA8/PL14/PL15)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Ing. Control Electrónico 3A1/G",
+        "PROPAGACIÓN DE ONDAS 2B (GTIC)",
+        "TECNOLOGÍA ELECTRÓNICA 3C",
+        "Electrónica de Potencia 3A2/G",
+        "Propagación de Ondas 2B1 (GTIC)"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(GIEAI) (OL1)",
+        "(EA4)",
+        "(GIEC) (SA6)",
+        "(GIEAI) (OL11)",
+        "(SA8/PL14/PL15)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ELECTRÓNICA DE POTENCIA",
+        "Tecnología Electrónica 3C2 (GIEC)",
+        "ING. CONTROL ELECTRÓNICO 3A/G",
+        "Electrónica de Potencia 4G2 (GIEAI)",
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3A/G (GIEAI) (SA3)",
+        "(OL5)",
+        "(GIEAI) (SA2)",
+        "(OL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ELECTRÓNICA DE POTENCIA",
+        "Tecnología Electrónica 3C2 (GIEC)",
+        "ING. CONTROL ELECTRÓNICO 3A/G",
+        "Electrónica de Potencia 4G2 (GIEAI)",
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3A/G (GIEAI) (SA3)",
+        "(OL5)",
+        "(GIEAI) (SA2)",
+        "(OL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónica de Potencia 4G2 (GIEAI)",
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(OL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GIECAI.pdf",
+    "page": 5,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      178.33,
+      787.55,
+      482.86
+    ],
+    "n_rows": 37,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        "CONTROL INTELIGENTE - 4A (OA7)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        "CONTROL INTELIGENTE - 4A (OA7)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Regulación De Máquinas",
+        "REGULACIÓN DE MÁQUINAS",
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        "Control Inteligente - 4A1 (OA7)",
+        null,
+        null
+      ],
+      [
+        null,
+        "Eléctricas - 4A1 (PL13)",
+        "ELÉCTRICAS - 4A (PL13)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Regulación De Máquinas",
+        "REGULACIÓN DE MÁQUINAS",
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        "Control Inteligente - 4A1 (OA7)",
+        null,
+        null
+      ],
+      [
+        null,
+        "Eléctricas - 4A1 (PL13)",
+        "ELÉCTRICAS - 4A (PL13)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "CONTROL DE CONVERTIDORES",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        "SED AVANZADOS - 4A (OL6)",
+        null
+      ],
+      [
+        null,
+        "DE ELECTR.POT. - 4A (SA4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "CONTROL DE CONVERTIDORES",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        "SED AVANZADOS - 4A (OL6)",
+        null
+      ],
+      [
+        null,
+        "DE ELECTR.POT. - 4A (SA4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Control De Convertidores De",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        "Sed Avanzados - 4A1 (OL6)",
+        null
+      ],
+      [
+        null,
+        "Electr.pot. - 4A1 (OL10)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Control De Convertidores De",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        "Sed Avanzados - 4A1 (OL6)",
+        null
+      ],
+      [
+        null,
+        "Electr.pot. - 4A1 (OL10)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GIECAI.pdf",
+    "page": 6,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      166.23,
+      787.55,
+      391.81
+    ],
+    "n_rows": 27,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Electrónicos Para",
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones - 3C2 (OL2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Electrónicos Para",
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones – 3C2 (OL2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "SISTEMAS ELECTRÓNICOS PARA",
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "COMUNICACIONES - 3C (SA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "SISTEMAS ELECTRÓNICOS PARA",
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "COMUNICACIONES - 3C (SA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

@@ -1,0 +1,1021 @@
+[
+  {
+    "source_file": "Semestre1-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      154.98,
+      787.55,
+      525.76
+    ],
+    "n_rows": 51,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Arquitectura De Computadores -",
+        "Servicios Telemáticos - 3D2 (EL11)",
+        null
+      ],
+      [
+        null,
+        "Arquitectura De Computadores -",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        "3D3 (EL7)",
+        "Sistemas Electrónicos Digitales –",
+        null
+      ],
+      [
+        null,
+        "3D3 (EL7)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación Avanzada - 3D2 (EL6)",
+        "3D3 (PC) (OL2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Arquitectura De Computadores -",
+        "Servicios Telemáticos - 3D2 (EL11)",
+        null
+      ],
+      [
+        null,
+        "Arquitectura De Computadores -",
+        "SISTEMAS ELECTRÓNICOS DIGITALES",
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        "3D3 (EL7)",
+        "Sistemas Electrónicos Digitales –",
+        null
+      ],
+      [
+        null,
+        "3D3 (EL7)",
+        "- 3D (NA2)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación Avanzada - 3D2 (EL6)",
+        "3D3 (PC) (OL2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Redes De Comunicaciones - 3D1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Arquitectura De Computadores -",
+        "Servicios Telemáticos - 3D1 (EL11)",
+        null
+      ],
+      [
+        null,
+        "SISTEMAS ELECTRÓNICOS DIGITALES",
+        "(EL10)",
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        "3D2 (EL7)",
+        "Sistemas Electrónicos Digitales -",
+        "SERVICIOS TELEMÁTICOS - 3D (EA2)"
+      ],
+      [
+        null,
+        "- 3D (NA2)",
+        "Redes De Comunicaciones - 3D2",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación Avanzada - 3D1 (EL6)",
+        "3D2 (OL1)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(EL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Redes De Comunicaciones - 3D1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Arquitectura De Computadores -",
+        "Servicios Telemáticos - 3D1 (EL11)",
+        null
+      ],
+      [
+        null,
+        "SISTEMAS ELECTRÓNICOS DIGITALES",
+        "(EL10)",
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        "3D2 (EL7)",
+        "Sistemas Electrónicos Digitales -",
+        "SERVICIOS TELEMÁTICOS - 3D (EA2)"
+      ],
+      [
+        null,
+        "- 3D (NA2)",
+        "Redes De Comunicaciones - 3D2",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación Avanzada - 3D1 (EL6)",
+        "3D2 (OL1)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(EL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Arquitectura De Computadores -",
+        null,
+        null
+      ],
+      [
+        null,
+        "PROGRAMACIÓN AVANZADA - 3D",
+        "ARQUITECTURA DE",
+        null,
+        "Sistemas Electrónicos Digitales -",
+        "REDES DE COMUNICACIONES - 3D"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        "3D1 (EL7)",
+        null,
+        null
+      ],
+      [
+        null,
+        "(NA2)",
+        "COMPUTADORES - 3D (EA4)",
+        null,
+        "3D1 (OL5)",
+        "(EA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación Avanzada - 3D3 (EL6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Arquitectura De Computadores -",
+        null,
+        null
+      ],
+      [
+        null,
+        "PROGRAMACIÓN AVANZADA - 3D",
+        "ARQUITECTURA DE",
+        null,
+        "Sistemas Electrónicos Digitales -",
+        "REDES DE COMUNICACIONES - 3D"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        "3D1 (EL7)",
+        null,
+        null
+      ],
+      [
+        null,
+        "(NA2)",
+        "COMPUTADORES - 3D (EA4)",
+        null,
+        "3D1 (OL5)",
+        "(EA2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación Avanzada - 3D3 (EL6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Electrónicos Digitales –",
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "3D4 (PC) (OL2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Electrónicos Digitales –",
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "3D4 (PC) (OL2)",
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GIT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.55,
+      433.41
+    ],
+    "n_rows": 31,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "DIGITAL ELECTRONIC SYSTEMS - 3E",
+        "DIGITAL ELECTRONIC SYSTEMS - 3E",
+        "Digital Electronic Systems - 3E1",
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA6)",
+        "(EA6)",
+        "(OL1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "DIGITAL ELECTRONIC SYSTEMS - 3E",
+        "Digital Electronic Systems - 3E1",
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(EA6)",
+        "(OL1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.85,
+      481.81
+    ],
+    "n_rows": 39,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA DE REDES Y SERVICIOS",
+        null,
+        "GESTION Y ADMINISTRACION DE",
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "PROGRAMACIÓN VISUAL - 4D (EL5)",
+        null,
+        "INGENIERÍA DE TRÁFICO - 4D (EA5)",
+        null
+      ],
+      [
+        null,
+        "- 4D (EA7)",
+        null,
+        "REDES - 4D (EA5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA DE REDES Y SERVICIOS",
+        null,
+        "GESTION Y ADMINISTRACION DE",
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "PROGRAMACIÓN VISUAL - 4D (EL5)",
+        null,
+        "INGENIERÍA DE TRÁFICO - 4D (EA5)",
+        null
+      ],
+      [
+        null,
+        "- 4D (EA7)",
+        null,
+        "REDES - 4D (EA5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "AMPLIACION DE SISTEMAS",
+        null,
+        "Gestion Y Administracion De Redes -",
+        null,
+        "Ingeniería De Redes Y Servicios -"
+      ],
+      [
+        "17:00/17:55",
+        null,
+        "Programación Visual - 4D1 (EL5)",
+        null,
+        "Ingeniería De Tráfico - 4D1 (EL11)",
+        null
+      ],
+      [
+        null,
+        "OPERATIVOS - 4D (EL5)",
+        null,
+        "4D1 (EL11)",
+        null,
+        "4D1 (EL12)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "AMPLIACION DE SISTEMAS",
+        null,
+        "Gestion Y Administracion De Redes -",
+        null,
+        "Ingeniería De Redes Y Servicios -"
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "Programación Visual - 4D1 (EL5)",
+        null,
+        "Ingeniería De Tráfico - 4D1 (EL11)",
+        null
+      ],
+      [
+        null,
+        "OPERATIVOS - 4D (EL5)",
+        null,
+        "4D1 (EL11)",
+        null,
+        "4D1 (EL12)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Ampliacion De Sistemas",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        "Programación Visual - 4D2 (EL6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Operativos - 4D1 (EL5)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Ampliacion De Sistemas",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "Programación Visual - 4D2 (EL6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Operativos - 4D1 (EL5)",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

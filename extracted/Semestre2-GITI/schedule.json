@@ -1,0 +1,1679 @@
+[
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Cálculo II - 1A1 (OA1)\nInformática - 1A2 (NL5)",
+    "subject_name": "Cálculo II - 1A1 Informática - 1A2",
+    "rooms": [
+      "OA1",
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Cálculo II - 1A2 (OA1)\nInformática - 1A1 (OL24)",
+    "subject_name": "Cálculo II - 1A2 Informática - 1A1",
+    "rooms": [
+      "OA1",
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "09:00",
+    "time_end": "11:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ECONOMÍA DE LA EMPRESA - 1A\n(EA2)",
+    "subject_name": "ECONOMÍA DE LA EMPRESA - 1A",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "CÁLCULO II - 1A (EA5)",
+    "subject_name": "CÁLCULO II - 1A",
+    "rooms": [
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Informática - 1A4 (EL7)",
+    "subject_name": "Informática - 1A4",
+    "rooms": [
+      "EL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "INFORMÁTICA - 1A (NA1)",
+    "subject_name": "INFORMÁTICA - 1A",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Informática - 1A3 (OL24)",
+    "subject_name": "Informática - 1A3",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Química Orgánica E Inorgánica - 1A1\n(SA3)\nQuímica Orgánica E Inorgánica - 1A2\n(SA6)",
+    "subject_name": "Química Orgánica E Inorgánica - 1A1 Química Orgánica E Inorgánica - 1A2",
+    "rooms": [
+      "SA3",
+      "SA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "FÍSICA II - 1A (SA7)",
+    "subject_name": "FÍSICA II - 1A",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Informática - 1A5 (OL24)",
+    "subject_name": "Informática - 1A5",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Física II - 1A2 (OA2)",
+    "subject_name": "Física II - 1A2",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "QUÍMICA ORGÁNICA E INORGÁNICA\n- 1A (OA2)",
+    "subject_name": "QUÍMICA ORGÁNICA E INORGÁNICA - 1A",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Física II - 1A1 (OA2)",
+    "subject_name": "Física II - 1A1",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Fund. Electrónica - 2A1 (OL7)\nFund. Electrónica - 2A2 (OL12)",
+    "subject_name": "Fund. Electrónica - 2A1 Fund. Electrónica - 2A2",
+    "rooms": [
+      "OL7",
+      "OL12"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "MECÁNICA DE FLUIDOS - 2A (OA2)",
+    "subject_name": "MECÁNICA DE FLUIDOS - 2A",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Fund. Electrónica – 2A3 (OL7)\nFund. Electrónica - 2A4 (OL12)",
+    "subject_name": "Fund. Electrónica – 2A3 Fund. Electrónica - 2A4",
+    "rooms": [
+      "OL7",
+      "OL12"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      10
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "20:00",
+    "time_end": "20:55",
+    "time_start_raw": "20:00/20:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Fund. Electrónica - 2A3 (OL7)\nFund. Electrónica - 2A4 (OL12)",
+    "subject_name": "Fund. Electrónica - 2A3 Fund. Electrónica - 2A4",
+    "rooms": [
+      "OL7",
+      "OL12"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Mecánica De Fluidos - 2A1 (OA2)",
+    "subject_name": "Mecánica De Fluidos - 2A1",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ESTADÍSTICA - 2A (OA2)",
+    "subject_name": "ESTADÍSTICA - 2A",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      10
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Métodos Matemáticos Apl. Ing. Ind.\n- 2A2 (OA2)(**)",
+    "subject_name": "Métodos Matemáticos Apl. Ing. Ind. - 2A2",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [
+      "**"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Estadística - 2A1 (OA2)\nMétodos Matemáticos Apl. Ing. Ind.\n- 2A3 (NA1)(**)",
+    "subject_name": "Estadística - 2A1 Métodos Matemáticos Apl. Ing. Ind. - 2A3",
+    "rooms": [
+      "OA2",
+      "NA1"
+    ],
+    "non_room_annotations": [
+      "**"
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "FUNDAMENTOS DE ELECTRÓNICA -\n2A (OA2)",
+    "subject_name": "FUNDAMENTOS DE ELECTRÓNICA - 2A",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      10
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Fund. Electrónica - 2A5 (OL7)\nMecánica De Fluidos - 2A3 (OA2)",
+    "subject_name": "Fund. Electrónica - 2A5 Mecánica De Fluidos - 2A3",
+    "rooms": [
+      "OL7",
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Estadística - 2A2 (OA2)\nMétodos Matemáticos Apl. Ing. Ind.\n- 2A1 (NA2)(**)",
+    "subject_name": "Estadística - 2A2 Métodos Matemáticos Apl. Ing. Ind. - 2A1",
+    "rooms": [
+      "OA2",
+      "NA2"
+    ],
+    "non_room_annotations": [
+      "**"
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ELASTICIDAD Y RESISTENCIA DE\nMATER. - 2A (OA2)",
+    "subject_name": "ELASTICIDAD Y RESISTENCIA DE MATER. - 2A",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      10
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Mecánica De Fluidos - 2A2 (OA2)",
+    "subject_name": "Mecánica De Fluidos - 2A2",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "METODOS MATEMÁTICOS APL. ING.\nIND. - 2A (OA2)(**)",
+    "subject_name": "METODOS MATEMÁTICOS APL. ING. IND. - 2A",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [
+      "**"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Elasticidad Y Resistencia De Mater. -\n2A1 (OA6/OA2)\nElasticidad Y Resistencia De Mater. -\n2A2 (SA3)",
+    "subject_name": "Elasticidad Y Resistencia De Mater. - 2A1 Elasticidad Y Resistencia De Mater. - 2A2",
+    "rooms": [
+      "OA6/OA2",
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      10
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Elasticidad Y Resistencia De Mater. -\n2A3 (OA2)",
+    "subject_name": "Elasticidad Y Resistencia De Mater. - 2A3",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Tecnologías Medioambientales -\n3A1 (OA2)",
+    "subject_name": "Tecnologías Medioambientales - 3A1",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ELEMENTOS DE MÁQUINAS - 3A\n(OA2)",
+    "subject_name": "ELEMENTOS DE MÁQUINAS - 3A",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "INGENIERÍA DE CONTROL - 3A\n(OA2)",
+    "subject_name": "INGENIERÍA DE CONTROL - 3A",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Tecnología Eléctrica II - 3A3 (PL13)\nIngeniería De Control - 3A4 (EL8)",
+    "subject_name": "Tecnología Eléctrica II - 3A3 Ingeniería De Control - 3A4",
+    "rooms": [
+      "PL13",
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Tecnología Eléctrica II - 3A5 (PL13)",
+    "subject_name": "Tecnología Eléctrica II - 3A5",
+    "rooms": [
+      "PL13"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Ingeniería De Control - 3A2 (EL9)\nElem. Máquinas - 3A3 (OA1/OA7)",
+    "subject_name": "Ingeniería De Control - 3A2 Elem. Máquinas - 3A3",
+    "rooms": [
+      "EL9",
+      "OA1/OA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Elem. Máquinas - 3A1 (OA1/OA6)\nElem. Máquinas - 3A2 (OA2/OA7)",
+    "subject_name": "Elem. Máquinas - 3A1 Elem. Máquinas - 3A2",
+    "rooms": [
+      "OA1/OA6",
+      "OA2/OA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Tecnología Eléctrica II - 3A4 (PL13)",
+    "subject_name": "Tecnología Eléctrica II - 3A4",
+    "rooms": [
+      "PL13"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "TECNOLOGÍAS MEDIOAMBIENTALES\n- 3A (OA1)",
+    "subject_name": "TECNOLOGÍAS MEDIOAMBIENTALES - 3A",
+    "rooms": [
+      "OA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "TECNOLOGÍA ELÉCTRICA II - 3A\n(OA2)",
+    "subject_name": "TECNOLOGÍA ELÉCTRICA II - 3A",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Tec. Medioambientales(*) - 3P (--)\nTecnología Eléctrica II - 3A6 (PL13)",
+    "subject_name": "Tec. Medioambientales - 3P Tecnología Eléctrica II - 3A6",
+    "rooms": [
+      "PL13"
+    ],
+    "non_room_annotations": [
+      "*",
+      "--"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Tecnología Eléctrica II - 3A6 (PL13)",
+    "subject_name": "Tecnología Eléctrica II - 3A6",
+    "rooms": [
+      "PL13"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "TECNOLOGÍA ELÉCTRICA II - 3A\n(OA2)\nTecnología Eléctrica II - 3A1 (PL13)",
+    "subject_name": "TECNOLOGÍA ELÉCTRICA II - 3A Tecnología Eléctrica II - 3A1",
+    "rooms": [
+      "OA2",
+      "PL13"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Ingeniería De Control - 3A1 (EL9)\nTecnología Eléctrica II - 3A2 (PL13)",
+    "subject_name": "Ingeniería De Control - 3A1 Tecnología Eléctrica II - 3A2",
+    "rooms": [
+      "EL9",
+      "PL13"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Tec. Medioambientales(*) - 3P (--)\nIngeniería De Control – 3A3 (EL9)",
+    "subject_name": "Tec. Medioambientales - 3P Ingeniería De Control – 3A3",
+    "rooms": [
+      "EL9"
+    ],
+    "non_room_annotations": [
+      "*",
+      "--"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Ingeniería De Control – 3A3 (EL9)",
+    "subject_name": "Ingeniería De Control – 3A3",
+    "rooms": [
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Tec. Medioambientales(*) - 3P (--)",
+    "subject_name": "Tec. Medioambientales - 3P",
+    "rooms": [],
+    "non_room_annotations": [
+      "*",
+      "--"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "18:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "AUTOMÓVILES Y FERROCARRILES -\n4A (OA6)\nDESARROLLO DE APLICACIONES\nPARA SIST. INDUST. – 4A (SA5B)",
+    "subject_name": "AUTOMÓVILES Y FERROCARRILES - 4A DESARROLLO DE APLICACIONES PARA SIST. INDUST. – 4A",
+    "rooms": [
+      "OA6",
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "18:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "DISEÑO MECÁNICO AVANZADO -\n4A (OA5)\nTRACCIÓN ELÉCTRICA Y VEHÍCULOS\nELÉCTRICOS – 4A (EA5)\nELECTRÓNICA PARA SISTEMAS\nINTELIGENTES INDUST. – 4A (OL7)",
+    "subject_name": "DISEÑO MECÁNICO AVANZADO - 4A TRACCIÓN ELÉCTRICA Y VEHÍCULOS ELÉCTRICOS – 4A ELECTRÓNICA PARA SISTEMAS INTELIGENTES INDUST. – 4A",
+    "rooms": [
+      "OA5",
+      "EA5",
+      "OL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "ACÚSTICA Y VIBRACIONES - 4A\n(OA5/NA6)\nBIG DATA EN ENERGÍA – 4A (EA6)\nEXP. EN ING. QUIMICA Y AMBIENTAL\n- 4A (pend. asig.)",
+    "subject_name": "ACÚSTICA Y VIBRACIONES - 4A BIG DATA EN ENERGÍA – 4A EXP. EN ING. QUIMICA Y AMBIENTAL - 4A",
+    "rooms": [
+      "OA5/NA6",
+      "EA6"
+    ],
+    "non_room_annotations": [
+      "pend. asig."
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ACÚSTICA Y VIBRACIONES - 4A\n(OA5/NA6)\nSISTEMAS HÍBRIDOS DE ENERGÍA\nELÉCTRICA – 4A (EA6)\nEXP. EN ING. QUIMICA Y AMBIENTAL\n- 4A (pend. asig.)",
+    "subject_name": "ACÚSTICA Y VIBRACIONES - 4A SISTEMAS HÍBRIDOS DE ENERGÍA ELÉCTRICA – 4A EXP. EN ING. QUIMICA Y AMBIENTAL - 4A",
+    "rooms": [
+      "OA5/NA6",
+      "EA6"
+    ],
+    "non_room_annotations": [
+      "pend. asig."
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "MOVILIDAD INTELIGENTE EN\nENTORNOS INDUSTRIALES - 4A\n(PL21)\nBIG DATA EN ENERGÍA – 4A (NA3)\nSIMULACIÓN Y OPTIMIZACIÓN DE\nPROCESOS QUÍMICOS – 4A (--)",
+    "subject_name": "MOVILIDAD INTELIGENTE EN ENTORNOS INDUSTRIALES - 4A BIG DATA EN ENERGÍA – 4A SIMULACIÓN Y OPTIMIZACIÓN DE PROCESOS QUÍMICOS – 4A",
+    "rooms": [
+      "PL21",
+      "NA3"
+    ],
+    "non_room_annotations": [
+      "--"
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "MOVILIDAD INTELIGENTE EN\nENTORNOS INDUSTRIALES - 4A\n(PL21)\nSISTEMAS HÍBRIDOS DE ENERGÍA\nELÉCTRICA – 4A (NA3)\nSIMULACIÓN Y OPTIMIZACIÓN DE\nPROCESOS QUÍMICOS – 4A (--)",
+    "subject_name": "MOVILIDAD INTELIGENTE EN ENTORNOS INDUSTRIALES - 4A SISTEMAS HÍBRIDOS DE ENERGÍA ELÉCTRICA – 4A SIMULACIÓN Y OPTIMIZACIÓN DE PROCESOS QUÍMICOS – 4A",
+    "rooms": [
+      "PL21",
+      "NA3"
+    ],
+    "non_room_annotations": [
+      "--"
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GITI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN TECNOLOGIAS INDUSTRIALES (G610) (GITI)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "18:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "DESARROLLO INDUSTRIAL\nSOSTENIBLE – 4A (pendiente asig.)",
+    "subject_name": "DESARROLLO INDUSTRIAL SOSTENIBLE – 4A",
+    "rooms": [],
+    "non_room_annotations": [
+      "pendiente asig."
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

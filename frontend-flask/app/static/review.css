@@ -352,6 +352,23 @@ button.summary-chip.tab.danger.active { outline-color: var(--danger); }
 
 .results-count { font-size: 0.8rem; color: var(--muted); }
 
+.results-header-actions { display: flex; align-items: center; gap: 12px; }
+
+.llm-review-status { font-size: 0.78rem; color: var(--accent); font-weight: 600; }
+
+.btn-llm-review {
+    background: var(--accent-bg);
+    color: var(--accent);
+    border: 1px solid transparent;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 6px 12px;
+    border-radius: var(--rs);
+    cursor: pointer;
+}
+.btn-llm-review:hover { filter: brightness(0.95); }
+.btn-llm-review:disabled { opacity: 0.6; cursor: not-allowed; }
+
 .table-outer {
     overflow-x: auto;
     border: 1px solid var(--border);
@@ -401,9 +418,23 @@ button.summary-chip.tab.danger.active { outline-color: var(--danger); }
     padding: 24px !important;
 }
 
-.subject-cell { display: flex; flex-direction: column; }
+.subject-cell { display: flex; flex-direction: column; gap: 3px; }
 .subject-name { font-weight: 600; }
 .subject-code { font-size: 0.72rem; color: var(--muted); }
+
+.origin-tag {
+    display: inline-block;
+    width: fit-content;
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 1px 7px;
+    border-radius: 999px;
+}
+.origin-tag.origin-skipped { background: var(--border); color: var(--muted); }
+.origin-tag.origin-mixed { background: var(--warning-bg); color: var(--warning); }
+.origin-tag.origin-manual { background: var(--accent-bg); color: var(--accent); }
 
 .status-icon {
     display: inline-flex;
@@ -563,6 +594,9 @@ button.summary-chip.tab.danger.active { outline-color: var(--danger); }
 .badge.INVALID { background: var(--danger-bg);  color: var(--danger); }
 .badge.modified { background: var(--accent-bg); color: var(--accent); }
 .badge.reviewed { background: var(--primary-light); color: var(--primary); }
+.badge.origin-skipped { background: var(--border); color: var(--muted); }
+.badge.origin-mixed { background: var(--warning-bg); color: var(--warning); }
+.badge.origin-manual { background: var(--accent-bg); color: var(--accent); }
 
 .detail-section { margin-top: 18px; }
 .detail-section-title {
@@ -595,6 +629,17 @@ button.summary-chip.tab.danger.active { outline-color: var(--danger); }
 }
 .readonly-value { font-size: 0.86rem; color: var(--text); word-break: break-word; }
 .readonly-value.mono { font-family: 'Consolas', 'SFMono-Regular', Menlo, monospace; font-size: 0.78rem; }
+
+.raw-table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: var(--rs); }
+.raw-table { border-collapse: collapse; width: 100%; font-size: 0.74rem; }
+.raw-table td {
+    border: 1px solid var(--border);
+    padding: 4px 6px;
+    white-space: pre-line;
+    vertical-align: top;
+    min-width: 90px;
+}
+.raw-table td:first-child { font-weight: 700; white-space: nowrap; min-width: auto; }
 
 .edit-form {
     display: grid;
@@ -630,6 +675,19 @@ button.summary-chip.tab.danger.active { outline-color: var(--danger); }
 }
 
 .edit-form textarea { resize: vertical; }
+
+.edit-form .field-checkbox label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-transform: none;
+    font-weight: 600;
+    letter-spacing: normal;
+}
+
+.edit-form .field-checkbox input[type="checkbox"] {
+    width: auto;
+}
 
 .edit-form input:focus,
 .edit-form select:focus,

@@ -1,0 +1,941 @@
+[
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.55,
+      506.01
+    ],
+    "n_rows": 43,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        "Seguridad - 3D2 (EL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        "Seguridad - 3D2 (EL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Operativos - 3D2 (EL5)",
+        null,
+        "LAB. DE REDES, SIST. Y SERVICIOS -",
+        null
+      ],
+      [
+        "10:00/10:55",
+        "SEGURIDAD - 3D (SA4)",
+        null,
+        "SISTEMAS OPERATIVOS - 3D (SA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Conmutación - 3D1 (EL11)",
+        null,
+        "3D1 (EL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Operativos - 3D2 (EL5)",
+        null,
+        "LAB. DE REDES, SIST. Y SERVICIOS -",
+        null
+      ],
+      [
+        "11:00/11:55",
+        "SEGURIDAD - 3D (SA4)",
+        null,
+        "SISTEMAS OPERATIVOS - 3D (SA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Conmutación - 3D1 (EL11)",
+        null,
+        "3D1 (EL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Operativos - 3D1 (EL5)",
+        null,
+        "Laboratorio De Redes, Sistemas Y",
+        null
+      ],
+      [
+        "12:00/12:55",
+        "CONMUTACION - 3D (SA4)",
+        null,
+        "Seguridad - 3D1 (EL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Conmutación - 3D2 (EL11)",
+        null,
+        "Servicios - 3D1 (EL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Operativos - 3D1 (EL5)",
+        null,
+        "Laboratorio De Redes, Sistemas Y",
+        null
+      ],
+      [
+        "13:00/13:55",
+        "CONMUTACION - 3D (SA4)",
+        null,
+        "Seguridad - 3D1 (EL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Conmutación - 3D2 (EL11)",
+        null,
+        "Servicios - 3D1 (EL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "LAB. DE REDES, SIST. Y SERVICIOS -",
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Sistemas Operativos - 3D3 (EL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "3D2 (EL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "LAB. DE REDES, SIST. Y SERVICIOS -",
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Sistemas Operativos - 3D3 (EL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "3D2 (EL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Laboratorio De Redes, Sistemas Y",
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Servicios - 3D2 (EL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Laboratorio De Redes, Sistemas Y",
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Servicios - 3D2 (EL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      171.13,
+      787.55,
+      421.31
+    ],
+    "n_rows": 27,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "SECURITY - 4E (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "SECURITY - 4E (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        "Security - 4E1 (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        "Security - 4E1 (Aula)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2-GIT-tercero-cuarto.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.03,
+      787.65,
+      469.31
+    ],
+    "n_rows": 41,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA DEL SOFTWARE - 4C",
+        null,
+        "Tecn. En Sist. Elect. – 4OPT",
+        null,
+        "TECN. EN SIST. ELECT. –"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA3)",
+        null,
+        "(OL10)",
+        null,
+        "4OPT (OL10)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "INGENIERÍA DEL SOFTWARE - 4C",
+        null,
+        "Tecn. En Sist. Elect. – 4OPT",
+        null,
+        "TECN. EN SIST. ELECT. –"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA3)",
+        null,
+        "(OL10)",
+        null,
+        "4OPT (OL10)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Tecnologías Fotónicas – 4D1",
+        null,
+        "TECN. FOTÓNICAS - 4D"
+      ],
+      [
+        "12:00/12:55",
+        "Ingeniería Del Software - 4C1 (NL8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(NA6/OL6)",
+        null,
+        "(NA6)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Tecnologías Fotónicas - 4D1",
+        null,
+        "TECN. FOTÓNICAS - 4D"
+      ],
+      [
+        "13:00/13:55",
+        "Ingeniería Del Software - 4C1 (NL8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(NA6/OL6)",
+        null,
+        "(NA6)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TECN. DE SIST. DE",
+        null,
+        null,
+        "SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D (SL10)",
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TELECOMUNICACIÓN – 4OPT (SL9)",
+        null,
+        null,
+        "COMUNICACIONES MÓVILES - 4D (SA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TECN. DE SIST. DE",
+        null,
+        null,
+        "SIST. INTELIG. Y SOST. DE NUEVA GENERACIÓN - 4D (SL10)",
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TELECOMUNICACIÓN – 4OPT (SL9)",
+        null,
+        null,
+        "COMUNICACIONES MÓVILES - 4D (SA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        "Sist. Intelig. Y Sost. De Nueva Generación - 4D1 (SL10)",
+        null
+      ],
+      [
+        null,
+        "Tecn. de Sist. De Telecomunicación",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Móviles -",
+        null
+      ],
+      [
+        null,
+        "– 4OPT (SL9)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "4D1 (SL9)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Tecn. de Sist. De Telecomunicación",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "– 4OPT (SL9)",
+        null,
+        null,
+        "Sist. Intelig. Y Sost. De Nueva Generación - 4D1 (SL10)",
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Comunicaciones Móviles -",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "4D1 (SL9)",
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

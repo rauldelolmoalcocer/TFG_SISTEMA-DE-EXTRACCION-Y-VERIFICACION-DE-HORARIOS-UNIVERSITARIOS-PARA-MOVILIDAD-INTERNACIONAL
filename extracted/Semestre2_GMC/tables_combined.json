@@ -1,0 +1,2059 @@
+[
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      53.1,
+      164.74,
+      772.86,
+      326.31
+    ],
+    "n_rows": 21,
+    "n_cols": 6,
+    "rows": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Métodos de Programación",
+        null,
+        "Estructura de Datos"
+      ],
+      [
+        "08:00/10:00",
+        null,
+        null,
+        "1A1",
+        null,
+        "1A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula informática grande)",
+        null,
+        "(Aula informática grande)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "GEOMETRÍA AFÍN Y",
+        "GEOMETRÍA AFÍN Y",
+        "MÉTODOS DE",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ESTRUCTURAS DE DATOS"
+      ],
+      [
+        "10:00/12:00",
+        "PROYECTIVA",
+        "PROYECTIVA",
+        "PROGRAMACIÓN",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "FESTIVO",
+        "1A"
+      ],
+      [
+        null,
+        "1A",
+        "1A",
+        "1A",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(Aula 5)"
+      ],
+      [
+        null,
+        "(Aula 5)",
+        "(Aula 5)",
+        "(Aula 5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "MATEMÁTICA DISCRETA",
+        "ANÁLISIS MATEMÁTICO II",
+        "Métodos de Programación",
+        null,
+        "Estructura de Datos"
+      ],
+      [
+        "12:00/14:00",
+        "1A",
+        "1A",
+        "1A1",
+        "FESTIVO",
+        "1A1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula 5)",
+        "(Aula 5)",
+        "(Aula informática grande)",
+        null,
+        "(Aula informática grande)"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      53.1,
+      187.49,
+      773.06,
+      388.56
+    ],
+    "n_rows": 28,
+    "n_cols": 8,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        null,
+        "MIÉRCOLES",
+        "JUEVES",
+        null,
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Métodos de",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Programación",
+        null,
+        null,
+        "Estructura de Datos"
+      ],
+      [
+        "8:00/10:00",
+        null,
+        null,
+        null,
+        "1A1",
+        null,
+        null,
+        "1A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(Aula informática",
+        null,
+        null,
+        "(Aula informática grande)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "grande)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "GEOMETRÍA AFÍN Y",
+        "Análisis Matemático",
+        "Geometría Afín y",
+        "MÉTODOS DE",
+        null,
+        "Geometría Afín y",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Matemática Discreta",
+        null,
+        "ESTRUCTURAS DE DATOS"
+      ],
+      [
+        null,
+        "PROYECTIVA",
+        "II",
+        "Proyectiva",
+        "PROGRAMACIÓN",
+        null,
+        "Proyectiva",
+        null
+      ],
+      [
+        "10:00/12:00",
+        null,
+        null,
+        null,
+        null,
+        "1A1",
+        null,
+        "1A"
+      ],
+      [
+        null,
+        "1A",
+        "1A2",
+        "1A1",
+        "1A",
+        null,
+        "1A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(Oficina técnica)",
+        null,
+        "(Aula 5)"
+      ],
+      [
+        null,
+        "(Aula 5)",
+        "(Aula 5)",
+        "(Aula 5)",
+        "(Aula 5)",
+        null,
+        "(Aula 5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Métodos de",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Análisis Matemático",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "MATEMÁTICA DISCRETA",
+        null,
+        "Matemática Discreta",
+        "Programación",
+        "ANÁLISIS MATEMÁTICO II",
+        null,
+        "Estructura de Datos"
+      ],
+      [
+        null,
+        null,
+        "II",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/14:00",
+        "1A",
+        null,
+        "1A2",
+        "1A1",
+        "1A",
+        null,
+        "1A1"
+      ],
+      [
+        null,
+        null,
+        "1A1",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula 5)",
+        null,
+        "(Oficina técnica)",
+        "(Aula informática",
+        "(Aula 5)",
+        null,
+        "(Aula informática grande)"
+      ],
+      [
+        null,
+        null,
+        "(Aula 4)",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "grande)",
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      54.6,
+      147.28,
+      703.86,
+      468.24
+    ],
+    "n_rows": 29,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Algoritmia y complejidad"
+      ],
+      [
+        "8:00/10:00",
+        null,
+        null,
+        null,
+        null,
+        "2A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(Aula 11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ALGORITMIA Y"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "COMPLEJIDAD"
+      ],
+      [
+        "10:00/12:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(Aula 11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Algoritmia y complejidad"
+      ],
+      [
+        "12:00/14:00",
+        null,
+        null,
+        null,
+        null,
+        "2A1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(Aula 11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/15:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ESTRUCTURAS",
+        "PROGRAMACIÓN CONCURRENTE",
+        "PROBABILIDAD",
+        null,
+        null
+      ],
+      [
+        "15:00/17:00",
+        "ALGEBRAICAS",
+        "Y DISTRIBUIDA",
+        "2A",
+        "FESTIVO",
+        null
+      ],
+      [
+        null,
+        "2A (Aula 5)",
+        "2A1 (Aula 5)",
+        "(Aula 5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "PROBABILIDAD",
+        "PROGRAMACIÓN CONCURRENTE",
+        "ECUACIONES",
+        null,
+        null
+      ],
+      [
+        "17:00/19:00",
+        "2A",
+        "Y DISTRIBUIDA",
+        "DIFERENCIALES",
+        "FESTIVO",
+        null
+      ],
+      [
+        null,
+        "(Aula 5)",
+        "2A (Aula 5)",
+        "2A (Aula 5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "PROGRAMACIÓN CONCURRENTE",
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/21:00",
+        null,
+        "Y DISTRIBUIDA",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "2A2 (Aula 5)",
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      53.1,
+      175.48,
+      735.25,
+      465.46
+    ],
+    "n_rows": 33,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Algoritmia y complejidad"
+      ],
+      [
+        "8:00/10:00",
+        null,
+        null,
+        null,
+        null,
+        "2A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(Aula Inf. Pequeña)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ALGORITMIA Y"
+      ],
+      [
+        "10:00/12:00",
+        null,
+        null,
+        null,
+        null,
+        "COMPLEJIDAD"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2A (Aula 11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Algoritmia y complejidad"
+      ],
+      [
+        "12:00/14:00",
+        null,
+        null,
+        null,
+        null,
+        "2A1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(Aula Inf. Pequeña)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/15:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ESTRUCTURAS",
+        null,
+        "Probabilidad",
+        "Ecuaciones diferenciales",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Programación concurrente y",
+        "2A1 y 2A2",
+        "2A1 y 2A2",
+        null
+      ],
+      [
+        "15:00/17:00",
+        "ALGEBRAICAS",
+        "(Aula 5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "distribuida 2A1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "2A (Aula 5)",
+        null,
+        "(Aula 5)",
+        "(Aula 5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "PROGRAMACIÓN",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "PROBABILIDAD",
+        null,
+        "ECUACIONES DIFERENCIALES",
+        "Estructuras algebraicas",
+        null
+      ],
+      [
+        "17:00/19:00",
+        "(Aula 5)",
+        "CONCURRENTE Y DISTRIBUIDA",
+        "2A (Aula 5)",
+        null,
+        null
+      ],
+      [
+        null,
+        "2A",
+        null,
+        null,
+        "2A1 y 2A2 (Aula 5)",
+        null
+      ],
+      [
+        null,
+        null,
+        "2A (Aula 5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Programación concurrente y",
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/21:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "distribuida 2A2 (Aula 5)",
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      53.1,
+      142.04,
+      773.06,
+      318.91
+    ],
+    "n_rows": 25,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Paradigmas Avanzados de",
+        null,
+        null
+      ],
+      [
+        null,
+        "Bases de Datos Avanzadas",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación",
+        null,
+        null
+      ],
+      [
+        "8:00/10:00",
+        "3A1",
+        null,
+        null,
+        "FESTIVO",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "3A1",
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula 00)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula informática pequeña)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "TRANSFORMADAS INTEGRALES",
+        "PARADIGMAS AVANZADOS DE",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "BASES DE DATOS",
+        null,
+        null,
+        null,
+        "TRANSFORMADAS INTEGRALES Y DISCRETAS"
+      ],
+      [
+        null,
+        null,
+        "Y DISCRETAS",
+        "PROGRAMACIÓN",
+        null,
+        null
+      ],
+      [
+        "10:00/12:00",
+        "AVANZADAS 3A",
+        "3A",
+        "3A",
+        "FESTIVO",
+        "3A"
+      ],
+      [
+        null,
+        "(Aula 00)",
+        null,
+        null,
+        null,
+        "(Aula 00)"
+      ],
+      [
+        null,
+        null,
+        "(Aula 00)",
+        "(Aula 00)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Paradigmas Avanzados de",
+        null,
+        null
+      ],
+      [
+        null,
+        "Bases de Datos Avanzadas",
+        "GEOMETRÍA DIFERENCIAL",
+        null,
+        null,
+        "GEOMETRÍA DIFERENCIAL"
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación",
+        null,
+        null
+      ],
+      [
+        "12:00/14:00",
+        "3A2",
+        "3A",
+        null,
+        null,
+        "3A (12-14)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "3A2",
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula 00)",
+        "(Aula 00)",
+        null,
+        null,
+        "(Aula 00)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula informática pequeña)",
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      53.1,
+      153.39,
+      773.06,
+      330.26
+    ],
+    "n_rows": 25,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Paradigmas Avanzados de",
+        null,
+        null
+      ],
+      [
+        null,
+        "Bases de Datos Avanzadas",
+        "Transformadas Integrales y",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación",
+        null,
+        null
+      ],
+      [
+        "8:00/10:00",
+        "3A1",
+        "Discretas 3A1 (*)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "3A1",
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula 00)",
+        "(Aula informática pequeña)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula informática pequeña)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "PARADIGMAS AVANZADOS DE",
+        null,
+        null
+      ],
+      [
+        null,
+        "BASES DE DATOS",
+        "GEOMETRÍA DIFERENCIAL",
+        null,
+        null,
+        "TRANSFORMADAS INTEGRALES Y DISCRETAS"
+      ],
+      [
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN",
+        null,
+        null
+      ],
+      [
+        "10:00/12:00",
+        "AVANZADAS 3A",
+        "3A (*)",
+        null,
+        null,
+        "3A"
+      ],
+      [
+        null,
+        null,
+        null,
+        "3A",
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula 00)",
+        "(Aula 00)",
+        null,
+        null,
+        "(Aula 00)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula 00)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Paradigmas Avanzados de",
+        null,
+        null
+      ],
+      [
+        null,
+        "Bases de Datos Avanzadas",
+        "Transformadas Integrales y",
+        null,
+        null,
+        "Geometría Diferencial"
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación",
+        null,
+        null
+      ],
+      [
+        "12:00/14:00",
+        "3A2",
+        "Discretas 3A2 (*)",
+        null,
+        null,
+        "3A1 y 3A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        "3A2",
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula 00)",
+        "(Aula informática pequeña)",
+        null,
+        null,
+        "(Aula 00)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula informática pequeña)",
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      53.1,
+      142.04,
+      773.06,
+      318.91
+    ],
+    "n_rows": 25,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Paradigmas Avanzados de",
+        null,
+        null
+      ],
+      [
+        null,
+        "Bases de Datos Avanzadas",
+        "Transformadas Integrales y",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación",
+        null,
+        null
+      ],
+      [
+        "8:00/10:00",
+        "3A1",
+        "Discretas 3A1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "3A1",
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula 00)",
+        "(Aula informática pequeña)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula informática pequeña)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "PARADIGMAS AVANZADOS DE",
+        null,
+        null
+      ],
+      [
+        null,
+        "BASES DE DATOS",
+        "GEOMETRÍA DIFERENCIAL",
+        null,
+        null,
+        "TRANSFORMADAS INTEGRALES Y DISCRETAS (*)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN",
+        null,
+        null
+      ],
+      [
+        "10:00/12:00",
+        "AVANZADAS 3A",
+        "3A",
+        null,
+        null,
+        "3A"
+      ],
+      [
+        null,
+        null,
+        null,
+        "3A",
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula 00)",
+        "(Aula 00)",
+        null,
+        null,
+        "(Aula 00)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula 00)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Paradigmas Avanzados de",
+        null,
+        null
+      ],
+      [
+        null,
+        "Bases de Datos Avanzadas",
+        "Transformadas Integrales y",
+        null,
+        null,
+        "Geometría Diferencial (*)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "Programación",
+        null,
+        null
+      ],
+      [
+        "12:00/14:00",
+        "3A2",
+        "Discretas 3A2",
+        null,
+        null,
+        "3A1 y 3A2"
+      ],
+      [
+        null,
+        null,
+        null,
+        "3A2",
+        null,
+        null
+      ],
+      [
+        null,
+        "(Aula 00)",
+        "(Aula informática pequeña)",
+        null,
+        null,
+        "(Aula 00)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(Aula informática pequeña)",
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 8,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      54.6,
+      147.28,
+      703.87,
+      342.81
+    ],
+    "n_rows": 21,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/10:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/12:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TEORÍA DE LA MEDIDA",
+        "TEORÍA DE NÚMEROS",
+        "TEORÍA DE LA MEDIDA",
+        null,
+        null
+      ],
+      [
+        "12:00/14:00",
+        null,
+        null,
+        null,
+        "FESTIVO",
+        null
+      ],
+      [
+        null,
+        "4A (Aula 04)",
+        "4A (Aula 04)",
+        "4A (Aula 04)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/15:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "VISIÓN POR COMPUTADOR",
+        "CIBERSEGURIDAD",
+        "SOFT COMPUTING",
+        null,
+        null
+      ],
+      [
+        "15:00/17:00",
+        null,
+        null,
+        null,
+        "FESTIVO",
+        null
+      ],
+      [
+        null,
+        "4A (Aula)",
+        "4A (Aula)",
+        "4A (Aula)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "VISIÓN POR COMPUTADOR",
+        "CIBERSEGURIDAD",
+        "SOFT COMPUTING",
+        null,
+        null
+      ],
+      [
+        "17:00/19:00",
+        null,
+        null,
+        null,
+        "FESTIVO",
+        null
+      ],
+      [
+        null,
+        "4A (Aula)",
+        "4A (Aula)",
+        "4A (Aula)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/21:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 9,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      54.6,
+      127.83,
+      703.87,
+      334.81
+    ],
+    "n_rows": 24,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/10:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/12:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "TEORÍA DE LA MEDIDA",
+        "TEORÍA DE NÚMEROS",
+        "TEORÍA DE LA MEDIDA",
+        "TEORÍA DE NÚMEROS",
+        null
+      ],
+      [
+        "12:00/14:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "4A (Aula 04)",
+        "4A (Aula 04)",
+        "4A (Aula 04)",
+        "4A (Aula 04)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/15:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "CIBERSEGURIDAD",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "VISIÓN POR COMPUTADOR",
+        null,
+        "SOFT COMPUTING",
+        "ARQUITECTURAS BIG-DATA",
+        null
+      ],
+      [
+        "15:00/17:00",
+        null,
+        "4A",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "4A (Aula)",
+        null,
+        "4A (Aula)",
+        "4A (Aula)",
+        null
+      ],
+      [
+        null,
+        null,
+        "(Aula de informática)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "VISIÓN POR COMPUTADOR",
+        "CIBERSEGURIDAD",
+        "SOFT COMPUTING",
+        "Arquitecturas Big-data - 4A1",
+        null
+      ],
+      [
+        "17:00/19:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "4A (Aula)",
+        "4A (Aula)",
+        "4A (Aula)",
+        "(Aula de informática)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/21:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

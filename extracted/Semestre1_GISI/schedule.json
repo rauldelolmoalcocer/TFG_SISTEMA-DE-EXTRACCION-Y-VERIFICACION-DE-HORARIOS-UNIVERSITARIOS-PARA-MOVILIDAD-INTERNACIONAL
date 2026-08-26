@@ -1,0 +1,3125 @@
+[
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Fundamentos De Programación -\n1A1 (NL7)",
+    "subject_name": "Fundamentos De Programación - 1A1",
+    "rooms": [
+      "NL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "FUNDAMENTOS DE\nPROGRAMACIÓN – 1A (SA2)",
+    "subject_name": "FUNDAMENTOS DE PROGRAMACIÓN – 1A",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Fundamentos De Programación -\n1A2 (NL7)",
+    "subject_name": "Fundamentos De Programación - 1A2",
+    "rooms": [
+      "NL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Fundamentos Matemáticos - 1A2\n(SA7)",
+    "subject_name": "Fundamentos Matemáticos - 1A2",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "FUNDAMENTOS MATEMÁTICOS - 1A\n(SA7)",
+    "subject_name": "FUNDAMENTOS MATEMÁTICOS - 1A",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Fundamentos Matemáticos - 1A1\n(SA7)",
+    "subject_name": "Fundamentos Matemáticos - 1A1",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Estadística - 1A1 (NL7)",
+    "subject_name": "Estadística - 1A1",
+    "rooms": [
+      "NL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ESTADÍSTICA - 1A (EA3)",
+    "subject_name": "ESTADÍSTICA - 1A",
+    "rooms": [
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Estadística - 1A2 (NL7)",
+    "subject_name": "Estadística - 1A2",
+    "rooms": [
+      "NL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Estadística – 1A2 (NL7)",
+    "subject_name": "Estadística – 1A2",
+    "rooms": [
+      "NL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Fundamentos Físicos De La\nInformática - 1A1 (OL24)",
+    "subject_name": "Fundamentos Físicos De La Informática - 1A1",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "FUNDAMENTOS FÍSICOS DE LA\nINFORMÁTICA - 1A (NA5)",
+    "subject_name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA - 1A",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Fundamentos Físicos De La\nInformática - 1A2 (OL24)",
+    "subject_name": "Fundamentos Físicos De La Informática - 1A2",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "09:00",
+    "time_end": "11:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "GESTIÓN DE PERSONAS Y EQUIPOS -\n1A (NA4)",
+    "subject_name": "GESTIÓN DE PERSONAS Y EQUIPOS - 1A",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Fundamentos De Programación -\n1B1 (NL4)\nFundamentos De Programación -\n1B2 (NL8)",
+    "subject_name": "Fundamentos De Programación - 1B1 Fundamentos De Programación - 1B2",
+    "rooms": [
+      "NL4",
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "FUNDAMENTOS DE\nPROGRAMACIÓN – 1B (NA4)",
+    "subject_name": "FUNDAMENTOS DE PROGRAMACIÓN – 1B",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Fundamentos De Programación -\n1B3 (NL8)",
+    "subject_name": "Fundamentos De Programación - 1B3",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Fundamentos Matemáticos - 1B1\n(NA4)",
+    "subject_name": "Fundamentos Matemáticos - 1B1",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "FUNDAMENTOS MATEMÁTICOS - 1B\n(NA4)",
+    "subject_name": "FUNDAMENTOS MATEMÁTICOS - 1B",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Fundamentos Matemáticos - 1B2\n(NA4)",
+    "subject_name": "Fundamentos Matemáticos - 1B2",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Estadística - 1B1 (NL8)",
+    "subject_name": "Estadística - 1B1",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ESTADÍSTICA - 1B (NA2)",
+    "subject_name": "ESTADÍSTICA - 1B",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Estadística - 1B2 (NL8)",
+    "subject_name": "Estadística - 1B2",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Fundamentos Físicos De La\nInformática - 1B1 (OL24)",
+    "subject_name": "Fundamentos Físicos De La Informática - 1B1",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "FUNDAMENTOS FÍSICOS DE LA\nINFORMÁTICA - 1B (NA2)",
+    "subject_name": "FUNDAMENTOS FÍSICOS DE LA INFORMÁTICA - 1B",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Fundamentos Físicos De La\nInformática - 1B2 (OL24)",
+    "subject_name": "Fundamentos Físicos De La Informática - 1B2",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "14:00",
+    "time_end": "16:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "GESTIÓN DE PERSONAS Y EQUIPOS\n- 1B (NA4)",
+    "subject_name": "GESTIÓN DE PERSONAS Y EQUIPOS - 1B",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Estructuras De Datos - 2A1 (NL9)",
+    "subject_name": "Estructuras De Datos - 2A1",
+    "rooms": [
+      "NL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "ESTRUCTURAS DE DATOS – 2A\n(SA4)",
+    "subject_name": "ESTRUCTURAS DE DATOS – 2A",
+    "rooms": [
+      "SA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ESTRUCTURAS DE DATOS - 2A\n(SA4)",
+    "subject_name": "ESTRUCTURAS DE DATOS - 2A",
+    "rooms": [
+      "SA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Estructuras De Datos - 2A2 (NL11)",
+    "subject_name": "Estructuras De Datos - 2A2",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Estructuras De Datos – 2B1 (NL11)",
+    "subject_name": "Estructuras De Datos – 2B1",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Estructuras De Datos - 2B1 (NL11)",
+    "subject_name": "Estructuras De Datos - 2B1",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ESTRUCTURAS DE DATOS - 2B\n(NA3)",
+    "subject_name": "ESTRUCTURAS DE DATOS - 2B",
+    "rooms": [
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      12,
+      13
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Estructuras De Datos – 2B2 (NL11)",
+    "subject_name": "Estructuras De Datos – 2B2",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Sistemas Operativos - 2A1 (NL9)",
+    "subject_name": "Sistemas Operativos - 2A1",
+    "rooms": [
+      "NL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS OPERATIVOS - 2A (SA4)",
+    "subject_name": "SISTEMAS OPERATIVOS - 2A",
+    "rooms": [
+      "SA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas Operativos - 2A2 (NL9)",
+    "subject_name": "Sistemas Operativos - 2A2",
+    "rooms": [
+      "NL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas Operativos - 2B1 (NL9)",
+    "subject_name": "Sistemas Operativos - 2B1",
+    "rooms": [
+      "NL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "SISTEMAS OPERATIVOS - 2B\n(NA3)",
+    "subject_name": "SISTEMAS OPERATIVOS - 2B",
+    "rooms": [
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      12,
+      13
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Sistemas Operativos - 2B2 (lab)",
+    "subject_name": "Sistemas Operativos - 2B2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      10
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "17:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "SISTEMAS DE INFORMACIÓN\nCONTABLE - 2A (EA7)",
+    "subject_name": "SISTEMAS DE INFORMACIÓN CONTABLE - 2A",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "10:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "MARKETING TIC - 2A (SA7)",
+    "subject_name": "MARKETING TIC - 2A",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Bases De Datos - 2A1 (lab)",
+    "subject_name": "Bases De Datos - 2A1",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "BASES DE DATOS - 2A (SA7)",
+    "subject_name": "BASES DE DATOS - 2A",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Bases De Datos - 2A2 (lab)",
+    "subject_name": "Bases De Datos - 2A2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Bases De Datos – 2B1 (lab)",
+    "subject_name": "Bases De Datos – 2B1",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Bases De Datos – 2B2 (lab)",
+    "subject_name": "Bases De Datos – 2B2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "BASES DE DATOS – 2B (SA7)",
+    "subject_name": "BASES DE DATOS – 2B",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      12,
+      13
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Bases De Datos – 2B2 (lab)",
+    "subject_name": "Bases De Datos – 2B2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "DATA STRUCTURES - 2E (OA6)",
+    "subject_name": "DATA STRUCTURES - 2E",
+    "rooms": [
+      "OA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Data Structures - 2E1 (NL4)",
+    "subject_name": "Data Structures - 2E1",
+    "rooms": [
+      "NL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "11:00",
+    "time_end": "12:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "DATABASES - 2E (OA5)",
+    "subject_name": "DATABASES - 2E",
+    "rooms": [
+      "OA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "13:00",
+    "time_end": "14:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "Databases - 2E1 (OA5)",
+    "subject_name": "Databases - 2E1",
+    "rooms": [
+      "OA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "SIST. DE INFORMACIÓN PARA LA\nGESTIÓN DE COSTES – 3A (NA5)",
+    "subject_name": "SIST. DE INFORMACIÓN PARA LA GESTIÓN DE COSTES – 3A",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "PARADIGMAS DE PROGRAMACIÓN –\n3A (SA6)",
+    "subject_name": "PARADIGMAS DE PROGRAMACIÓN – 3A",
+    "rooms": [
+      "SA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "PARADIGMAS DE PROGRAMACIÓN -\n3A (SA6)",
+    "subject_name": "PARADIGMAS DE PROGRAMACIÓN - 3A",
+    "rooms": [
+      "SA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Paradigmas De Programación - 3A1\n(SA6)\nParadigmas De Programación - 3A2\n(SA1)",
+    "subject_name": "Paradigmas De Programación - 3A1 Paradigmas De Programación - 3A2",
+    "rooms": [
+      "SA6",
+      "SA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "PARADIGMAS DE PROGRAMACIÓN -\n3B (EA7)",
+    "subject_name": "PARADIGMAS DE PROGRAMACIÓN - 3B",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Ampliación De Sistemas Operativos\n– 3B1 (EL4)",
+    "subject_name": "Ampliación De Sistemas Operativos – 3B1",
+    "rooms": [
+      "EL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "AMPLIACIÓN DE SISTEMAS\nOPERATIVOS - 3B (NA4)",
+    "subject_name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS - 3B",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Ampliación De Sistemas Operativos -\n3B2 (EL4)",
+    "subject_name": "Ampliación De Sistemas Operativos - 3B2",
+    "rooms": [
+      "EL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Ampliación De Sistemas Operativos\n– 3A1 (EL4)\nAmpliación De Sistemas Operativos\n– 3A2 (EL5)",
+    "subject_name": "Ampliación De Sistemas Operativos – 3A1 Ampliación De Sistemas Operativos – 3A2",
+    "rooms": [
+      "EL4",
+      "EL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "SISTEMAS DE INFORMACIÓN DE\nAPOYO A PROCESOS Y TOMA DE\nDECISIONES - 3A (NA4)",
+    "subject_name": "SISTEMAS DE INFORMACIÓN DE APOYO A PROCESOS Y TOMA DE DECISIONES - 3A",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Ingeniería Del Software Avanzada -\n3A1 (NL11)",
+    "subject_name": "Ingeniería Del Software Avanzada - 3A1",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "SIST. DE INFORMACIÓN PARA LA\nGESTIÓN DE COSTES – 3A (NA5)",
+    "subject_name": "SIST. DE INFORMACIÓN PARA LA GESTIÓN DE COSTES – 3A",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Paradigmas De Programación - 3B1\n(EA7)\nParadigmas De Programación - 3B2\n(EA6)",
+    "subject_name": "Paradigmas De Programación - 3B1 Paradigmas De Programación - 3B2",
+    "rooms": [
+      "EA7",
+      "EA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Ampliación De Sistemas Operativos\n– 3A5 (EL5)",
+    "subject_name": "Ampliación De Sistemas Operativos – 3A5",
+    "rooms": [
+      "EL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "AMPLIACIÓN DE SISTEMAS\nOPERATIVOS – 3A (NA4)",
+    "subject_name": "AMPLIACIÓN DE SISTEMAS OPERATIVOS – 3A",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Ampliación De Sistemas Operativos\n– 3A3 (EL5)",
+    "subject_name": "Ampliación De Sistemas Operativos – 3A3",
+    "rooms": [
+      "EL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "19:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "SISTEMAS DE INFORMACIÓN DE\nAPOYO A PROCESOS Y TOMA DE\nDECISIONES - 3A (NA4)",
+    "subject_name": "SISTEMAS DE INFORMACIÓN DE APOYO A PROCESOS Y TOMA DE DECISIONES - 3A",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "INGENIERÍA DEL SOFTWARE\nAVANZADA – 3A (NA3)",
+    "subject_name": "INGENIERÍA DEL SOFTWARE AVANZADA – 3A",
+    "rooms": [
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Ingeniería Del Software Avanzada -\n3A2 (NL11)",
+    "subject_name": "Ingeniería Del Software Avanzada - 3A2",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Sist. Control Inteligente - 4A1 (OL1)\nSist. Control Inteligente - 4A2 (OL2)\nSist. Control Inteligente - 4A3 (OL5)",
+    "subject_name": "Sist. Control Inteligente - 4A1 Sist. Control Inteligente - 4A2 Sist. Control Inteligente - 4A3",
+    "rooms": [
+      "OL1",
+      "OL2",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "12:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Sistemas De Vision Artificial –\n4A3 (OL2)",
+    "subject_name": "Sistemas De Vision Artificial – 4A3",
+    "rooms": [
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "APLICACIONES DEL SOFT-\nCOMPUTING EN ENERGÍA, VOZ E\nIMAGEN - 4A (OA6)\nSistemas Audiovisuales Y\nAplicaciones Multimedia – 4A1 (SL7)\nSISTEMAS DE CONTROL\nINTELIGENTE - 4A (NA8)\nINTELIGENCIA ARTIFICIAL\nGENERATIVA CON GRANDES\nMODELOS DE LENGUAJE – 4A (NA3)",
+    "subject_name": "APLICACIONES DEL SOFT- COMPUTING EN ENERGÍA, VOZ E IMAGEN - 4A Sistemas Audiovisuales Y Aplicaciones Multimedia – 4A1 SISTEMAS DE CONTROL INTELIGENTE - 4A INTELIGENCIA ARTIFICIAL GENERATIVA CON GRANDES MODELOS DE LENGUAJE – 4A",
+    "rooms": [
+      "OA6",
+      "SL7",
+      "NA8",
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Aplicaciones Del Soft-Computing En\nEnergía, Voz E Imagen - 4A1 (OA6)\nSistemas Audiovisuales Y\nAplicaciones Multimedia – 4A1 (SL7)\nSist. Control Inteligente - 4B1 (OL1)",
+    "subject_name": "Aplicaciones Del Soft-Computing En Energía, Voz E Imagen - 4A1 Sistemas Audiovisuales Y Aplicaciones Multimedia – 4A1 Sist. Control Inteligente - 4B1",
+    "rooms": [
+      "OA6",
+      "SL7",
+      "OL1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "ARQUITECTURA Y DISEÑO DE\nSISTEMAS WEB Y C/S - 4A (NA8)",
+    "subject_name": "ARQUITECTURA Y DISEÑO DE SISTEMAS WEB Y C/S - 4A",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Arquitectura Y Diseño De Sistemas\nWeb Y C/S - 4A1 (NL11)\nSISTEMAS DE CONTROL PARA\nROBOTS - 4A (NA8)",
+    "subject_name": "Arquitectura Y Diseño De Sistemas Web Y C/S - 4A1 SISTEMAS DE CONTROL PARA ROBOTS - 4A",
+    "rooms": [
+      "NL11",
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Arquitectura Y Diseño De Sistemas\nWeb Y C/S - 4A2 (lab)\nSistemas De Control Para Robots -\n4A1 (PL21)\nSistemas De Control Para Robots -",
+    "subject_name": "Arquitectura Y Diseño De Sistemas Web Y C/S - 4A2 Sistemas De Control Para Robots - 4A1 Sistemas De Control Para Robots -",
+    "rooms": [
+      "lab",
+      "PL21"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Sistemas Audiovisuales Y\nAplicaciones Multimedia – 4A2 (SL7)",
+    "subject_name": "Sistemas Audiovisuales Y Aplicaciones Multimedia – 4A2",
+    "rooms": [
+      "SL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Sistemas Audiovisuales Y\nAplicaciones Multimedia – 4A2\n(SL7)",
+    "subject_name": "Sistemas Audiovisuales Y Aplicaciones Multimedia – 4A2",
+    "rooms": [
+      "SL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sist. Control Inteligente - 4A1 (OL1)\nSist. Control Inteligente - 4A2 (OL2)\nSist. Control Inteligente - 4A3 (OL5)",
+    "subject_name": "Sist. Control Inteligente - 4A1 Sist. Control Inteligente - 4A2 Sist. Control Inteligente - 4A3",
+    "rooms": [
+      "OL1",
+      "OL2",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas De Vision Artificial - 4A2\n(OL5)",
+    "subject_name": "Sistemas De Vision Artificial - 4A2",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas De Vision Artificial –\n4A3 (OL2)",
+    "subject_name": "Sistemas De Vision Artificial – 4A3",
+    "rooms": [
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Patrones Software - 4A1 (NA2)\nSistemas De Vision Artificial –\n4A1 (OL5)",
+    "subject_name": "Patrones Software - 4A1 Sistemas De Vision Artificial – 4A1",
+    "rooms": [
+      "NA2",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Patrones Software - 4A1 (NA2)\nSistemas De Vision Artificial -\n4A1´(OL5)",
+    "subject_name": "Patrones Software - 4A1 Sistemas De Vision Artificial - 4A1´",
+    "rooms": [
+      "NA2",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "PATRONES SOFTWARE - 4A\n(NA2)",
+    "subject_name": "PATRONES SOFTWARE - 4A",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Patrones Software - 4A2 (NA2)",
+    "subject_name": "Patrones Software - 4A2",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Aplicaciones Del Soft-Computing En\nEnergía, Voz E Imagen – 4A1 (OA6)\nSistemas Audiovisuales Y\nAplicaciones Multimedia – 4A1 (SL7)\nSist. Control Inteligente - 4B1 (OL1)\nIntelig- Artificial Generativa con\nGrandes Modelos de Lenguaje – 4A1\n(NA3)\nIntelig- Artificial Generativa con\nGrandes Modelos de Lenguaje – 4A2\n(SA6)",
+    "subject_name": "Aplicaciones Del Soft-Computing En Energía, Voz E Imagen – 4A1 Sistemas Audiovisuales Y Aplicaciones Multimedia – 4A1 Sist. Control Inteligente - 4B1 Intelig- Artificial Generativa con Grandes Modelos de Lenguaje – 4A1 Intelig- Artificial Generativa con Grandes Modelos de Lenguaje – 4A2",
+    "rooms": [
+      "OA6",
+      "SL7",
+      "OL1",
+      "NA3",
+      "SA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Arquitectura Y Diseño De Sistemas\nWeb Y C/S - 4A2 (lab)\nSistemas De Control Para Robots -\n4A1 (PL21)\nSistemas De Control Para Robots -\n4A2 (OL2)",
+    "subject_name": "Arquitectura Y Diseño De Sistemas Web Y C/S - 4A2 Sistemas De Control Para Robots - 4A1 Sistemas De Control Para Robots - 4A2",
+    "rooms": [
+      "lab",
+      "PL21",
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Sistemas De Vision Artificial - 4A1\n(OL5)",
+    "subject_name": "Sistemas De Vision Artificial - 4A1",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas De Vision Artificial - 4A1\n(OL5)\nARQ. Y DISEÑO DE SISTEMAS WEB Y\nC/S – 4B (NA8)",
+    "subject_name": "Sistemas De Vision Artificial - 4A1 ARQ. Y DISEÑO DE SISTEMAS WEB Y C/S – 4B",
+    "rooms": [
+      "OL5",
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Arquitectura Y Diseño De Sistemas\nWeb Y C/S - 4B1 (lab)",
+    "subject_name": "Arquitectura Y Diseño De Sistemas Web Y C/S - 4B1",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Arquitectura Y Diseño De Sistemas\nWeb Y C/S - 4B2 (lab)",
+    "subject_name": "Arquitectura Y Diseño De Sistemas Web Y C/S - 4B2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas Audiovisuales Y\nAplicaciones Multimedia – 4A2\n(SL7)",
+    "subject_name": "Sistemas Audiovisuales Y Aplicaciones Multimedia – 4A2",
+    "rooms": [
+      "SL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas De Vision Artificial - 4A2\n(OL5)",
+    "subject_name": "Sistemas De Vision Artificial - 4A2",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºE",
+    "semester": 7,
+    "course_year": "2025/2026",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "INTRODUCTION TO QUANTUM\nMECHANICS AND QUANTUM\nCOMPUTING – 4E (NA8)",
+    "subject_name": "INTRODUCTION TO QUANTUM MECHANICS AND QUANTUM COMPUTING – 4E",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºE",
+    "semester": 7,
+    "course_year": "2025/2026",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Introduction To Quantum\nMechanics And Quantum\nComputing – 4E1 (NA8)",
+    "subject_name": "Introduction To Quantum Mechanics And Quantum Computing – 4E1",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºE",
+    "semester": 7,
+    "course_year": "2025/2026",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Computer Vision Systems - 4E1\n(OL8)",
+    "subject_name": "Computer Vision Systems - 4E1",
+    "rooms": [
+      "OL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GISI.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN (G581) (GISI)",
+    "group": "4ºE",
+    "semester": 7,
+    "course_year": "2025/2026",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Computer Vision Systems - 4E1\n(OL8)",
+    "subject_name": "Computer Vision Systems - 4E1",
+    "rooms": [
+      "OL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

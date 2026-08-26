@@ -1,0 +1,3003 @@
+[
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "GEOMETRÍA AFÍN Y\nPROYECTIVA\n1A\n(Aula 5)",
+    "subject_name": "GEOMETRÍA AFÍN Y PROYECTIVA 1A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "MATEMÁTICA DISCRETA\n1A\n(Aula 5)",
+    "subject_name": "MATEMÁTICA DISCRETA 1A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "GEOMETRÍA AFÍN Y\nPROYECTIVA\n1A\n(Aula 5)",
+    "subject_name": "GEOMETRÍA AFÍN Y PROYECTIVA 1A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "ANÁLISIS MATEMÁTICO II\n1A\n(Aula 5)",
+    "subject_name": "ANÁLISIS MATEMÁTICO II 1A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "08:00/10:00",
+    "time_end_raw": "08:00/10:00",
+    "subject_raw": "Métodos de Programación\n1A1\n(Aula informática grande)",
+    "subject_name": "Métodos de Programación 1A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática grande"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "MÉTODOS DE\nPROGRAMACIÓN\n1A\n(Aula 5)",
+    "subject_name": "MÉTODOS DE PROGRAMACIÓN 1A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Métodos de Programación\n1A1\n(Aula informática grande)",
+    "subject_name": "Métodos de Programación 1A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática grande"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "14:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "FESTIVO",
+    "subject_name": "FESTIVO",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "08:00/10:00",
+    "time_end_raw": "08:00/10:00",
+    "subject_raw": "Estructura de Datos\n1A2\n(Aula informática grande)",
+    "subject_name": "Estructura de Datos 1A2",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática grande"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "ESTRUCTURAS DE DATOS\n1A\n(Aula 5)",
+    "subject_name": "ESTRUCTURAS DE DATOS 1A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Estructura de Datos\n1A1\n(Aula informática grande)",
+    "subject_name": "Estructura de Datos 1A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática grande"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "GEOMETRÍA AFÍN Y\nPROYECTIVA\n1A\n(Aula 5)",
+    "subject_name": "GEOMETRÍA AFÍN Y PROYECTIVA 1A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "MATEMÁTICA DISCRETA\n1A\n(Aula 5)",
+    "subject_name": "MATEMÁTICA DISCRETA 1A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "Análisis Matemático\nII\n1A2\n(Aula 5)",
+    "subject_name": "Análisis Matemático II 1A2",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Análisis Matemático\nII\n1A1\n(Aula 4)",
+    "subject_name": "Análisis Matemático II 1A1",
+    "rooms": [
+      "Aula 4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": null,
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "Geometría Afín y\nProyectiva\n1A1\n(Aula 5)",
+    "subject_name": "Geometría Afín y Proyectiva 1A1",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": null,
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Matemática Discreta\n1A2\n(Oficina técnica)",
+    "subject_name": "Matemática Discreta 1A2",
+    "rooms": [],
+    "non_room_annotations": [
+      "Oficina técnica"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Métodos de\nProgramación\n1A1\n(Aula informática\ngrande)",
+    "subject_name": "Métodos de Programación 1A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática\ngrande"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "MÉTODOS DE\nPROGRAMACIÓN\n1A\n(Aula 5)",
+    "subject_name": "MÉTODOS DE PROGRAMACIÓN 1A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Métodos de\nProgramación\n1A1\n(Aula informática\ngrande)",
+    "subject_name": "Métodos de Programación 1A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática\ngrande"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "Matemática Discreta\n1A1\n(Oficina técnica)",
+    "subject_name": "Matemática Discreta 1A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Oficina técnica"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "ANÁLISIS MATEMÁTICO II\n1A\n(Aula 5)",
+    "subject_name": "ANÁLISIS MATEMÁTICO II 1A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": null,
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "Geometría Afín y\nProyectiva\n1A2\n(Aula 5)",
+    "subject_name": "Geometría Afín y Proyectiva 1A2",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Estructura de Datos\n1A2\n(Aula informática grande)",
+    "subject_name": "Estructura de Datos 1A2",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática grande"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "ESTRUCTURAS DE DATOS\n1A\n(Aula 5)",
+    "subject_name": "ESTRUCTURAS DE DATOS 1A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Estructura de Datos\n1A1\n(Aula informática grande)",
+    "subject_name": "Estructura de Datos 1A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática grande"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "15:00/17:00",
+    "subject_raw": "ESTRUCTURAS\nALGEBRAICAS\n2A (Aula 5)",
+    "subject_name": "ESTRUCTURAS ALGEBRAICAS 2A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "time_start_raw": "17:00/19:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "PROBABILIDAD\n2A\n(Aula 5)",
+    "subject_name": "PROBABILIDAD 2A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "15:00/17:00",
+    "subject_raw": "PROGRAMACIÓN CONCURRENTE\nY DISTRIBUIDA\n2A1 (Aula 5)",
+    "subject_name": "PROGRAMACIÓN CONCURRENTE Y DISTRIBUIDA 2A1",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "time_start_raw": "17:00/19:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "PROGRAMACIÓN CONCURRENTE\nY DISTRIBUIDA\n2A (Aula 5)",
+    "subject_name": "PROGRAMACIÓN CONCURRENTE Y DISTRIBUIDA 2A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      10
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "time_start_raw": "19:00/21:00",
+    "time_end_raw": "19:00/21:00",
+    "subject_raw": "PROGRAMACIÓN CONCURRENTE\nY DISTRIBUIDA\n2A2 (Aula 5)",
+    "subject_name": "PROGRAMACIÓN CONCURRENTE Y DISTRIBUIDA 2A2",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "15:00/17:00",
+    "subject_raw": "PROBABILIDAD\n2A\n(Aula 5)",
+    "subject_name": "PROBABILIDAD 2A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "time_start_raw": "17:00/19:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "ECUACIONES\nDIFERENCIALES\n2A (Aula 5)",
+    "subject_name": "ECUACIONES DIFERENCIALES 2A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "19:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "FESTIVO",
+    "subject_name": "FESTIVO",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Algoritmia y complejidad\n2A2\n(Aula 11)",
+    "subject_name": "Algoritmia y complejidad 2A2",
+    "rooms": [
+      "Aula 11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "ALGORITMIA Y\nCOMPLEJIDAD\n2A\n(Aula 11)",
+    "subject_name": "ALGORITMIA Y COMPLEJIDAD 2A",
+    "rooms": [
+      "Aula 11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Algoritmia y complejidad\n2A1\n(Aula 11)",
+    "subject_name": "Algoritmia y complejidad 2A1",
+    "rooms": [
+      "Aula 11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "15:00/17:00",
+    "subject_raw": "ESTRUCTURAS\nALGEBRAICAS\n2A (Aula 5)",
+    "subject_name": "ESTRUCTURAS ALGEBRAICAS 2A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "time_start_raw": "17:00/19:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "PROBABILIDAD\n2A (Aula 5)",
+    "subject_name": "PROBABILIDAD 2A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "15:00/17:00",
+    "subject_raw": "Programación concurrente y\ndistribuida 2A1 (Aula 5)",
+    "subject_name": "Programación concurrente y distribuida 2A1",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "time_start_raw": "17:00/19:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "PROGRAMACIÓN\nCONCURRENTE Y DISTRIBUIDA\n2A (Aula 5)",
+    "subject_name": "PROGRAMACIÓN CONCURRENTE Y DISTRIBUIDA 2A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "21:00",
+    "time_start_raw": "19:00/21:00",
+    "time_end_raw": "19:00/21:00",
+    "subject_raw": "Programación concurrente y\ndistribuida 2A2 (Aula 5)",
+    "subject_name": "Programación concurrente y distribuida 2A2",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "15:00/17:00",
+    "subject_raw": "Probabilidad\n2A1 y 2A2\n(Aula 5)",
+    "subject_name": "Probabilidad 2A1 y 2A2",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "time_start_raw": "17:00/19:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "ECUACIONES DIFERENCIALES\n2A (Aula 5)",
+    "subject_name": "ECUACIONES DIFERENCIALES 2A",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "15:00/17:00",
+    "subject_raw": "Ecuaciones diferenciales\n2A1 y 2A2\n(Aula 5)",
+    "subject_name": "Ecuaciones diferenciales 2A1 y 2A2",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      8
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "time_start_raw": "17:00/19:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "Estructuras algebraicas\n2A1 y 2A2 (Aula 5)",
+    "subject_name": "Estructuras algebraicas 2A1 y 2A2",
+    "rooms": [
+      "Aula 5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Algoritmia y complejidad\n2A2\n(Aula Inf. Pequeña)",
+    "subject_name": "Algoritmia y complejidad 2A2",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula Inf. Pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "ALGORITMIA Y\nCOMPLEJIDAD\n2A (Aula 11)",
+    "subject_name": "ALGORITMIA Y COMPLEJIDAD 2A",
+    "rooms": [
+      "Aula 11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "2ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Algoritmia y complejidad\n2A1\n(Aula Inf. Pequeña)",
+    "subject_name": "Algoritmia y complejidad 2A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula Inf. Pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Bases de Datos Avanzadas\n3A1\n(Aula 00)",
+    "subject_name": "Bases de Datos Avanzadas 3A1",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "BASES DE DATOS\nAVANZADAS 3A\n(Aula 00)",
+    "subject_name": "BASES DE DATOS AVANZADAS 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Bases de Datos Avanzadas\n3A2\n(Aula 00)",
+    "subject_name": "Bases de Datos Avanzadas 3A2",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "TRANSFORMADAS INTEGRALES\nY DISCRETAS\n3A\n(Aula 00)",
+    "subject_name": "TRANSFORMADAS INTEGRALES Y DISCRETAS 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "GEOMETRÍA DIFERENCIAL\n3A\n(Aula 00)",
+    "subject_name": "GEOMETRÍA DIFERENCIAL 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Paradigmas Avanzados de\nProgramación\n3A1\n(Aula informática pequeña)",
+    "subject_name": "Paradigmas Avanzados de Programación 3A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "PARADIGMAS AVANZADOS DE\nPROGRAMACIÓN\n3A\n(Aula 00)",
+    "subject_name": "PARADIGMAS AVANZADOS DE PROGRAMACIÓN 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Paradigmas Avanzados de\nProgramación\n3A2\n(Aula informática pequeña)",
+    "subject_name": "Paradigmas Avanzados de Programación 3A2",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "12:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "FESTIVO",
+    "subject_name": "FESTIVO",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "TRANSFORMADAS INTEGRALES Y DISCRETAS\n3A\n(Aula 00)",
+    "subject_name": "TRANSFORMADAS INTEGRALES Y DISCRETAS 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "GEOMETRÍA DIFERENCIAL\n3A (12-14)\n(Aula 00)",
+    "subject_name": "GEOMETRÍA DIFERENCIAL 3A",
+    "rooms": [
+      "12-14",
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Bases de Datos Avanzadas\n3A1\n(Aula 00)",
+    "subject_name": "Bases de Datos Avanzadas 3A1",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "BASES DE DATOS\nAVANZADAS 3A\n(Aula 00)",
+    "subject_name": "BASES DE DATOS AVANZADAS 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Bases de Datos Avanzadas\n3A2\n(Aula 00)",
+    "subject_name": "Bases de Datos Avanzadas 3A2",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Transformadas Integrales y\nDiscretas 3A1 (*)\n(Aula informática pequeña)",
+    "subject_name": "Transformadas Integrales y Discretas 3A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "*",
+      "Aula informática pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "GEOMETRÍA DIFERENCIAL\n3A (*)\n(Aula 00)",
+    "subject_name": "GEOMETRÍA DIFERENCIAL 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Transformadas Integrales y\nDiscretas 3A2 (*)\n(Aula informática pequeña)",
+    "subject_name": "Transformadas Integrales y Discretas 3A2",
+    "rooms": [],
+    "non_room_annotations": [
+      "*",
+      "Aula informática pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Paradigmas Avanzados de\nProgramación\n3A1\n(Aula informática pequeña)",
+    "subject_name": "Paradigmas Avanzados de Programación 3A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "PARADIGMAS AVANZADOS DE\nPROGRAMACIÓN\n3A\n(Aula 00)",
+    "subject_name": "PARADIGMAS AVANZADOS DE PROGRAMACIÓN 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Paradigmas Avanzados de\nProgramación\n3A2\n(Aula informática pequeña)",
+    "subject_name": "Paradigmas Avanzados de Programación 3A2",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "TRANSFORMADAS INTEGRALES Y DISCRETAS\n3A\n(Aula 00)",
+    "subject_name": "TRANSFORMADAS INTEGRALES Y DISCRETAS 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Geometría Diferencial\n3A1 y 3A2\n(Aula 00)",
+    "subject_name": "Geometría Diferencial 3A1 y 3A2",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Bases de Datos Avanzadas\n3A1\n(Aula 00)",
+    "subject_name": "Bases de Datos Avanzadas 3A1",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "BASES DE DATOS\nAVANZADAS 3A\n(Aula 00)",
+    "subject_name": "BASES DE DATOS AVANZADAS 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Bases de Datos Avanzadas\n3A2\n(Aula 00)",
+    "subject_name": "Bases de Datos Avanzadas 3A2",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Transformadas Integrales y\nDiscretas 3A1\n(Aula informática pequeña)",
+    "subject_name": "Transformadas Integrales y Discretas 3A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "GEOMETRÍA DIFERENCIAL\n3A\n(Aula 00)",
+    "subject_name": "GEOMETRÍA DIFERENCIAL 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Transformadas Integrales y\nDiscretas 3A2\n(Aula informática pequeña)",
+    "subject_name": "Transformadas Integrales y Discretas 3A2",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "10:00",
+    "time_start_raw": "8:00/10:00",
+    "time_end_raw": "8:00/10:00",
+    "subject_raw": "Paradigmas Avanzados de\nProgramación\n3A1\n(Aula informática pequeña)",
+    "subject_name": "Paradigmas Avanzados de Programación 3A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "PARADIGMAS AVANZADOS DE\nPROGRAMACIÓN\n3A\n(Aula 00)",
+    "subject_name": "PARADIGMAS AVANZADOS DE PROGRAMACIÓN 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Paradigmas Avanzados de\nProgramación\n3A2\n(Aula informática pequeña)",
+    "subject_name": "Paradigmas Avanzados de Programación 3A2",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula informática pequeña"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "12:00",
+    "time_start_raw": "10:00/12:00",
+    "time_end_raw": "10:00/12:00",
+    "subject_raw": "TRANSFORMADAS INTEGRALES Y DISCRETAS (*)\n3A\n(Aula 00)",
+    "subject_name": "TRANSFORMADAS INTEGRALES Y DISCRETAS 3A",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "3ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "Geometría Diferencial (*)\n3A1 y 3A2\n(Aula 00)",
+    "subject_name": "Geometría Diferencial 3A1 y 3A2",
+    "rooms": [
+      "Aula 00"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "TEORÍA DE LA MEDIDA\n4A (Aula 04)",
+    "subject_name": "TEORÍA DE LA MEDIDA 4A",
+    "rooms": [
+      "Aula 04"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "19:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "VISIÓN POR COMPUTADOR\n4A (Aula)",
+    "subject_name": "VISIÓN POR COMPUTADOR 4A",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "TEORÍA DE NÚMEROS\n4A (Aula 04)",
+    "subject_name": "TEORÍA DE NÚMEROS 4A",
+    "rooms": [
+      "Aula 04"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "19:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "CIBERSEGURIDAD\n4A (Aula)",
+    "subject_name": "CIBERSEGURIDAD 4A",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "TEORÍA DE LA MEDIDA\n4A (Aula 04)",
+    "subject_name": "TEORÍA DE LA MEDIDA 4A",
+    "rooms": [
+      "Aula 04"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "19:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "SOFT COMPUTING\n4A (Aula)",
+    "subject_name": "SOFT COMPUTING 4A",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "FESTIVO",
+    "subject_name": "FESTIVO",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "19:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "FESTIVO",
+    "subject_name": "FESTIVO",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "TEORÍA DE LA MEDIDA\n4A (Aula 04)",
+    "subject_name": "TEORÍA DE LA MEDIDA 4A",
+    "rooms": [
+      "Aula 04"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "19:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "VISIÓN POR COMPUTADOR\n4A (Aula)",
+    "subject_name": "VISIÓN POR COMPUTADOR 4A",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "TEORÍA DE NÚMEROS\n4A (Aula 04)",
+    "subject_name": "TEORÍA DE NÚMEROS 4A",
+    "rooms": [
+      "Aula 04"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "15:00/17:00",
+    "subject_raw": "CIBERSEGURIDAD\n4A\n(Aula de informática)",
+    "subject_name": "CIBERSEGURIDAD 4A",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula de informática"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "time_start_raw": "17:00/19:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "CIBERSEGURIDAD\n4A (Aula)",
+    "subject_name": "CIBERSEGURIDAD 4A",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "TEORÍA DE LA MEDIDA\n4A (Aula 04)",
+    "subject_name": "TEORÍA DE LA MEDIDA 4A",
+    "rooms": [
+      "Aula 04"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "19:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "SOFT COMPUTING\n4A (Aula)",
+    "subject_name": "SOFT COMPUTING 4A",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "14:00",
+    "time_start_raw": "12:00/14:00",
+    "time_end_raw": "12:00/14:00",
+    "subject_raw": "TEORÍA DE NÚMEROS\n4A (Aula 04)",
+    "subject_name": "TEORÍA DE NÚMEROS 4A",
+    "rooms": [
+      "Aula 04"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "17:00",
+    "time_start_raw": "15:00/17:00",
+    "time_end_raw": "15:00/17:00",
+    "subject_raw": "ARQUITECTURAS BIG-DATA\n4A (Aula)",
+    "subject_name": "ARQUITECTURAS BIG-DATA 4A",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2_GMC.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "GRADO EN MATEMÁTICAS Y COMPUTACIÓN (GMC)",
+    "group": "4ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "19:00",
+    "time_start_raw": "17:00/19:00",
+    "time_end_raw": "17:00/19:00",
+    "subject_raw": "Arquitecturas Big-data - 4A1\n(Aula de informática)",
+    "subject_name": "Arquitecturas Big-data - 4A1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula de informática"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

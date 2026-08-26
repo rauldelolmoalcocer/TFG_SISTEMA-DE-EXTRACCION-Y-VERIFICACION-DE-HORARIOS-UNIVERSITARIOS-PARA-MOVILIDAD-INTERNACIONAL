@@ -1,0 +1,30 @@
+PDF: MUIT-2627-SEMESTRE2.pdf
+
+Pages: 1
+
+PAGE 1
+----------------------------
+
+Words detected: 94
+Lines detected: 0
+Rectangles detected: 23
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 5  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 21  Columns: 9
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 19  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Multiline cell detected at row 2, col 1
+- [lines] Multiline cell detected at row 2, col 2
+- [lines] Multiline cell detected at row 2, col 3
+- [lines] Multiline cell detected at row 4, col 3

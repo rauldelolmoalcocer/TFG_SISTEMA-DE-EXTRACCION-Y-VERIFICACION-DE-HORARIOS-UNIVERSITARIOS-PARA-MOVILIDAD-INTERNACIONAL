@@ -85,6 +85,15 @@
 
                 </div>
 
+                <!-- REVISIÓN POR IA (OPCIONAL) -->
+                <label class="llm-toggle">
+                    <input type="checkbox" id="llmReviewToggle">
+                    Revisar con IA local (Ollama) los registros con warnings
+                </label>
+                <p class="llm-toggle-hint">
+                    Requiere Ollama corriendo y accesible desde el backend. Si no está disponible, la extracción sigue igual sin la revisión.
+                </p>
+
                 <!-- BARRA DE PROGRESO -->
                 <div class="progress-container">
 
@@ -189,11 +198,22 @@
                     </div>
 
                     <div class="summary-item danger">
+                        <span class="summary-value" id="sumInvalid">0</span>
+                        <span class="summary-label">Asignaturas mezcladas</span>
+                    </div>
+
+                    <div class="summary-item danger">
                         <span class="summary-value" id="sumRejected">0</span>
-                        <span class="summary-label">Rechazados</span>
+                        <span class="summary-label">Tablas omitidas</span>
+                    </div>
+
+                    <div class="summary-item accent" id="sumLlmBlock" hidden>
+                        <span class="summary-value" id="sumLlmReviewed">0</span>
+                        <span class="summary-label">Revisados por IA</span>
                     </div>
 
                 </div>
+                <p class="llm-summary-note" id="sumLlmError" hidden></p>
             </div>
 
             <div class="modal-actions">
@@ -227,6 +247,9 @@
 
         const dumpDbButton =
             document.getElementById("dumpDbButton");
+
+        const llmReviewToggle =
+            document.getElementById("llmReviewToggle");
 
         const pauseButton =
             document.getElementById("pauseButton");
@@ -392,7 +415,11 @@
             lastLogCount = 0;
 
             try {
-                const response = await fetch("/dump-db", { method: "POST" });
+                const response = await fetch("/dump-db", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ enable_llm_review: llmReviewToggle.checked }),
+                });
                 const data = await response.json();
 
                 if (!data.success) {
@@ -482,13 +509,33 @@
                     data.pdfs_failed;
 
                 document.getElementById("sumValid").textContent =
-                    data.accepted_records - data.records_with_warnings;
+                    data.accepted_records - data.records_with_warnings - data.invalid_records;
 
                 document.getElementById("sumWarnings").textContent =
                     data.records_with_warnings;
 
+                document.getElementById("sumInvalid").textContent =
+                    data.invalid_records;
+
                 document.getElementById("sumRejected").textContent =
-                    data.rejected_records;
+                    data.skipped_records;
+
+                const llmBlock = document.getElementById("sumLlmBlock");
+                const llmError = document.getElementById("sumLlmError");
+                const llm = data.llm_review;
+
+                if (llm && llm.enabled && llm.error === undefined) {
+                    llmBlock.hidden = false;
+                    document.getElementById("sumLlmReviewed").textContent = llm.reviewed_count ?? 0;
+                    llmError.hidden = true;
+                } else if (llm && llm.enabled && llm.error) {
+                    llmBlock.hidden = true;
+                    llmError.hidden = false;
+                    llmError.textContent = `Revisión por IA omitida: ${llm.error}`;
+                } else {
+                    llmBlock.hidden = true;
+                    llmError.hidden = true;
+                }
 
                 summaryModalOverlay.classList.add("open");
 

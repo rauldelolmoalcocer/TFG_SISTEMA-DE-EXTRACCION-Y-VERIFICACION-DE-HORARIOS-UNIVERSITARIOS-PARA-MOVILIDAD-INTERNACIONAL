@@ -72,13 +72,17 @@
                     <span class="chip-value" id="chipReviewed">0</span>
                     <span class="chip-label">Revisados</span>
                 </div>
+                <div class="summary-chip accent" id="chipLlmBlock" hidden>
+                    <span class="chip-value" id="chipLlmReviewed">0</span>
+                    <span class="chip-label">🤖 IA</span>
+                </div>
             </section>
 
             <div class="review-layout">
 
                 <!-- ÁRBOL DE AGRUPACIÓN -->
                 <aside class="card tree-card">
-                    <div class="card-label">Grado · Curso · Semestre · Grupo</div>
+                    <div class="card-label">Grado · Año académico · Semestre · Grupo</div>
                     <div id="treeContainer" class="tree-container">
                         <div class="empty-state">Cargando árbol…</div>
                     </div>
@@ -96,7 +100,7 @@
                                 placeholder="Buscar asignatura, aula, grupo, texto original o archivo…">
 
                             <select id="degreeFilter"><option value="">Todos los grados</option></select>
-                            <select id="yearFilter"><option value="">Todos los cursos</option></select>
+                            <select id="yearFilter"><option value="">Todos los años académicos</option></select>
                             <select id="semesterFilter"><option value="">Todos los semestres</option></select>
                             <select id="groupFilter"><option value="">Todos los grupos</option></select>
                             <select id="dayFilter"><option value="">Todos los días</option></select>
@@ -111,7 +115,11 @@
                     <div class="card results-card">
                         <div class="results-header">
                             <div class="card-label" style="border:none;margin:0;padding:0;">Registros</div>
-                            <span id="resultsCount" class="results-count"></span>
+                            <div class="results-header-actions">
+                                <span id="resultsCount" class="results-count"></span>
+                                <span id="llmReviewStatusText" class="llm-review-status"></span>
+                                <button id="llmReviewAllBtn" class="btn-llm-review" title="Manda todas las asignaturas mezcladas sin resolver a la IA local (Ollama)">🤖 Revisar todo con IA</button>
+                            </div>
                         </div>
 
                         <div class="table-outer">
@@ -121,7 +129,7 @@
                                         <th>Estado</th>
                                         <th>Asignatura</th>
                                         <th>Grado</th>
-                                        <th>Curso/Sem.</th>
+                                        <th>Año/Sem.</th>
                                         <th>Grupo</th>
                                         <th>Día · Hora</th>
                                         <th>Aula</th>
@@ -170,8 +178,17 @@
                 <section class="detail-section">
                     <div class="detail-section-title">Diagnóstico de la extracción</div>
                     <div class="readonly-grid">
-                        <div><label>Confianza</label><div class="readonly-value" id="roConfidence">—</div></div>
-                        <div class="span-2"><label>Issues / motivo de rechazo original</label><div class="readonly-value" id="roIssues">—</div></div>
+                        <div><label>Estrategia / tabla</label><div class="readonly-value" id="roStrategy">—</div></div>
+                        <div class="span-2"><label>Warnings / motivo</label><div class="readonly-value" id="roIssues">—</div></div>
+                        <div class="span-2"><label>Anotaciones no reconocidas como aula</label><div class="readonly-value" id="roAnnotations">—</div></div>
+                        <div class="span-2" id="roLlmBlock" hidden>
+                            <label>Revisión por IA (Ollama)</label>
+                            <div class="readonly-value" id="roLlm">—</div>
+                        </div>
+                        <div class="span-2" id="roRawTableBlock" hidden>
+                            <label>Tabla original tal cual la leyó el extractor (para copiarla a mano)</label>
+                            <div class="readonly-value mono" id="roRawTable"></div>
+                        </div>
                     </div>
                 </section>
 
@@ -181,26 +198,17 @@
                     <form id="editForm" class="edit-form">
 
                         <div class="field">
-                            <label>Código de grado</label>
-                            <input type="text" id="fDegreeCode">
+                            <label>Titulación</label>
+                            <input type="text" id="fDegree">
                         </div>
                         <div class="field">
-                            <label>Nombre de grado</label>
-                            <input type="text" id="fDegreeName">
+                            <label>Año académico</label>
+                            <input type="text" id="fCourseYear" placeholder="2025/2026">
                         </div>
 
-                        <div class="field">
-                            <label>Curso académico</label>
-                            <input type="text" id="fAcademicYear" placeholder="2025/2026">
-                        </div>
                         <div class="field">
                             <label>Semestre</label>
                             <input type="number" id="fSemester" min="1">
-                        </div>
-
-                        <div class="field">
-                            <label>Curso</label>
-                            <input type="number" id="fYear" min="1">
                         </div>
                         <div class="field">
                             <label>Grupo</label>
@@ -209,42 +217,31 @@
 
                         <div class="field">
                             <label>Día</label>
-                            <select id="fDay">
-                                <option value="">—</option>
-                                <option value="LUNES">LUNES</option>
-                                <option value="MARTES">MARTES</option>
-                                <option value="MIERCOLES">MIÉRCOLES</option>
-                                <option value="JUEVES">JUEVES</option>
-                                <option value="VIERNES">VIERNES</option>
-                            </select>
+                            <input type="text" id="fDay" placeholder="LUNES">
                         </div>
                         <div class="field field-row">
                             <div>
                                 <label>Hora inicio</label>
-                                <input type="text" id="fStartTime" placeholder="08:00">
+                                <input type="text" id="fTimeStart" placeholder="08:00">
                             </div>
                             <div>
                                 <label>Hora fin</label>
-                                <input type="text" id="fEndTime" placeholder="09:00">
+                                <input type="text" id="fTimeEnd" placeholder="09:00">
                             </div>
                         </div>
 
-                        <div class="field">
-                            <label>Código de asignatura</label>
-                            <input type="text" id="fSubjectCode">
-                        </div>
-                        <div class="field">
+                        <div class="field span-2">
                             <label>Nombre de asignatura</label>
                             <input type="text" id="fSubjectName">
                         </div>
 
-                        <div class="field">
-                            <label>Subgrupo</label>
-                            <input type="text" id="fSubgroup">
+                        <div class="field span-2">
+                            <label>Aulas (separadas por coma)</label>
+                            <input type="text" id="fRooms" placeholder="NA7, OL24">
                         </div>
-                        <div class="field">
-                            <label>Aula</label>
-                            <input type="text" id="fClassroom">
+
+                        <div class="field span-2 field-checkbox">
+                            <label><input type="checkbox" id="fMultipleEntries"> Sospecha de que esta celda mezcla más de una asignatura</label>
                         </div>
 
                         <div class="field span-2">
@@ -260,6 +257,8 @@
             </div>
 
             <div class="modal-actions detail-actions">
+                <button type="button" id="llmReviewOneBtn" class="modal-btn-secondary" title="Manda este registro a la IA local (Ollama) para que intente separarlo o confirmarlo ella sola">🤖 Resolver con IA</button>
+                <button type="button" id="duplicateBtn" class="modal-btn-secondary" title="Crea una copia editable de este registro (mismo día/hora/grado/grupo) para meter la asignatura que falta">Duplicar como registro nuevo</button>
                 <button type="button" id="restoreBtn" class="modal-btn-secondary">Restaurar original</button>
                 <button type="button" id="markInvalidBtn" class="modal-btn-danger">Marcar como incorrecto</button>
                 <button type="button" id="markValidBtn" class="modal-btn-success">Marcar como válido</button>

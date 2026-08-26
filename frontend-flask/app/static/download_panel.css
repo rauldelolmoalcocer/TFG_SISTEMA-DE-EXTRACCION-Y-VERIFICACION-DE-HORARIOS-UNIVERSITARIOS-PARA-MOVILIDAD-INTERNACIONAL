@@ -500,6 +500,36 @@ button:disabled {
 .summary-item.danger { background: var(--danger-bg); }
 .summary-item.danger .summary-value { color: var(--danger); }
 
+.summary-item.accent { background: var(--accent-bg); }
+.summary-item.accent .summary-value { color: var(--accent); }
+
+.llm-summary-note {
+    margin-top: 12px;
+    font-size: 0.8rem;
+    color: var(--warning);
+}
+
+.llm-toggle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 10px;
+    font-size: 0.84rem;
+    font-weight: 600;
+    color: var(--text);
+    cursor: pointer;
+}
+
+.llm-toggle input[type="checkbox"] {
+    width: auto;
+}
+
+.llm-toggle-hint {
+    margin: 4px 0 0;
+    font-size: 0.74rem;
+    color: var(--muted);
+}
+
 .modal-actions {
     margin-top: 22px;
     display: flex;

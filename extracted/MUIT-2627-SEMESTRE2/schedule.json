@@ -1,0 +1,602 @@
+[
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Lunes",
+    "time_start": "15:00",
+    "time_end": "16:00",
+    "time_start_raw": "15:00-16:00",
+    "time_end_raw": "15:00-16:00",
+    "subject_raw": "TECNOLOGÍAS DE RADIONAVEGACIÓN,",
+    "subject_name": "TECNOLOGÍAS DE RADIONAVEGACIÓN,",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Lunes",
+    "time_start": "16:00",
+    "time_end": "17:00",
+    "time_start_raw": "16:00-17:00",
+    "time_end_raw": "16:00-17:00",
+    "subject_raw": "RADAR Y POSICIONAMIENTO (GG)\n(OA3)",
+    "subject_name": "RADAR Y POSICIONAMIENTO",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [
+      "GG"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Lunes",
+    "time_start": "17:00",
+    "time_end": "18:00",
+    "time_start_raw": "17:00-18:00",
+    "time_end_raw": "17:00-18:00",
+    "subject_raw": "ELECTRONICA DE COMUNICACIONES (GP)",
+    "subject_name": "ELECTRONICA DE COMUNICACIONES",
+    "rooms": [],
+    "non_room_annotations": [
+      "GP"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Lunes",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "time_start_raw": "18:00-19:00",
+    "time_end_raw": "18:00-19:00",
+    "subject_raw": "(OA3)",
+    "subject_name": null,
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Martes",
+    "time_start": "15:00",
+    "time_end": "16:00",
+    "time_start_raw": "15:00-16:00",
+    "time_end_raw": "15:00-16:00",
+    "subject_raw": "TECNOLOGÍAS DE RADIONAVEGACIÓN,",
+    "subject_name": "TECNOLOGÍAS DE RADIONAVEGACIÓN,",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Martes",
+    "time_start": "16:00",
+    "time_end": "17:00",
+    "time_start_raw": "16:00-17:00",
+    "time_end_raw": "16:00-17:00",
+    "subject_raw": "RADAR Y POSICIONAMIENTO (GP)\n(OA3)",
+    "subject_name": "RADAR Y POSICIONAMIENTO",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [
+      "GP"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Martes",
+    "time_start": "17:00",
+    "time_end": "18:00",
+    "time_start_raw": "17:00-18:00",
+    "time_end_raw": "17:00-18:00",
+    "subject_raw": "ELECTRONICA DE COMUNICACIONES (GG)",
+    "subject_name": "ELECTRONICA DE COMUNICACIONES",
+    "rooms": [],
+    "non_room_annotations": [
+      "GG"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Martes",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "time_start_raw": "18:00-19:00",
+    "time_end_raw": "18:00-19:00",
+    "subject_raw": "(OA3)",
+    "subject_name": null,
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Miercoles",
+    "time_start": "15:00",
+    "time_end": "16:00",
+    "time_start_raw": "15:00-16:00",
+    "time_end_raw": "15:00-16:00",
+    "subject_raw": "ARQUITECTURA DE NUEVAS",
+    "subject_name": "ARQUITECTURA DE NUEVAS",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Miercoles",
+    "time_start": "16:00",
+    "time_end": "17:00",
+    "time_start_raw": "16:00-17:00",
+    "time_end_raw": "16:00-17:00",
+    "subject_raw": "TECNOLOGÍAS DE COMUNICACIÓN (GP)\n(OA3)",
+    "subject_name": "TECNOLOGÍAS DE COMUNICACIÓN",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [
+      "GP"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Miercoles",
+    "time_start": "17:00",
+    "time_end": "18:00",
+    "time_start_raw": "17:00-18:00",
+    "time_end_raw": "17:00-18:00",
+    "subject_raw": "ARQUITECTURA DE NUEVAS",
+    "subject_name": "ARQUITECTURA DE NUEVAS",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Miercoles",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "time_start_raw": "18:00-19:00",
+    "time_end_raw": "18:00-19:00",
+    "subject_raw": "TECNOLOGÍAS DE COMUNICACIÓN (GG)\n(OA3)",
+    "subject_name": "TECNOLOGÍAS DE COMUNICACIÓN",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [
+      "GG"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Jueves",
+    "time_start": "15:00",
+    "time_end": "16:00",
+    "time_start_raw": "15:00-16:00",
+    "time_end_raw": "15:00-16:00",
+    "subject_raw": "TECNOLOGÍAS DE INTERNET (GP)",
+    "subject_name": "TECNOLOGÍAS DE INTERNET",
+    "rooms": [],
+    "non_room_annotations": [
+      "GP"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Jueves",
+    "time_start": "16:00",
+    "time_end": "17:00",
+    "time_start_raw": "16:00-17:00",
+    "time_end_raw": "16:00-17:00",
+    "subject_raw": "(OA3)",
+    "subject_name": null,
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Jueves",
+    "time_start": "17:00",
+    "time_end": "18:00",
+    "time_start_raw": "17:00-18:00",
+    "time_end_raw": "17:00-18:00",
+    "subject_raw": "TECNOLOGÍAS DE INTERNET (GG)",
+    "subject_name": "TECNOLOGÍAS DE INTERNET",
+    "rooms": [],
+    "non_room_annotations": [
+      "GG"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Jueves",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "time_start_raw": "18:00-19:00",
+    "time_end_raw": "18:00-19:00",
+    "subject_raw": "(OA3)",
+    "subject_name": null,
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Viernes",
+    "time_start": "15:00",
+    "time_end": "16:00",
+    "time_start_raw": "15:00-16:00",
+    "time_end_raw": "15:00-16:00",
+    "subject_raw": "INTERNET DE LAS COSAS (GP)",
+    "subject_name": "INTERNET DE LAS COSAS",
+    "rooms": [],
+    "non_room_annotations": [
+      "GP"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Viernes",
+    "time_start": "16:00",
+    "time_end": "17:00",
+    "time_start_raw": "16:00-17:00",
+    "time_end_raw": "16:00-17:00",
+    "subject_raw": "(OA3)",
+    "subject_name": null,
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Viernes",
+    "time_start": "17:00",
+    "time_end": "18:00",
+    "time_start_raw": "17:00-18:00",
+    "time_end_raw": "17:00-18:00",
+    "subject_raw": "INTERNET DE LAS COSAS (GG)",
+    "subject_name": "INTERNET DE LAS COSAS",
+    "rooms": [],
+    "non_room_annotations": [
+      "GG"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE2.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "MÁSTER UNIVERSITARIO EN INGENIERÍA DE TELECOMUNICACIÓN",
+    "group": null,
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "Viernes",
+    "time_start": "18:00",
+    "time_end": "19:00",
+    "time_start_raw": "18:00-19:00",
+    "time_end_raw": "18:00-19:00",
+    "subject_raw": "(OA3)",
+    "subject_name": null,
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

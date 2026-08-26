@@ -1,0 +1,695 @@
+[
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      39.03,
+      116.48,
+      779.37,
+      368.44
+    ],
+    "n_rows": 9,
+    "n_cols": 10,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        null,
+        "MARTES",
+        null,
+        "MIÉRCOLES",
+        null,
+        "JUEVES",
+        null,
+        "VIERNES"
+      ],
+      [
+        "8:00/ 13:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "Diseño y Ensayo de Máquinas-1\n(SL1/OA7)\nSistemas Electrónicos\ny de Instrumentación-4 (OL2)",
+        null,
+        "201989-TECNOLOGÍA E\nINGENIERÍA ELÉCTRICA (OA1)",
+        null,
+        "201992-INGENIERÍA\nENERGÉTICA (OA1)",
+        null,
+        "Sistemas Electrónicos\ny de Instrumentación-1 (OL2)\nIngeniería Fluidotérmica-2\n(OLPFL)",
+        null,
+        "201992-INGENIERÍA\nENERGÉTICA (OA1)"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "201995-ORGANIZACIÓN\nINDUSTRIAL (OA1)"
+      ],
+      [
+        "17:00/17:55",
+        "201991-DISEÑO Y ENSAYO DE\nMÁQUINAS (OA1) [1]",
+        null,
+        "201997-INSTALACIONES\nINDUSTRIALES I (OA1) [1]",
+        null,
+        "201989-TECNOLOGÍA E\nINGENIERÍA ELÉCTRICA (OA1)",
+        null,
+        "201990-INGENIERÍA\nFLUIDOTÉRMICA (OA1) [2]",
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        "201988-SIST. ELECTRÓNICOS\nY DE INSTRUMENTACIÓN (OA1)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        "Instalaciones Industriales I-1\n(OA1)\nDiseño y Ensayo de Máquinas-2\n(SL1/OA7)",
+        null,
+        "Ingeniería Fluidotérmica-1\n(OA1/OLPFL)",
+        null,
+        "Sistemas Electrónicos\ny de Instrumentación-3 (OL2)",
+        null,
+        "Sistemas Electrónicos\ny de Instrumentación-2 (OL2)",
+        null,
+        "Instalaciones Industriales I-\n2 (OA1)"
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 1",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 3",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 5",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 7",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 7
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 9",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 9
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 9",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 9
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 1",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 3",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 5",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 7",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 7
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 6, col 5",
+        "table_index": 0,
+        "row_index": 6,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 7, col 1",
+        "table_index": 0,
+        "row_index": 7,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 7, col 3",
+        "table_index": 0,
+        "row_index": 7,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 7, col 5",
+        "table_index": 0,
+        "row_index": 7,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 7, col 7",
+        "table_index": 0,
+        "row_index": 7,
+        "col_index": 7
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 7, col 9",
+        "table_index": 0,
+        "row_index": 7,
+        "col_index": 9
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.21,
+      112.94,
+      783.43,
+      328.54
+    ],
+    "n_rows": 9,
+    "n_cols": 10,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        null,
+        "MARTES",
+        null,
+        "MIÉRCOLES",
+        null,
+        "JUEVES",
+        null,
+        "VIERNES"
+      ],
+      [
+        "8:00/ 13:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "RP. 202008-SISTEMAS\nEMPOTRADOS EN EL ÁMBITO\nDE LA ROBÓTICA\n(EL4)",
+        null,
+        "RP. 202003-ROBÓTICA MÓVIL\n(PL21)",
+        null,
+        "RP. 202010-CONTROL\nINTELIGENTE EN SISTEMAS DE\nTRANSPORTE\n(OL1)",
+        null,
+        "RP. 202005-SISTEMAS DE\nPERCEPCIÓN\n(OL5)",
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 1",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 3",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 5",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 7",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 7
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      43.05,
+      130.04,
+      772.29,
+      348.34
+    ],
+    "n_rows": 9,
+    "n_cols": 10,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        null,
+        "MARTES",
+        null,
+        "MIÉRCOLES",
+        null,
+        "JUEVES",
+        null,
+        "VIERNES"
+      ],
+      [
+        "8:00/ 15:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "GD. 202011-\nALMACENAMIENTO\nDE ENERGÍA\n(EA6)",
+        null,
+        "GD. 202012-SISTEMAS\nELÉCTRICOS DE POTENCIA\n(EA6)",
+        null,
+        "GD. 202012-SISTEMAS\nELÉCTRICOS DE POTENCIA\n(EA6)",
+        null,
+        "GD. 202013-GENERA.\nDISTRIBUIDA Y CALIDAD EN\nRED (EA6)",
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        "GD. 202016-INTRO. A REDES\nINTELIGENTES DE ENERGÍA\n(OL10)",
+        null,
+        "GD. 202016-INTRO. A REDES\nINTELIGENTES DE ENERGÍA\n(OL10)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 1",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 3",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 5",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 7",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 7
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 3",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 5",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 5
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre2_MUII.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      43.07,
+      112.94,
+      772.27,
+      328.78
+    ],
+    "n_rows": 9,
+    "n_cols": 10,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        null,
+        "MARTES",
+        null,
+        "MIÉRCOLES",
+        null,
+        "JUEVES",
+        null,
+        "VIERNES"
+      ],
+      [
+        "8:00/ 15:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "SE: 202498-INGENIERÍA\nDE CALIDAD\n(SA8)",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 1",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 1
+      }
+    ]
+  }
+]

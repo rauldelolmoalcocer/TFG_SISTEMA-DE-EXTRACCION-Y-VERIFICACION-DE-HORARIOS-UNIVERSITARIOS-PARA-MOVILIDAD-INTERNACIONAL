@@ -1,0 +1,238 @@
+{
+  "source_file": "Semestre1_MUII.pdf",
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 222,
+      "line_count": 0,
+      "rect_count": 204,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 9,
+              "columns": 10,
+              "bbox": [
+                46.53,
+                132.92,
+                804.15,
+                385.9
+              ],
+              "warning_count": 10
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 45,
+              "columns": 9,
+              "bbox": [
+                47.64,
+                35.24,
+                790.96,
+                580.97
+              ],
+              "warning_count": 6
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 29,
+              "columns": 10,
+              "bbox": [
+                46.53,
+                136.88,
+                804.15,
+                374.42
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 3, col 1",
+        "[lines] Multiline cell detected at row 3, col 3",
+        "[lines] Multiline cell detected at row 3, col 5",
+        "[lines] Multiline cell detected at row 3, col 7",
+        "[lines] Multiline cell detected at row 3, col 9",
+        "[lines] Multiline cell detected at row 5, col 9",
+        "[lines] Multiline cell detected at row 6, col 1",
+        "[lines] Multiline cell detected at row 6, col 3",
+        "[lines] Multiline cell detected at row 6, col 5",
+        "[lines] Multiline cell detected at row 6, col 7",
+        "[text] Multiline cell detected at row 15, col 6",
+        "[text] Multiline cell detected at row 15, col 7",
+        "[text] Multiline cell detected at row 18, col 4",
+        "[text] Multiline cell detected at row 18, col 6",
+        "[text] Multiline cell detected at row 28, col 6",
+        "[text] Multiline cell detected at row 30, col 6"
+      ]
+    },
+    {
+      "page_number": 2,
+      "word_count": 157,
+      "line_count": 0,
+      "rect_count": 220,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 9,
+              "columns": 10,
+              "bbox": [
+                59.83,
+                135.38,
+                782.03,
+                393.7
+              ],
+              "warning_count": 11
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 43,
+              "columns": 9,
+              "bbox": [
+                68.28,
+                116.33,
+                772.69,
+                580.97
+              ],
+              "warning_count": 4
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 34,
+              "columns": 10,
+              "bbox": [
+                59.83,
+                139.34,
+                782.03,
+                382.22
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 3, col 5",
+        "[lines] Multiline cell detected at row 3, col 9",
+        "[lines] Multiline cell detected at row 4, col 3",
+        "[lines] Multiline cell detected at row 4, col 5",
+        "[lines] Multiline cell detected at row 5, col 5",
+        "[lines] Multiline cell detected at row 5, col 9",
+        "[lines] Multiline cell detected at row 6, col 5",
+        "[lines] Multiline cell detected at row 6, col 7",
+        "[lines] Multiline cell detected at row 6, col 9",
+        "[lines] Multiline cell detected at row 7, col 3",
+        "[lines] Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[text] Multiline cell detected at row 10, col 6",
+        "[text] Multiline cell detected at row 19, col 6",
+        "[text] Multiline cell detected at row 21, col 6",
+        "[text] Multiline cell detected at row 31, col 6"
+      ]
+    },
+    {
+      "page_number": 3,
+      "word_count": 184,
+      "line_count": 0,
+      "rect_count": 206,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 9,
+              "columns": 10,
+              "bbox": [
+                46.51,
+                197.06,
+                804.17,
+                469.6
+              ],
+              "warning_count": 11
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 40,
+              "columns": 8,
+              "bbox": [
+                54.48,
+                99.68,
+                780.4,
+                580.97
+              ],
+              "warning_count": 4
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 30,
+              "columns": 10,
+              "bbox": [
+                46.51,
+                201.02,
+                804.17,
+                456.68
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 3, col 1",
+        "[lines] Multiline cell detected at row 3, col 7",
+        "[lines] Multiline cell detected at row 3, col 9",
+        "[lines] Multiline cell detected at row 4, col 3",
+        "[lines] Multiline cell detected at row 5, col 5",
+        "[lines] Multiline cell detected at row 5, col 9",
+        "[lines] Multiline cell detected at row 6, col 1",
+        "[lines] Multiline cell detected at row 6, col 5",
+        "[lines] Multiline cell detected at row 6, col 7",
+        "[lines] Multiline cell detected at row 6, col 9",
+        "[lines] Multiline cell detected at row 7, col 3",
+        "[text] Multiline cell detected at row 15, col 6",
+        "[text] Multiline cell detected at row 21, col 3",
+        "[text] Multiline cell detected at row 24, col 3",
+        "[text] Column 0, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    }
+  ]
+}

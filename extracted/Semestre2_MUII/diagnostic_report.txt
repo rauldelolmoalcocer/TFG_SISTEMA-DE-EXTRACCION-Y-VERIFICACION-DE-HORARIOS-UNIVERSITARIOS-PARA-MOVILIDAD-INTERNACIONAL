@@ -1,0 +1,122 @@
+PDF: Semestre2_MUII.pdf
+
+Pages: 4
+
+PAGE 1
+----------------------------
+
+Words detected: 226
+Lines detected: 0
+Rectangles detected: 209
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 9  Columns: 10
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 36  Columns: 10
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 27  Columns: 10
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Multiline cell detected at row 3, col 1
+- [lines] Multiline cell detected at row 3, col 3
+- [lines] Multiline cell detected at row 3, col 5
+- [lines] Multiline cell detected at row 3, col 7
+- [lines] Multiline cell detected at row 3, col 9
+- [lines] Multiline cell detected at row 4, col 9
+- [lines] Multiline cell detected at row 5, col 1
+- [lines] Multiline cell detected at row 5, col 3
+- [lines] Multiline cell detected at row 5, col 5
+- [lines] Multiline cell detected at row 5, col 7
+- [lines] Multiline cell detected at row 6, col 5
+- [lines] Multiline cell detected at row 7, col 1
+- [lines] Multiline cell detected at row 7, col 3
+- [lines] Multiline cell detected at row 7, col 5
+- [lines] Multiline cell detected at row 7, col 7
+- [lines] Multiline cell detected at row 7, col 9
+
+PAGE 2
+----------------------------
+
+Words detected: 118
+Lines detected: 0
+Rectangles detected: 212
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 9  Columns: 10
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 31  Columns: 5
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 19  Columns: 10
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Multiline cell detected at row 4, col 1
+- [lines] Multiline cell detected at row 4, col 3
+- [lines] Multiline cell detected at row 4, col 5
+- [lines] Multiline cell detected at row 4, col 7
+
+PAGE 3
+----------------------------
+
+Words detected: 142
+Lines detected: 0
+Rectangles detected: 217
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 9  Columns: 10
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 35  Columns: 6
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 17  Columns: 10
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Multiline cell detected at row 3, col 1
+- [lines] Multiline cell detected at row 3, col 3
+- [lines] Multiline cell detected at row 3, col 5
+- [lines] Multiline cell detected at row 3, col 7
+- [lines] Multiline cell detected at row 5, col 3
+- [lines] Multiline cell detected at row 5, col 5
+
+PAGE 4
+----------------------------
+
+Words detected: 88
+Lines detected: 0
+Rectangles detected: 224
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 9  Columns: 10
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 28  Columns: 2
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 16  Columns: 10
+
+BEST CANDIDATE: strategy = text
+
+Warnings:
+- [lines] Multiline cell detected at row 4, col 1

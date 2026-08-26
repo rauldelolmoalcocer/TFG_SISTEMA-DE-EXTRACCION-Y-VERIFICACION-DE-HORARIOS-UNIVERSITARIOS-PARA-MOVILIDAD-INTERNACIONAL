@@ -1,0 +1,9 @@
+{
+  "schema_version": "3.0",
+  "processed_at": "2026-08-26 23:17:30",
+  "pdfs_found": 33,
+  "pdfs_processed": 33,
+  "pdfs_failed": 0,
+  "failed_files": [],
+  "llm_review": null
+}

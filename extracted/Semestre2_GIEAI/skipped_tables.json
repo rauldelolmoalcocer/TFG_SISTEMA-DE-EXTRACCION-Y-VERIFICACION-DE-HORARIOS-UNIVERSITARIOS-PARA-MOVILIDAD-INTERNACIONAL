@@ -1,0 +1,20 @@
+[
+  {
+    "source_file": "Semestre2_GIEAI.pdf",
+    "page": 9,
+    "table_index": 0,
+    "strategy": "lines",
+    "reason": "too_few_rows",
+    "detail": "Table has only 1 row(s), nothing to build entries from.",
+    "rows": [
+      [
+        null,
+        null,
+        "(OL2)",
+        null,
+        null,
+        null
+      ]
+    ]
+  }
+]
