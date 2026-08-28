@@ -227,6 +227,18 @@ button.summary-chip.tab {
 button.summary-chip.tab:hover { transform: translateY(-1px); }
 button.summary-chip.tab.active { outline-color: var(--action); }
 button.summary-chip.tab.success.active { outline-color: var(--success); }
+
+button.summary-chip.accent {
+    font-family: inherit;
+    cursor: pointer;
+    border: none;
+    text-align: left;
+    outline: 2px solid transparent;
+    outline-offset: -2px;
+    transition: outline-color 0.15s, transform 0.1s;
+}
+button.summary-chip.accent:hover { transform: translateY(-1px); }
+button.summary-chip.accent.active { outline-color: var(--accent); }
 button.summary-chip.tab.warning.active { outline-color: var(--warning); }
 button.summary-chip.tab.danger.active { outline-color: var(--danger); }
 
@@ -369,6 +381,9 @@ button.summary-chip.tab.danger.active { outline-color: var(--danger); }
 .btn-llm-review:hover { filter: brightness(0.95); }
 .btn-llm-review:disabled { opacity: 0.6; cursor: not-allowed; }
 
+.btn-llm-review.btn-llm-secondary { background: var(--border); color: var(--muted); }
+.btn-llm-review.btn-llm-danger { background: var(--danger-bg); color: var(--danger); }
+
 .table-outer {
     overflow-x: auto;
     border: 1px solid var(--border);
@@ -435,6 +450,7 @@ button.summary-chip.tab.danger.active { outline-color: var(--danger); }
 .origin-tag.origin-skipped { background: var(--border); color: var(--muted); }
 .origin-tag.origin-mixed { background: var(--warning-bg); color: var(--warning); }
 .origin-tag.origin-manual { background: var(--accent-bg); color: var(--accent); }
+.origin-tag.origin-llm { background: var(--success-bg); color: var(--success); }
 
 .status-icon {
     display: inline-flex;

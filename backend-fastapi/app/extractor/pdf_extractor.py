@@ -107,19 +107,20 @@ def _run_diagnostics_with_progress(input_dir: str, output_dir: str, on_file_done
 # El "on/off" de cada ejecución concreta llega desde el checkbox del
 # panel de descargas (enable_llm_review, ver run_extraction). Si esa
 # extracción no especifica nada (llamadas antiguas, scripts, etc.), cae
-# a la variable de entorno ENABLE_LLM_REVIEW como valor por defecto.
+# a la variable de entorno ENABLE_LLM_REVIEW como valor por defecto. El
+# host de Ollama lo resuelve main.py (app.ai_settings, editable desde el
+# panel de administración de IA) y llega ya resuelto -- este módulo no
+# sabe nada de dónde vino ni de variables de entorno.
 
-def _run_llm_review_stage(entries, output_dir: str, state: ExtractorState, enabled: bool):
+def _run_llm_review_stage(entries, output_dir: str, state: ExtractorState, enabled: bool, host: str, model: str):
     if not enabled:
         return None
-
-    host = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
 
     try:
         from pdf_table_extractor.llm_review import review_entries
 
-        state.add_log(f"Etapa LLM: revisando registros con warnings vía {host}...")
-        reviewed = review_entries(entries, host=host)
+        state.add_log(f"Etapa LLM: revisando registros con warnings vía {host} (modelo {model})...")
+        reviewed = review_entries(entries, host=host, model=model)
 
         output_path = Path(output_dir) / "all_schedules_reviewed.json"
         write_json(output_path, [dataclasses.asdict(entry) for entry in reviewed])
@@ -127,20 +128,30 @@ def _run_llm_review_stage(entries, output_dir: str, state: ExtractorState, enabl
         reviewed_count = sum(1 for entry in reviewed if entry.llm_reviewed)
         state.add_log(f"Etapa LLM completada. {reviewed_count} registros revisados por el modelo.")
 
-        return {"enabled": True, "host": host, "reviewed_count": reviewed_count}
+        return {"enabled": True, "host": host, "model": model, "reviewed_count": reviewed_count}
 
     except Exception as error:
         state.add_log(f"Etapa LLM omitida: {error}")
-        return {"enabled": True, "host": host, "error": str(error)}
+        return {"enabled": True, "host": host, "model": model, "error": str(error)}
 
 
 # ==========================================
 # BATCH RUNNER
 # ==========================================
 
-def run_extraction(input_dir: str, output_dir: str, state: ExtractorState, enable_llm_review: Optional[bool] = None):
+def run_extraction(
+    input_dir: str,
+    output_dir: str,
+    state: ExtractorState,
+    enable_llm_review: Optional[bool] = None,
+    ollama_host: Optional[str] = None,
+    ollama_model: Optional[str] = None,
+):
     if enable_llm_review is None:
         enable_llm_review = os.environ.get("ENABLE_LLM_REVIEW", "false").strip().lower() == "true"
+
+    ollama_host = ollama_host or os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+    ollama_model = ollama_model or "qwen2.5:3b"
 
     os.makedirs(output_dir, exist_ok=True)
 
@@ -202,7 +213,7 @@ def run_extraction(input_dir: str, output_dir: str, state: ExtractorState, enabl
             f"(con warnings: {entries_with_warnings}). Tablas omitidas: {len(skipped)}."
         )
 
-        llm_result = _run_llm_review_stage(entries, output_dir, state, enable_llm_review)
+        llm_result = _run_llm_review_stage(entries, output_dir, state, enable_llm_review, ollama_host, ollama_model)
 
         run_manifest = {
             "schema_version": "3.0",

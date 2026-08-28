@@ -4,6 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 import psycopg2
 import os
+import requests
 import threading
 import time
 from typing import Optional
@@ -11,6 +12,7 @@ from typing import Optional
 from app.crawler.crawler import CrawlerConfig, CrawlerState, PdfCrawler
 from app.extractor.pdf_extractor import ExtractorState, run_extraction
 from app.review import store as review_store
+from app import ai_settings
 
 
 app = FastAPI()
@@ -64,6 +66,11 @@ class LlmReviewRequest(BaseModel):
     item_ids: Optional[list[str]] = None
 
 
+class AiSettingsRequest(BaseModel):
+    ollama_host: str
+    model: Optional[str] = None
+
+
 class RecordStatusRequest(BaseModel):
     status: str
 
@@ -102,6 +109,7 @@ llm_review_lock = threading.Lock()
 llm_review_thread = None
 llm_review_state = {
     "running": False,
+    "paused": False,
     "attempted": 0,
     "total": 0,
     "resolved": 0,
@@ -109,6 +117,20 @@ llm_review_state = {
     "errors": [],
     "logs": [],
 }
+
+# Coordinan pausa/cancelación del bucle en _run_llm_review_background sin
+# interrumpir una llamada a Ollama en curso (eso no es seguro -- para eso
+# está el timeout en review_store.OLLAMA_CALL_TIMEOUT_SECONDS). resume_event
+# SET = corriendo con normalidad, CLEAR = pausado (el bucle espera aquí).
+# cancel_event SET = parar en el próximo punto de control entre registros.
+llm_review_resume_event = threading.Event()
+llm_review_resume_event.set()
+llm_review_cancel_event = threading.Event()
+
+
+def _llm_review_should_continue() -> bool:
+    llm_review_resume_event.wait()
+    return not llm_review_cancel_event.is_set()
 
 download_state = {
     "running": False,
@@ -410,9 +432,11 @@ def start_extraction(data: ExtractStartRequest = ExtractStartRequest()):
     if not pdf_files:
         return {"success": False, "message": "No hay PDFs en la carpeta de descargas"}
 
+    ai_conf = ai_settings.load_ai_settings(EXTRACT_FOLDER)
+
     extract_thread = threading.Thread(
         target=run_extraction,
-        args=(DOWNLOAD_FOLDER, EXTRACT_FOLDER, extract_state, data.enable_llm_review),
+        args=(DOWNLOAD_FOLDER, EXTRACT_FOLDER, extract_state, data.enable_llm_review, ai_conf["ollama_host"], ai_conf["model"]),
         daemon=True,
     )
     extract_thread.start()
@@ -486,12 +510,13 @@ def review_tree(
     day: Optional[str] = None,
     pdf: Optional[str] = None,
     issue: Optional[str] = None,
+    llm: Optional[str] = None,
     search: Optional[str] = None,
 ):
     reviewed = _require_reviewed()
     filters = {
         "status": status, "degree": degree, "course_year": course_year, "semester": semester,
-        "group": group, "day": day, "pdf": pdf, "issue": issue, "search": search,
+        "group": group, "day": day, "pdf": pdf, "issue": issue, "llm": llm, "search": search,
     }
     filtered = review_store.apply_filters(reviewed["items"], filters)
     return {"tree": review_store.compute_tree(filtered), "total": len(filtered)}
@@ -509,12 +534,13 @@ def review_records(
     day: Optional[str] = None,
     pdf: Optional[str] = None,
     issue: Optional[str] = None,
+    llm: Optional[str] = None,
     search: Optional[str] = None,
 ):
     reviewed = _require_reviewed()
     filters = {
         "status": status, "degree": degree, "course_year": course_year, "semester": semester,
-        "group": group, "day": day, "pdf": pdf, "issue": issue, "search": search,
+        "group": group, "day": day, "pdf": pdf, "issue": issue, "llm": llm, "search": search,
     }
     filtered = review_store.apply_filters(reviewed["items"], filters)
     ordered = review_store.sort_items(filtered)
@@ -604,43 +630,66 @@ def review_record_duplicate(item_id: str):
 # REVISIÓN CON IA BAJO DEMANDA (uno o todos los registros)
 # =========================================================
 #
-# Puede tardar bastante (Ollama, en local, por registro) así que corre en
-# segundo plano igual que la extracción o el crawler. Mantiene review_lock
-# tomado durante TODO el proceso -- no solo para leer/guardar -- para que
-# ninguna edición manual concurrente se pisen entre sí; a cambio, mientras
-# esté corriendo, guardar una edición de OTRO registro esperará a que
-# termine (aceptable: en este proyecto solo hay un revisor a la vez).
+# Puede tardar bastante (un registro por llamada a Ollama) así que corre
+# en segundo plano igual que la extracción o el crawler. Mantiene
+# review_lock tomado durante TODO el proceso -- no solo para leer/guardar
+# -- para que ninguna edición manual concurrente se pise con esto; a
+# cambio, mientras esté corriendo, guardar una edición de OTRO registro
+# esperará a que termine (aceptable: en este proyecto solo hay un
+# revisor a la vez).
+#
+# Guarda reviewed_schedules.json después de CADA registro (no solo al
+# final): si Ollama se cuelga o el proceso se corta a mitad, lo ya hecho
+# hasta ese punto no se pierde. Antes no era así y nos costó perder un
+# lote entero -- ver review_store.OLLAMA_CALL_TIMEOUT_SECONDS para el
+# otro lado de ese mismo arreglo (el timeout que evita que se cuelgue).
 
 def _run_llm_review_background(item_ids):
-    host = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+    ai_conf = ai_settings.load_ai_settings(EXTRACT_FOLDER)
+    host = ai_conf["ollama_host"]
+    model = ai_conf["model"]
+
+    llm_review_resume_event.set()
+    llm_review_cancel_event.clear()
 
     with llm_review_lock:
         llm_review_state["running"] = True
+        llm_review_state["paused"] = False
         llm_review_state["attempted"] = 0
         llm_review_state["total"] = 0
         llm_review_state["resolved"] = 0
         llm_review_state["split"] = 0
         llm_review_state["errors"] = []
-        llm_review_state["logs"] = [f"Iniciando revisión con IA vía {host}..."]
-
-    def on_item_done(done, total, item_id, outcome):
-        with llm_review_lock:
-            llm_review_state["attempted"] = done
-            llm_review_state["total"] = total
-            llm_review_state["logs"].append(f"[{done}/{total}] {item_id}: {outcome}")
+        llm_review_state["logs"] = [f"Iniciando revisión con IA ({model}) vía {host}..."]
 
     try:
         with review_lock:
             reviewed = _require_reviewed()
-            result = review_store.llm_review_items(reviewed, item_ids, host, on_item_done=on_item_done)
+
+            def on_item_done(done, total, item_id, outcome):
+                # Ya estamos dentro del review_lock de arriba -- no hace
+                # falta (ni se puede, threading.Lock no es reentrante)
+                # volver a adquirirlo aquí.
+                review_store.save_reviewed(EXTRACT_FOLDER, reviewed)
+                with llm_review_lock:
+                    llm_review_state["attempted"] = done
+                    llm_review_state["total"] = total
+                    llm_review_state["logs"].append(f"[{done}/{total}] {item_id}: {outcome}")
+
+            result = review_store.llm_review_items(
+                reviewed, item_ids, host, model,
+                on_item_done=on_item_done,
+                should_continue=_llm_review_should_continue,
+            )
             review_store.save_reviewed(EXTRACT_FOLDER, reviewed)
 
         with llm_review_lock:
             llm_review_state["resolved"] = result["resolved"]
             llm_review_state["split"] = result["split"]
             llm_review_state["errors"] = result["errors"]
+            nota = " (cancelado por el usuario)" if result.get("cancelled") else ""
             llm_review_state["logs"].append(
-                f"Terminado. {result['resolved']} resueltos, {result['split']} separados en varios registros, "
+                f"Terminado{nota}. {result['resolved']} resueltos, {result['split']} separados en varios registros, "
                 f"{len(result['errors'])} con error."
             )
 
@@ -652,6 +701,7 @@ def _run_llm_review_background(item_ids):
     finally:
         with llm_review_lock:
             llm_review_state["running"] = False
+            llm_review_state["paused"] = False
 
 
 @app.post("/review/llm-review")
@@ -684,3 +734,80 @@ def start_llm_review(data: LlmReviewRequest = LlmReviewRequest()):
 def llm_review_status():
     with llm_review_lock:
         return dict(llm_review_state)
+
+
+@app.post("/review/llm-review/pause")
+def pause_llm_review():
+    with llm_review_lock:
+        if not llm_review_state["running"]:
+            return {"success": False, "message": "No hay ninguna revisión con IA en curso."}
+        llm_review_state["paused"] = True
+        llm_review_state["logs"].append("Pausado por el usuario (se pausa entre registros, nunca a mitad de una llamada).")
+    llm_review_resume_event.clear()
+    return {"success": True, "message": "Revisión pausada."}
+
+
+@app.post("/review/llm-review/resume")
+def resume_llm_review():
+    with llm_review_lock:
+        if not llm_review_state["running"]:
+            return {"success": False, "message": "No hay ninguna revisión con IA en curso."}
+        llm_review_state["paused"] = False
+        llm_review_state["logs"].append("Reanudado por el usuario.")
+    llm_review_resume_event.set()
+    return {"success": True, "message": "Revisión reanudada."}
+
+
+@app.post("/review/llm-review/cancel")
+def cancel_llm_review():
+    with llm_review_lock:
+        if not llm_review_state["running"]:
+            return {"success": False, "message": "No hay ninguna revisión con IA en curso."}
+        llm_review_state["logs"].append("Cancelación solicitada por el usuario...")
+    llm_review_cancel_event.set()
+    llm_review_resume_event.set()  # por si estaba pausado, para que pueda salir del bucle y ver la cancelación
+    return {"success": True, "message": "Cancelando (se detiene tras el registro en curso, lo hecho hasta ahora ya está guardado)."}
+
+
+# =========================================================
+# ADMINISTRACIÓN DE IA (Ollama): dirección + estado de conexión
+# =========================================================
+
+@app.get("/ai/settings")
+def get_ai_settings():
+    return ai_settings.load_ai_settings(EXTRACT_FOLDER)
+
+
+@app.put("/ai/settings")
+def update_ai_settings(data: AiSettingsRequest):
+    try:
+        return ai_settings.save_ai_settings(EXTRACT_FOLDER, data.ollama_host, data.model)
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+@app.get("/ai/status")
+def ai_status():
+    host = ai_settings.load_ai_settings(EXTRACT_FOLDER)["ollama_host"]
+
+    start = time.monotonic()
+    try:
+        response = requests.get(f"{host.rstrip('/')}/api/tags", timeout=5)
+        ping_ms = round((time.monotonic() - start) * 1000)
+
+        if response.status_code != 200:
+            return {
+                "connected": False,
+                "host": host,
+                "ping_ms": ping_ms,
+                "error": f"Ollama respondió con HTTP {response.status_code}",
+            }
+
+        data = response.json()
+        models = [m.get("name") for m in data.get("models", []) if m.get("name")]
+
+        return {"connected": True, "host": host, "ping_ms": ping_ms, "models": models}
+
+    except Exception as e:
+        ping_ms = round((time.monotonic() - start) * 1000)
+        return {"connected": False, "host": host, "ping_ms": ping_ms, "error": str(e)}

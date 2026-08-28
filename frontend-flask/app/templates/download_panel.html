@@ -24,6 +24,8 @@
 
             <div class="topbar-user">
                 <a class="topbar-nav-link" href="{{ url_for('main.horarios') }}">Gestor de horarios</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.revision') }}">Revisión manual</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.ai_panel') }}">Administración IA</a>
                 <div class="topbar-user-badge">
                     <span>{{ user }}</span>
                 </div>
@@ -509,7 +511,7 @@
                     data.pdfs_failed;
 
                 document.getElementById("sumValid").textContent =
-                    data.accepted_records - data.records_with_warnings - data.invalid_records;
+                    data.valid_records;
 
                 document.getElementById("sumWarnings").textContent =
                     data.records_with_warnings;

@@ -14,6 +14,7 @@ const state = {
         day: "",
         pdf: "",
         issue: "",
+        llm: "",
         search: "",
     },
     currentItemId: null,
@@ -50,6 +51,7 @@ const groupFilter = document.getElementById("groupFilter");
 const dayFilter = document.getElementById("dayFilter");
 const pdfFilter = document.getElementById("pdfFilter");
 const issueFilter = document.getElementById("issueFilter");
+const llmFilter = document.getElementById("llmFilter");
 const clearFiltersBtn = document.getElementById("clearFiltersBtn");
 
 const resultsBody = document.getElementById("resultsBody");
@@ -88,6 +90,8 @@ const fNotes = document.getElementById("fNotes");
 const duplicateBtn = document.getElementById("duplicateBtn");
 const llmReviewOneBtn = document.getElementById("llmReviewOneBtn");
 const llmReviewAllBtn = document.getElementById("llmReviewAllBtn");
+const llmReviewPauseBtn = document.getElementById("llmReviewPauseBtn");
+const llmReviewCancelBtn = document.getElementById("llmReviewCancelBtn");
 const llmReviewStatusText = document.getElementById("llmReviewStatusText");
 const restoreBtn = document.getElementById("restoreBtn");
 const markInvalidBtn = document.getElementById("markInvalidBtn");
@@ -113,6 +117,7 @@ async function init() {
 
         await loadFilterOptions();
         await refreshAll();
+        pollLlmReviewStatus();
 
     } catch (e) {
         console.error("Error inicializando revisión:", e);
@@ -135,14 +140,20 @@ async function loadSummary() {
     const data = await res.json();
 
     chipTotal.textContent = data.total_records;
-    chipValid.textContent = data.accepted_records - data.records_with_warnings - data.invalid_records;
+    chipValid.textContent = data.valid_records;
     chipWarning.textContent = data.records_with_warnings;
     chipInvalid.textContent = data.invalid_records + data.skipped_records;
     chipReviewed.textContent = data.reviewed_records;
 
-    if (data.llm_review && data.llm_review.enabled && !data.llm_review.error) {
+    // data.llm_review es solo la etapa opcional en el momento de la
+    // extracción (normalmente desactivada); llm_reviewed_records cuenta
+    // CUALQUIER registro pasado por IA, incluido a demanda con "Revisar
+    // con IA" / "Revisar todo con IA" -- es el número que tiene sentido
+    // mostrar aquí, si no el chip se queda pegado a 0 aunque sí se hayan
+    // resuelto o separado registros.
+    if (data.llm_reviewed_records) {
         chipLlmBlock.hidden = false;
-        chipLlmReviewed.textContent = data.llm_review.reviewed_count ?? 0;
+        chipLlmReviewed.textContent = data.llm_reviewed_records;
     } else {
         chipLlmBlock.hidden = true;
     }
@@ -234,6 +245,7 @@ function onFilterChange() {
     state.filters.day = dayFilter.value;
     state.filters.pdf = pdfFilter.value;
     state.filters.issue = issueFilter.value;
+    state.filters.llm = llmFilter.value;
     state.page = 1;
     refreshAll();
 }
@@ -248,7 +260,7 @@ searchInput.addEventListener("input", () => {
     }, 350);
 });
 
-[degreeFilter, yearFilter, semesterFilter, groupFilter, dayFilter, pdfFilter, issueFilter]
+[degreeFilter, yearFilter, semesterFilter, groupFilter, dayFilter, pdfFilter, issueFilter, llmFilter]
     .forEach(select => select.addEventListener("change", onFilterChange));
 
 statusTabButtons.forEach(tab => {
@@ -264,16 +276,25 @@ function syncStatusTabs() {
     statusTabButtons.forEach(tab => {
         tab.classList.toggle("active", tab.dataset.status === (state.filters.status || ""));
     });
+    chipLlmBlock.classList.toggle("active", state.filters.llm === "yes");
 }
+
+chipLlmBlock.addEventListener("click", () => {
+    state.filters.llm = state.filters.llm === "yes" ? "" : "yes";
+    state.page = 1;
+    syncFilterSelects();
+    syncStatusTabs();
+    refreshAll();
+});
 
 clearFiltersBtn.addEventListener("click", () => {
     state.filters = {
         status: "", degree: "", course_year: "", semester: "", group: "",
-        day: "", pdf: "", issue: "", search: "",
+        day: "", pdf: "", issue: "", llm: "", search: "",
     };
     state.page = 1;
     searchInput.value = "";
-    [degreeFilter, yearFilter, semesterFilter, groupFilter, dayFilter, pdfFilter, issueFilter]
+    [degreeFilter, yearFilter, semesterFilter, groupFilter, dayFilter, pdfFilter, issueFilter, llmFilter]
         .forEach(select => select.value = "");
     syncStatusTabs();
     refreshAll();
@@ -396,6 +417,7 @@ function syncFilterSelects() {
     dayFilter.value = state.filters.day || "";
     pdfFilter.value = state.filters.pdf || "";
     issueFilter.value = state.filters.issue || "";
+    llmFilter.value = state.filters.llm || "";
 }
 
 // =========================================================
@@ -449,6 +471,10 @@ function renderTable(items) {
                     ? '<span class="origin-tag origin-manual">Manual</span>'
                     : "";
 
+        const llmTag = item.extraction && item.extraction.llm_reviewed
+            ? '<span class="origin-tag origin-llm" title="Revisado por IA">🤖 IA</span>'
+            : "";
+
         tr.innerHTML = `
             <td>
                 <span class="status-icon ${item.status}" title="${STATUS_LABEL[item.status]}">${STATUS_ICON[item.status]}</span>
@@ -458,6 +484,7 @@ function renderTable(items) {
                 <div class="subject-cell">
                     <span class="subject-name">${item.origin === "skipped" ? "— tabla omitida, sin datos —" : (escapeHtml(c.subject_name) || "(sin nombre)")}</span>
                     ${originTag}
+                    ${llmTag}
                 </div>
             </td>
             <td>${escapeHtml(c.degree) || "—"}</td>
@@ -725,6 +752,14 @@ async function duplicateRecord() {
 
 let llmReviewPollTimer = null;
 
+function setLlmReviewControlsRunning(running, paused) {
+    llmReviewPauseBtn.hidden = !running;
+    llmReviewCancelBtn.hidden = !running;
+    llmReviewPauseBtn.disabled = false;
+    llmReviewCancelBtn.disabled = false;
+    llmReviewPauseBtn.textContent = paused ? "▶ Reanudar" : "⏸ Pausar";
+}
+
 async function pollLlmReviewStatus() {
     try {
         const res = await fetch("/review-llm-review-status");
@@ -732,20 +767,36 @@ async function pollLlmReviewStatus() {
         const status = await res.json();
 
         if (status.running) {
-            llmReviewStatusText.textContent = status.total
-                ? `Revisando con IA… ${status.attempted}/${status.total}`
-                : "Revisando con IA…";
+            setLlmReviewControlsRunning(true, status.paused);
+            if (status.paused) {
+                llmReviewStatusText.textContent = status.total
+                    ? `Pausado ${status.attempted}/${status.total}`
+                    : "Pausado";
+            } else {
+                llmReviewStatusText.textContent = status.total
+                    ? `Revisando con IA… ${status.attempted}/${status.total}`
+                    : "Revisando con IA…";
+            }
             llmReviewPollTimer = setTimeout(pollLlmReviewStatus, 1500);
             return;
         }
 
+        setLlmReviewControlsRunning(false, false);
         llmReviewAllBtn.disabled = false;
         llmReviewOneBtn.disabled = false;
 
         const errorCount = (status.errors || []).length;
-        llmReviewStatusText.textContent =
-            `IA: ${status.resolved || 0} resueltos, ${status.split || 0} separados` +
-            (errorCount ? `, ${errorCount} con error` : "");
+
+        if (!status.total) {
+            llmReviewStatusText.textContent = "No había ningún registro pendiente de revisar con IA.";
+        } else if (errorCount === status.total) {
+            llmReviewStatusText.textContent =
+                `IA: no se pudo resolver ninguno (${errorCount} con error — comprueba la conexión en Administración IA).`;
+        } else {
+            llmReviewStatusText.textContent =
+                `IA: ${status.resolved || 0} resueltos, ${status.split || 0} separados` +
+                (errorCount ? `, ${errorCount} con error` : "");
+        }
 
         await Promise.all([loadRecords(), loadTree(), loadSummary()]);
 
@@ -762,6 +813,7 @@ async function pollLlmReviewStatus() {
 
     } catch (e) {
         llmReviewStatusText.textContent = "No se pudo consultar el estado de la revisión con IA.";
+        setLlmReviewControlsRunning(false, false);
         llmReviewAllBtn.disabled = false;
         llmReviewOneBtn.disabled = false;
     }
@@ -797,6 +849,39 @@ async function startLlmReview(itemIds) {
     }
 }
 
+async function pauseOrResumeLlmReview() {
+    const isPaused = llmReviewPauseBtn.textContent.includes("Reanudar");
+    const endpoint = isPaused ? "/review-llm-review-resume" : "/review-llm-review-pause";
+    llmReviewPauseBtn.disabled = true;
+    try {
+        const res = await fetch(endpoint, { method: "POST" });
+        const data = await res.json();
+        if (!res.ok || !data.success) {
+            llmReviewStatusText.textContent = data.message || "No se pudo cambiar el estado de la revisión.";
+        }
+    } catch (e) {
+        llmReviewStatusText.textContent = "No se pudo conectar con el servidor.";
+    }
+    llmReviewPauseBtn.disabled = false;
+    clearTimeout(llmReviewPollTimer);
+    pollLlmReviewStatus();
+}
+
+async function cancelLlmReview() {
+    llmReviewCancelBtn.disabled = true;
+    try {
+        const res = await fetch("/review-llm-review-cancel", { method: "POST" });
+        const data = await res.json();
+        if (!res.ok || !data.success) {
+            llmReviewStatusText.textContent = data.message || "No se pudo cancelar la revisión.";
+        }
+    } catch (e) {
+        llmReviewStatusText.textContent = "No se pudo conectar con el servidor.";
+    }
+    clearTimeout(llmReviewPollTimer);
+    pollLlmReviewStatus();
+}
+
 function closeDetail() {
     detailModalOverlay.classList.remove("open");
     state.currentItemId = null;
@@ -817,6 +902,8 @@ llmReviewOneBtn.addEventListener("click", () => {
     if (state.currentItemId) startLlmReview([state.currentItemId]);
 });
 llmReviewAllBtn.addEventListener("click", () => startLlmReview(null));
+llmReviewPauseBtn.addEventListener("click", pauseOrResumeLlmReview);
+llmReviewCancelBtn.addEventListener("click", cancelLlmReview);
 
 // =========================================================
 // ARRANQUE

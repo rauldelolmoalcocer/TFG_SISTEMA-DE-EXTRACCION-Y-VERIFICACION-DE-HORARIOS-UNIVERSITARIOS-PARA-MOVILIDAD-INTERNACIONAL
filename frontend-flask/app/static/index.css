@@ -201,6 +201,7 @@ main {
 .card-icon.green  { background: rgba(25, 135, 84, 0.22); }
 .card-icon.blue   { background: rgba(31, 79, 139, 0.30); }
 .card-icon.violet { background: rgba(124, 58, 237, 0.28); }
+.card-icon.amber  { background: rgba(180, 83, 9, 0.28); }
 
 .card-title {
     font-size: 1.12rem;

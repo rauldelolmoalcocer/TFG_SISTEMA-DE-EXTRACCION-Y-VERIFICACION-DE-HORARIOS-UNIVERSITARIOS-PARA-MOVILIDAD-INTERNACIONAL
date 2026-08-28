@@ -322,6 +322,12 @@ def apply_filters(items: list, filters: dict) -> list:
     if issue:
         result = [i for i in result if issue in i["original_issues"]]
 
+    llm = filters.get("llm")
+    if llm == "yes":
+        result = [i for i in result if i["extraction"].get("llm_reviewed")]
+    elif llm == "no":
+        result = [i for i in result if not i["extraction"].get("llm_reviewed")]
+
     search = filters.get("search")
     if search:
         result = [i for i in result if _matches_search(i, search)]
@@ -366,19 +372,50 @@ def compute_summary(output_dir: str) -> dict:
     run_manifest = load_extraction_run(output_dir) or {}
     reviewed = load_reviewed(output_dir)
 
-    reviewed_count = 0
     if reviewed:
-        reviewed_count = sum(1 for i in reviewed["items"] if i["reviewed"])
+        # Fuente de verdad: el estado EN VIVO de cada item, no los ficheros
+        # crudos de la extracción. item["status"] ya se recalcula en cada
+        # edición manual, separación/duplicado, restauración y revisión con
+        # IA (ver apply_edit / _apply_llm_entry_to_item / restore_item más
+        # arriba) -- así que si algo cambió su estado desde que se extrajo
+        # (p.ej. la IA separó una celda mezclada en dos registros válidos),
+        # el resumen tiene que reflejarlo, no quedarse con la foto de la
+        # extracción original.
+        items = reviewed["items"]
+        entry_like = [i for i in items if i["origin"] != "skipped"]
+        skipped_like = [i for i in items if i["origin"] == "skipped"]
 
-    # Un registro con multiple_entries_suspected es dato incorrecto (dos
-    # asignaturas mezcladas), no una simple advertencia -- se cuenta aparte
-    # para que "con warnings" no incluya lo que en la revisión ya aparece
-    # como "Incorrecto" (ver _compute_entry_status).
-    invalid_records = sum(1 for entry in entries if entry.get("multiple_entries_suspected"))
-    records_with_warnings = sum(
-        1 for entry in entries
-        if entry.get("warnings") and not entry.get("multiple_entries_suspected")
-    )
+        total_records = len(items)
+        valid_records = sum(1 for i in items if i["status"] == VALID)
+        records_with_warnings = sum(1 for i in items if i["status"] == WARNING)
+        # "Incorrectos" se sigue mostrando como dos motivos distintos
+        # (mezcla sin resolver vs. tabla que no se pudo leer), pero ambos
+        # cuentan solo mientras SIGAN sin resolver -- un skipped rescatado
+        # a mano y marcado válido deja de contar aquí y pasa a valid_records
+        # /records_with_warnings arriba, igual que cualquier otro registro.
+        invalid_records = sum(1 for i in entry_like if i["status"] == INVALID)
+        skipped_records = sum(1 for i in skipped_like if i["status"] == INVALID)
+        reviewed_count = sum(1 for i in items if i["reviewed"])
+        # Cuenta cualquier registro que haya pasado por la IA, tanto si fue
+        # en la etapa de extracción (run_manifest["llm_review"], opcional y
+        # desactivada por defecto) como si fue a demanda desde "Revisar con
+        # IA" / "Revisar todo con IA".
+        llm_reviewed_count = sum(1 for i in items if i["extraction"].get("llm_reviewed"))
+    else:
+        # Red de seguridad: no debería pasar en condiciones normales
+        # (refresh_reviewed_from_extraction se llama siempre al terminar una
+        # extracción), pero si por lo que sea reviewed_schedules.json no
+        # existe todavía, se recalcula desde los ficheros crudos.
+        total_records = len(entries) + len(skipped)
+        invalid_records = sum(1 for entry in entries if entry.get("multiple_entries_suspected"))
+        records_with_warnings = sum(
+            1 for entry in entries
+            if entry.get("warnings") and not entry.get("multiple_entries_suspected")
+        )
+        valid_records = len(entries) - invalid_records - records_with_warnings
+        skipped_records = len(skipped)
+        reviewed_count = 0
+        llm_reviewed_count = 0
 
     return {
         "processed_at": run_manifest.get("processed_at"),
@@ -386,12 +423,13 @@ def compute_summary(output_dir: str) -> dict:
         "pdfs_processed": run_manifest.get("pdfs_processed", 0),
         "pdfs_failed": run_manifest.get("pdfs_failed", 0),
         "failed_files": run_manifest.get("failed_files", []),
-        "accepted_records": len(entries),
+        "valid_records": valid_records,
         "records_with_warnings": records_with_warnings,
         "invalid_records": invalid_records,
-        "skipped_records": len(skipped),
-        "total_records": len(entries) + len(skipped),
+        "skipped_records": skipped_records,
+        "total_records": total_records,
         "reviewed_records": reviewed_count,
+        "llm_reviewed_records": llm_reviewed_count,
         "llm_review": run_manifest.get("llm_review"),
     }
 
@@ -722,7 +760,23 @@ def _new_item_from_llm_entry(source_item: dict, entry) -> dict:
     }
 
 
-def llm_review_items(reviewed: dict, item_ids, host: str, on_item_done=None) -> dict:
+# Cuánto esperamos como máximo por la respuesta de Ollama a UN registro
+# antes de darlo por fallido y seguir con el siguiente. Sin este límite,
+# si el servidor de Ollama se cae o se cuelga a media respuesta, la
+# llamada se queda esperando para siempre y todo el proceso con ella (nos
+# pasó: un lote de 355 se quedó colgado en el registro 351, sin ninguna
+# forma de recuperarlo porque tampoco había guardado incremental).
+OLLAMA_CALL_TIMEOUT_SECONDS = 180
+
+
+def llm_review_items(
+    reviewed: dict,
+    item_ids,
+    host: str,
+    model: str,
+    on_item_done=None,
+    should_continue=None,
+) -> dict:
     """Sends the given items through the optional Ollama review stage, one
     at a time so each result can be attributed back precisely: a cell
     either gets resolved in place or split into extra new items. Only ever
@@ -731,17 +785,35 @@ def llm_review_items(reviewed: dict, item_ids, host: str, on_item_done=None) -> 
 
     `item_ids`: list of item ids to target, or None for every entry-origin
     item still flagged `multiple_entries_suspected` (the ones that need
-    it). `on_item_done(done, total, item_id, outcome)` is called after
-    each attempt if given, for progress reporting.
+    it). `model`: the Ollama model to use (from app.ai_settings, editable
+    from the AI admin panel). `on_item_done(done, total, item_id, outcome)`
+    is called after each attempt if given, for progress reporting (and,
+    on the caller's side, for saving progress incrementally).
 
-    Returns {"attempted", "resolved", "split", "errors"}. A per-item
-    failure (Ollama unreachable, invalid model output) is recorded in
-    "errors" and does not stop the rest of the batch.
+    `should_continue()` (optional): called before each item. It should
+    block internally while the caller wants this paused, and return False
+    to stop the loop early (cancelled) or True to keep going. Checked only
+    *between* items, never mid-call -- an in-flight Ollama request isn't
+    safely interruptible, which is exactly what OLLAMA_CALL_TIMEOUT_SECONDS
+    is for.
+
+    Returns {"attempted", "resolved", "split", "errors", "cancelled"}. A
+    per-item failure (Ollama unreachable, timeout, invalid model output)
+    is recorded in "errors" and does not stop the rest of the batch.
     """
     try:
         from pdf_table_extractor.llm_review import review_entries
+        import ollama
     except ImportError as e:
-        return {"attempted": 0, "resolved": 0, "split": 0, "errors": [{"id": None, "error": f"Etapa LLM no disponible: {e}"}]}
+        return {
+            "attempted": 0, "resolved": 0, "split": 0, "cancelled": False,
+            "errors": [{"id": None, "error": f"Etapa LLM no disponible: {e}"}],
+        }
+
+    # Un único cliente, reutilizado en todas las llamadas de este lote --
+    # y con timeout, a diferencia del que construiría review_entries() por
+    # su cuenta si no le pasamos ninguno (ese no tiene límite de tiempo).
+    client = ollama.Client(host=host, timeout=OLLAMA_CALL_TIMEOUT_SECONDS)
 
     if item_ids is None:
         candidates = [
@@ -757,16 +829,21 @@ def llm_review_items(reviewed: dict, item_ids, host: str, on_item_done=None) -> 
     resolved = 0
     split = 0
     errors = []
+    cancelled = False
 
     for item in candidates:
+        if should_continue is not None and not should_continue():
+            cancelled = True
+            break
+
         attempted += 1
         outcome = "error"
         try:
             entry = _entry_from_item(item)
-            results = review_entries([entry], host=host)
+            results = review_entries([entry], client=client, model=model)
 
             if not results or not results[0].llm_reviewed:
-                errors.append({"id": item["id"], "error": "Ollama no respondió o no se pudo resolver este registro."})
+                errors.append({"id": item["id"], "error": "Ollama no respondió (o tardó más de lo permitido) para este registro."})
             else:
                 _apply_llm_entry_to_item(item, results[0])
                 if len(results) == 1:
@@ -784,4 +861,7 @@ def llm_review_items(reviewed: dict, item_ids, host: str, on_item_done=None) -> 
         if on_item_done:
             on_item_done(attempted, total, item["id"], outcome)
 
-    return {"attempted": attempted, "resolved": resolved, "split": split, "errors": errors}
+    return {
+        "attempted": attempted, "resolved": resolved, "split": split,
+        "errors": errors, "cancelled": cancelled,
+    }

@@ -24,6 +24,7 @@
             <div class="topbar-user">
                 <a class="topbar-nav-link" href="{{ url_for('main.descargas') }}">Panel de descargas</a>
                 <a class="topbar-nav-link" href="{{ url_for('main.horarios') }}">Gestor de horarios</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.ai_panel') }}">Administración IA</a>
                 <div class="topbar-user-badge">
                     <span>{{ user }}</span>
                 </div>
@@ -72,10 +73,11 @@
                     <span class="chip-value" id="chipReviewed">0</span>
                     <span class="chip-label">Revisados</span>
                 </div>
-                <div class="summary-chip accent" id="chipLlmBlock" hidden>
+                <button type="button" class="summary-chip accent" id="chipLlmBlock" hidden
+                    title="Ver solo los registros revisados por IA">
                     <span class="chip-value" id="chipLlmReviewed">0</span>
                     <span class="chip-label">🤖 IA</span>
-                </div>
+                </button>
             </section>
 
             <div class="review-layout">
@@ -106,6 +108,11 @@
                             <select id="dayFilter"><option value="">Todos los días</option></select>
                             <select id="pdfFilter"><option value="">Todos los PDFs</option></select>
                             <select id="issueFilter"><option value="">Todos los problemas</option></select>
+                            <select id="llmFilter">
+                                <option value="">IA: todos</option>
+                                <option value="yes">🤖 Revisados por IA</option>
+                                <option value="no">Sin revisar por IA</option>
+                            </select>
 
                             <button id="clearFiltersBtn" class="btn-clear-filters">Limpiar filtros</button>
 
@@ -118,6 +125,8 @@
                             <div class="results-header-actions">
                                 <span id="resultsCount" class="results-count"></span>
                                 <span id="llmReviewStatusText" class="llm-review-status"></span>
+                                <button id="llmReviewPauseBtn" class="btn-llm-review btn-llm-secondary" hidden>⏸ Pausar</button>
+                                <button id="llmReviewCancelBtn" class="btn-llm-review btn-llm-danger" hidden>✕ Cancelar</button>
                                 <button id="llmReviewAllBtn" class="btn-llm-review" title="Manda todas las asignaturas mezcladas sin resolver a la IA local (Ollama)">🤖 Revisar todo con IA</button>
                             </div>
                         </div>

@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administración IA | Universidad de Alcalá</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='ai_panel.css') }}">
+</head>
+
+<body>
+
+    <!-- TOPBAR -->
+    <header class="topbar">
+        <div class="topbar-inner">
+
+            <a class="topbar-brand" href="{{ url_for('main.index') }}">
+                <img src="{{ url_for('static', filename='img/logo-UniversidadAlcala.png') }}"
+                    alt="Universidad de Alcalá">
+            </a>
+
+            <span class="topbar-title">Administración IA · Movilidad Internacional</span>
+
+            <div class="topbar-user">
+                <a class="topbar-nav-link" href="{{ url_for('main.descargas') }}">Panel de descargas</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.revision') }}">Revisión manual</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.horarios') }}">Gestor de horarios</a>
+                <div class="topbar-user-badge">
+                    <span>{{ user }}</span>
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+    <!-- CONTENIDO -->
+    <main class="container">
+
+        <div class="page-head">
+            <h1>Administración de IA</h1>
+            <p>
+                Configura la conexión con el servidor Ollama que usa la etapa opcional de revisión con IA
+                (la que separa asignaturas mezcladas en la revisión manual) y comprueba si está disponible
+                antes de lanzarla.
+            </p>
+        </div>
+
+        <!-- ESTADO DE CONEXIÓN -->
+        <div class="card">
+            <div class="card-label">Estado de conexión</div>
+
+            <div class="status-row">
+                <span class="status-dot unknown" id="statusDot"></span>
+                <span class="status-label unknown" id="statusLabel">Sin comprobar</span>
+                <button type="button" class="btn-secondary" id="checkStatusBtn">Comprobar conexión</button>
+            </div>
+
+            <p class="status-detail" id="statusDetail"></p>
+
+            <div class="status-metrics" id="statusMetrics" hidden>
+                <div>
+                    <div class="status-metric-value" id="metricPing">—</div>
+                    <div class="status-metric-label">Ping</div>
+                </div>
+                <div>
+                    <div class="status-metric-value" id="metricModelCount">—</div>
+                    <div class="status-metric-label">Modelos disponibles</div>
+                </div>
+            </div>
+
+            <div class="model-list" id="modelList"></div>
+        </div>
+
+        <!-- CONFIGURACIÓN -->
+        <div class="card">
+            <div class="card-label">Conexión a Ollama</div>
+
+            <form id="settingsForm" class="settings-form">
+                <div class="settings-field">
+                    <label for="hostInput">Dirección (socket) del servidor</label>
+                    <input type="text" id="hostInput" placeholder="http://host.docker.internal:11434">
+                </div>
+                <div class="settings-field">
+                    <label for="modelInput">Modelo a usar</label>
+                    <input type="text" id="modelInput" list="modelOptions" placeholder="qwen2.5:3b">
+                    <datalist id="modelOptions"></datalist>
+                </div>
+                <button type="submit" class="btn-primary" id="saveHostBtn">Guardar</button>
+            </form>
+
+            <p class="card-hint">
+                El host debe ser accesible desde el propio contenedor del backend, no desde tu navegador — por
+                eso normalmente es <code>http://host.docker.internal:11434</code> en vez de
+                <code>http://localhost:11434</code> cuando Ollama corre en tu máquina y el backend en Docker.
+                El modelo debe estar ya descargado en ese servidor (<code>ollama pull &lt;modelo&gt;</code>) — al
+                comprobar la conexión, arriba, se rellena la lista de sugerencias con los que ya tienes. Al
+                guardar, ambos se usan para toda revisión con IA a partir de ahora (nuevas extracciones y los
+                botones "Resolver con IA" de la página de revisión), sin tener que reiniciar nada.
+            </p>
+
+            <p class="form-feedback" id="formFeedback"></p>
+        </div>
+
+    </main>
+
+    <script>
+
+        const statusDot = document.getElementById("statusDot");
+        const statusLabel = document.getElementById("statusLabel");
+        const statusDetail = document.getElementById("statusDetail");
+        const statusMetrics = document.getElementById("statusMetrics");
+        const metricPing = document.getElementById("metricPing");
+        const metricModelCount = document.getElementById("metricModelCount");
+        const modelList = document.getElementById("modelList");
+        const checkStatusBtn = document.getElementById("checkStatusBtn");
+
+        const settingsForm = document.getElementById("settingsForm");
+        const hostInput = document.getElementById("hostInput");
+        const modelInput = document.getElementById("modelInput");
+        const modelOptions = document.getElementById("modelOptions");
+        const saveHostBtn = document.getElementById("saveHostBtn");
+        const formFeedback = document.getElementById("formFeedback");
+
+        function setStatus(kind, label) {
+            statusDot.className = `status-dot ${kind}`;
+            statusLabel.className = `status-label ${kind}`;
+            statusLabel.textContent = label;
+        }
+
+        async function loadSettings() {
+            try {
+                const res = await fetch("/ai-settings");
+                if (!res.ok) return;
+                const data = await res.json();
+                hostInput.value = data.ollama_host || "";
+                modelInput.value = data.model || "";
+            } catch (e) {
+                // silencioso: el formulario se queda vacío, el usuario puede rellenarlo
+            }
+        }
+
+        async function checkStatus() {
+            checkStatusBtn.disabled = true;
+            setStatus("checking", "Comprobando…");
+            statusDetail.textContent = "";
+            statusMetrics.hidden = true;
+            modelList.innerHTML = "";
+
+            try {
+                const res = await fetch("/ai-status");
+                const data = await res.json();
+
+                if (data.connected) {
+                    setStatus("online", "Conectado");
+                    statusDetail.textContent = `Servidor: ${data.host}`;
+
+                    metricPing.textContent = `${data.ping_ms} ms`;
+                    metricModelCount.textContent = (data.models || []).length;
+                    statusMetrics.hidden = false;
+
+                    const models = data.models || [];
+
+                    modelOptions.innerHTML = models.map(m => `<option value="${m}"></option>`).join("");
+
+                    modelList.innerHTML = models.length
+                        ? models.map(m => `<span class="model-chip" data-model="${m}" title="Click para usar este modelo">${m}</span>`).join("")
+                        : '<span class="status-detail">No hay modelos descargados en el servidor.</span>';
+
+                    modelList.querySelectorAll(".model-chip").forEach(chip => {
+                        chip.addEventListener("click", () => {
+                            modelInput.value = chip.dataset.model;
+                        });
+                    });
+
+                } else {
+                    setStatus("offline", "Sin conexión");
+                    statusDetail.textContent = `${data.host || ""} — ${data.error || "No se pudo conectar."}`;
+
+                    if (typeof data.ping_ms === "number") {
+                        metricPing.textContent = `${data.ping_ms} ms`;
+                        metricModelCount.textContent = "—";
+                        statusMetrics.hidden = false;
+                    }
+                }
+
+            } catch (e) {
+                setStatus("offline", "Error");
+                statusDetail.textContent = "No se pudo conectar con el backend.";
+            } finally {
+                checkStatusBtn.disabled = false;
+            }
+        }
+
+        settingsForm.addEventListener("submit", async (e) => {
+            e.preventDefault();
+
+            saveHostBtn.disabled = true;
+            formFeedback.textContent = "";
+            formFeedback.className = "form-feedback";
+
+            try {
+                const res = await fetch("/ai-settings", {
+                    method: "PUT",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        ollama_host: hostInput.value.trim(),
+                        model: modelInput.value.trim(),
+                    }),
+                });
+                const data = await res.json();
+
+                if (!res.ok) {
+                    formFeedback.textContent = data.detail || data.message || "No se pudo guardar.";
+                    formFeedback.className = "form-feedback error";
+                    return;
+                }
+
+                formFeedback.textContent = "Guardado.";
+                formFeedback.className = "form-feedback success";
+                await checkStatus();
+
+            } catch (e) {
+                formFeedback.textContent = "No se pudo conectar con el servidor.";
+                formFeedback.className = "form-feedback error";
+            } finally {
+                saveHostBtn.disabled = false;
+            }
+        });
+
+        checkStatusBtn.addEventListener("click", checkStatus);
+
+        loadSettings().then(checkStatus);
+
+    </script>
+
+</body>
+
+</html>

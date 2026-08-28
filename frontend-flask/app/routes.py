@@ -91,6 +91,14 @@ def revision():
     return render_template("review.html", user=session["user"])
 
 
+@bp.route("/ia")
+def ai_panel():
+    if "user" not in session:
+        return redirect(url_for("main.login"))
+
+    return render_template("ai_panel.html", user=session["user"])
+
+
 # =========================================================
 # PROXY HACIA FASTAPI
 # =========================================================
@@ -412,6 +420,92 @@ def review_llm_review_status():
 
     try:
         response = requests.get(f"{BACKEND_URL}/review/llm-review/status", timeout=15)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-llm-review-pause", methods=["POST"])
+def review_llm_review_pause():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.post(f"{BACKEND_URL}/review/llm-review/pause", timeout=15)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-llm-review-resume", methods=["POST"])
+def review_llm_review_resume():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.post(f"{BACKEND_URL}/review/llm-review/resume", timeout=15)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/review-llm-review-cancel", methods=["POST"])
+def review_llm_review_cancel():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.post(f"{BACKEND_URL}/review/llm-review/cancel", timeout=15)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+# =========================================================
+# ADMINISTRACIÓN DE IA (Ollama)
+# =========================================================
+
+@bp.route("/ai-settings", methods=["GET"])
+def ai_settings_get():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.get(f"{BACKEND_URL}/ai/settings", timeout=10)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/ai-settings", methods=["PUT"])
+def ai_settings_put():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.put(
+            f"{BACKEND_URL}/ai/settings",
+            json=request.get_json(silent=True) or {},
+            timeout=10,
+        )
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/ai-status", methods=["GET"])
+def ai_status():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.get(f"{BACKEND_URL}/ai/status", timeout=10)
         return jsonify(response.json()), response.status_code
     except Exception:
         return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
