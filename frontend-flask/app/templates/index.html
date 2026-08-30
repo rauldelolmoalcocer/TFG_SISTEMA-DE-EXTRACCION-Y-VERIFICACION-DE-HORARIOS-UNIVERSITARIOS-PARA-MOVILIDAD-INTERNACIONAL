@@ -71,6 +71,15 @@
                 <span class="card-cta">Abrir &rarr;</span>
             </a>
 
+            <a class="nav-card" href="{{ url_for('main.volcado') }}">
+                <div class="card-icon green">🗄️</div>
+                <div class="card-title">Volcado a base de datos</div>
+                <p class="card-desc">
+                    Vuelca los horarios ya revisados (VALID y WARNING) a las tablas de PostgreSQL, con barra de progreso.
+                </p>
+                <span class="card-cta">Abrir &rarr;</span>
+            </a>
+
             <a class="nav-card" href="{{ url_for('main.ai_panel') }}">
                 <div class="card-icon amber">🤖</div>
                 <div class="card-title">Administración IA</div>

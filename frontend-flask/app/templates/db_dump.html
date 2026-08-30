@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volcado a base de datos | Universidad de Alcalá</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='download_panel.css') }}">
+
+    <style>
+        .grid-container.dump-grid {
+            grid-template-columns: minmax(0, 420px) minmax(0, 1fr);
+        }
+
+        .dump-intro {
+            font-size: 0.84rem;
+            color: var(--muted);
+            margin-bottom: 14px;
+        }
+
+        #dumpButton {
+            width: 100%;
+            background: var(--action);
+            color: #fff;
+            box-shadow: 0 2px 6px rgba(21, 98, 204, .2);
+        }
+        #dumpButton:hover:not(:disabled) { background: var(--action-hov); }
+
+        #cancelButton {
+            width: 100%;
+            margin-top: 8px;
+            background: var(--danger-bg);
+            color: var(--danger);
+        }
+        #cancelButton:hover:not(:disabled) { background: #f8d7d7; }
+
+        .counts-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-top: 16px;
+        }
+
+        .count-item {
+            background: var(--surface-alt);
+            border: 1px solid var(--border);
+            border-radius: var(--rs);
+            padding: 10px 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        .count-item .count-value {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: var(--text);
+        }
+
+        .count-item .count-label {
+            font-size: 0.68rem;
+            color: var(--muted);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+        }
+
+        .count-item.discarded { background: var(--danger-bg); }
+        .count-item.discarded .count-value { color: var(--danger); }
+
+        @media (max-width: 992px) {
+            .grid-container.dump-grid { grid-template-columns: 1fr; }
+        }
+
+        @media (max-width: 560px) {
+            .counts-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- TOPBAR -->
+    <header class="topbar">
+        <div class="topbar-inner">
+
+            <a class="topbar-brand" href="{{ url_for('main.index') }}">
+                <img src="{{ url_for('static', filename='img/logo-UniversidadAlcala.png') }}"
+                    alt="Universidad de Alcalá">
+            </a>
+
+            <span class="topbar-title">Volcado a base de datos · Movilidad Internacional</span>
+
+            <div class="topbar-user">
+                <a class="topbar-nav-link" href="{{ url_for('main.descargas') }}">Panel de descargas</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.revision') }}">Revisión manual</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.horarios') }}">Gestor de horarios</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.ai_panel') }}">Administración IA</a>
+                <div class="topbar-user-badge">
+                    <span>{{ user }}</span>
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+    <!-- CONTENIDO -->
+    <main class="container">
+
+        <div class="page-head">
+            <h1>Volcado de horarios revisados a la base de datos</h1>
+            <p>
+                Coge <strong>reviewed_schedules.json</strong> (la copia ya revisada de la extracción) y
+                reconstruye las tablas relacionales de PostgreSQL desde cero. Se vuelcan los registros
+                <strong>VALID</strong> y <strong>WARNING</strong>; los INVALID y las tablas omitidas se descartan.
+            </p>
+        </div>
+
+        <div class="grid-container dump-grid">
+
+            <!-- PANEL ACCIÓN -->
+            <div class="card">
+
+                <div class="card-label">Volcado</div>
+
+                <p class="dump-intro">
+                    Cada volcado <strong>vacía y recarga</strong> las tablas de horario y sus catálogos
+                    (titulaciones, asignaturas, grupos, aulas, años académicos, fuentes). Todo ocurre en
+                    una sola transacción: si algo falla, la base de datos se queda como estaba.
+                    Las tablas <code>demo</code> y <code>usuarios</code> no se tocan.
+                </p>
+
+                <button id="dumpButton">Volcar a base de datos</button>
+                <button id="cancelButton" disabled>Cancelar volcado</button>
+
+                <p id="statusMessage"></p>
+
+                <!-- BARRA DE PROGRESO -->
+                <div class="progress-container">
+                    <div id="progressBar" class="progress-bar"></div>
+                </div>
+                <p id="progressText">En espera</p>
+
+                <!-- ESTADO -->
+                <div class="db-status-box">
+                    <p>
+                        <strong>Estado:</strong>
+                        <span id="dbStatus">Inactivo</span>
+                    </p>
+                    <p>
+                        <strong>Último volcado:</strong>
+                        <span id="lastDumpDate">Nunca</span>
+                    </p>
+                    <p>
+                        <strong>Registros:</strong>
+                        <span id="recordCount">—</span>
+                    </p>
+                </div>
+
+                <!-- RESUMEN FILAS INSERTADAS -->
+                <div class="counts-grid" id="countsGrid" hidden></div>
+
+            </div>
+
+            <!-- PANEL LOGS -->
+            <div class="card">
+
+                <div class="card-label">Registro del proceso</div>
+
+                <div id="logBox" class="log-box">
+                    <div class="empty-state">Aún no hay actividad.</div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <script>
+
+        // =========================================
+        // ELEMENTOS
+        // =========================================
+
+        const dumpButton   = document.getElementById("dumpButton");
+        const cancelButton  = document.getElementById("cancelButton");
+        const statusMessage = document.getElementById("statusMessage");
+        const progressBar   = document.getElementById("progressBar");
+        const progressText  = document.getElementById("progressText");
+        const dbStatus      = document.getElementById("dbStatus");
+        const lastDumpDate  = document.getElementById("lastDumpDate");
+        const recordCount   = document.getElementById("recordCount");
+        const countsGrid    = document.getElementById("countsGrid");
+        const logBox        = document.getElementById("logBox");
+
+        let pollInterval = null;
+        let lastLogCount = 0;
+        let sawRunning   = false;
+
+        // =========================================
+        // ETIQUETAS DEL RESUMEN
+        // =========================================
+
+        const COUNT_LABELS = {
+            class_sessions:      "Sesiones",
+            subjects:            "Asignaturas",
+            degrees:             "Titulaciones",
+            groups:              "Grupos",
+            rooms:               "Aulas",
+            academic_years:      "Años acad.",
+            sources:             "Fuentes",
+            class_session_rooms: "Sesión↔Aula",
+            extraction_issues:   "Incidencias",
+            discarded:           "Descartados",
+        };
+
+        const COUNT_ORDER = [
+            "class_sessions", "subjects", "degrees", "groups", "rooms",
+            "academic_years", "sources", "class_session_rooms",
+            "extraction_issues", "discarded",
+        ];
+
+        // =========================================
+        // LOG
+        // =========================================
+
+        function renderLogs(lines) {
+            if (!lines || lines.length <= lastLogCount) return;
+
+            const emptyState = logBox.querySelector(".empty-state");
+            if (emptyState) logBox.innerHTML = "";
+
+            lines.slice(lastLogCount).forEach(line => {
+                const div = document.createElement("div");
+                div.textContent = line;
+                logBox.appendChild(div);
+            });
+
+            lastLogCount = lines.length;
+            logBox.scrollTop = logBox.scrollHeight;
+        }
+
+        // =========================================
+        // PROGRESO
+        // =========================================
+
+        function updateProgress(pct, processed, total) {
+            progressBar.style.width = `${pct}%`;
+            if (total) {
+                progressText.textContent = `${pct}% · ${processed}/${total} registros`;
+            } else {
+                progressText.textContent = `${pct}%`;
+            }
+        }
+
+        // =========================================
+        // RESUMEN
+        // =========================================
+
+        function renderCounts(counts) {
+            if (!counts || Object.keys(counts).length === 0) {
+                countsGrid.hidden = true;
+                countsGrid.innerHTML = "";
+                return;
+            }
+
+            countsGrid.innerHTML = "";
+
+            COUNT_ORDER.forEach(key => {
+                if (!(key in counts)) return;
+
+                const item = document.createElement("div");
+                item.className = "count-item" + (key === "discarded" ? " discarded" : "");
+
+                const value = document.createElement("span");
+                value.className = "count-value";
+                value.textContent = counts[key];
+
+                const label = document.createElement("span");
+                label.className = "count-label";
+                label.textContent = COUNT_LABELS[key] || key;
+
+                item.appendChild(value);
+                item.appendChild(label);
+                countsGrid.appendChild(item);
+            });
+
+            countsGrid.hidden = false;
+        }
+
+        // =========================================
+        // ARRANCAR VOLCADO
+        // =========================================
+
+        async function startDump() {
+            dumpButton.disabled = true;
+            cancelButton.disabled = false;
+            statusMessage.textContent = "Iniciando volcado...";
+            dbStatus.textContent = "Iniciando...";
+            countsGrid.hidden = true;
+            countsGrid.innerHTML = "";
+            lastLogCount = 0;
+            sawRunning = false;
+            logBox.innerHTML = '<div class="empty-state">Aún no hay actividad.</div>';
+            updateProgress(0, 0, 0);
+
+            try {
+                const response = await fetch("/db-dump-start", { method: "POST" });
+                const data = await response.json();
+
+                if (!data.success) {
+                    statusMessage.textContent = data.message || "No se pudo iniciar.";
+                    dbStatus.textContent = "Error";
+                    dumpButton.disabled = false;
+                    cancelButton.disabled = true;
+                    return;
+                }
+
+                statusMessage.textContent = data.message || "Volcado en curso...";
+                dbStatus.textContent = "Ejecutando";
+                pollInterval = setInterval(pollStatus, 1000);
+
+            } catch (e) {
+                statusMessage.textContent = "Error al conectar con el backend.";
+                dbStatus.textContent = "Error";
+                dumpButton.disabled = false;
+                cancelButton.disabled = true;
+            }
+        }
+
+        // =========================================
+        // CANCELAR
+        // =========================================
+
+        async function cancelDump() {
+            cancelButton.disabled = true;
+            statusMessage.textContent = "Solicitando cancelación...";
+
+            try {
+                const response = await fetch("/db-dump-cancel", { method: "POST" });
+                const data = await response.json();
+                statusMessage.textContent = data.message || "Cancelación solicitada.";
+            } catch (e) {
+                statusMessage.textContent = "Error al solicitar la cancelación.";
+            }
+        }
+
+        // =========================================
+        // SONDEO DE ESTADO
+        // =========================================
+
+        async function pollStatus() {
+            try {
+                const response = await fetch("/db-dump-status");
+                const data = await response.json();
+
+                renderLogs(data.logs);
+                updateProgress(
+                    data.progress_percent || 0,
+                    data.processed || 0,
+                    data.total || 0
+                );
+
+                if (data.total) {
+                    recordCount.textContent = `${data.processed || 0} / ${data.total}`;
+                }
+
+                if (data.running) {
+                    sawRunning = true;
+                    dbStatus.textContent = data.cancel_requested ? "Cancelando..." : "Ejecutando";
+                    return;
+                }
+
+                // Ya no está corriendo. Si llegamos a verlo correr (o hay
+                // resultados/errores), el proceso ha terminado.
+                if (sawRunning || (data.counts && Object.keys(data.counts).length) ||
+                    (data.errors && data.errors.length)) {
+
+                    clearInterval(pollInterval);
+                    pollInterval = null;
+
+                    dumpButton.disabled = false;
+                    cancelButton.disabled = true;
+
+                    const hasErrors = data.errors && data.errors.length > 0;
+                    dbStatus.textContent = hasErrors ? "Finalizado con errores" : "Finalizado";
+                    statusMessage.textContent = hasErrors
+                        ? "El volcado terminó con errores. La base de datos no se ha modificado."
+                        : "Volcado completado.";
+
+                    if (data.finished_at) {
+                        lastDumpDate.textContent = data.finished_at;
+                    }
+
+                    renderCounts(data.counts);
+                }
+
+            } catch (e) {
+                console.error("Error consultando estado del volcado:", e);
+            }
+        }
+
+        // =========================================
+        // ESTADO INICIAL (por si ya hay un volcado en curso)
+        // =========================================
+
+        async function initFromBackend() {
+            try {
+                const response = await fetch("/db-dump-status");
+                const data = await response.json();
+
+                if (data.running) {
+                    dumpButton.disabled = true;
+                    cancelButton.disabled = false;
+                    dbStatus.textContent = "Ejecutando";
+                    statusMessage.textContent = "Volcado en curso...";
+                    renderLogs(data.logs);
+                    updateProgress(data.progress_percent || 0, data.processed || 0, data.total || 0);
+                    pollInterval = setInterval(pollStatus, 1000);
+                } else if (data.finished_at) {
+                    lastDumpDate.textContent = data.finished_at;
+                    renderLogs(data.logs);
+                    updateProgress(data.progress_percent || 0, data.processed || 0, data.total || 0);
+                    renderCounts(data.counts);
+                    if (data.total) recordCount.textContent = `${data.processed || 0} / ${data.total}`;
+                }
+            } catch (e) {
+                /* backend aún no disponible: se deja el estado por defecto */
+            }
+        }
+
+        // =========================================
+        // EVENTOS
+        // =========================================
+
+        dumpButton.addEventListener("click", startDump);
+        cancelButton.addEventListener("click", cancelDump);
+
+        initFromBackend();
+
+    </script>
+
+</body>
+
+</html>

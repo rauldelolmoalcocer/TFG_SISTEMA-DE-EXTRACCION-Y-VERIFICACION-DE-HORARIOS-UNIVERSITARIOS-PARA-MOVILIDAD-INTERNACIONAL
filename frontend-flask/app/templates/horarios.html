@@ -24,6 +24,7 @@
             <div class="topbar-user">
                 <a class="topbar-nav-link" href="{{ url_for('main.descargas') }}">Panel de descargas</a>
                 <a class="topbar-nav-link" href="{{ url_for('main.revision') }}">Revisión manual</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.volcado') }}">Volcado a BD</a>
                 <a class="topbar-nav-link" href="{{ url_for('main.ai_panel') }}">Administración IA</a>
                 <div class="topbar-user-badge">
                     <span>{{ user }}</span>
@@ -76,6 +77,28 @@
         <section class="card">
             <div class="card-label">Asignaturas seleccionadas</div>
             <ul class="subject-list" id="selectedSubjectsList"></ul>
+        </section>
+
+        <!-- LEYENDA + SOLAPES -->
+        <section class="card">
+            <div class="card-label">Leyenda y avisos</div>
+
+            <ul class="legend">
+                <li class="legend-item">
+                    <span class="legend-swatch swatch-normal"></span>
+                    Clase sin problemas
+                </li>
+                <li class="legend-item">
+                    <span class="legend-swatch swatch-conflict"></span>
+                    <strong>Rojo</strong> — solape: dos asignaturas a la misma hora
+                </li>
+                <li class="legend-item">
+                    <span class="legend-swatch swatch-warning"></span>
+                    <strong>Borde ámbar punteado</strong> — sesión con warning en la extracción (dato dudoso)
+                </li>
+            </ul>
+
+            <div id="conflictInfo" class="conflict-info"></div>
         </section>
 
         <!-- HORARIO SEMANAL -->

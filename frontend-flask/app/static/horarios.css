@@ -342,8 +342,104 @@ button:focus-visible { outline: 2px solid var(--action); outline-offset: 2px; }
     font-size: 0.88rem;
 }
 
+/* ─── LEYENDA + SOLAPES ──────────────────────────────── */
+.legend {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 20px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.82rem;
+    color: var(--text);
+}
+
+.legend-swatch {
+    width: 20px;
+    height: 14px;
+    border-radius: 4px;
+    flex-shrink: 0;
+    border-left: 3px solid var(--cb, #2563eb);
+    background: var(--cbb, #dbeafe);
+}
+
+.legend-swatch.swatch-normal {
+    border-left-color: #2563eb;
+    background: #dbeafe;
+}
+
+.legend-swatch.swatch-conflict {
+    border-left-color: #ef4444;
+    background: var(--danger-bg);
+}
+
+.legend-swatch.swatch-warning {
+    border-left-color: #d97706;
+    background: #fff;
+    border: 1px dashed #d97706;
+}
+
+.conflict-info {
+    margin-top: 14px;
+}
+.conflict-info:empty {
+    display: none;
+}
+
+.conflict-info .conflict-ok {
+    font-size: 0.84rem;
+    color: var(--success);
+    font-weight: 500;
+}
+
+.conflict-info .conflict-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--danger);
+    margin-bottom: 8px;
+}
+
+.conflict-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.conflict-list li {
+    font-size: 0.84rem;
+    background: var(--danger-bg);
+    border: 1px solid rgba(196, 43, 43, .2);
+    border-radius: var(--rs);
+    padding: 8px 12px;
+    color: var(--text);
+}
+
+.conflict-list li .c-when {
+    color: var(--danger);
+    font-weight: 600;
+}
+
+.conflict-list li .c-subj {
+    font-weight: 600;
+}
+
 /* ─── SCHEDULE TABLE ─────────────────────────────────── */
-.schedule-outer { overflow-x: auto; }
+/* La tabla tiene su propio scroll (X e Y). La cabecera se ancla a top:0
+   DENTRO de este contenedor, no a la altura del topbar de la pagina, para
+   que no se descuadre ("corrido") cuando el topbar cambia de alto. */
+.schedule-outer {
+    overflow: auto;
+    max-height: calc(100vh - 150px);
+    border: 1px solid var(--border);
+    border-radius: var(--rs);
+}
 
 .schedule-table {
     width: 100%;
@@ -355,10 +451,11 @@ button:focus-visible { outline: 2px solid var(--action); outline-offset: 2px; }
 .schedule-table th {
     background: var(--surface-alt);
     position: sticky;
-    top: 70px;
+    top: 0;
     z-index: 10;
-    border-bottom: 2px solid var(--border-strong);
     border-right: 1px solid var(--border);
+    /* el border-bottom no "viaja" con position:sticky; el box-shadow si */
+    box-shadow: inset 0 -2px 0 var(--border-strong);
     color: var(--primary);
     font-size: 0.73rem;
     font-weight: 700;
@@ -372,6 +469,8 @@ button:focus-visible { outline: 2px solid var(--action); outline-offset: 2px; }
 .schedule-table th:first-child {
     text-align: left;
     min-width: 96px;
+    left: 0;
+    z-index: 15;
 }
 
 .schedule-table td {
@@ -392,6 +491,10 @@ button:focus-visible { outline: 2px solid var(--action); outline-offset: 2px; }
     white-space: nowrap;
     border-right: 2px solid var(--border-strong) !important;
     text-align: right;
+    /* la columna de horas se mantiene visible al hacer scroll horizontal */
+    position: sticky;
+    left: 0;
+    z-index: 5;
 }
 
 .schedule-table td:not(.time-cell) { padding: 3px; }
@@ -419,6 +522,12 @@ button:focus-visible { outline: 2px solid var(--action); outline-offset: 2px; }
     border-left-color: #ef4444 !important;
     background: var(--danger-bg) !important;
     color: var(--danger) !important;
+}
+
+/* Sesión que venía con warning en la extracción: dato dudoso */
+.class-block.warning-src {
+    outline: 1px dashed #d97706;
+    outline-offset: -2px;
 }
 
 /* ─── RESPONSIVE ─────────────────────────────────────── */

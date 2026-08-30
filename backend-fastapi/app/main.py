@@ -12,6 +12,8 @@ from typing import Optional
 from app.crawler.crawler import CrawlerConfig, CrawlerState, PdfCrawler
 from app.extractor.pdf_extractor import ExtractorState, run_extraction
 from app.review import store as review_store
+from app.dbdump import loader as db_dump_loader
+from app.schedule import db as schedule_db
 from app import ai_settings
 
 
@@ -104,6 +106,10 @@ extract_lock = threading.Lock()
 extract_thread = None
 
 review_lock = threading.Lock()
+
+db_dump_state = db_dump_loader.DumpState()
+db_dump_lock = threading.Lock()
+db_dump_thread = None
 
 llm_review_lock = threading.Lock()
 llm_review_thread = None
@@ -457,6 +463,91 @@ def extraction_status():
             "logs": list(extract_state.logs),
             "errors": list(extract_state.errors),
         }
+
+
+# =========================================================
+# VOLCADO A BASE DE DATOS
+# =========================================================
+#
+# Coge reviewed_schedules.json (la copia YA revisada de la extracción) y
+# reconstruye las tablas relacionales de Postgres desde cero (vaciar y
+# recargar, todo en una transacción). Corre en segundo plano como la
+# extracción; el progreso se consulta con /db-dump/status.
+
+@app.post("/db-dump/start")
+def db_dump_start():
+    global db_dump_thread
+
+    with db_dump_lock:
+        if db_dump_state.running:
+            return {"success": False, "message": "Ya hay un volcado en curso."}
+        db_dump_state.running = True  # cerrar la ventana entre este check y el arranque del hilo
+
+    db_dump_thread = threading.Thread(
+        target=db_dump_loader.run_dump,
+        args=(EXTRACT_FOLDER, get_connection, db_dump_state),
+        daemon=True,
+    )
+    db_dump_thread.start()
+
+    return {"success": True, "message": "Volcado a base de datos iniciado."}
+
+
+@app.get("/db-dump/status")
+def db_dump_status():
+    return db_dump_state.snapshot()
+
+
+@app.post("/db-dump/cancel")
+def db_dump_cancel():
+    with db_dump_state.lock:
+        if not db_dump_state.running:
+            return {"success": False, "message": "No hay ningún volcado en curso."}
+        db_dump_state.cancel_requested = True
+    return {"success": True, "message": "Cancelando volcado (se deshace lo hecho hasta ahora)."}
+
+
+# =========================================================
+# GESTOR DE HORARIOS: DATOS REALES DESDE LA BD
+# =========================================================
+#
+# Sustituyen a los datos simulados de horarios.js. Leen de las tablas que
+# rellena el volcado. Si la BD no responde -> 503; si no hay ni un solo
+# horario volcado -> 404 (para que el frontend diga "ejecuta el volcado
+# primero" en vez de mostrar una pantalla vacía sin explicación).
+
+@app.get("/schedule/degrees")
+def schedule_degrees():
+    try:
+        degrees = schedule_db.list_degrees(get_connection)
+    except schedule_db.ScheduleError as e:
+        raise HTTPException(status_code=503, detail=str(e))
+
+    if not degrees:
+        raise HTTPException(
+            status_code=404,
+            detail="No hay horarios en la base de datos. Ejecuta el volcado primero.",
+        )
+    return degrees
+
+
+@app.get("/schedule/subjects")
+def schedule_subjects(degree_id: Optional[str] = None):
+    try:
+        subjects = schedule_db.list_subjects(get_connection, degree_id or None)
+    except schedule_db.ScheduleError as e:
+        raise HTTPException(status_code=503, detail=str(e))
+
+    if not subjects:
+        raise HTTPException(
+            status_code=404,
+            detail=(
+                "No hay asignaturas para esa titulación en la base de datos."
+                if degree_id else
+                "No hay horarios en la base de datos. Ejecuta el volcado primero."
+            ),
+        )
+    return subjects
 
 
 # =========================================================

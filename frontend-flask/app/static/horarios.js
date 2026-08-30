@@ -1,74 +1,25 @@
 // =========================================================
-// DATA (estática — se reemplazará con datos del backend)
+// GESTOR DE HORARIOS
+// Los datos vienen de la BD (volcado) vía el backend:
+//   GET /schedule-degrees        -> [{id, name, session_count}]
+//   GET /schedule-subjects       -> [{id, subject_id, degree_id, degree_name,
+//                                     name, group, semester, sessions[],
+//                                     unscheduled_count}]
+// Cada entrada de /schedule-subjects es una (asignatura + grupo) ya
+// condensada: sessions[] = [{day, start, end, classroom, status}].
+// Cualquier campo puede ser null; las sesiones sin día u hora completa no
+// llegan en sessions[] (van contadas en unscheduled_count).
 // =========================================================
 
-const degrees = [
-    { id: "GII",   name: "Grado en Ingeniería Informática" },
-    { id: "GIEAI", name: "Grado en Ingeniería Electrónica y Automática Industrial" },
-    { id: "GIT",   name: "Grado en Ingeniería de Telecomunicaciones" }
-];
-
-const subjects = [
-    {
-        id: 101, degreeId: "GII", name: "Programación", group: "Grupo A",
-        sessions: [
-            { day: "Lunes",  start: "10:00", end: "12:00", classroom: "Lab 1" },
-            { day: "Jueves", start: "09:00", end: "11:00", classroom: "Lab 1" }
-        ]
-    },
-    {
-        id: 102, degreeId: "GII", name: "Bases de Datos", group: "Grupo A",
-        sessions: [
-            { day: "Martes", start: "10:00", end: "12:00", classroom: "Lab 2" },
-            { day: "Jueves", start: "12:00", end: "14:00", classroom: "Lab 2" }
-        ]
-    },
-    {
-        id: 103, degreeId: "GII", name: "Sistemas Operativos", group: "Grupo B",
-        sessions: [
-            { day: "Lunes",     start: "11:00", end: "13:00", classroom: "Aula 204" },
-            { day: "Miércoles", start: "09:00", end: "11:00", classroom: "Aula 204" }
-        ]
-    },
-    {
-        id: 201, degreeId: "GIEAI", name: "Matemáticas I", group: "Grupo A",
-        sessions: [
-            { day: "Lunes",     start: "09:00", end: "10:00", classroom: "Aula 101" },
-            { day: "Miércoles", start: "11:00", end: "12:00", classroom: "Aula 101" }
-        ]
-    },
-    {
-        id: 202, degreeId: "GIEAI", name: "Física", group: "Grupo B",
-        sessions: [
-            { day: "Lunes",   start: "09:30", end: "10:30", classroom: "Aula 202" },
-            { day: "Viernes", start: "12:00", end: "13:00", classroom: "Aula 202" }
-        ]
-    },
-    {
-        id: 203, degreeId: "GIEAI", name: "Electrónica Industrial", group: "Grupo A",
-        sessions: [
-            { day: "Martes", start: "08:00", end: "10:00", classroom: "Lab Electrónica" },
-            { day: "Jueves", start: "10:00", end: "12:00", classroom: "Lab Electrónica" }
-        ]
-    },
-    {
-        id: 301, degreeId: "GIT", name: "Redes de Comunicaciones", group: "Grupo A",
-        sessions: [
-            { day: "Martes",  start: "09:00", end: "11:00", classroom: "Aula 301" },
-            { day: "Viernes", start: "10:00", end: "12:00", classroom: "Aula 301" }
-        ]
-    },
-    {
-        id: 302, degreeId: "GIT", name: "Señales y Sistemas", group: "Grupo B",
-        sessions: [
-            { day: "Miércoles", start: "10:00", end: "12:00", classroom: "Aula 302" },
-            { day: "Jueves",    start: "12:00", end: "14:00", classroom: "Aula 302" }
-        ]
-    }
-];
+let degrees  = [];
+let subjects = [];
 
 const days  = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes"];
-const hours = ["08:00","09:00","10:00","11:00","12:00","13:00","14:00","15:00","16:00","17:00","18:00"];
+// Filas de la rejilla: 08:00–09:00 ... 20:00–21:00 (max hora fin en BD = 21:00)
+const hours = [
+    "08:00", "09:00", "10:00", "11:00", "12:00", "13:00", "14:00",
+    "15:00", "16:00", "17:00", "18:00", "19:00", "20:00",
+];
 
 // =========================================================
 // ESTADO
@@ -102,29 +53,50 @@ const clearBtn             = document.getElementById("clearBtn");
 const scheduleBody         = document.getElementById("scheduleBody");
 const selectedSubjectsList = document.getElementById("selectedSubjectsList");
 const messageBox           = document.getElementById("messageBox");
+const conflictInfo         = document.getElementById("conflictInfo");
 
 // =========================================================
 // INICIO
 // =========================================================
 
-function init() {
-    loadDegrees();
-    filterSubjects();
-    renderSelectedSubjects();
-    renderSchedule();
-
-    degreeSelect.addEventListener("change", filterSubjects);
+async function init() {
+    degreeSelect.addEventListener("change", onDegreeChange);
     subjectSearch.addEventListener("input", filterSubjects);
     addSubjectBtn.addEventListener("click", addSelectedSubject);
     clearBtn.addEventListener("click", clearSchedule);
     subjectSelect.addEventListener("dblclick", addSelectedSubject);
+
+    renderSelectedSubjects();
+    renderSchedule();
+
+    await loadDegrees();
+    await loadSubjects();
+}
+
+// =========================================================
+// FETCH HELPERS
+// =========================================================
+
+async function fetchJson(url) {
+    const response = await fetch(url);
+    let data = null;
+    try { data = await response.json(); } catch (e) { /* cuerpo no-JSON */ }
+
+    if (!response.ok) {
+        const detail = (data && (data.detail || data.message)) ||
+                       `Error ${response.status}`;
+        const err = new Error(detail);
+        err.status = response.status;
+        throw err;
+    }
+    return data;
 }
 
 // =========================================================
 // CARRERAS
 // =========================================================
 
-function loadDegrees() {
+async function loadDegrees() {
     degreeSelect.innerHTML = "";
 
     const allOption = document.createElement("option");
@@ -132,51 +104,114 @@ function loadDegrees() {
     allOption.textContent = "Todas las carreras";
     degreeSelect.appendChild(allOption);
 
+    try {
+        degrees = await fetchJson("/schedule-degrees");
+    } catch (e) {
+        degrees = [];
+        showMessage(
+            e.status === 404
+                ? "No hay horarios en la base de datos. Ejecuta el volcado primero."
+                : `No se pudieron cargar las titulaciones: ${e.message}`,
+            "error"
+        );
+        return;
+    }
+
     degrees.forEach(degree => {
         const option = document.createElement("option");
         option.value = degree.id;
-        option.textContent = `${degree.id} — ${degree.name}`;
+        option.textContent = degree.name;
         degreeSelect.appendChild(option);
     });
 }
 
 // =========================================================
-// FILTRADO
+// ASIGNATURAS
+// =========================================================
+
+async function onDegreeChange() {
+    await loadSubjects();
+}
+
+async function loadSubjects() {
+    const degreeId = degreeSelect.value;
+    const url = degreeId
+        ? `/schedule-subjects?degree_id=${encodeURIComponent(degreeId)}`
+        : "/schedule-subjects";
+
+    subjectSelect.innerHTML = "";
+    const loading = document.createElement("option");
+    loading.textContent = "Cargando asignaturas…";
+    loading.disabled = true;
+    subjectSelect.appendChild(loading);
+
+    let raw;
+    try {
+        raw = await fetchJson(url);
+    } catch (e) {
+        subjects = [];
+        renderSubjectOptions([]);
+        showMessage(
+            e.status === 404
+                ? "No hay asignaturas para esa selección en la base de datos."
+                : `No se pudieron cargar las asignaturas: ${e.message}`,
+            "error"
+        );
+        return;
+    }
+
+    // Normaliza al modelo que usa el resto del gestor.
+    subjects = raw.map(entry => ({
+        id:          entry.id,                        // "<subject_id>|<grupo>"
+        degreeId:    entry.degree_id,
+        degreeName:  entry.degree_name || "",
+        name:        entry.name || "(sin nombre)",
+        group:       entry.group || "Sin grupo",
+        semester:    entry.semester,
+        unscheduled: entry.unscheduled_count || 0,
+        sessions:    Array.isArray(entry.sessions) ? entry.sessions : [],
+    }));
+
+    filterSubjects();
+}
+
+// =========================================================
+// FILTRADO (en cliente, sobre lo ya cargado)
 // =========================================================
 
 function filterSubjects() {
-    const selectedDegreeId = degreeSelect.value;
     const searchText = normalizeText(subjectSearch.value);
 
-    const filteredSubjects = subjects.filter(subject => {
-        const degree = degrees.find(d => d.id === subject.degreeId);
+    const filtered = subjects.filter(subject => {
+        if (searchText === "") return true;
         const fullText = normalizeText(
-            `${subject.id} ${subject.name} ${subject.group} ${subject.degreeId} ${degree ? degree.name : ""}`
+            `${subject.name} ${subject.group} ${subject.degreeName} ${subject.semester ?? ""}`
         );
-        const matchesDegree = selectedDegreeId === "" || subject.degreeId === selectedDegreeId;
-        const matchesSearch = searchText === "" || fullText.includes(searchText);
-        return matchesDegree && matchesSearch;
+        return fullText.includes(searchText);
     });
 
-    renderSubjectOptions(filteredSubjects);
+    renderSubjectOptions(filtered);
 }
 
-function renderSubjectOptions(filteredSubjects) {
+function renderSubjectOptions(filtered) {
     subjectSelect.innerHTML = "";
 
-    if (filteredSubjects.length === 0) {
+    if (filtered.length === 0) {
         const option = document.createElement("option");
-        option.textContent = "No hay asignaturas encontradas";
+        option.textContent = subjects.length === 0
+            ? "No hay asignaturas cargadas"
+            : "No hay asignaturas que coincidan con la búsqueda";
         option.disabled = true;
         subjectSelect.appendChild(option);
         return;
     }
 
-    filteredSubjects.forEach(subject => {
-        const degree = degrees.find(d => d.id === subject.degreeId);
+    filtered.forEach(subject => {
         const option = document.createElement("option");
         option.value = subject.id;
-        option.textContent = `${subject.id} — ${subject.name} · ${subject.group} · ${degree?.id}`;
+        const sem = subject.semester != null ? ` · sem. ${subject.semester}` : "";
+        const noSlot = subject.unscheduled > 0 ? ` · ⚠ ${subject.unscheduled} sin horario` : "";
+        option.textContent = `${subject.name} · ${subject.group}${sem}${noSlot}`;
         subjectSelect.appendChild(option);
     });
 }
@@ -186,7 +221,7 @@ function renderSubjectOptions(filteredSubjects) {
 // =========================================================
 
 function addSelectedSubject() {
-    const subjectId = Number(subjectSelect.value);
+    const subjectId = subjectSelect.value;
 
     if (!subjectId) {
         showMessage("Selecciona una asignatura válida.", "error");
@@ -205,16 +240,25 @@ function addSelectedSubject() {
         return;
     }
 
-    getColor(subjectId);
+    getColor(subject.id);
     selectedSubjects.push(subject);
 
     const conflicts = detectConflicts();
-    showMessage(
-        conflicts.length > 0
-            ? "Hay solapes en el horario. Revisa las celdas marcadas."
-            : "Asignatura añadida correctamente. Sin solapes.",
-        conflicts.length > 0 ? "error" : "success"
-    );
+
+    let msg;
+    if (subject.sessions.length === 0) {
+        msg = subject.unscheduled > 0
+            ? "Asignatura añadida, pero sus sesiones no tienen día u hora en la BD: no se pueden pintar."
+            : "Asignatura añadida, pero no tiene ninguna sesión registrada.";
+        showMessage(msg, "error");
+    } else {
+        showMessage(
+            conflicts.length > 0
+                ? "Hay solapes en el horario. Revisa las celdas marcadas."
+                : "Asignatura añadida correctamente. Sin solapes.",
+            conflicts.length > 0 ? "error" : "success"
+        );
+    }
 
     renderSelectedSubjects();
     renderSchedule();
@@ -261,7 +305,6 @@ function renderSelectedSubjects() {
     }
 
     selectedSubjects.forEach(subject => {
-        const degree = degrees.find(d => d.id === subject.degreeId);
         const ci = getColor(subject.id);
 
         const li = document.createElement("li");
@@ -276,7 +319,11 @@ function renderSelectedSubjects() {
 
         const meta = document.createElement("span");
         meta.className = "s-meta";
-        meta.textContent = `${subject.group} · ${degree?.id} · ID ${subject.id}`;
+        const sem = subject.semester != null ? ` · sem. ${subject.semester}` : "";
+        const noSlot = subject.unscheduled > 0
+            ? ` · ⚠ ${subject.unscheduled} sesión(es) sin horario`
+            : "";
+        meta.textContent = `${subject.group}${sem}${noSlot}`;
 
         const btn = document.createElement("button");
         btn.className = "remove-btn";
@@ -326,10 +373,18 @@ function renderSchedule() {
                     cell.classList.add("conflict-cell");
                 }
 
+                if (session.status === "WARNING") {
+                    block.classList.add("warning-src");
+                }
+
+                const room = session.classroom
+                    ? `<span style="opacity:.8">${session.classroom}</span>`
+                    : "";
+
                 block.innerHTML =
                     `<strong>${subject.name}</strong>` +
                     `${subject.group} · ${session.start}–${session.end}<br>` +
-                    `<span style="opacity:.8">${session.classroom}</span>`;
+                    room;
 
                 cell.appendChild(block);
             });
@@ -339,6 +394,72 @@ function renderSchedule() {
 
         scheduleBody.appendChild(row);
     });
+
+    renderConflicts();
+}
+
+// =========================================================
+// SOLAPES (INFO LEGIBLE)
+// =========================================================
+
+function getConflictPairs() {
+    const pairs = [];
+
+    for (let i = 0; i < selectedSubjects.length; i++) {
+        for (let j = i + 1; j < selectedSubjects.length; j++) {
+            const A = selectedSubjects[i];
+            const B = selectedSubjects[j];
+
+            A.sessions.forEach(sa => {
+                B.sessions.forEach(sb => {
+                    if (sa.day === sb.day && sessionsOverlap(sa, sb)) {
+                        pairs.push({
+                            day: sa.day,
+                            a: { name: A.name, group: A.group, start: sa.start, end: sa.end },
+                            b: { name: B.name, group: B.group, start: sb.start, end: sb.end },
+                        });
+                    }
+                });
+            });
+        }
+    }
+
+    return pairs;
+}
+
+function renderConflicts() {
+    conflictInfo.innerHTML = "";
+
+    if (selectedSubjects.length === 0) return;
+
+    const pairs = getConflictPairs();
+
+    if (pairs.length === 0) {
+        const ok = document.createElement("p");
+        ok.className = "conflict-ok";
+        ok.textContent = "✓ Sin solapes entre las asignaturas seleccionadas.";
+        conflictInfo.appendChild(ok);
+        return;
+    }
+
+    const title = document.createElement("p");
+    title.className = "conflict-title";
+    title.textContent = `${pairs.length} solape${pairs.length > 1 ? "s" : ""} detectado${pairs.length > 1 ? "s" : ""}`;
+    conflictInfo.appendChild(title);
+
+    const ul = document.createElement("ul");
+    ul.className = "conflict-list";
+
+    pairs.forEach(p => {
+        const li = document.createElement("li");
+        li.innerHTML =
+            `<span class="c-when">${p.day} ${p.a.start}–${p.a.end}</span> · ` +
+            `<span class="c-subj">${p.a.name}</span> (${p.a.group}) ` +
+            `choca con <span class="c-subj">${p.b.name}</span> (${p.b.group}, ${p.b.start}–${p.b.end})`;
+        ul.appendChild(li);
+    });
+
+    conflictInfo.appendChild(ul);
 }
 
 // =========================================================
@@ -354,6 +475,7 @@ function getSessionsForCell(day, hour) {
         subject.sessions.forEach(session => {
             const ss = timeToMinutes(session.start);
             const se = timeToMinutes(session.end);
+            if (ss === null || se === null) return;
             if (session.day === day && ss < ce && se > cs) {
                 result.push({ subject, session });
             }
@@ -386,12 +508,19 @@ function detectConflicts() {
 }
 
 function sessionsOverlap(a, b) {
-    return timeToMinutes(a.start) < timeToMinutes(b.end) &&
-           timeToMinutes(b.start) < timeToMinutes(a.end);
+    const as = timeToMinutes(a.start), ae = timeToMinutes(a.end);
+    const bs = timeToMinutes(b.start), be = timeToMinutes(b.end);
+    if (as === null || ae === null || bs === null || be === null) return false;
+    return as < be && bs < ae;
 }
 
 function timeToMinutes(time) {
-    const [h, m] = time.split(":").map(Number);
+    if (!time) return null;
+    const parts = time.split(":");
+    if (parts.length < 2) return null;
+    const h = Number(parts[0]);
+    const m = Number(parts[1]);
+    if (Number.isNaN(h) || Number.isNaN(m)) return null;
     return h * 60 + m;
 }
 

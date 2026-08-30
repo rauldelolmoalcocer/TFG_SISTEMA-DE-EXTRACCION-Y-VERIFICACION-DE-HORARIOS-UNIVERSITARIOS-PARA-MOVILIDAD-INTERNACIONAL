@@ -99,6 +99,14 @@ def ai_panel():
     return render_template("ai_panel.html", user=session["user"])
 
 
+@bp.route("/volcado")
+def volcado():
+    if "user" not in session:
+        return redirect(url_for("main.login"))
+
+    return render_template("db_dump.html", user=session["user"])
+
+
 # =========================================================
 # PROXY HACIA FASTAPI
 # =========================================================
@@ -509,3 +517,84 @@ def ai_status():
         return jsonify(response.json()), response.status_code
     except Exception:
         return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+# =========================================================
+# VOLCADO A BASE DE DATOS (PROXY HACIA FASTAPI)
+# =========================================================
+
+@bp.route("/db-dump-start", methods=["POST"])
+def db_dump_start():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.post(f"{BACKEND_URL}/db-dump/start", timeout=15)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+@bp.route("/db-dump-status", methods=["GET"])
+def db_dump_status():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.get(f"{BACKEND_URL}/db-dump/status", timeout=15)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({
+            "running": False,
+            "logs": ["No se pudo conectar con el backend"],
+            "errors": [],
+        }), 500
+
+
+@bp.route("/db-dump-cancel", methods=["POST"])
+def db_dump_cancel():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.post(f"{BACKEND_URL}/db-dump/cancel", timeout=15)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 500
+
+
+# =========================================================
+# GESTOR DE HORARIOS: DATOS REALES (PROXY HACIA FASTAPI)
+# =========================================================
+
+@bp.route("/schedule-degrees", methods=["GET"])
+def schedule_degrees():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.get(f"{BACKEND_URL}/schedule/degrees", timeout=15)
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"detail": "No se pudo conectar con el backend"}), 502
+
+
+@bp.route("/schedule-subjects", methods=["GET"])
+def schedule_subjects():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    try:
+        response = requests.get(
+            f"{BACKEND_URL}/schedule/subjects",
+            params=request.args.to_dict(),
+            timeout=15,
+        )
+        return jsonify(response.json()), response.status_code
+    except Exception:
+        return jsonify({"detail": "No se pudo conectar con el backend"}), 502
