@@ -25,6 +25,7 @@
                 <div class="topbar-user-badge">
                     <span>{{ user }}</span>
                 </div>
+                <a href="{{ url_for('main.account') }}" class="topbar-logout">Mi cuenta</a>
                 <a href="{{ url_for('main.logout') }}" class="topbar-logout">Cerrar sesión</a>
             </div>
 
@@ -88,6 +89,17 @@
                 </p>
                 <span class="card-cta">Abrir &rarr;</span>
             </a>
+
+            {% if is_admin %}
+            <a class="nav-card" href="{{ url_for('main.users_admin') }}">
+                <div class="card-icon violet">👥</div>
+                <div class="card-title">Gestión de usuarios</div>
+                <p class="card-desc">
+                    Da de alta cuentas, asigna el rol de administrador y restablece contraseñas. Solo administradores.
+                </p>
+                <span class="card-cta">Abrir &rarr;</span>
+            </a>
+            {% endif %}
 
         </div>
 

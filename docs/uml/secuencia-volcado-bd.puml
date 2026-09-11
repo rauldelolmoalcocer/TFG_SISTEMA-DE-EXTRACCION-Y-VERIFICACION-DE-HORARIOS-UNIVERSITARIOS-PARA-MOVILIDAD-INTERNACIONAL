@@ -1,0 +1,79 @@
+@startuml secuencia-volcado-bd
+' Flujo: db_dump.html -> routes.py (/db-dump-*) -> main.py (/db-dump/*)
+'   -> hilo dbdump.loader.run_dump -> PostgreSQL (una transacción)
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam ParticipantBackgroundColor #F4F6F8
+skinparam ActorBackgroundColor #F4F6F8
+skinparam NoteBackgroundColor #FFFDF5
+
+title Volcar los horarios revisados a la base de datos (CU-11)
+
+actor "Usuario" as U
+participant "Frontend\n(db_dump.html)" as FE
+participant "Backend\n(main.py)" as BE
+participant "Hilo de volcado\n(run_dump)" as TH
+database "reviewed_schedules.json" as FS
+database "PostgreSQL (tfg)" as DB
+
+U -> FE : "Volcar a base de datos"
+FE -> BE : POST /db-dump/start
+activate BE
+alt ya hay un volcado en curso
+    BE --> FE : { success:false }
+else ok
+    BE -> TH : Thread(daemon).start(EXTRACT_FOLDER, get_connection, state)
+    BE --> FE : { success:true }
+    deactivate BE
+end
+
+activate TH
+TH -> FS : carga reviewed_schedules.json
+TH -> TH : filtra items VALID + WARNING\n(descarta INVALID y tablas omitidas)
+alt no hay nada que volcar
+    TH -> TH : registra el aviso; la BD no se toca
+else hay registros
+    TH -> DB : conn.autocommit = false
+    TH -> DB : TRUNCATE class_session_rooms, extraction_issues,\nextraction_metadata, class_sessions, subjects, groups,\nsources, rooms, academic_years, degrees, universities  CASCADE
+    TH -> DB : INSERT universities (1 fila: "Universidad de Alcalá")
+
+    loop por cada registro (VALID/WARNING)
+        TH -> DB : upsert degree / academic_year / group /\nsubject / source  (cachés en memoria)
+        TH -> DB : INSERT class_sessions (día, horas normalizadas,\nsemestre, estado, confidence, *_raw)
+        loop por cada aula del registro
+            TH -> DB : upsert rooms ; INSERT class_session_rooms
+        end
+        TH -> DB : INSERT extraction_metadata (página, raw_text,\nestrategia, filas, datos de la revisión IA)
+        loop por cada issue / nota
+            TH -> DB : INSERT extraction_issues (WARNING / INFO)
+        end
+        TH -> TH : state.processed++
+        break si se ha solicitado cancelar
+            TH -> DB : ROLLBACK
+            TH --> BE : fin (cancelado, BD intacta)
+        end
+    end
+
+    alt todo correcto
+        TH -> DB : COMMIT
+        TH -> TH : counts por tabla
+    else excepción
+        TH -> DB : ROLLBACK
+        TH -> TH : registra el error (BD intacta)
+    end
+end
+deactivate TH
+
+loop cada ~1 s
+    FE -> BE : GET /db-dump/status
+    BE --> FE : { running, processed/total, %, logs, counts, finished_at }
+end
+opt cancelar
+    U -> FE : Cancelar
+    FE -> BE : POST /db-dump/cancel  -> state.cancel_requested = true
+end
+
+@enduml

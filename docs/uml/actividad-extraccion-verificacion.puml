@@ -1,0 +1,52 @@
+@startuml actividad-extraccion-verificacion
+' ============================================================================
+'  Diagrama de actividad - flujo completo de extracción y verificación.
+'  Traza: routes.py -> main.py (real_download_process / run_extraction /
+'  run_dump) -> pdf_table_extractor (pipeline.py, llm_review.py) ->
+'  review.store -> dbdump.loader -> schedule.db.
+'  Las etapas internas se muestran aquí (NO como casos de uso).
+' ============================================================================
+
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+
+start
+
+:El usuario introduce la URL de la fuente\n(panel de descargas);
+:Crawler rastrea la página y descarga los PDF\n(PdfCrawler.run -> ./downloads),\ncon dedupe por hash SHA-256;
+
+:Etapa 1 - Diagnóstico estructural de cada PDF\n(pdfplumber: metadatos, palabras, tablas);
+:Etapa 2 - Normalización a registros de horario\n(all_schedules.json + skipped_tables.json);
+
+if (¿Casilla "revisar con IA" activada?) then (sí)
+  :Etapa 3 - Ollama revisa las celdas marcadas\n(asignaturas mezcladas) vía /api/chat;
+else (no)
+endif
+
+:refresh_reviewed_from_extraction\n-> reviewed_schedules.json (copia editable);
+note right
+  Estado por registro:
+  · multiple_entries_suspected -> INVALID
+  · con warnings                -> WARNING
+  · en caso contrario           -> VALID
+end note
+
+repeat
+  :El usuario revisa un registro\n(editar / marcar estado / separar en dos / restaurar);
+  if (¿Pedir ayuda a la IA para las mezcladas?) then (sí)
+    :review_store.llm_review_items -> Ollama\nresuelve o divide el registro;
+  else (no)
+  endif
+repeat while (¿Quedan registros por revisar?) is (sí)
+-> no;
+
+:Volcado a PostgreSQL (dbdump.loader.run_dump):\nTRUNCATE + recarga de degrees, subjects, groups,\nrooms, academic_years, sources, class_sessions,\nclass_session_rooms, extraction_metadata,\nextraction_issues  (una transacción);
+
+:El usuario abre el gestor de horarios,\nselecciona titulación y asignaturas\n(GET /schedule/degrees, /schedule/subjects);
+:El navegador pinta la rejilla semanal y detecta\nsolapes entre asignaturas (JavaScript en cliente);
+
+stop
+@enduml

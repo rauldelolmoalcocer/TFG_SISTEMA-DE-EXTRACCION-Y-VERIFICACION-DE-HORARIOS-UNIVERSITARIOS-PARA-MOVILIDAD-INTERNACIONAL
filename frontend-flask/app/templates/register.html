@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crear cuenta | Universidad de Alcalá</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='login.css') }}">
+</head>
+
+<body>
+    <div class="page-overlay"></div>
+
+    <header class="topbar">
+        <div class="topbar-inner">
+            <div class="topbar-brand">
+                <img src="{{ url_for('static', filename='img/logo-UniversidadAlcala.png') }}"
+                    alt="Universidad de Alcalá">
+            </div>
+            <div class="topbar-title">Portal de servicios</div>
+            <div class="topbar-user">
+                <div class="topbar-user-badge"><span>Acceso institucional</span></div>
+            </div>
+        </div>
+    </header>
+
+    <main class="login-main">
+        <section class="login-card">
+            <h1 class="login-title">Crear cuenta</h1>
+            <p class="login-subtitle">
+                Rellene sus datos. La cuenta quedará <strong>pendiente de aprobación</strong> por un
+                administrador antes de poder iniciar sesión.
+            </p>
+
+            <div class="alert alert-danger error-box" role="alert" id="errorBox" style="display:none"></div>
+            <div class="alert alert-success error-box" role="alert" id="okBox" style="display:none"></div>
+
+            <form class="login-form" id="registerForm">
+                <div class="mb-3">
+                    <label for="username" class="form-label-custom">Usuario</label>
+                    <input id="username" type="text" class="form-control custom-input"
+                        placeholder="nombre.apellido" required autocomplete="username">
+                </div>
+
+                <div class="mb-3">
+                    <label for="password" class="form-label-custom">Contraseña</label>
+                    <input id="password" type="password" class="form-control custom-input"
+                        placeholder="mínimo 4 caracteres" required autocomplete="new-password">
+                </div>
+
+                <div class="mb-3">
+                    <label for="password2" class="form-label-custom">Repetir contraseña</label>
+                    <input id="password2" type="password" class="form-control custom-input"
+                        required autocomplete="new-password">
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn login-btn" id="submitBtn">Crear cuenta</button>
+                </div>
+            </form>
+
+            <div class="login-help">
+                ¿Ya tiene cuenta? <a class="forgot-link" href="{{ url_for('main.login') }}">Iniciar sesión</a>
+            </div>
+        </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <script>
+        const form = document.getElementById("registerForm");
+        const errorBox = document.getElementById("errorBox");
+        const okBox = document.getElementById("okBox");
+        const submitBtn = document.getElementById("submitBtn");
+
+        form.addEventListener("submit", async (ev) => {
+            ev.preventDefault();
+            errorBox.style.display = "none";
+            okBox.style.display = "none";
+
+            const username = document.getElementById("username").value.trim();
+            const password = document.getElementById("password").value;
+            const password2 = document.getElementById("password2").value;
+
+            if (password !== password2) {
+                errorBox.textContent = "Las contraseñas no coinciden.";
+                errorBox.style.display = "block";
+                return;
+            }
+
+            submitBtn.disabled = true;
+            try {
+                const res = await fetch("/register", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ username, password }),
+                });
+                const data = await res.json();
+
+                if (res.ok && data.success) {
+                    form.style.display = "none";
+                    okBox.textContent = data.message ||
+                        "Cuenta creada. Un administrador debe aprobarla antes de que puedas entrar.";
+                    okBox.style.display = "block";
+                } else {
+                    errorBox.textContent = data.detail || data.message || "No se pudo crear la cuenta.";
+                    errorBox.style.display = "block";
+                }
+            } catch (e) {
+                errorBox.textContent = "No se pudo conectar con el servidor.";
+                errorBox.style.display = "block";
+            } finally {
+                submitBtn.disabled = false;
+            }
+        });
+    </script>
+</body>
+
+</html>

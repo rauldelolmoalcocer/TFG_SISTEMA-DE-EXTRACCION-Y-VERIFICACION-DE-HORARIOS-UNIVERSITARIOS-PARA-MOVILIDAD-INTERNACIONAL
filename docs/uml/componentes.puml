@@ -1,0 +1,91 @@
+@startuml componentes
+' ============================================================================
+'  Diagrama de componentes - piezas lógicas reales del proyecto y sus
+'  dependencias principales (no se representa cada fichero .py).
+'  Reconstruido de la estructura de backend-fastapi/app/ y frontend-flask/app/.
+' ============================================================================
+
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam component {
+  BackgroundColor #F4F6F8
+  BorderColor #333333
+}
+skinparam package {
+  BackgroundColor white
+  BorderColor #888888
+}
+
+actor "Navegador" as Browser
+
+package "Frontend  (Flask)" {
+  [Rutas / Blueprint\n(routes.py)] as FRoutes
+  [Plantillas Jinja\n+ JS de cliente\n(horarios.js, review.js)] as FUI
+  FRoutes ..> FUI : renderiza
+}
+
+package "Backend  (FastAPI - app.main)" {
+  [API HTTP / endpoints\n(main.py)] as API
+
+  package "Servicios de dominio" {
+    [Autenticación y usuarios\n(auth.users)] as SAuth
+    [Descarga / Crawler\n(crawler.PdfCrawler)] as SCrawl
+    [Extracción y normalización\n(extractor.run_extraction +\npdf_table_extractor)] as SExtract
+    [Revisión\n(review.store)] as SReview
+    [Revisión con IA\n(review.store.llm_review_items +\npdf_table_extractor.llm_review)] as SIA
+    [Configuración de IA\n(ai_settings)] as SCfg
+    [Volcado a BD\n(dbdump.loader.run_dump)] as SDump
+    [Consulta de horarios\n(schedule.db)] as SQuery
+  }
+
+  API --> SAuth
+  API --> SCrawl
+  API --> SExtract
+  API --> SReview
+  API --> SIA
+  API --> SCfg
+  API --> SDump
+  API --> SQuery
+  SExtract ..> SIA : etapa 3 opcional
+  SExtract ..> SReview : refresh_reviewed_from_extraction
+  SIA ..> SReview : opera sobre reviewed_schedules.json
+  SDump ..> SReview : lee reviewed_schedules.json
+}
+
+package "Almacenamiento" {
+  database "PostgreSQL\n(tfg)" as PG
+  folder "Ficheros\n./downloads/*.pdf\n./extracted/*.json" as FS
+}
+
+node "Ollama\n(servicio de IA local)" as Ollama
+cloud "Sitios web\nuniversitarios" as Web
+
+' --- Dependencias entre paquetes -----------------------------------------
+Browser --> FRoutes : HTTP :5000
+FRoutes --> API : HTTP :8000 (proxy, requests)\n+ X-Internal-Key en auth/usuarios
+
+SAuth --> PG : psycopg2
+SQuery --> PG : psycopg2
+SDump --> PG : psycopg2 (transacción)
+
+SCrawl --> Web : HTTP GET
+SCrawl --> FS : guarda PDF
+SExtract --> FS : lee PDF / escribe JSON
+SReview --> FS : lee/escribe reviewed_schedules.json (atómico)
+SCfg --> FS : ai_settings.json
+
+SIA --> Ollama : POST /api/chat
+SCfg --> Ollama : GET /api/tags  (verificación)
+
+note bottom of API
+  El backend expone además OpenAPI
+  automática en /docs y /openapi.json.
+  Salvo login, registro, /account/* y
+  /users*, los endpoints NO comprueban
+  sesión (solo el proxy Flask lo hace).
+end note
+
+@enduml

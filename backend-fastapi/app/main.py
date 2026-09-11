@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Header, Depends
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
@@ -14,6 +14,7 @@ from app.extractor.pdf_extractor import ExtractorState, run_extraction
 from app.review import store as review_store
 from app.dbdump import loader as db_dump_loader
 from app.schedule import db as schedule_db
+from app.auth import users as users_service
 from app import ai_settings
 
 
@@ -77,6 +78,30 @@ class RecordStatusRequest(BaseModel):
     status: str
 
 
+class UserCreateRequest(BaseModel):
+    username: str
+    password: str
+    is_admin: bool = False
+
+
+class PasswordResetRequest(BaseModel):
+    password: str
+
+
+class RoleRequest(BaseModel):
+    is_admin: bool
+
+
+class ActiveRequest(BaseModel):
+    is_active: bool
+
+
+class ChangeOwnPasswordRequest(BaseModel):
+    user_id: int
+    current_password: str
+    new_password: str
+
+
 # =========================================================
 # BASE DE DATOS
 # =========================================================
@@ -89,6 +114,27 @@ def get_connection():
         password="postgres",
         port=5432,
     )
+
+
+# =========================================================
+# CLAVE INTERNA FRONTEND <-> BACKEND
+# =========================================================
+#
+# Los endpoints de autenticación y de gestión de usuarios solo deben
+# poder llamarse desde el propio frontend Flask, no directamente contra
+# el puerto 8000. El frontend añade la cabecera X-Internal-Key con el
+# valor de INTERNAL_API_KEY; aquí se comprueba. Si la variable no está
+# definida (ejecución local sin docker-compose) la comprobación se
+# desactiva para no romper el desarrollo.
+
+INTERNAL_API_KEY = os.environ.get("INTERNAL_API_KEY", "").strip()
+
+
+def require_internal_key(x_internal_key: Optional[str] = Header(default=None)):
+    if not INTERNAL_API_KEY:
+        return
+    if x_internal_key != INTERNAL_API_KEY:
+        raise HTTPException(status_code=401, detail="Clave interna no válida.")
 
 
 # =========================================================
@@ -278,33 +324,130 @@ def demo():
     return {"mensaje": row[0] if row else "Sin datos"}
 
 
-@app.post("/login")
+@app.post("/login", dependencies=[Depends(require_internal_key)])
 def login(data: LoginRequest):
     conn = get_connection()
-    cur = conn.cursor()
-
-    cur.execute(
-        "SELECT id, username FROM usuarios WHERE username = %s AND password = %s",
-        (data.username, data.password)
-    )
-    user = cur.fetchone()
-
-    cur.close()
-    conn.close()
+    try:
+        users_service.ensure_admin_exists(conn)
+        user = users_service.authenticate(conn, data.username, data.password)
+    except users_service.UserError as e:
+        # Contraseña correcta pero cuenta no activa (pendiente / vetada).
+        return {"success": False, "message": str(e)}
+    finally:
+        conn.close()
 
     if user:
+        return {"success": True, "user": user}
+
+    return {"success": False, "message": "Usuario o contraseña incorrectos"}
+
+
+@app.post("/register", dependencies=[Depends(require_internal_key)])
+def register(data: LoginRequest):
+    conn = get_connection()
+    try:
+        user = users_service.register_user(conn, data.username, data.password)
         return {
             "success": True,
-            "user": {
-                "id": user[0],
-                "username": user[1]
-            }
+            "message": "Cuenta creada. Un administrador debe aprobarla antes de que puedas iniciar sesión.",
+            "user": user,
         }
+    except users_service.UserError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        conn.close()
 
-    return {
-        "success": False,
-        "message": "Usuario o contraseña incorrectos"
-    }
+
+# =========================================================
+# GESTIÓN DE USUARIOS (solo frontend, vía clave interna;
+# el frontend, además, restringe estos endpoints a administradores)
+# =========================================================
+
+@app.get("/users", dependencies=[Depends(require_internal_key)])
+def users_list():
+    conn = get_connection()
+    try:
+        return users_service.list_users(conn)
+    finally:
+        conn.close()
+
+
+@app.post("/users", dependencies=[Depends(require_internal_key)])
+def users_create(data: UserCreateRequest):
+    conn = get_connection()
+    try:
+        return {"success": True, "user": users_service.create_user(
+            conn, data.username, data.password, data.is_admin
+        )}
+    except users_service.UserError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        conn.close()
+
+
+@app.put("/users/{user_id}/password", dependencies=[Depends(require_internal_key)])
+def users_set_password(user_id: int, data: PasswordResetRequest):
+    conn = get_connection()
+    try:
+        users_service.set_password(conn, user_id, data.password)
+        return {"success": True, "message": "Contraseña actualizada."}
+    except users_service.UserError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        conn.close()
+
+
+@app.put("/users/{user_id}/role", dependencies=[Depends(require_internal_key)])
+def users_set_role(user_id: int, data: RoleRequest):
+    conn = get_connection()
+    try:
+        users_service.set_role(conn, user_id, data.is_admin)
+        return {"success": True, "message": "Rol actualizado."}
+    except users_service.UserError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        conn.close()
+
+
+@app.put("/users/{user_id}/active", dependencies=[Depends(require_internal_key)])
+def users_set_active(user_id: int, data: ActiveRequest, acting_user_id: Optional[int] = None):
+    conn = get_connection()
+    try:
+        users_service.set_active(conn, user_id, data.is_active, acting_user_id)
+        return {
+            "success": True,
+            "message": "Cuenta aprobada." if data.is_active else "Cuenta vetada.",
+        }
+    except users_service.UserError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        conn.close()
+
+
+@app.delete("/users/{user_id}", dependencies=[Depends(require_internal_key)])
+def users_delete(user_id: int, acting_user_id: Optional[int] = None):
+    conn = get_connection()
+    try:
+        users_service.delete_user(conn, user_id, acting_user_id)
+        return {"success": True, "message": "Usuario eliminado."}
+    except users_service.UserError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        conn.close()
+
+
+@app.post("/account/password", dependencies=[Depends(require_internal_key)])
+def account_change_password(data: ChangeOwnPasswordRequest):
+    conn = get_connection()
+    try:
+        users_service.change_own_password(
+            conn, data.user_id, data.current_password, data.new_password
+        )
+        return {"success": True, "message": "Contraseña cambiada."}
+    except users_service.UserError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    finally:
+        conn.close()
 
 
 # =========================================================

@@ -1,0 +1,92 @@
+@startuml secuencia-gestion-usuarios
+' Flujo: users_admin.html -> routes.py (_require_admin + proxy /users*)
+'   -> main.py (/users*) -> auth.users -> PostgreSQL
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam ParticipantBackgroundColor #F4F6F8
+skinparam ActorBackgroundColor #F4F6F8
+skinparam NoteBackgroundColor #FFFDF5
+
+title Consultar usuarios (CU-14) y sus extensiones: alta (CU-15), modificar (CU-16), baja (CU-17)
+
+actor "Administrador" as A
+participant "Frontend\n(users_admin.html + routes.py)" as FE
+participant "Backend\n(main.py)" as BE
+participant "auth.users" as AU
+database "PostgreSQL (usuarios)" as DB
+
+A -> FE : abre /usuarios
+FE -> FE : _require_admin()  (sesión + is_admin)
+alt no es administrador
+    FE --> A : 302 -> / (o 403 en las llamadas AJAX)
+else
+    FE -> BE : GET /users   (X-Internal-Key)
+    BE -> AU : list_users(conn)
+    AU -> DB : SELECT id, username, is_admin, is_active, created_at ...
+    AU --> BE : lista
+    BE --> FE : JSON
+    FE --> A : tabla (usuario, rol, estado, alta, acciones)
+end
+
+group Alta de usuario
+    A -> FE : crear (username, password, is_admin)
+    FE -> BE : POST /users
+    BE -> AU : create_user(...)  (valida, comprueba duplicado, is_active=true)
+    alt datos inválidos / nombre repetido
+        BE --> FE : 400 { detail }
+    else
+        AU -> DB : INSERT ... ; COMMIT
+        BE --> FE : { success:true, user }
+    end
+end
+
+group Aprobar / vetar cuenta
+    A -> FE : Aprobar (o Vetar)
+    FE -> BE : PUT /users/{id}/active?acting_user_id=<yo> { is_active }
+    BE -> AU : set_active(conn, id, is_active, acting_user_id)
+    alt vetar tu propia cuenta
+        BE --> FE : 400 "no puedes vetar tu propia cuenta"
+    else vetar al último administrador activo
+        BE --> FE : 400 "no se puede vetar al último administrador activo"
+    else
+        AU -> DB : UPDATE usuarios SET is_active=? ; COMMIT
+        BE --> FE : { success:true }
+    end
+end
+
+group Cambiar rol
+    A -> FE : Hacer admin / Quitar admin
+    FE -> BE : PUT /users/{id}/role { is_admin }
+    BE -> AU : set_role(conn, id, is_admin)
+    alt quitar el rol al último administrador activo
+        BE --> FE : 400
+    else
+        AU -> DB : UPDATE usuarios SET is_admin=? ; COMMIT
+        BE --> FE : { success:true }
+    end
+end
+
+group Restablecer contraseña
+    A -> FE : Resetear contraseña (nueva)
+    FE -> BE : PUT /users/{id}/password { password }
+    BE -> AU : set_password(conn, id, password)  (hash pbkdf2)
+    AU -> DB : UPDATE usuarios SET password_hash=? ; COMMIT
+    BE --> FE : { success:true }
+end
+
+group Eliminar usuario
+    A -> FE : Eliminar
+    FE -> BE : DELETE /users/{id}?acting_user_id=<yo>
+    BE -> AU : delete_user(conn, id, acting_user_id)
+    alt eliminar tu propia cuenta o el último administrador activo
+        BE --> FE : 400 { detail }
+    else
+        AU -> DB : DELETE FROM usuarios WHERE id=? ; COMMIT
+        BE --> FE : { success:true }
+    end
+end
+
+@enduml

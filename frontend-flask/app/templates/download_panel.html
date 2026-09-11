@@ -27,6 +27,10 @@
                 <a class="topbar-nav-link" href="{{ url_for('main.revision') }}">Revisión manual</a>
                 <a class="topbar-nav-link" href="{{ url_for('main.volcado') }}">Volcado a BD</a>
                 <a class="topbar-nav-link" href="{{ url_for('main.ai_panel') }}">Administración IA</a>
+                {% if is_admin %}
+                <a class="topbar-nav-link" href="{{ url_for('main.users_admin') }}">Usuarios</a>
+                {% endif %}
+                <a class="topbar-nav-link" href="{{ url_for('main.account') }}">Mi cuenta</a>
                 <div class="topbar-user-badge">
                     <span>{{ user }}</span>
                 </div>

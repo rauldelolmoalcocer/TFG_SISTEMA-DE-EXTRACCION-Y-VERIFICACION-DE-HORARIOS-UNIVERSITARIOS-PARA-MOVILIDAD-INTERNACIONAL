@@ -1,0 +1,64 @@
+@startuml secuencia-inicio-sesion
+' Flujo: routes.py::login -> main.py::login -> auth/users.py::authenticate
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam ParticipantBackgroundColor #F4F6F8
+skinparam ActorBackgroundColor #F4F6F8
+skinparam NoteBackgroundColor #FFFDF5
+
+title Iniciar sesión (CU-02)
+
+actor "Visitante" as V
+participant "Frontend Flask\n(routes.py::login)" as FE
+participant "Backend FastAPI\n(main.py::login)" as BE
+participant "auth.users\n(authenticate)" as AU
+database "PostgreSQL\n(tabla usuarios)" as DB
+
+V -> FE : POST /login (username, password)
+activate FE
+FE -> BE : POST /login\nheader X-Internal-Key
+activate BE
+
+BE -> BE : require_internal_key()
+alt clave interna no válida
+    BE --> FE : 401
+    FE --> V : error de conexión
+end
+
+BE -> AU : ensure_admin_exists(conn)
+AU -> DB : SELECT count(*) FROM usuarios
+alt tabla vacía
+    AU -> DB : INSERT admin/admin (is_admin=true)
+end
+
+BE -> AU : authenticate(conn, username, password)
+activate AU
+AU -> DB : SELECT id, username, password_hash,\nis_admin, is_active WHERE username=?
+alt usuario no existe o contraseña incorrecta
+    AU --> BE : None
+    BE --> FE : { success:false, "Usuario o contraseña incorrectos" }
+    FE --> V : recarga login.html con error
+else contraseña correcta pero cuenta inactiva
+    AU --> BE : UserError("cuenta todavía no activa")
+    BE --> FE : { success:false, message }
+    FE --> V : recarga login.html con aviso de aprobación
+else credenciales válidas
+    opt contraseña antigua en claro
+        AU -> DB : UPDATE password_hash (re-hash) ; COMMIT
+    end
+    opt no hay ningún administrador activo
+        AU -> DB : UPDATE is_admin=true ; COMMIT
+    end
+    AU --> BE : { id, username, is_admin }
+    deactivate AU
+    BE --> FE : { success:true, user }
+    deactivate BE
+    FE -> FE : session["user"|"user_id"|"is_admin"]
+    FE --> V : 302 -> /
+    deactivate FE
+end
+
+@enduml

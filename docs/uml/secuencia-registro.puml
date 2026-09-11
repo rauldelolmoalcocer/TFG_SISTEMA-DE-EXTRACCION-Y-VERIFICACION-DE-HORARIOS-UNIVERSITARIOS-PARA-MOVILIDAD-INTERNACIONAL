@@ -1,0 +1,69 @@
+@startuml secuencia-registro
+' Flujo: routes.py::register_submit -> main.py::register -> auth/users.py::register_user
+' + aprobación posterior por un administrador (CU-16, <<extend>> de CU-14).
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam ParticipantBackgroundColor #F4F6F8
+skinparam ActorBackgroundColor #F4F6F8
+skinparam NoteBackgroundColor #FFFDF5
+
+title Registrarse (CU-01) y aprobación de la cuenta (CU-16, <<extend>> de CU-14)
+
+actor "Visitante" as V
+participant "Frontend Flask\n(routes.py)" as FE
+participant "Backend FastAPI\n(main.py::register)" as BE
+participant "auth.users\n(register_user)" as AU
+database "PostgreSQL\n(usuarios)" as DB
+actor "Administrador" as A
+
+V -> FE : GET /registro
+FE --> V : formulario (register.html)
+
+V -> FE : fetch POST /register (username, password)
+activate FE
+FE -> BE : POST /register\nheader X-Internal-Key
+activate BE
+BE -> AU : register_user(conn, username, password)
+activate AU
+AU -> AU : valida formato de usuario
+AU -> DB : SELECT 1 FROM usuarios WHERE username=?
+alt nombre ya existe
+    AU --> BE : UserError
+    BE --> FE : 400 { detail }
+    FE --> V : muestra el error
+else nombre libre
+    AU -> AU : valida longitud de contraseña
+    AU -> DB : INSERT (password_hash, is_admin=false, is_active=false) ; COMMIT
+    AU --> BE : { id, username, is_active:false }
+    deactivate AU
+    BE --> FE : { success:true, "pendiente de aprobación" }
+    deactivate BE
+    FE --> V : mensaje: la cuenta debe ser aprobada
+    deactivate FE
+end
+
+== Más tarde ==
+
+A -> FE : GET /usuarios  (requiere is_admin)
+FE -> BE : GET /users  (X-Internal-Key)
+BE -> DB : SELECT ... FROM usuarios
+BE --> FE : lista (cuenta con is_active=false -> "Pendiente")
+FE --> A : tabla de usuarios
+
+A -> FE : POST /users/{id}/active { is_active:true }
+FE -> BE : PUT /users/{id}/active?acting_user_id=...
+BE -> AU : set_active(conn, id, true)
+AU -> DB : UPDATE usuarios SET is_active=true ; COMMIT
+AU --> BE : ok
+BE --> FE : { success:true, "Cuenta aprobada." }
+FE --> A : fila pasa a "Activo"
+
+note over V
+  A partir de aquí el visitante ya puede
+  iniciar sesión (ver secuencia-inicio-sesion).
+end note
+
+@enduml

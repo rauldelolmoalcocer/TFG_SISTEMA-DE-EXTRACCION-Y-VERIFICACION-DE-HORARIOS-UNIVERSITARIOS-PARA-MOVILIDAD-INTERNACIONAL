@@ -1,0 +1,87 @@
+@startuml secuencia-extraccion
+' Flujo: download_panel.html (botón "Volcar a base de datos" = extracción)
+'   -> routes.py::dump_db -> main.py::start_extraction
+'   -> hilo run_extraction -> pdf_table_extractor (pipeline + llm_review)
+'   -> refresh_reviewed_from_extraction
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam ParticipantBackgroundColor #F4F6F8
+skinparam ActorBackgroundColor #F4F6F8
+skinparam NoteBackgroundColor #FFFDF5
+
+title Extraer y normalizar los horarios de los PDF (CU-07); etapa de IA opcional
+
+actor "Usuario" as U
+participant "Frontend\n(download_panel.html)" as FE
+participant "Backend\n(main.py)" as BE
+participant "Hilo de extracción\n(run_extraction)" as TH
+participant "pdfplumber\n(analyze_pdf)" as PLB
+participant "Normalizador\n(run_normalization)" as NRM
+participant "llm_review\n(review_entries)" as IA
+participant "Ollama" as OL
+database "./extracted\n(JSON)" as FS
+
+U -> FE : Iniciar extracción (casilla "revisar con IA")
+FE -> BE : POST /extract/start { enable_llm_review }
+activate BE
+alt ya hay una extracción en curso o no hay PDF
+    BE --> FE : { success:false, message }
+else ok
+    BE -> TH : Thread(daemon).start(DOWNLOAD_FOLDER, EXTRACT_FOLDER,\nstate, enable_llm_review, host, model)
+    BE --> FE : { success:true }
+    deactivate BE
+end
+
+activate TH
+loop por cada PDF de ./downloads
+    TH -> PLB : analyze_pdf(pdf)  (metadatos, palabras, tablas)
+    PLB --> TH : PdfAnalysis
+    TH -> FS : write_pdf_outputs()  (diagnostic.json, ...)
+    TH -> TH : processed_files++
+end
+TH -> NRM : run_normalization(EXTRACT_FOLDER)
+NRM -> FS : all_schedules.json + skipped_tables.json
+NRM --> TH : (entries, skipped)
+
+opt Revisión mediante IA activada  (enable_llm_review = true)
+    TH -> IA : review_entries(entries, host, model)
+    loop por lotes de entradas con warnings
+        IA -> OL : POST /api/chat  (celda + candidatos)
+        alt respuesta JSON válida
+            OL --> IA : { reviews: [...] }
+        else respuesta inválida
+            IA -> OL : reintento con el error realimentado
+            OL --> IA : respuesta
+        else timeout / error
+            IA -> IA : deja el lote sin tocar (se registra)
+        end
+    end
+    IA --> TH : entradas resueltas / separadas
+    TH -> FS : all_schedules_reviewed.json
+end
+
+TH -> FS : extraction_run.json (manifiesto:\npdfs_found/processed/failed)
+TH -> TH : refresh_reviewed_from_extraction()
+note right of TH
+  Por cada registro calcula el estado:
+  · multiple_entries_suspected -> INVALID
+  · con warnings                -> WARNING
+  · en caso contrario           -> VALID
+  (tablas omitidas -> INVALID)
+  La versión previa de reviewed_schedules.json
+  se renombra a *.bak.json, no se borra.
+end note
+TH -> FS : reviewed_schedules.json (copia revisable)
+deactivate TH
+
+loop cada ~1,5 s
+    FE -> BE : GET /extract/status
+    BE --> FE : { running, processed/total, %, current_file, logs }
+end
+FE -> BE : GET /review/summary   (al terminar: modal de resumen)
+BE --> FE : recuentos VALID / WARNING / INVALID / omitidas
+
+@enduml

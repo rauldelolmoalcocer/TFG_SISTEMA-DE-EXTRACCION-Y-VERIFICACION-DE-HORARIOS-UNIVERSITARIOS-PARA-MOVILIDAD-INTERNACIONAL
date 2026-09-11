@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi cuenta | Universidad de Alcalá</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='users_admin.css') }}">
+</head>
+
+<body>
+
+    <header class="topbar">
+        <div class="topbar-inner">
+            <a class="topbar-brand" href="{{ url_for('main.index') }}">
+                <img src="{{ url_for('static', filename='img/logo-UniversidadAlcala.png') }}"
+                    alt="Universidad de Alcalá">
+            </a>
+            <span class="topbar-title">Mi cuenta · Movilidad Internacional</span>
+            <div class="topbar-user">
+                <a class="topbar-nav-link" href="{{ url_for('main.index') }}">Inicio</a>
+                {% if is_admin %}
+                <a class="topbar-nav-link" href="{{ url_for('main.users_admin') }}">Gestión de usuarios</a>
+                {% endif %}
+                <a class="topbar-nav-link" href="{{ url_for('main.logout') }}">Cerrar sesión</a>
+                <div class="topbar-user-badge"><span>{{ user }}</span></div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <div class="page-head">
+            <h1>Mi cuenta</h1>
+            <p>Sesión iniciada como <strong>{{ user }}</strong>{% if is_admin %} · administrador{% endif %}.</p>
+        </div>
+
+        <div class="card" style="max-width:460px">
+            <div class="card-label">Cambiar mi contraseña</div>
+            <form id="pwdForm" style="display:flex;flex-direction:column;gap:12px">
+                <div class="field">
+                    <label for="currentPwd">Contraseña actual</label>
+                    <input type="password" id="currentPwd" autocomplete="current-password">
+                </div>
+                <div class="field">
+                    <label for="newPwd">Nueva contraseña</label>
+                    <input type="password" id="newPwd" autocomplete="new-password" placeholder="mínimo 4 caracteres">
+                </div>
+                <div class="field">
+                    <label for="repeatPwd">Repetir nueva contraseña</label>
+                    <input type="password" id="repeatPwd" autocomplete="new-password">
+                </div>
+                <button type="submit" class="btn-primary" id="pwdBtn">Cambiar contraseña</button>
+            </form>
+            <p class="feedback" id="pwdFeedback"></p>
+        </div>
+
+    </main>
+
+    <script>
+        const pwdForm     = document.getElementById("pwdForm");
+        const pwdBtn      = document.getElementById("pwdBtn");
+        const currentPwd  = document.getElementById("currentPwd");
+        const newPwd      = document.getElementById("newPwd");
+        const repeatPwd   = document.getElementById("repeatPwd");
+        const pwdFeedback = document.getElementById("pwdFeedback");
+
+        function setFeedback(msg, ok) {
+            pwdFeedback.textContent = msg || "";
+            pwdFeedback.className = "feedback " + (ok ? "ok" : "err");
+        }
+
+        pwdForm.addEventListener("submit", async (ev) => {
+            ev.preventDefault();
+
+            if (newPwd.value !== repeatPwd.value) {
+                setFeedback("La nueva contraseña y su repetición no coinciden.", false);
+                return;
+            }
+
+            pwdBtn.disabled = true;
+            setFeedback("Guardando…", true);
+            try {
+                const res = await fetch("/account-password", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        current_password: currentPwd.value,
+                        new_password: newPwd.value,
+                    }),
+                });
+                const data = await res.json();
+                if (res.ok && data.success) {
+                    setFeedback("Contraseña cambiada correctamente.", true);
+                    pwdForm.reset();
+                } else {
+                    setFeedback(data.detail || data.message || "No se pudo cambiar.", false);
+                }
+            } catch (e) {
+                setFeedback("Error de conexión.", false);
+            } finally {
+                pwdBtn.disabled = false;
+            }
+        });
+    </script>
+
+</body>
+
+</html>

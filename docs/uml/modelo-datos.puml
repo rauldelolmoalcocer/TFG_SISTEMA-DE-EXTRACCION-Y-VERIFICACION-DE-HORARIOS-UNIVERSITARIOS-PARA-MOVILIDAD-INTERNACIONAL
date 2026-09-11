@@ -1,0 +1,212 @@
+@startuml modelo-datos
+' ============================================================================
+'  Modelo de datos (entidad-relación) - PostgreSQL
+'  Reconstruido de: db/createdatabase.sql
+'                 + db/003_usuarios_auth.sql + db/004_usuarios_is_active.sql
+'
+'  Pata de gallo:  ||  uno y solo uno    |o  cero o uno
+'                  }o  cero o muchos     }|  uno o muchos
+'  Todas las FK del esquema de horarios son ON DELETE SET NULL, salvo
+'  study_plans.degree_id y las de class_session_rooms / extraction_metadata /
+'  extraction_issues hacia class_sessions, que son ON DELETE CASCADE.
+' ============================================================================
+
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam linetype ortho
+hide circle
+skinparam class {
+  BackgroundColor #F4F6F8
+  BorderColor #333333
+}
+
+' --- Catálogo académico ---------------------------------------------------
+entity universities {
+  * id : uuid <<PK>>
+  --
+  * name : text
+  acronym : varchar(50)
+  country : varchar(100)
+  * created_at : timestamp
+}
+entity degrees {
+  * id : uuid <<PK>>
+  --
+  university_id : uuid <<FK>>
+  official_code : varchar(100)
+  * name : text
+  degree_type : varchar(50)
+  * created_at : timestamp
+}
+entity study_plans {
+  * id : uuid <<PK>>
+  --
+  * degree_id : uuid <<FK>>
+  official_code : varchar(100)
+  name : text
+  start_year : integer
+  end_year : integer
+  * created_at : timestamp
+}
+entity subjects {
+  * id : uuid <<PK>>
+  --
+  degree_id : uuid <<FK>>
+  study_plan_id : uuid <<FK>>
+  official_code : varchar(100)
+  name : text
+  normalized_name : text
+  ects : numeric(4,1)
+  course : integer
+  semester : integer
+  subject_type : varchar(50)
+  language : varchar(100)
+  * status : varchar(30) = 'UNRESOLVED'
+  * created_at : timestamp
+  * updated_at : timestamp
+}
+entity academic_years {
+  * id : uuid <<PK>>
+  --
+  * name : varchar(20) <<unique>>
+  start_year : integer
+  end_year : integer
+}
+entity groups {
+  * id : uuid <<PK>>
+  --
+  degree_id : uuid <<FK>>
+  academic_year_id : uuid <<FK>>
+  name : varchar(100)
+  course : integer
+  semester : integer
+  * created_at : timestamp
+}
+entity rooms {
+  * id : uuid <<PK>>
+  --
+  university_id : uuid <<FK>>
+  code : varchar(100)
+  name : text
+  building : text
+  campus : text
+}
+entity sources {
+  * id : uuid <<PK>>
+  --
+  university_id : uuid <<FK>>
+  * file_name : text
+  file_hash : text
+  source_url : text
+  academic_year_id : uuid <<FK>>
+  generated_at : timestamp
+  * imported_at : timestamp
+}
+
+' --- Horario extraído ---------------------------------------------------
+entity class_sessions {
+  * id : uuid <<PK>>
+  --
+  subject_id : uuid <<FK>>
+  degree_id : uuid <<FK>>
+  group_id : uuid <<FK>>
+  academic_year_id : uuid <<FK>>
+  subject_name_raw : text
+  group_name_raw : text
+  room_raw : text
+  day_of_week : varchar(20)
+  time_start : time
+  time_end : time
+  semester : integer
+  class_type : varchar(50)
+  * status : varchar(30) = 'UNRESOLVED'
+  confidence : numeric(5,4)
+  * multiple_entries_suspected : boolean = false
+  * created_at : timestamp
+  * updated_at : timestamp
+}
+entity class_session_rooms {
+  * class_session_id : uuid <<PK>> <<FK>>
+  * room_id : uuid <<PK>> <<FK>>
+}
+entity extraction_metadata {
+  * id : uuid <<PK>>
+  --
+  * class_session_id : uuid <<FK>>
+  source_id : uuid <<FK>>
+  page : integer
+  raw_text : text
+  extraction_strategy : varchar(100)
+  table_index : integer
+  row_start : integer
+  row_end : integer
+  time_start_raw : text
+  time_end_raw : text
+  * llm_reviewed : boolean = false
+  llm_confidence : numeric(5,4)
+  llm_note : text
+  * created_at : timestamp
+}
+entity extraction_issues {
+  * id : uuid <<PK>>
+  --
+  * class_session_id : uuid <<FK>>
+  severity : varchar(20)
+  issue_code : varchar(100)
+  * message : text
+  * created_at : timestamp
+}
+
+' --- Autenticación (sin relación con el modelo de horarios) --------------
+entity usuarios {
+  * id : serial <<PK>>
+  --
+  * username : varchar(50) <<unique>>
+  * password_hash : text
+  * is_admin : boolean = false
+  * is_active : boolean = true
+  * created_at : timestamp
+}
+entity demo <<heredada / sin uso>> {
+  * id : serial <<PK>>
+  --
+  * mensaje : text
+}
+
+' --- Relaciones ---------------------------------------------------------
+universities   ||--o{ degrees             : university_id
+universities   ||--o{ rooms               : university_id
+universities   ||--o{ sources             : university_id
+degrees        ||--|{ study_plans         : degree_id (CASCADE)
+degrees        ||--o{ subjects            : degree_id
+degrees        ||--o{ groups              : degree_id
+degrees        ||--o{ class_sessions      : degree_id
+study_plans    ||--o{ subjects            : study_plan_id
+academic_years ||--o{ groups              : academic_year_id
+academic_years ||--o{ sources             : academic_year_id
+academic_years ||--o{ class_sessions      : academic_year_id
+subjects       ||--o{ class_sessions      : subject_id
+groups         ||--o{ class_sessions      : group_id
+class_sessions ||--|{ extraction_metadata : class_session_id (CASCADE)
+class_sessions ||--o{ extraction_issues   : class_session_id (CASCADE)
+sources        ||--o{ extraction_metadata : source_id
+class_sessions ||--o{ class_session_rooms : class_session_id (CASCADE)
+rooms          ||--o{ class_session_rooms : room_id (CASCADE)
+
+note bottom of class_sessions
+  Se conserva SIEMPRE el texto original
+  (subject_name_raw / group_name_raw / room_raw)
+  además del enlace por FK, que puede ser NULL
+  si la extracción no identificó la asignatura,
+  la titulación o el grupo.
+end note
+
+note bottom of usuarios
+  Tabla creada fuera de createdatabase.sql y
+  migrada por db/003 y db/004. El volcado
+  (dbdump/loader.py) NUNCA la toca.
+end note
+
+@enduml

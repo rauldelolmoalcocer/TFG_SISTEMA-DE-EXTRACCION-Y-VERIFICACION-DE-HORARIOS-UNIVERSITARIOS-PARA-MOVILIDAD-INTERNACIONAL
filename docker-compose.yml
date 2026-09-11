@@ -6,6 +6,9 @@ services:
       - "5000:5000"
     depends_on:
       - backend
+    environment:
+      # Debe coincidir con el del backend. Cambiar por un valor propio.
+      - INTERNAL_API_KEY=tfg-internal-key-cambiar
 
   backend:
     build: ./backend-fastapi
@@ -17,6 +20,8 @@ services:
     environment:
       - ENABLE_LLM_REVIEW=false
       - OLLAMA_HOST=http://host.docker.internal:11434
+      # Debe coincidir con el del frontend. Cambiar por un valor propio.
+      - INTERNAL_API_KEY=tfg-internal-key-cambiar
     extra_hosts:
       - "host.docker.internal:host-gateway"
     volumes:

@@ -1,0 +1,61 @@
+@startuml secuencia-consulta-horarios
+' Flujo: horarios.html/horarios.js -> routes.py (/schedule-*)
+'   -> main.py (/schedule/degrees, /schedule/subjects) -> schedule.db -> PostgreSQL
+' La detección de solapes es 100% en el navegador (horarios.js).
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam ParticipantBackgroundColor #F4F6F8
+skinparam ActorBackgroundColor #F4F6F8
+skinparam NoteBackgroundColor #FFFDF5
+
+title Consultar horarios (CU-12) + Construir el horario (CU-12X) + Detectar solapamientos (CU-13)
+
+actor "Usuario" as U
+participant "Frontend / JavaScript\n(horarios.js)" as JS
+participant "Backend\n(main.py)" as BE
+participant "schedule.db" as SD
+database "PostgreSQL (tfg)" as DB
+
+U -> JS : abre /horarios
+JS -> BE : GET /schedule/degrees
+BE -> SD : list_degrees(get_connection)
+SD -> DB : SELECT d.id, d.name, count(cs.id)\nFROM degrees d LEFT JOIN class_sessions cs ... GROUP BY
+SD --> BE : titulaciones con al menos 1 sesión
+alt error de BD
+    BE --> JS : 503 { detail }
+else sin datos volcados
+    BE --> JS : 404 { detail }
+    JS --> U : "ejecuta el volcado primero"
+else ok
+    BE --> JS : [ { id, name, session_count } ]
+    JS --> U : selector de titulación
+end
+
+U -> JS : elige titulación / busca asignatura
+JS -> BE : GET /schedule/subjects?degree_id=...
+BE -> SD : list_subjects(get_connection, degree_id)
+SD -> DB : SELECT ... FROM class_sessions\nLEFT JOIN subjects/degrees/groups/rooms ... GROUP BY
+SD -> SD : condensa por (asignatura + grupo);\nsesiones sin día/hora -> unscheduled_count
+SD --> BE : [ { id, name, group, sessions[], unscheduled_count } ]
+BE --> JS : JSON
+JS --> U : lista de asignatura+grupo
+
+U -> JS : añade asignaturas al horario semanal
+JS -> JS : renderSchedule()  (rejilla Lun-Vie, franjas horarias)
+
+opt hay asignaturas seleccionadas cuyo día y franja coinciden  (CU-13)
+    JS -> JS : getConflictPairs()  (comparación de minutos, en el cliente)
+    JS -> JS : renderConflicts() + leyenda
+    JS --> U : lista de solapes (día, hora, asignaturas implicadas)
+end
+
+note over JS, BE
+  No existe ningún endpoint de solapes:
+  la detección ocurre íntegramente en
+  static/horarios.js.
+end note
+
+@enduml

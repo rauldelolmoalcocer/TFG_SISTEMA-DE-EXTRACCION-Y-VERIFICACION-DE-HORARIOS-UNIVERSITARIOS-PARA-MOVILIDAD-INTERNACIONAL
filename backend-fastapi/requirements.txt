@@ -4,4 +4,5 @@ psycopg2-binary
 requests
 beautifulsoup4
 pymupdf
+werkzeug
 -e ./app/extractor/pdf_table_extractor[llm]

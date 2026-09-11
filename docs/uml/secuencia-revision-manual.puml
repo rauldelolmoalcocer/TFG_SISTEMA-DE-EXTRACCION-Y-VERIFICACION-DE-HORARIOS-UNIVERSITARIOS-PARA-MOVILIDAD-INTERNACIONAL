@@ -1,0 +1,82 @@
+@startuml secuencia-revision-manual
+' Flujo: review.html/review.js -> routes.py (/review-*) -> main.py (/review/*)
+'   -> review.store (apply_edit / set_status / restore_item / duplicate_item)
+' Todo opera sobre reviewed_schedules.json; all_schedules.json NO se toca.
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam ParticipantBackgroundColor #F4F6F8
+skinparam ActorBackgroundColor #F4F6F8
+skinparam NoteBackgroundColor #FFFDF5
+
+title Consultar y revisar (CU-08) + Corregir un registro extraído (CU-08X, <<extend>>)
+
+actor "Usuario" as U
+participant "Frontend\n(review.js)" as FE
+participant "Backend\n(main.py)" as BE
+participant "review.store" as RS
+database "reviewed_schedules.json" as FS
+
+== Carga de la pantalla ==
+U -> FE : abre /revision
+FE -> BE : GET /review/summary
+FE -> BE : GET /review/filters
+FE -> BE : GET /review/tree?<filtros>
+FE -> BE : GET /review/records?page&page_size&<filtros>
+BE -> RS : apply_filters + sort_items + paginate
+RS -> FS : lee (o reconstruye si no existe)
+RS --> BE : items de la página + totales
+BE --> FE : JSON
+FE --> U : árbol + tabla paginada + resumen
+
+== Detalle de un registro ==
+U -> FE : selecciona un registro
+FE -> BE : GET /review/records/{id}
+BE -> RS : find_item(id)
+alt no existe
+    BE --> FE : 404
+else
+    BE --> FE : item (current + original + source + extraction)
+    FE --> U : formulario de edición
+end
+
+== Edición ==
+U -> FE : guarda cambios
+FE -> BE : PUT /review/records/{id} { campos }
+activate BE
+BE -> RS : review_lock ; apply_edit(item, payload)
+activate RS
+RS -> RS : valida el payload
+alt payload inválido
+    RS --> BE : ReviewError
+    BE --> FE : 400 { detail }
+else válido
+    RS -> RS : current = payload ;\nmanually_modified = (current != original) ;\nreviewed = true ;\nrecalcula estado (VALID/WARNING/INVALID)
+    RS -> FS : escritura atómica (tmp + os.replace)
+    RS --> BE : item actualizado
+    deactivate RS
+    BE --> FE : { success:true, item }
+    deactivate BE
+    FE --> U : fila actualizada
+end
+
+== Otras acciones sobre un registro ==
+opt marcar estado
+    U -> FE : Marcar como VALID/WARNING/INVALID
+    FE -> BE : POST /review/records/{id}/status { status }
+    BE -> RS : set_status ; save (atómico)
+end
+opt restaurar al original
+    U -> FE : Restaurar
+    FE -> BE : POST /review/records/{id}/restore
+    BE -> RS : restore_item (current = copia de original)
+end
+opt separar en dos (celda con varias asignaturas)
+    U -> FE : Duplicar
+    FE -> BE : POST /review/records/{id}/duplicate
+    BE -> RS : duplicate_item (nuevo item origin="manual",\nmisma trazabilidad de source/extraction)
+end
+
+@enduml

@@ -1,9 +1,38 @@
 from flask import Blueprint, render_template, request, redirect, url_for, session, jsonify, Response
+import os
 import requests
 
 bp = Blueprint("main", __name__)
 
 BACKEND_URL = "http://backend:8000"
+
+# Cabecera que autoriza al frontend a llamar a los endpoints internos del
+# backend (login y gestión de usuarios). Debe coincidir con INTERNAL_API_KEY
+# del backend (ver docker-compose.yml).
+INTERNAL_API_KEY = os.environ.get("INTERNAL_API_KEY", "")
+
+
+def _internal_headers():
+    return {"X-Internal-Key": INTERNAL_API_KEY} if INTERNAL_API_KEY else {}
+
+
+# En cada plantilla quedan disponibles `current_user` (nombre) y `is_admin`.
+@bp.app_context_processor
+def inject_user():
+    return {
+        "current_user": session.get("user"),
+        "is_admin": bool(session.get("is_admin")),
+    }
+
+
+def _require_admin():
+    """Devuelve None si el usuario en sesión es administrador; si no,
+    una respuesta 401/403 lista para devolver."""
+    if "user" not in session:
+        return jsonify({"success": False, "message": "Sesión no válida"}), 401
+    if not session.get("is_admin"):
+        return jsonify({"success": False, "message": "Se requiere rol de administrador"}), 403
+    return None
 
 
 # =========================================================
@@ -37,13 +66,17 @@ def login():
                     "username": username,
                     "password": password
                 },
+                headers=_internal_headers(),
                 timeout=5
             )
 
             data = res.json()
 
             if data.get("success"):
-                session["user"] = data["user"]["username"]
+                user = data["user"]
+                session["user"] = user["username"]
+                session["user_id"] = user["id"]
+                session["is_admin"] = bool(user.get("is_admin"))
                 return redirect(url_for("main.index"))
             else:
                 error = data.get("message", "Credenciales incorrectas")
@@ -105,6 +138,31 @@ def volcado():
         return redirect(url_for("main.login"))
 
     return render_template("db_dump.html", user=session["user"])
+
+
+@bp.route("/usuarios")
+def users_admin():
+    if "user" not in session:
+        return redirect(url_for("main.login"))
+    if not session.get("is_admin"):
+        return redirect(url_for("main.index"))
+
+    return render_template("users_admin.html", user=session["user"])
+
+
+@bp.route("/cuenta")
+def account():
+    if "user" not in session:
+        return redirect(url_for("main.login"))
+
+    return render_template("account.html", user=session["user"])
+
+
+@bp.route("/registro")
+def register_page():
+    if "user" in session:
+        return redirect(url_for("main.index"))
+    return render_template("register.html")
 
 
 # =========================================================
@@ -598,3 +656,148 @@ def schedule_subjects():
         return jsonify(response.json()), response.status_code
     except Exception:
         return jsonify({"detail": "No se pudo conectar con el backend"}), 502
+
+
+# =========================================================
+# GESTIÓN DE USUARIOS (PROXY HACIA FASTAPI)
+# =========================================================
+#
+# El backend exige la cabecera X-Internal-Key; aquí, además, se restringe
+# a administradores por sesión (_require_admin), salvo el cambio de la
+# contraseña propia, que solo exige sesión.
+
+@bp.route("/users-list", methods=["GET"])
+def users_list():
+    forbidden = _require_admin()
+    if forbidden:
+        return forbidden
+    try:
+        r = requests.get(f"{BACKEND_URL}/users", headers=_internal_headers(), timeout=15)
+        return jsonify(r.json()), r.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 502
+
+
+@bp.route("/users-create", methods=["POST"])
+def users_create():
+    forbidden = _require_admin()
+    if forbidden:
+        return forbidden
+    try:
+        r = requests.post(
+            f"{BACKEND_URL}/users",
+            json=request.get_json(silent=True) or {},
+            headers=_internal_headers(),
+            timeout=15,
+        )
+        return jsonify(r.json()), r.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 502
+
+
+@bp.route("/register", methods=["POST"])
+def register_submit():
+    # Registro público: no requiere sesión.
+    try:
+        r = requests.post(
+            f"{BACKEND_URL}/register",
+            json=request.get_json(silent=True) or {},
+            headers=_internal_headers(),
+            timeout=15,
+        )
+        return jsonify(r.json()), r.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 502
+
+
+@bp.route("/users/<int:user_id>/active", methods=["POST"])
+def users_set_active(user_id):
+    forbidden = _require_admin()
+    if forbidden:
+        return forbidden
+    try:
+        r = requests.put(
+            f"{BACKEND_URL}/users/{user_id}/active",
+            json=request.get_json(silent=True) or {},
+            params={"acting_user_id": session.get("user_id")},
+            headers=_internal_headers(),
+            timeout=15,
+        )
+        return jsonify(r.json()), r.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 502
+
+
+@bp.route("/users/<int:user_id>/password", methods=["POST"])
+def users_set_password(user_id):
+    forbidden = _require_admin()
+    if forbidden:
+        return forbidden
+    try:
+        r = requests.put(
+            f"{BACKEND_URL}/users/{user_id}/password",
+            json=request.get_json(silent=True) or {},
+            headers=_internal_headers(),
+            timeout=15,
+        )
+        return jsonify(r.json()), r.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 502
+
+
+@bp.route("/users/<int:user_id>/role", methods=["POST"])
+def users_set_role(user_id):
+    forbidden = _require_admin()
+    if forbidden:
+        return forbidden
+    try:
+        r = requests.put(
+            f"{BACKEND_URL}/users/{user_id}/role",
+            json=request.get_json(silent=True) or {},
+            headers=_internal_headers(),
+            timeout=15,
+        )
+        return jsonify(r.json()), r.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 502
+
+
+@bp.route("/users/<int:user_id>/delete", methods=["POST"])
+def users_delete(user_id):
+    forbidden = _require_admin()
+    if forbidden:
+        return forbidden
+    try:
+        r = requests.delete(
+            f"{BACKEND_URL}/users/{user_id}",
+            params={"acting_user_id": session.get("user_id")},
+            headers=_internal_headers(),
+            timeout=15,
+        )
+        return jsonify(r.json()), r.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 502
+
+
+@bp.route("/account-password", methods=["POST"])
+def account_password():
+    unauthorized = _require_session()
+    if unauthorized:
+        return unauthorized
+
+    body = request.get_json(silent=True) or {}
+    payload = {
+        "user_id": session.get("user_id"),
+        "current_password": body.get("current_password", ""),
+        "new_password": body.get("new_password", ""),
+    }
+    try:
+        r = requests.post(
+            f"{BACKEND_URL}/account/password",
+            json=payload,
+            headers=_internal_headers(),
+            timeout=15,
+        )
+        return jsonify(r.json()), r.status_code
+    except Exception:
+        return jsonify({"success": False, "message": "No se pudo conectar con el backend"}), 502

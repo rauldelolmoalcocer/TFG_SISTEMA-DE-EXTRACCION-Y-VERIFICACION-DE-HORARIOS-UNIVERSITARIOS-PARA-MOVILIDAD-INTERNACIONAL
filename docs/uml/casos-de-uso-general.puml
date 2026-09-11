@@ -1,0 +1,141 @@
+@startuml casos-de-uso-general
+' ============================================================================
+'  Diagrama de casos de uso - Sistema de Extracción y Verificación de
+'  Horarios Universitarios para Movilidad Internacional
+'
+'  Reconstruido por ingeniería inversa del código:
+'    frontend-flask/app/routes.py + templates + static/*.js
+'    backend-fastapi/app/main.py + crawler + extractor + review + dbdump
+'                                 + schedule + auth + ai_settings
+'    db/createdatabase.sql + db/003_usuarios_auth.sql + db/004_usuarios_is_active.sql
+'
+'  Ver docs/uml/analisis_uml.md y docs/uml/auditoria-acciones-ui.md para la
+'  justificación de cada CU y relación.
+'  PostgreSQL NO es actor (infraestructura -> diagrama de despliegue).
+'
+'  Criterio de <<extend>> aplicado de forma sistemática: una extensión solo
+'  se dibuja cuando (a) la acción es CONDICIONAL (depende de qué botón pulsa
+'  el actor, no siempre ocurre) y (b) el caso base es un objetivo COMPLETO
+'  por sí solo, sin la extensión. Se ha aplicado el mismo criterio en las
+'  tres zonas de la aplicación donde aparece (revisión, horarios, usuarios).
+' ============================================================================
+
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam actorStyle awesome
+skinparam usecase {
+  BackgroundColor #F4F6F8
+  BorderColor #333333
+}
+left to right direction
+
+actor "Visitante\n(sin sesión)" as Visitante
+actor "Usuario\n(autenticado)" as Usuario
+actor "Administrador" as Admin
+actor "Fuente web\nde horarios" as Fuente
+actor "Servicio de IA local\n(Ollama)" as Ollama
+
+Admin --|> Usuario
+
+rectangle "Sistema de Extracción y Verificación de Horarios" {
+
+  usecase "Registrarse" as CU01
+  usecase "Iniciar sesión" as CU02
+  usecase "Cerrar sesión" as CU03
+  usecase "Cambiar mi contraseña" as CU04
+
+  usecase "Descargar horarios\ndesde una fuente web" as CU05
+  usecase "Consultar documentos\ndescargados" as CU06
+  usecase "Extraer y normalizar\nlos horarios de los PDF" as CU07
+
+  usecase "Consultar y revisar\nlos horarios extraídos" as CU08
+  usecase "Corregir un registro\nextraído" as CU08X
+  usecase "Resolver con IA las\nasignaturas mezcladas" as CU09
+  usecase "Configurar y verificar\nel servicio de IA" as CU10
+  usecase "Volcar los horarios revisados\na la base de datos" as CU11
+
+  usecase "Consultar horarios" as CU12
+  usecase "Construir el horario\nsemanal" as CU12X
+  usecase "Detectar solapamientos" as CU13
+
+  usecase "Consultar usuarios" as CU14
+  usecase "Dar de alta un usuario" as CU15
+  usecase "Modificar un usuario\n(rol, contraseña,\naprobación / veto)" as CU16
+  usecase "Dar de baja un usuario" as CU17
+}
+
+' --- Asociaciones actor - caso de uso (solo a las BASES) -----------------
+Visitante --> CU01
+Visitante --> CU02
+
+Usuario --> CU03
+Usuario --> CU04
+Usuario --> CU05
+Usuario --> CU06
+Usuario --> CU07
+Usuario --> CU08
+Usuario --> CU10
+Usuario --> CU11
+Usuario --> CU12
+
+Admin --> CU14
+
+CU05 --> Fuente
+CU09 --> Ollama
+CU10 --> Ollama
+
+' --- <<extend>> ------------------------------------------------------------
+' Cada extensión se dibuja SOLO donde la acción es opcional/condicional
+' (depende de qué botón se pulsa) y el caso base es completo sin ella.
+
+CU08X ..> CU08 : <<extend>>\n(el usuario elige un\nregistro para corregirlo)
+CU09  ..> CU08X : <<extend>>\n(pide ayuda a la IA\npara ese registro)
+CU09  ..> CU07  : <<extend>>\n(revisión con IA\nactivada en la extracción)
+
+CU12X ..> CU12  : <<extend>>\n(el usuario añade una\nasignatura al horario)
+CU13  ..> CU12X : <<extend>>\n(las asignaturas añadidas\ncoinciden en horario)
+
+CU15 ..> CU14 : <<extend>>\n(el administrador pulsa\n"Crear usuario")
+CU16 ..> CU14 : <<extend>>\n(el administrador actúa\nsobre un usuario existente)
+CU17 ..> CU14 : <<extend>>\n(el administrador pulsa\n"Eliminar")
+
+' --- Notas -----------------------------------------------------------------
+note bottom of CU01
+  La cuenta creada queda INACTIVA;
+  se aprueba con CU16 (Modificar un
+  usuario -> aprobación / veto).
+end note
+
+note right of CU02
+  "Registrarse" e "Iniciar sesión" no
+  requieren sesión previa. El resto de
+  casos de uso sí (precondición).
+end note
+
+note bottom of CU13
+  Detección 100% en el cliente
+  (static/horarios.js); no hay
+  endpoint de solapes.
+end note
+
+note bottom of CU16
+  Aprobar y vetar son la MISMA
+  operación (PUT /users/{id}/active
+  con el booleano invertido), igual que
+  cambiar el rol o resetear la
+  contraseña: las tres son "Modificar
+  un usuario", no CU distintos.
+end note
+
+note bottom of CU08X
+  Editar, marcar estado, restaurar y
+  duplicar son flujos alternativos
+  DENTRO de esta misma extensión
+  (todas son formas de "corregir"),
+  no casos de uso separados.
+end note
+
+@enduml

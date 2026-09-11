@@ -1,0 +1,314 @@
+@startuml clases
+' ============================================================================
+'  Diagrama de clases - SOLO las partes del proyecto orientadas a objetos
+'  (dataclasses, modelos Pydantic, el crawler y las excepciones de dominio).
+'  Reconstruido de:
+'    backend-fastapi/app/crawler/crawler.py
+'    backend-fastapi/app/extractor/pdf_extractor.py
+'    backend-fastapi/app/dbdump/loader.py
+'    backend-fastapi/app/main.py  (modelos de petición Pydantic)
+'    backend-fastapi/app/extractor/pdf_table_extractor/.../models/*.py,
+'      diagnostics/analyzer.py, llm_review.py
+'
+'  El resto de la lógica del backend vive en MÓDULOS de funciones sin estado
+'  (review.store, schedule.db, auth.users, ai_settings, dbdump.loader,
+'  pdf_extractor, pdf_table_extractor.pipeline): eso está en el diagrama de
+'  COMPONENTES. Se listan al final como referencia.
+' ============================================================================
+
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam linetype ortho
+hide empty members
+skinparam class {
+  BackgroundColor #F4F6F8
+  BorderColor #333333
+}
+
+package "crawler  (crawler.py)" {
+  class CrawlerConfig <<dataclass>> {
+    + start_url : str
+    + download_folder : str
+    + max_depth : int = 0
+    + max_pages : int = 1
+    + max_download_workers : int = 4
+    + request_timeout : int = 15
+    + delay_between_requests : float = 0.5
+    + same_domain_only : bool = True
+    + verify_ssl : bool = True
+    + overwrite_files : bool = False
+  }
+  class CrawlerState <<dataclass>> {
+    + running : bool
+    + visited_pages : set
+    + discovered_pdfs : set
+    + downloaded_urls : set
+    + content_hashes : set
+    + saved_filepaths : list
+    + errors : list
+    + logs : list
+    + total_pages_crawled : int
+    + total_pdfs_found : int
+    + total_pdfs_downloaded : int
+    + lock : Lock
+    + pause_event : Event
+    --
+    + add_log(message)
+    + add_error(message)
+  }
+  class PdfCrawler {
+    - config : CrawlerConfig
+    - state : CrawlerState
+    - session : requests.Session
+    - base_domain : str
+    - page_queue : Queue
+    --
+    + run()
+    + fetch_url(url)
+    + extract_links(html, base_url)
+    + normalize_url(url)
+    + should_skip_url(url)
+    + is_pdf_url(url)
+    + build_safe_filename(url)
+    + ensure_unique_filepath(filepath)
+    + download_pdf(pdf_url, existing_response)
+    - _index_existing_files()
+  }
+  PdfCrawler *-- CrawlerConfig : config
+  PdfCrawler *-- CrawlerState  : state
+}
+
+package "Estado de procesos largos" {
+  note as N_estado
+    Tres clases con forma paralela (running + logs + errors
+    + progreso) pero SIN clase base común en el código.
+    Cada endpoint /*/status devuelve una de estas.
+  end note
+  class ExtractorState <<dataclass>> {
+    + running : bool
+    + logs : list
+    + errors : list
+    + total_files : int
+    + processed_files : int
+    + current_file : str
+    + output_files : list
+    + lock : Lock
+    --
+    + add_log(message)
+    + add_error(message)
+    + progress_percent : int  <<property>>
+  }
+  class DumpState {
+    + running : bool
+    + total : int
+    + processed : int
+    + logs : list
+    + errors : list
+    + finished_at : str
+    + counts : dict
+    + cancel_requested : bool
+    + lock : Lock
+    --
+    + add_log(msg)
+    + add_error(msg)
+    + progress_percent : int  <<property>>
+    + reset_for_run()
+    + snapshot() : dict
+  }
+}
+
+package "pdf_table_extractor :: models" {
+  class PageSize <<dataclass>> {
+    + width : float
+    + height : float
+  }
+  class PageMetadata <<dataclass>> {
+    + page_number : int
+    + size : PageSize
+    + text : Optional[str]
+  }
+  class PdfMetadata <<dataclass>> {
+    + source_file : str
+    + page_count : int
+  }
+  class WordInfo <<dataclass>> {
+    + page : int
+    + text : str
+    + x0 : float
+    + x1 : float
+    + top : float
+    + bottom : float
+  }
+  class LineInfo <<dataclass>> {
+    + page : int
+    + x0 : float
+    + x1 : float
+    + top : float
+    + bottom : float
+    + orientation : str
+  }
+  class RectInfo <<dataclass>> {
+    + page : int
+    + x0 : float
+    + x1 : float
+    + top : float
+    + bottom : float
+  }
+  class TableWarning <<dataclass>> {
+    + code : str
+    + message : str
+    + table_index : int
+    + row_index : Optional[int]
+    + col_index : Optional[int]
+  }
+  class IntermediateTable <<dataclass>> {
+    + source_file : str
+    + page : int
+    + strategy : str
+    + table_index : int
+    + n_rows : int
+    + n_cols : int
+    + rows : list
+  }
+  class PageAnalysis <<dataclass>> {
+    + page_number : int
+    + word_count : int
+    + line_count : int
+    + rect_count : int
+    + best_strategy : Optional[str]
+  }
+  class PdfAnalysis <<dataclass>> {
+    + source_file : str
+  }
+  class ScheduleEntry <<dataclass>> {
+    + source_file : str
+    + page : int
+    + strategy : str
+    + table_index : int
+    + row_span : list<int>
+    + degree : Optional[str]
+    + group : Optional[str]
+    + semester : Optional[int]
+    + course_year : Optional[str]
+    + day : Optional[str]
+    + time_start : Optional[str]
+    + time_end : Optional[str]
+    + time_start_raw : Optional[str]
+    + time_end_raw : Optional[str]
+    + subject_raw : str
+    + subject_name : Optional[str]
+    + rooms : list<str>
+    + non_room_annotations : list<str>
+    + multiple_entries_suspected : bool
+    + warnings : list<str>
+    + llm_reviewed : bool = False
+    + llm_confidence : Optional[str]
+    + llm_note : Optional[str]
+  }
+  PdfMetadata *-- "1..*" PageMetadata
+  PageMetadata *-- PageSize
+  PdfAnalysis *-- PdfMetadata
+  PdfAnalysis *-- "*" PageAnalysis
+  PdfAnalysis *-- "*" WordInfo
+  PdfAnalysis *-- "*" LineInfo
+  PdfAnalysis *-- "*" RectInfo
+  PdfAnalysis *-- "*" IntermediateTable
+  PageAnalysis *-- "*" IntermediateTable
+  IntermediateTable *-- "*" TableWarning
+}
+
+package "pdf_table_extractor :: llm_review  (Pydantic)" {
+  class ResolvedSubject <<BaseModel>> {
+    + subject_name : str
+    + room : Optional[str]
+  }
+  class ReviewedCell <<BaseModel>> {
+    + index : int
+    + is_single_subject : bool
+    + confidence : "high|medium|low"
+    + note : str
+  }
+  class BatchReview <<BaseModel>> {
+    + reviews : list
+  }
+  BatchReview *-- "*" ReviewedCell
+  ReviewedCell *-- "1..*" ResolvedSubject
+}
+
+ScheduleEntry ..> BatchReview : review_entries() transforma\nScheduleEntry según el veredicto\ndel modelo
+
+package "DTOs de petición  (Pydantic, main.py)" {
+  class LoginRequest <<BaseModel>> {
+    + username : str
+    + password : str
+  }
+  class DownloadRequest <<BaseModel>> {
+    + url : str
+  }
+  class ExtractStartRequest <<BaseModel>> {
+    + enable_llm_review : Optional[bool]
+  }
+  class RecordEditRequest <<BaseModel>> {
+    + degree, course_year, group, day : Optional[str]
+    + semester : Optional[int]
+    + time_start, time_end, subject_name : Optional[str]
+    + rooms : list<str>
+    + multiple_entries_suspected : bool
+    + notes : list<str>
+  }
+  class RecordStatusRequest <<BaseModel>> {
+    + status : str
+  }
+  class LlmReviewRequest <<BaseModel>> {
+    + item_ids : Optional[list<str>]
+  }
+  class AiSettingsRequest <<BaseModel>> {
+    + ollama_host : str
+    + model : Optional[str]
+  }
+  class UserCreateRequest <<BaseModel>> {
+    + username : str
+    + password : str
+    + is_admin : bool = False
+  }
+  class PasswordResetRequest <<BaseModel>> {
+    + password : str
+  }
+  class RoleRequest <<BaseModel>> {
+    + is_admin : bool
+  }
+  class ActiveRequest <<BaseModel>> {
+    + is_active : bool
+  }
+  class ChangeOwnPasswordRequest <<BaseModel>> {
+    + user_id : int
+    + current_password : str
+    + new_password : str
+  }
+}
+
+package "Excepciones de dominio" {
+  class Exception
+  class ReviewError <<exception>>
+  class UserError <<exception>>
+  class ScheduleError <<exception>>
+  Exception <|-- ReviewError
+  Exception <|-- UserError
+  Exception <|-- ScheduleError
+}
+
+note as N_modulos
+  MÓDULOS de funciones sin estado (no son clases; van al diagrama de componentes):
+  · review.store  - construye / filtra / edita reviewed_schedules.json; llm_review_items()
+  · schedule.db   - list_degrees(), list_subjects()  (consulta PostgreSQL)
+  · auth.users    - authenticate(), create_user(), register_user(), set_role(),
+                    set_active(), set_password(), delete_user(), change_own_password()
+  · ai_settings   - load_ai_settings(), save_ai_settings()
+  · dbdump.loader - run_dump()  (usa DumpState)
+  · pdf_extractor - run_extraction()  (usa ExtractorState)
+  · pdf_table_extractor.pipeline - run_diagnostics(), run_normalization()
+end note
+
+@enduml

@@ -1,0 +1,80 @@
+@startuml secuencia-revision-ia
+' Flujo: review.js -> routes.py (/review-llm-review*) -> main.py (/review/llm-review*)
+'   -> hilo _run_llm_review_background -> review.store.llm_review_items
+'   -> pdf_table_extractor.llm_review.review_entries -> Ollama /api/chat
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam ParticipantBackgroundColor #F4F6F8
+skinparam ActorBackgroundColor #F4F6F8
+skinparam NoteBackgroundColor #FFFDF5
+
+title Resolver con IA las asignaturas mezcladas (CU-09)
+
+actor "Usuario" as U
+participant "Frontend\n(review.js)" as FE
+participant "Backend\n(main.py)" as BE
+participant "Hilo de revisión IA\n(_run_llm_review_background)" as TH
+participant "review.store\n(llm_review_items)" as RS
+participant "llm_review\n(review_entries)" as IA
+participant "Ollama" as OL
+database "reviewed_schedules.json" as FS
+
+U -> FE : "Revisar todo con IA"  (o un registro concreto)
+FE -> BE : POST /review/llm-review { item_ids | null }
+activate BE
+alt ya hay una revisión IA en curso / no hay datos
+    BE --> FE : { success:false } o 404
+else ok
+    BE -> TH : Thread(daemon).start(item_ids)
+    BE --> FE : { success:true }
+    deactivate BE
+end
+
+activate TH
+TH -> RS : llm_review_items(reviewed, item_ids, host, model,\non_item_done, should_continue)
+activate RS
+RS -> RS : selecciona candidatos\n(item_ids, o todos los "multiple_entries_suspected")
+
+loop por cada registro candidato
+    RS -> RS : should_continue()  (espera aquí si está pausado)
+    break si se ha solicitado cancelar
+        RS --> TH : { cancelled:true }
+    end
+    RS -> IA : review_entries([entry], client, model)
+    IA -> OL : POST /api/chat  (format=json, temperature=0)
+    alt respuesta JSON válida
+        OL --> IA : { is_single_subject, subjects[], confidence, note }
+    else respuesta inválida
+        IA -> OL : 1 reintento con el error realimentado
+        OL --> IA : respuesta
+    else timeout (>180 s) o error
+        IA --> RS : sin resultado -> se registra en errors, sigue el bucle
+    end
+
+    alt es una sola asignatura
+        RS -> RS : actualiza el registro in situ ;\nsi confidence != low, quita el warning ;\nsi confidence == low, conserva el warning
+    else son varias asignaturas
+        RS -> RS : resuelve la primera in situ y\ncrea registros nuevos (origin "entry",\nllm_split_from) para las demás
+    end
+    RS -> FS : save_reviewed()  (guardado incremental tras CADA registro)
+    RS -> BE : on_item_done(done, total, id, outcome)
+    BE -> BE : actualiza llm_review_state
+end
+RS --> TH : { attempted, resolved, split, errors }
+deactivate RS
+deactivate TH
+
+loop cada ~1 s
+    FE -> BE : GET /review/llm-review/status
+    BE --> FE : { running, paused, attempted/total, resolved, split, errors }
+end
+opt control del proceso
+    U -> FE : Pausar / Reanudar / Cancelar
+    FE -> BE : POST /review/llm-review/pause | /resume | /cancel
+    note right of BE : la pausa/cancelación surte efecto\nENTRE registros, nunca a mitad de\nuna llamada a Ollama
+end
+
+@enduml

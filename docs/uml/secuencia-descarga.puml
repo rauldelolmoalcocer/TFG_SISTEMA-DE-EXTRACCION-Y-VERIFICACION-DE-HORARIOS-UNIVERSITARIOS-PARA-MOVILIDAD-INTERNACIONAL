@@ -1,0 +1,81 @@
+@startuml secuencia-descarga
+' Flujo: download_panel.html -> routes.py -> main.py::start_download
+'   -> hilo real_download_process -> crawler.PdfCrawler.run / download_pdf
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam ParticipantBackgroundColor #F4F6F8
+skinparam ActorBackgroundColor #F4F6F8
+skinparam NoteBackgroundColor #FFFDF5
+
+title Descargar horarios desde una fuente web (CU-05)
+
+actor "Usuario" as U
+participant "Frontend\n(download_panel.html)" as FE
+participant "Backend\n(main.py)" as BE
+participant "Hilo de descarga\n(real_download_process)" as TH
+participant "PdfCrawler" as CR
+participant "Fuente web\nuniversitaria" as WEB
+database "./downloads\n(sistema de ficheros)" as FS
+
+U -> FE : Iniciar descarga (URL)
+FE -> BE : POST /download/start { url }
+activate BE
+BE -> BE : valida URL (no vacía, http/https)
+alt URL inválida o proceso ya en curso
+    BE --> FE : { success:false, message }
+    FE --> U : mensaje de error
+else ok
+    BE -> TH : Thread(daemon).start()
+    BE --> FE : { success:true, "Crawler iniciado" }
+    deactivate BE
+end
+
+activate TH
+TH -> CR : PdfCrawler(config, state)
+CR -> FS : _index_existing_files()\n(hash SHA-256 de los PDF ya presentes)
+TH -> CR : run()
+
+loop mientras haya páginas y no se alcance max_pages
+    CR -> CR : pause_event.wait()   (bloquea si está pausado)
+    CR -> WEB : GET pagina
+    alt la URL es un PDF
+        CR -> CR : dedupe por URL
+        CR -> WEB : GET pdf (stream)
+    else es HTML
+        CR -> CR : extract_links() -> enlaces .pdf
+        loop por cada enlace PDF nuevo
+            CR -> WEB : GET pdf (stream)
+        end
+    end
+    par descargas concurrentes (ThreadPoolExecutor, 4)
+        CR -> CR : content = response.content ; sha256(content)
+        alt contenido duplicado (hash ya visto)
+            CR -> CR : se omite
+        else nuevo
+            CR -> FS : guarda con nombre seguro y único
+            CR -> CR : total_pdfs_downloaded++
+        end
+    end
+end
+CR --> TH : fin (contadores + logs en CrawlerState)
+deactivate TH
+
+... en paralelo, mientras dura el proceso ...
+
+loop cada ~2 s
+    FE -> BE : GET /download/status
+    BE --> FE : { running, paused, files[], logs, errors, totales }
+    FE --> U : barra de progreso + log + lista de PDF
+end
+
+opt el usuario pausa / reanuda
+    U -> FE : Pausar
+    FE -> BE : POST /download/pause  -> pause_event.clear()
+    U -> FE : Reanudar
+    FE -> BE : POST /download/resume -> pause_event.set()
+end
+
+@enduml

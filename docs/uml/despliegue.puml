@@ -1,0 +1,94 @@
+@startuml despliegue
+' ============================================================================
+'  Diagrama de despliegue - arquitectura real del proyecto.
+'  Reconstruido de: docker-compose.yml, backend-fastapi/Dockerfile,
+'  frontend-flask/Dockerfile, frontend-flask/run.py,
+'  backend-fastapi/app/main.py (get_connection, INTERNAL_API_KEY,
+'  OLLAMA_HOST, EXTRACT_FOLDER, DOWNLOAD_FOLDER), crawler/crawler.py,
+'  ai_settings.py.  No se inventan IP concretas.
+' ============================================================================
+
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam node {
+  BackgroundColor #F4F6F8
+  BorderColor #333333
+}
+skinparam database {
+  BackgroundColor #F4F6F8
+  BorderColor #333333
+}
+
+node "Equipo cliente" as PCU {
+  artifact "Navegador web\n(HTML + JS: horarios.js,\nreview.js, ...)" as Browser
+}
+
+node "Servidor  (host Docker)" as HOST {
+
+  node "Contenedor  tfg_frontend\nFlask + Werkzeug\npuerto 5000 (0.0.0.0)" as FRONT {
+    artifact "app/  (Blueprint routes.py:\nplantillas Jinja + proxy HTTP\ncon requests)"
+  }
+
+  node "Contenedor  tfg_backend\nFastAPI + Uvicorn\npuerto 8000 (0.0.0.0)" as BACK {
+    artifact "app.main  + crawler + extractor\n(pdf_table_extractor) + review.store\n+ dbdump.loader + schedule.db\n+ auth.users + ai_settings"
+  }
+
+  node "Contenedor  tfg_db\nPostgreSQL 15\npuerto 5432" as DBN {
+    database "tfg" as PG
+  }
+
+  node "Contenedor  tfg_pgadmin\npgAdmin 4\npuerto 5050 -> 80" as PGADMIN
+
+  folder "Volúmenes y bind-mounts" as VOL {
+    artifact "pgdata  (volumen)\n-> /var/lib/postgresql/data"
+    artifact "pgadmin_data  (volumen)"
+    artifact "./downloads  (bind)\n-> /data/downloaded_pdfs   (PDF)"
+    artifact "./extracted  (bind)\n-> /data/extracted_json\n(all_schedules.json,\nreviewed_schedules.json,\nai_settings.json, ...)"
+    artifact "./db/init.sql  (bind, read-only)"
+  }
+}
+
+node "Equipo con Ollama\nhost.docker.internal : 11434\n(mismo host por defecto;\nseparable)" as OLLAMA_NODE {
+  artifact "Ollama + modelo local\n(por defecto qwen2.5:3b)"
+}
+
+cloud "Sitios web universitarios\n(fuente de horarios)" as WEB {
+  artifact "Páginas HTML + PDF de horarios"
+}
+
+' --- Comunicaciones ---------------------------------------------------------
+Browser  --> FRONT        : HTTP  :5000
+FRONT    --> BACK         : HTTP  :8000  (proxy con requests;\ncabecera X-Internal-Key = INTERNAL_API_KEY\nen login, registro, cuenta y usuarios)
+BACK     --> PG           : TCP  :5432  (psycopg2, host \"db\")
+PGADMIN  --> PG           : TCP  :5432
+BACK     ..> OLLAMA_NODE  : HTTP  /api/chat, /api/tags   (opcional)
+BACK     ..> WEB          : HTTP GET  (crawler de PDF)
+BACK     --> VOL          : lectura / escritura de ficheros
+
+note bottom of OLLAMA_NODE
+  Fuera del docker-compose. Con la
+  configuración por defecto se asume en
+  el MISMO host (extra_hosts:
+  host.docker.internal). El panel
+  "Administración IA" permite apuntar a
+  otra dirección http(s)://
+end note
+
+note bottom of VOL
+  frontend y backend comparten el árbol
+  del proyecto por bind-mount; la
+  extracción y la revisión operan sobre
+  JSON en ./extracted, no sobre la BD.
+end note
+
+note top of HOST
+  Migraciones db/003_usuarios_auth.sql y
+  db/004_usuarios_is_active.sql: se
+  aplican a mano contra tfg_db (no van en
+  docker-entrypoint-initdb.d).
+end note
+
+@enduml

@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de usuarios | Universidad de Alcalá</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='users_admin.css') }}">
+</head>
+
+<body>
+
+    <header class="topbar">
+        <div class="topbar-inner">
+            <a class="topbar-brand" href="{{ url_for('main.index') }}">
+                <img src="{{ url_for('static', filename='img/logo-UniversidadAlcala.png') }}"
+                    alt="Universidad de Alcalá">
+            </a>
+            <span class="topbar-title">Gestión de usuarios · Movilidad Internacional</span>
+            <div class="topbar-user">
+                <a class="topbar-nav-link" href="{{ url_for('main.index') }}">Inicio</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.account') }}">Mi cuenta</a>
+                <a class="topbar-nav-link" href="{{ url_for('main.logout') }}">Cerrar sesión</a>
+                <div class="topbar-user-badge"><span>{{ user }}</span></div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <div class="page-head">
+            <h1>Gestión de usuarios</h1>
+            <p>Alta, rol y contraseña de las cuentas que pueden acceder al portal. Solo para administradores.</p>
+        </div>
+
+        <!-- ALTA -->
+        <div class="card">
+            <div class="card-label">Nuevo usuario</div>
+            <form id="createForm" class="form-row">
+                <div class="field">
+                    <label for="newUsername">Usuario</label>
+                    <input type="text" id="newUsername" autocomplete="off" placeholder="nombre.apellido">
+                </div>
+                <div class="field">
+                    <label for="newPassword">Contraseña</label>
+                    <input type="password" id="newPassword" autocomplete="new-password" placeholder="mínimo 4 caracteres">
+                </div>
+                <label class="check">
+                    <input type="checkbox" id="newIsAdmin"> Administrador
+                </label>
+                <button type="submit" class="btn-primary" id="createBtn">Crear usuario</button>
+            </form>
+            <p class="feedback" id="createFeedback"></p>
+        </div>
+
+        <!-- LISTA -->
+        <div class="card">
+            <div class="card-label">Usuarios</div>
+            <table class="users-table">
+                <thead>
+                    <tr>
+                        <th>Usuario</th>
+                        <th>Rol</th>
+                        <th>Estado</th>
+                        <th>Alta</th>
+                        <th style="text-align:right">Acciones</th>
+                    </tr>
+                </thead>
+                <tbody id="usersBody">
+                    <tr><td colspan="5">Cargando…</td></tr>
+                </tbody>
+            </table>
+            <p class="feedback" id="listFeedback"></p>
+        </div>
+
+    </main>
+
+    <script>
+        const usersBody     = document.getElementById("usersBody");
+        const createForm    = document.getElementById("createForm");
+        const createBtn     = document.getElementById("createBtn");
+        const newUsername   = document.getElementById("newUsername");
+        const newPassword   = document.getElementById("newPassword");
+        const newIsAdmin    = document.getElementById("newIsAdmin");
+        const createFeedback = document.getElementById("createFeedback");
+        const listFeedback  = document.getElementById("listFeedback");
+
+        const CURRENT_USER = {{ (current_user or "") | tojson }};
+
+        function setFeedback(el, msg, ok) {
+            el.textContent = msg || "";
+            el.className = "feedback " + (ok ? "ok" : "err");
+        }
+
+        async function loadUsers() {
+            try {
+                const res = await fetch("/users-list");
+                const data = await res.json();
+                if (!res.ok) {
+                    usersBody.innerHTML = `<tr><td colspan="5">${data.message || data.detail || "Error"}</td></tr>`;
+                    return;
+                }
+                renderUsers(data);
+            } catch (e) {
+                usersBody.innerHTML = `<tr><td colspan="5">No se pudo conectar con el servidor.</td></tr>`;
+            }
+        }
+
+        function renderUsers(users) {
+            usersBody.innerHTML = "";
+            if (!users.length) {
+                usersBody.innerHTML = `<tr><td colspan="5">No hay usuarios.</td></tr>`;
+                return;
+            }
+            users.forEach(u => {
+                const isMe = u.username === CURRENT_USER;
+                const tr = document.createElement("tr");
+
+                const tdUser = document.createElement("td");
+                tdUser.innerHTML = `<strong>${u.username}</strong>` +
+                    (isMe ? `<span class="you-tag">(tú)</span>` : "");
+
+                const tdRole = document.createElement("td");
+                tdRole.innerHTML = u.is_admin
+                    ? `<span class="role-badge admin">Administrador</span>`
+                    : `<span class="role-badge user">Usuario</span>`;
+
+                const tdState = document.createElement("td");
+                tdState.innerHTML = u.is_active
+                    ? `<span class="role-badge active">Activo</span>`
+                    : `<span class="role-badge pending">Pendiente</span>`;
+
+                const tdDate = document.createElement("td");
+                tdDate.textContent = u.created_at || "—";
+
+                const tdActions = document.createElement("td");
+                const actions = document.createElement("div");
+                actions.className = "actions";
+
+                const activeBtn = document.createElement("button");
+                if (u.is_active) {
+                    activeBtn.className = "btn-sm btn-danger";
+                    activeBtn.textContent = "Vetar";
+                    activeBtn.disabled = isMe;
+                } else {
+                    activeBtn.className = "btn-sm btn-primary";
+                    activeBtn.textContent = "Aprobar";
+                }
+                activeBtn.addEventListener("click", () => setActive(u, !u.is_active));
+
+                const roleBtn = document.createElement("button");
+                roleBtn.className = "btn-sm btn-secondary";
+                roleBtn.textContent = u.is_admin ? "Quitar admin" : "Hacer admin";
+                roleBtn.addEventListener("click", () => setRole(u, !u.is_admin));
+
+                const pwdBtn = document.createElement("button");
+                pwdBtn.className = "btn-sm btn-secondary";
+                pwdBtn.textContent = "Resetear contraseña";
+                pwdBtn.addEventListener("click", () => resetPassword(u));
+
+                const delBtn = document.createElement("button");
+                delBtn.className = "btn-sm btn-danger";
+                delBtn.textContent = "Eliminar";
+                delBtn.disabled = isMe;
+                delBtn.addEventListener("click", () => removeUser(u));
+
+                actions.append(activeBtn, roleBtn, pwdBtn, delBtn);
+                tdActions.appendChild(actions);
+
+                tr.append(tdUser, tdRole, tdState, tdDate, tdActions);
+                usersBody.appendChild(tr);
+            });
+        }
+
+        createForm.addEventListener("submit", async (ev) => {
+            ev.preventDefault();
+            createBtn.disabled = true;
+            setFeedback(createFeedback, "Creando…", true);
+            try {
+                const res = await fetch("/users-create", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        username: newUsername.value.trim(),
+                        password: newPassword.value,
+                        is_admin: newIsAdmin.checked,
+                    }),
+                });
+                const data = await res.json();
+                if (res.ok && data.success) {
+                    setFeedback(createFeedback, `Usuario «${data.user.username}» creado.`, true);
+                    createForm.reset();
+                    loadUsers();
+                } else {
+                    setFeedback(createFeedback, data.detail || data.message || "No se pudo crear.", false);
+                }
+            } catch (e) {
+                setFeedback(createFeedback, "Error de conexión.", false);
+            } finally {
+                createBtn.disabled = false;
+            }
+        });
+
+        async function setActive(u, isActive) {
+            const verb = isActive ? "aprobar" : "vetar";
+            if (!confirm(`¿Seguro que quieres ${verb} la cuenta «${u.username}»?`)) return;
+            await postAction(`/users/${u.id}/active`, { is_active: isActive });
+        }
+
+        async function setRole(u, isAdmin) {
+            const verb = isAdmin ? "dar permisos de administrador a" : "quitar permisos de administrador a";
+            if (!confirm(`¿Seguro que quieres ${verb} «${u.username}»?`)) return;
+            await postAction(`/users/${u.id}/role`, { is_admin: isAdmin });
+        }
+
+        async function resetPassword(u) {
+            const pwd = prompt(`Nueva contraseña para «${u.username}» (mínimo 4 caracteres):`);
+            if (pwd === null) return;
+            await postAction(`/users/${u.id}/password`, { password: pwd });
+        }
+
+        async function removeUser(u) {
+            if (!confirm(`¿Eliminar definitivamente al usuario «${u.username}»?`)) return;
+            await postAction(`/users/${u.id}/delete`, {});
+        }
+
+        async function postAction(url, body) {
+            setFeedback(listFeedback, "Aplicando…", true);
+            try {
+                const res = await fetch(url, {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(body),
+                });
+                const data = await res.json();
+                if (res.ok && data.success) {
+                    setFeedback(listFeedback, data.message || "Hecho.", true);
+                    loadUsers();
+                } else {
+                    setFeedback(listFeedback, data.detail || data.message || "No se pudo aplicar.", false);
+                }
+            } catch (e) {
+                setFeedback(listFeedback, "Error de conexión.", false);
+            }
+        }
+
+        loadUsers();
+    </script>
+
+</body>
+
+</html>
