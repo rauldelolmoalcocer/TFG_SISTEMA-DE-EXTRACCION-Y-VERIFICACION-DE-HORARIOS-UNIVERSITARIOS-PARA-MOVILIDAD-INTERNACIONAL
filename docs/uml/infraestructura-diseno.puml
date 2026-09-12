@@ -1,0 +1,77 @@
+@startuml infraestructura-diseno
+' ============================================================================
+'  Esquema de infraestructura para el capítulo 11 (Diseño) de la memoria.
+'  Deliberadamente más simple que docs/uml/despliegue.puml: sin rutas de
+'  fichero ni detalle de implementación, solo contenedores, puertos,
+'  volúmenes y comunicación -- lo que corresponde a un capítulo de diseño.
+'
+'  Reconstruido de: docker-compose.yml, frontend-flask/Dockerfile,
+'  backend-fastapi/Dockerfile, frontend-flask/app/routes.py (BACKEND_URL),
+'  backend-fastapi/app/main.py (get_connection), ai_settings.py (OLLAMA_HOST).
+' ============================================================================
+
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam defaultTextAlignment center
+skinparam node {
+  BackgroundColor #F4F6F8
+  BorderColor #333333
+}
+skinparam database {
+  BackgroundColor #F4F6F8
+  BorderColor #333333
+}
+skinparam rectangle {
+  BackgroundColor #FDFDFD
+  BorderColor #888888
+}
+
+actor "Usuario" as Usuario
+
+node "Equipo servidor (host Docker)" as Host {
+
+  rectangle "Red interna de Docker Compose\n(los servicios se resuelven por nombre)" as Red {
+
+    node "Contenedor: frontend\n(Flask)\npuerto 5000" as Frontend
+    node "Contenedor: backend\n(FastAPI / Uvicorn)\npuerto 8000" as Backend
+    database "Contenedor: db\n(PostgreSQL 15)\npuerto 5432" as DB
+    node "Contenedor: pgadmin\n(pgAdmin 4)\npuerto 5050" as PgAdmin
+
+    Frontend -down-> Backend : HTTP interno\n(nombre de servicio "backend")
+    Backend -down-> DB : conexión a BD\n(nombre de servicio "db")
+    PgAdmin -down-> DB : administración\n(nombre de servicio "db")
+  }
+
+  folder "Volúmenes persistentes" as Vol
+  DB ..> Vol : datos de PostgreSQL
+  PgAdmin ..> Vol : configuración de pgAdmin
+  Backend ..> Vol : PDF descargados +\nresultados intermedios
+}
+
+node "Servicio de IA\n(Ollama)" as Ollama #FFF8E8
+Backend .down.> Ollama : HTTP\n(dirección configurable)
+
+Usuario -down-> Frontend : navegador\n(puerto 5000)
+
+note right of PgAdmin
+  Herramienta auxiliar de
+  administración. No forma parte
+  de la lógica funcional del
+  sistema ni la usa ningún otro
+  componente.
+end note
+
+note bottom of Ollama
+  Fuera de Docker Compose.
+  Se ejecuta de forma independiente
+  (normalmente en el mismo equipo,
+  pero podría ser otra máquina)
+  y el backend lo localiza por una
+  dirección configurable, no por el
+  nombre de un contenedor.
+end note
+
+@enduml
