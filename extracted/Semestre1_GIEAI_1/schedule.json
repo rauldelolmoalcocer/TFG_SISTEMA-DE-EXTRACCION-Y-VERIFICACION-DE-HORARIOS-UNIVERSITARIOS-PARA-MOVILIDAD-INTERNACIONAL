@@ -1,0 +1,3682 @@
+[
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ÁLGEBRA LINEAL Y ECUACIONES\nDIFERENCIALES - 1A/G (OA4)",
+    "subject_name": "ÁLGEBRA LINEAL Y ECUACIONES DIFERENCIALES - 1A/G",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Física I - 1A1/G (SA7)",
+    "subject_name": "Física I - 1A1/G",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "CÁLCULO I - 1A (OA4)",
+    "subject_name": "CÁLCULO I - 1A",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "INFORMÁTICA - 1A (OA4)",
+    "subject_name": "INFORMÁTICA - 1A",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "EXPRESIÓN GRÁFICA - 1A/G (OA4)",
+    "subject_name": "EXPRESIÓN GRÁFICA - 1A/G",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "FÍSICA I - 1A/G (OA4)",
+    "subject_name": "FÍSICA I - 1A/G",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Informática - 1A3 (NL5)",
+    "subject_name": "Informática - 1A3",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Informática - 1A1 (NL5)\nÁlgebra Lineal Y Ecuaciones\nDiferenciales - 1A2/G (OA3)",
+    "subject_name": "Informática - 1A1 Álgebra Lineal Y Ecuaciones Diferenciales - 1A2/G",
+    "rooms": [
+      "NL5",
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Informática - 1A2 (NL5)\nCálculo I - 1A1 (OA4)",
+    "subject_name": "Informática - 1A2 Cálculo I - 1A1",
+    "rooms": [
+      "NL5",
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Álgebra Lineal Y Ecuaciones\nDiferenciales - 1A1 (OA4)\nExpresión Gráfica - 1A2 (OA7)",
+    "subject_name": "Álgebra Lineal Y Ecuaciones Diferenciales - 1A1 Expresión Gráfica - 1A2",
+    "rooms": [
+      "OA4",
+      "OA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Cálculo I - 1A2 (OA4)\nExpresión Gráfica - 1A1/2G1 (OA7)",
+    "subject_name": "Cálculo I - 1A2 Expresión Gráfica - 1A1/2G1",
+    "rooms": [
+      "OA4",
+      "OA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "ÁLGEBRA LINEAL Y ECUACIONES\nDIFERENCIALES - 1B (OA4)",
+    "subject_name": "ÁLGEBRA LINEAL Y ECUACIONES DIFERENCIALES - 1B",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "EXPRESIÓN GRÁFICA - 1B (OA4)",
+    "subject_name": "EXPRESIÓN GRÁFICA - 1B",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "FÍSICA I - 1B (OA4)",
+    "subject_name": "FÍSICA I - 1B",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "INFORMÁTICA - 1B (OA4)",
+    "subject_name": "INFORMÁTICA - 1B",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "CÁLCULO I - 1B (OA4)",
+    "subject_name": "CÁLCULO I - 1B",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Física I - 1B1 (OA3)",
+    "subject_name": "Física I - 1B1",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      12,
+      13
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Informática - 1B1 (NL5)",
+    "subject_name": "Informática - 1B1",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Cálculo I - 1B1 (OA3)",
+    "subject_name": "Cálculo I - 1B1",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Álgebra Lineal Y Ecuaciones\nDiferenciales - 1B1 (OA3)",
+    "subject_name": "Álgebra Lineal Y Ecuaciones Diferenciales - 1B1",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Expresión Gráfica - 1B1 (OA7)",
+    "subject_name": "Expresión Gráfica - 1B1",
+    "rooms": [
+      "OA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºE",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "COMPUTER SCIENCE - 1E (EA1B)",
+    "subject_name": "COMPUTER SCIENCE - 1E",
+    "rooms": [
+      "EA1B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "1ºE",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Computer Science - 1E1 (EL7)",
+    "subject_name": "Computer Science - 1E1",
+    "rooms": [
+      "EL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Electrónica Digital - 2A2 (OL7)\nIngeniería Térmica - 2A1 (OA3)",
+    "subject_name": "Electrónica Digital - 2A2 Ingeniería Térmica - 2A1",
+    "rooms": [
+      "OL7",
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "INGENIERÍA TÉRMICA - 2A/G\n(OA4)",
+    "subject_name": "INGENIERÍA TÉRMICA - 2A/G",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "Ciencia De Los Materiales - 2A1/G\n(OA3)\nElectrónica Analógica - 2A2 (OL12)\nIngeniería Térmica – 2A3/G\n(GIEAI) (NA4)",
+    "subject_name": "Ciencia De Los Materiales - 2A1/G Electrónica Analógica - 2A2 Ingeniería Térmica – 2A3/G",
+    "rooms": [
+      "OA3",
+      "OL12",
+      "NA4"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Ciencia De Los Materiales – 2A1/G\n(OA3)\nElectrónica Analógica - 2A2 (OL12)\nIngeniería Térmica – 2A3/G\n(GIEAI) (NA4)",
+    "subject_name": "Ciencia De Los Materiales – 2A1/G Electrónica Analógica - 2A2 Ingeniería Térmica – 2A3/G",
+    "rooms": [
+      "OA3",
+      "OL12",
+      "NA4"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL - 2A/G (NA4)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2A/G",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "ELECTRÓNICA ANALÓGICA - 2A\n(NA4)",
+    "subject_name": "ELECTRÓNICA ANALÓGICA - 2A",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL - 2A (NA4)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2A",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Electrónica Analógica - 2A1 (OL12)\nElectrónica Digital - 2A3 (OL7)\nElectrónica Digital - 2A4 (OL7)\nIngeniería Térmica - 2A2 (OA3)",
+    "subject_name": "Electrónica Analógica - 2A1 Electrónica Digital - 2A3 Electrónica Digital - 2A4 Ingeniería Térmica - 2A2",
+    "rooms": [
+      "OL12",
+      "OL7",
+      "OL7",
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ESTADÍSTICA - 2A/G (SA2)",
+    "subject_name": "ESTADÍSTICA - 2A/G",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "ESTADÍSTICA - 2A TUTORÍA (SA2)",
+    "subject_name": "ESTADÍSTICA - 2A TUTORÍA",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "Electrónica Analógica – 2A3 (OL12)\nElectrónica Digital - 2A1 (OL7)\nEstadística - 2A2 (EL2)",
+    "subject_name": "Electrónica Analógica – 2A3 Electrónica Digital - 2A1 Estadística - 2A2",
+    "rooms": [
+      "OL12",
+      "OL7",
+      "EL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Electrónica Analógica - 2A3 (OL12)\nElectrónica Digital - 2A1 (OL7)\nEstadística - 2A2 (EL2)",
+    "subject_name": "Electrónica Analógica - 2A3 Electrónica Digital - 2A1 Estadística - 2A2",
+    "rooms": [
+      "OL12",
+      "OL7",
+      "EL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ELECTRÓNICA ANALÓGICA - 2A\n(NA2)",
+    "subject_name": "ELECTRÓNICA ANALÓGICA - 2A",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Ciencia De Los Materiales - 2A2\n(SA6)\nElectrónica Analógica - 2A4 (OL10)\nEstadística - 2A1/G (NA8)",
+    "subject_name": "Ciencia De Los Materiales - 2A2 Electrónica Analógica - 2A4 Estadística - 2A1/G",
+    "rooms": [
+      "SA6",
+      "OL10",
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "CIENCIA DE LOS MATERIALES - 2A/G\n(NA4)",
+    "subject_name": "CIENCIA DE LOS MATERIALES - 2A/G",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "INGENIERÍA TÉRMICA - 2B\nTUTORÍA (NA7)",
+    "subject_name": "INGENIERÍA TÉRMICA - 2B TUTORÍA",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "INGENIERÍA TÉRMICA - 2B (NA7)",
+    "subject_name": "INGENIERÍA TÉRMICA - 2B",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Electrónica Digital - 2B1 (OL7)",
+    "subject_name": "Electrónica Digital - 2B1",
+    "rooms": [
+      "OL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "ELECTRÓNICA ANALÓGICA - 2B\n(NA5)",
+    "subject_name": "ELECTRÓNICA ANALÓGICA - 2B",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL - 2B (NA5)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2B",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Ciencia De Los Materiales - 2B1\n(EA8)",
+    "subject_name": "Ciencia De Los Materiales - 2B1",
+    "rooms": [
+      "EA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL - 2B (NA5)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2B",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "ESTADÍSTICA - 2B (NA5)",
+    "subject_name": "ESTADÍSTICA - 2B",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Ingeniería Térmica - 2B1 (NA5)",
+    "subject_name": "Ingeniería Térmica - 2B1",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      12,
+      13
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Electrónica Analógica - 2B2 (OL12)",
+    "subject_name": "Electrónica Analógica - 2B2",
+    "rooms": [
+      "OL12"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "ESTADÍSTICA - 2B TUTORÍA (NA5)",
+    "subject_name": "ESTADÍSTICA - 2B TUTORÍA",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "ELECTRÓNICA ANALÓGICA - 2B\n(NA5)",
+    "subject_name": "ELECTRÓNICA ANALÓGICA - 2B",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Estadística - 2B1 (NA3)",
+    "subject_name": "Estadística - 2B1",
+    "rooms": [
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "CIENCIA DE LOS MATERIALES - 2B\nTUTORÍA (NA1)",
+    "subject_name": "CIENCIA DE LOS MATERIALES - 2B TUTORÍA",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "CIENCIA DE LOS MATERIALES - 2B\n(NA1)",
+    "subject_name": "CIENCIA DE LOS MATERIALES - 2B",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Electrónica Analógica - 2B1 (OL12)",
+    "subject_name": "Electrónica Analógica - 2B1",
+    "rooms": [
+      "OL12"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "DIGITAL ELECTRONICS - 2E (OA3)",
+    "subject_name": "DIGITAL ELECTRONICS - 2E",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "ANALOG ELECTRONICS - 2E (OA3)",
+    "subject_name": "ANALOG ELECTRONICS - 2E",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "DIGITAL ELECTRONICS - 2E TUTORÍA\n(SA5A)",
+    "subject_name": "DIGITAL ELECTRONICS - 2E TUTORÍA",
+    "rooms": [
+      "SA5A"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Analog Electronics - 2E1 (OL10)",
+    "subject_name": "Analog Electronics - 2E1",
+    "rooms": [
+      "OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Digital Electronics - 2E1 (OL11)",
+    "subject_name": "Digital Electronics - 2E1",
+    "rooms": [
+      "OL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ANALOG ELECTRONICS - 2E (SA5B)",
+    "subject_name": "ANALOG ELECTRONICS - 2E",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "08:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "8:00/8:55",
+    "subject_raw": "MÁQUINAS ELÉCTRICAS - 3A\nTUTORÍA (OA4)",
+    "subject_name": "MÁQUINAS ELÉCTRICAS - 3A TUTORÍA",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "INGENIERÍA DE CONTROL II - 3A\nTUTORÍA (OA4)",
+    "subject_name": "INGENIERÍA DE CONTROL II - 3A TUTORÍA",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS ELECTRÓNICOS\nDIGITALES - 3A/G (SA6)",
+    "subject_name": "SISTEMAS ELECTRÓNICOS DIGITALES - 3A/G",
+    "rooms": [
+      "SA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "MÁQUINAS ELÉCTRICAS - 3A (SA6)\nMáquinas Eléctricas - 3A1 (PL13)",
+    "subject_name": "MÁQUINAS ELÉCTRICAS - 3A Máquinas Eléctricas - 3A1",
+    "rooms": [
+      "SA6",
+      "PL13"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Ingeniería De Control II - 3A3 (EL8)\nSistemas Electrónicos Digitales -\n3A2/G (OL5)",
+    "subject_name": "Ingeniería De Control II - 3A3 Sistemas Electrónicos Digitales - 3A2/G",
+    "rooms": [
+      "EL8",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "INGENIERÍA DE CONTROL II - 3A\n(SA3)",
+    "subject_name": "INGENIERÍA DE CONTROL II - 3A",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Ingeniería De Control II - 3A2 (EL8)\nMáquinas Eléctricas - 3A3 (PL13)",
+    "subject_name": "Ingeniería De Control II - 3A2 Máquinas Eléctricas - 3A3",
+    "rooms": [
+      "EL8",
+      "PL13"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "08:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "8:00/8:55",
+    "subject_raw": "AUTOMATIZACIÓN - 3A/G TUTORÍA\n(OA3)",
+    "subject_name": "AUTOMATIZACIÓN - 3A/G TUTORÍA",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "SISTEMAS ELECTRÓNICOS DIGITALES\n- 3A/G TUTORÍA (OA3)",
+    "subject_name": "SISTEMAS ELECTRÓNICOS DIGITALES - 3A/G TUTORÍA",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "MÁQUINAS ELÉCTRICAS - 3A (SA3)",
+    "subject_name": "MÁQUINAS ELÉCTRICAS - 3A",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Ingeniería De Control II - 3A1 (EL8)\nMáquinas Eléctricas - 3A2 (PL13)",
+    "subject_name": "Ingeniería De Control II - 3A1 Máquinas Eléctricas - 3A2",
+    "rooms": [
+      "EL8",
+      "PL13"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "08:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "8:00/8:55",
+    "subject_raw": "Automatización – 3A1/G (EL9)",
+    "subject_name": "Automatización – 3A1/G",
+    "rooms": [
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Automatización - 3A1/G (EL9)",
+    "subject_name": "Automatización - 3A1/G",
+    "rooms": [
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "AUTOMATIZACIÓN - 3A/G (SA6)",
+    "subject_name": "AUTOMATIZACIÓN - 3A/G",
+    "rooms": [
+      "SA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Automatización - 3A2 (EL9)\nSistemas Electrónicos Digitales - 3A1\n(OL1)",
+    "subject_name": "Automatización - 3A2 Sistemas Electrónicos Digitales - 3A1",
+    "rooms": [
+      "EL9",
+      "OL1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "MÁQUINAS ELÉCTRICAS - 3B\nTUTORÍA (OA3)",
+    "subject_name": "MÁQUINAS ELÉCTRICAS - 3B TUTORÍA",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "MÁQUINAS ELÉCTRICAS - 3B (OA3)\nMáquinas Eléctricas - 3B1/G (PL13)",
+    "subject_name": "MÁQUINAS ELÉCTRICAS - 3B Máquinas Eléctricas - 3B1/G",
+    "rooms": [
+      "OA3",
+      "PL13"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "SISTEMAS ELECTRÓNICOS\nDIGITALES - 3B (OA3)",
+    "subject_name": "SISTEMAS ELECTRÓNICOS DIGITALES - 3B",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      10
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "SISTEMAS ELECTRÓNICOS\nDIGITALES - 3B TUTORÍA (OA3)",
+    "subject_name": "SISTEMAS ELECTRÓNICOS DIGITALES - 3B TUTORÍA",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Máquinas Eléctricas - 3B2 (PL13)\nSistemas Electrónicos Digitales - 3B1\n(OL5)",
+    "subject_name": "Máquinas Eléctricas - 3B2 Sistemas Electrónicos Digitales - 3B1",
+    "rooms": [
+      "PL13",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "INGENIERÍA DE CONTROL II - 3B\n(OA3)",
+    "subject_name": "INGENIERÍA DE CONTROL II - 3B",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Ingeniería De Control II - 3B2 (EL8)",
+    "subject_name": "Ingeniería De Control II - 3B2",
+    "rooms": [
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "AUTOMATIZACIÓN - 3B TUTORÍA\n(OA4)",
+    "subject_name": "AUTOMATIZACIÓN - 3B TUTORÍA",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Ingeniería De Control II - 3B1 (EL8)\nSistemas Electrónicos Digitales - 3B2\n(OL1)",
+    "subject_name": "Ingeniería De Control II - 3B1 Sistemas Electrónicos Digitales - 3B2",
+    "rooms": [
+      "EL8",
+      "OL1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "MÁQUINAS ELÉCTRICAS - 3B/G\n(OA4)",
+    "subject_name": "MÁQUINAS ELÉCTRICAS - 3B/G",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "INGENIERÍA DE CONTROL II - 3B\nTUTORÍA (OA4)",
+    "subject_name": "INGENIERÍA DE CONTROL II - 3B TUTORÍA",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "AUTOMATIZACIÓN - 3B (OA4)",
+    "subject_name": "AUTOMATIZACIÓN - 3B",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºB",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Automatización - 3B1 (EL9)",
+    "subject_name": "Automatización - 3B1",
+    "rooms": [
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "CONTROL ENGINEERING II - 3E\nTUTORÍA (SA5B)",
+    "subject_name": "CONTROL ENGINEERING II - 3E TUTORÍA",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "DIGITAL ELECTRONIC SYSTEMS –\n3E (SA5B)",
+    "subject_name": "DIGITAL ELECTRONIC SYSTEMS – 3E",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "AUTOMATION - 3E (EA1B)",
+    "subject_name": "AUTOMATION - 3E",
+    "rooms": [
+      "EA1B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Automation - 3E1 (EL9)",
+    "subject_name": "Automation - 3E1",
+    "rooms": [
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Digital Electronic Systems - 3E1\n(OL1)",
+    "subject_name": "Digital Electronic Systems - 3E1",
+    "rooms": [
+      "OL1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "08:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "8:00/8:55",
+    "subject_raw": "AUTOMATION - 3E TUTORÍA (SA5B)",
+    "subject_name": "AUTOMATION - 3E TUTORÍA",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "DIGITAL ELECTRONIC SYSTEMS – 3E\nTUTORÍA (SA5B)",
+    "subject_name": "DIGITAL ELECTRONIC SYSTEMS – 3E TUTORÍA",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "CONTROL ENGINEERING II - 3E\n(OA6)",
+    "subject_name": "CONTROL ENGINEERING II - 3E",
+    "rooms": [
+      "OA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Control Engineering II - 3E1 (EL8)",
+    "subject_name": "Control Engineering II - 3E1",
+    "rooms": [
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS DE TIEMPO REAL - 4A\n(EL9)",
+    "subject_name": "SISTEMAS DE TIEMPO REAL - 4A",
+    "rooms": [
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas De Tiempo Real - 4A1\n(EL9)",
+    "subject_name": "Sistemas De Tiempo Real - 4A1",
+    "rooms": [
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS DE PRODUCCIÓN\nINDUSTRIAL - 4A (SA1)",
+    "subject_name": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL - 4A",
+    "rooms": [
+      "SA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "SISTEMAS ROBOTIZADOS - 4A/G\n(NA5)",
+    "subject_name": "SISTEMAS ROBOTIZADOS - 4A/G",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Sistemas Robotizados - 4A1 (PL21)",
+    "subject_name": "Sistemas Robotizados - 4A1",
+    "rooms": [
+      "PL21"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas De Producción Industrial -\n4A1 (OA3)\nSistemas Robotizados - 4A2/G\n(PL21)",
+    "subject_name": "Sistemas De Producción Industrial - 4A1 Sistemas Robotizados - 4A2/G",
+    "rooms": [
+      "OA3",
+      "PL21"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "DISEÑO ELECTRÓNICO - 4A (SA5B)",
+    "subject_name": "DISEÑO ELECTRÓNICO - 4A",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Diseño Electrónico - 4A1 (OL6)",
+    "subject_name": "Diseño Electrónico - 4A1",
+    "rooms": [
+      "OL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Proyectos - 4A1 (EA4)\nSistemas De Producción Industrial -\n4A2 (SA5A)",
+    "subject_name": "Proyectos - 4A1 Sistemas De Producción Industrial - 4A2",
+    "rooms": [
+      "EA4",
+      "SA5A"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "PROYECTOS - 4A (EA4)",
+    "subject_name": "PROYECTOS - 4A",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "CENTRALES ELÉCTRICAS - 4B\n(SA7)",
+    "subject_name": "CENTRALES ELÉCTRICAS - 4B",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Instalaciones Eléctricas\nIndustriales - 4B1 (SA7)\nRUIDO E INTERFERENCIAS EN SIST.\nELECTRÓNICOS – 4A (SA5A)",
+    "subject_name": "Instalaciones Eléctricas Industriales - 4B1 RUIDO E INTERFERENCIAS EN SIST. ELECTRÓNICOS – 4A",
+    "rooms": [
+      "SA7",
+      "SA5A"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      10
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "INSTALACIONES ELÉCTRICAS\nINDUSTRIALES - 4B (SA7)",
+    "subject_name": "INSTALACIONES ELÉCTRICAS INDUSTRIALES - 4B",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "SISTEMAS ROBOTIZADOS - 4B\n(NA7)",
+    "subject_name": "SISTEMAS ROBOTIZADOS - 4B",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "SISTEMAS DE PRODUCCIÓN\nINDUSTRIAL - 4B (NA7)",
+    "subject_name": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL - 4B",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      10
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Centrales Eléctricas - 4B1 (NA7)",
+    "subject_name": "Centrales Eléctricas - 4B1",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "VISIÓN ARTIFICIAL - 4A (NA2)",
+    "subject_name": "VISIÓN ARTIFICIAL - 4A",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Visión Artificial - 4A1 (EL8)",
+    "subject_name": "Visión Artificial - 4A1",
+    "rooms": [
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas Robotizados - 4B1 (PL21)\nRuido e interferencias en sistemas\nelectrónicos - 4A (EA6/OL10)",
+    "subject_name": "Sistemas Robotizados - 4B1 Ruido e interferencias en sistemas electrónicos - 4A",
+    "rooms": [
+      "PL21",
+      "EA6/OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Sistemas De Producción Industrial -\n4B1 (OA4)",
+    "subject_name": "Sistemas De Producción Industrial - 4B1",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      10
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "INSTALACIONES ELÉCTRICAS\nINDUSTRIALES - 4B (OA4)",
+    "subject_name": "INSTALACIONES ELÉCTRICAS INDUSTRIALES - 4B",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "14:00",
+    "time_end": "15:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Proyectos - 4B1 (EA2)",
+    "subject_name": "Proyectos - 4B1",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEAI_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERIA EN ELECTRONICA Y AUTOMATICA INDUSTRIAL (G60) (GIEAI)",
+    "group": "4ºB",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "16:00",
+    "time_end": "17:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "PROYECTOS - 4B (EA2)",
+    "subject_name": "PROYECTOS - 4B",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

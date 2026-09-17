@@ -1,0 +1,75 @@
+@startuml diseno-modular-flujo
+' ============================================================================
+'  Diseño modular y flujo principal de procesamiento.
+'  Cada módulo se muestra junto al artefacto que persiste y que permite
+'  repetir la fase siguiente sin recalcular las anteriores (descarga ->
+'  ./downloads/*.pdf; procesamiento documental -> tablas intermedias;
+'  reconstrucción -> sesiones; validación/revisión -> reviewed_schedules.json;
+'  persistencia -> PostgreSQL).
+' ============================================================================
+
+skinparam shadowing false
+skinparam backgroundColor white
+skinparam handwritten false
+skinparam monochrome false
+skinparam ArrowColor #333333
+skinparam component {
+  BackgroundColor #F4F6F8
+  BorderColor #333333
+}
+skinparam database {
+  BackgroundColor #EDEFF2
+  BorderColor #333333
+}
+skinparam note {
+  BackgroundColor #FFFDE7
+  BorderColor #999999
+}
+
+left to right direction
+
+[Localización\ny descarga] as M1
+[Procesamiento\ndocumental] as M2
+[Reconstrucción] as M3
+[Normalización] as M4
+[Validación\ny revisión] as M5
+[Persistencia] as M6
+[Consulta] as M7
+
+M1 -down-> M2 : documentos\nalmacenados
+M2 -down-> M3 : representación\nestructural intermedia
+M3 -down-> M4 : sesiones con día,\nhora, asignatura, contexto
+M4 -down-> M5 : valores en\nrepresentación estable
+M5 -down-> M6 : registros aceptados,\ncon incidencias resueltas
+M6 -down-> M7 : modelo de datos\nrelacionado
+
+note right of M1
+  Persiste en disco (PDF).
+  Puede repetirse el resto del
+  pipeline sin volver a descargar.
+end note
+
+note right of M3
+  Los resultados estructurales de
+  esta fase se conservan aparte;
+  un cambio en las reglas de
+  reconstrucción puede aplicarse
+  sin repetir el procesamiento
+  documental.
+end note
+
+note right of M5
+  Conserva incidencias y estado
+  por registro. La corrección de
+  un registro dudoso no exige
+  rehacer las fases anteriores.
+end note
+
+note right of M7
+  Construcción de horarios y
+  detección de solapamientos
+  sobre la información ya
+  persistida.
+end note
+
+@enduml

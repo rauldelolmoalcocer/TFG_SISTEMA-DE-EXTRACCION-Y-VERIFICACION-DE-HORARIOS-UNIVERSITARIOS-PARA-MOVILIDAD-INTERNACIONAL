@@ -1,0 +1,1061 @@
+[
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ELECTRONICA DE POTENCIA - 3C\n(EA3)",
+    "subject_name": "ELECTRONICA DE POTENCIA - 3C",
+    "rooms": [
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "DISEÑO ELECTRÓNICO - 3C (EA2)",
+    "subject_name": "DISEÑO ELECTRÓNICO - 3C",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Electrónica De Potencia - 3C2\n(OL11)",
+    "subject_name": "Electrónica De Potencia - 3C2",
+    "rooms": [
+      "OL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Sistemas Electrónicos Digitales -\n3C1 (OL5)\nSubsistemas Electrónicos - 3C2\n(OL8)",
+    "subject_name": "Sistemas Electrónicos Digitales - 3C1 Subsistemas Electrónicos - 3C2",
+    "rooms": [
+      "OL5",
+      "OL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Electrónica De Potencia - 3C1\n(OL11)\nSistemas Electrónicos Digitales -\n3C2 (OL5)",
+    "subject_name": "Electrónica De Potencia - 3C1 Sistemas Electrónicos Digitales - 3C2",
+    "rooms": [
+      "OL11",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "SISTEMAS ELECTRÓNICOS DIGITALES\n- 3C (EA7)",
+    "subject_name": "SISTEMAS ELECTRÓNICOS DIGITALES - 3C",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Diseño Electrónico - 3C1 (OL2)\nDiseño Electrónico - 3C2 (OL6)",
+    "subject_name": "Diseño Electrónico - 3C1 Diseño Electrónico - 3C2",
+    "rooms": [
+      "OL2",
+      "OL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Subsistemas Electrónicos - 3C1\n(SA3)",
+    "subject_name": "Subsistemas Electrónicos - 3C1",
+    "rooms": [
+      "SA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Diseño Electrónico - 3C3 (OL6)\nDiseño Electrónico – 3C4 (OL11)",
+    "subject_name": "Diseño Electrónico - 3C3 Diseño Electrónico – 3C4",
+    "rooms": [
+      "OL6",
+      "OL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS ELECTRÓNICOS\nDIGITALES - 3C (EA4)",
+    "subject_name": "SISTEMAS ELECTRÓNICOS DIGITALES - 3C",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "SUBSISTEMAS ELECTRONICOS - 3C\n(EA4)",
+    "subject_name": "SUBSISTEMAS ELECTRONICOS - 3C",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Redes De Comunicaciones - 3C2\n(EL10)\nRedes de comunicaciones – 3R2\n(EL11)",
+    "subject_name": "Redes De Comunicaciones - 3C2 Redes de comunicaciones – 3R2",
+    "rooms": [
+      "EL10",
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "REDES DE COMUNICACIONES - 3C\n(EA7)",
+    "subject_name": "REDES DE COMUNICACIONES - 3C",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºC",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Redes De Comunicaciones - 3C1\n(EL10)",
+    "subject_name": "Redes De Comunicaciones - 3C1",
+    "rooms": [
+      "EL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "08:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "8:00/8:55",
+    "subject_raw": "DIGITAL ELECTRONIC SYSTEMS - 3E\n(EA6)",
+    "subject_name": "DIGITAL ELECTRONIC SYSTEMS - 3E",
+    "rooms": [
+      "EA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "DIGITAL ELECTRONIC SYSTEMS - 3E\n(EA6)",
+    "subject_name": "DIGITAL ELECTRONIC SYSTEMS - 3E",
+    "rooms": [
+      "EA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Digital Electronic Systems - 3E1\n(OL1)",
+    "subject_name": "Digital Electronic Systems - 3E1",
+    "rooms": [
+      "OL1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Visión Artificial– 4A1 (OL5)\nELECT. BIOMÉDICA - 4C (EA3)",
+    "subject_name": "Visión Artificial– 4A1 ELECT. BIOMÉDICA - 4C",
+    "rooms": [
+      "OL5",
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Visión Artificial – 4A1 (OL5)\nELECT. BIOMÉDICA - 4C (EA3)",
+    "subject_name": "Visión Artificial – 4A1 ELECT. BIOMÉDICA - 4C",
+    "rooms": [
+      "OL5",
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "RUIDO E INTERF. EN SISTEMAS\nELECTRÓNICOS - 4C (SA5A/OL10)",
+    "subject_name": "RUIDO E INTERF. EN SISTEMAS ELECTRÓNICOS - 4C",
+    "rooms": [
+      "SA5A/OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Electrónica Biomédica - 4C2 (OL5)",
+    "subject_name": "Electrónica Biomédica - 4C2",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "13:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Visión Artificial – 4A3 (OL2)",
+    "subject_name": "Visión Artificial – 4A3",
+    "rooms": [
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Visión Artificial – 4A2 (OL5)\nPROG. VISUAL - 4D (EL5)",
+    "subject_name": "Visión Artificial – 4A2 PROG. VISUAL - 4D",
+    "rooms": [
+      "OL5",
+      "EL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Visión Artificial – 4A2 (OL5)\nPROG. VISUAL – 4D (EL5)",
+    "subject_name": "Visión Artificial – 4A2 PROG. VISUAL – 4D",
+    "rooms": [
+      "OL5",
+      "EL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "CONTROL INDUSTRIAL - 4C (OL1)\nProgramación Visual - 4D1 (EL5)",
+    "subject_name": "CONTROL INDUSTRIAL - 4C Programación Visual - 4D1",
+    "rooms": [
+      "OL1",
+      "EL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Control Industrial - 4C1 (OL1)\nSistemas Electrónicos Digitales\nAvanzados - 4C2 (OL5)",
+    "subject_name": "Control Industrial - 4C1 Sistemas Electrónicos Digitales Avanzados - 4C2",
+    "rooms": [
+      "OL1",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "SISTEMAS ELECTRÓNICOS DIGITALES\nAVANZADOS - 4C TUTORÍA (EA2)",
+    "subject_name": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS - 4C TUTORÍA",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "SISTEMAS ELECTRÓNICOS DIGITALES\nAVANZADOS - 4C (EA2)",
+    "subject_name": "SISTEMAS ELECTRÓNICOS DIGITALES AVANZADOS - 4C",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Sistemas Electrónicos Digitales\nAvanzados - 4C1 (OL5)",
+    "subject_name": "Sistemas Electrónicos Digitales Avanzados - 4C1",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Electrónica Biomédica - 4C1 (OL5)",
+    "subject_name": "Electrónica Biomédica - 4C1",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Visión Artificial – 4A2 (OL5)\nRuido E Interferencias En Sistemas\nElectrónicos - 4C1 (EA6/OL10)",
+    "subject_name": "Visión Artificial – 4A2 Ruido E Interferencias En Sistemas Electrónicos - 4C1",
+    "rooms": [
+      "OL5",
+      "EA6/OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Electrónica Para Energías\nRenovables - 4C1 (NA5)",
+    "subject_name": "Electrónica Para Energías Renovables - 4C1",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "ELECTRÓNICA PARA ENERGÍAS\nRENOVABLES - 4C (OL11/NA5)",
+    "subject_name": "ELECTRÓNICA PARA ENERGÍAS RENOVABLES - 4C",
+    "rooms": [
+      "OL11/NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES (G370) (GIEC)",
+    "group": "4ºC",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Visión Artificial – 4A1 (OL5)\nElectrónica Para Energías\nRenovables - 4C2 (OL2)",
+    "subject_name": "Visión Artificial – 4A1 Electrónica Para Energías Renovables - 4C2",
+    "rooms": [
+      "OL5",
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

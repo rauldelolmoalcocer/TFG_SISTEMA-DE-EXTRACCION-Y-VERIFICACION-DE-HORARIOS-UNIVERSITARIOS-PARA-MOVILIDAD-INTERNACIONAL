@@ -1,0 +1,609 @@
+[
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "CAPACITACIÓN EN EL USO DE LAS\nTIC (1C) - 1T (NL8)",
+    "subject_name": "CAPACITACIÓN EN EL USO DE LAS TIC - 1T",
+    "rooms": [
+      "1C",
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "CAPACITACIÓN EN EL USO DE LAS\nTIC (1C) - 1T (NL8)\nAULA DE VINO: VITICULTURA,\nENOLOGÍA Y MARIDAJE - 1T (SA2)\nEVOLUCIÓN HISTÓRICA DE LA\nINGENIERÍA - 1T (OA1)\nHerramientas Para Ingeniería De\nSimulación - 1T-A1 (OL11)\nHerramientas Para Ingeniería De\nSimulación - 1T-A2 (OA6)\nSimulation Engineering Tools –\n1T – E (PL21)\nROBÓTICA PARA TODOS - 1T (OL2)\nTECNOLOGÍAS APLICADAS A LA\nAYUDA A LA DISCAPACIDAD - 1T\n(OA3)\nTECNOLOGÍAS PARA LA SOCIEDAD\nDIGITAL - 1T (EA5)",
+    "subject_name": "CAPACITACIÓN EN EL USO DE LAS TIC - 1T AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T EVOLUCIÓN HISTÓRICA DE LA INGENIERÍA - 1T Herramientas Para Ingeniería De Simulación - 1T-A1 Herramientas Para Ingeniería De Simulación - 1T-A2 Simulation Engineering Tools – 1T – E ROBÓTICA PARA TODOS - 1T TECNOLOGÍAS APLICADAS A LA AYUDA A LA DISCAPACIDAD - 1T TECNOLOGÍAS PARA LA SOCIEDAD DIGITAL - 1T",
+    "rooms": [
+      "1C",
+      "NL8",
+      "SA2",
+      "OA1",
+      "OL11",
+      "OA6",
+      "PL21",
+      "OL2",
+      "OA3",
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "i11:00/11:55",
+    "time_end_raw": "i11:00/11:55",
+    "subject_raw": "CAPACITACIÓN EN EL USO DE LAS\nTIC (1C) - 1T (NL8)\nAULA DE VINO: VITICULTURA,\nENOLOGÍA Y MARIDAJE - 1T (SA2)\nEVOLUCIÓN HISTÓRICA DE LA",
+    "subject_name": "CAPACITACIÓN EN EL USO DE LAS TIC - 1T AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T EVOLUCIÓN HISTÓRICA DE LA",
+    "rooms": [
+      "1C",
+      "NL8",
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "LABORATORIO DE QUÍMICA PARA",
+    "subject_name": "LABORATORIO DE QUÍMICA PARA",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "LABORATORIO DE QUÍMICA PARA",
+    "subject_name": "LABORATORIO DE QUÍMICA PARA",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "LABORATORIO DE QUÍMICA PARA",
+    "subject_name": "LABORATORIO DE QUÍMICA PARA",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "LABORATORIO DE QUÍMICA PARA",
+    "subject_name": "LABORATORIO DE QUÍMICA PARA",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "AULA DE VINO: VITICULTURA,\nENOLOGÍA Y MARIDAJE - 1T (SA2)\nEVOLUCIÓN HISTÓRICA DE LA\nINGENIERÍA - 1T (OA1)\nHerramientas Para Ingeniería De\nSimulación - 1T-A1 (OL11)\nHerramientas Para Ingeniería De\nSimulación - 1T-A2 (OA6)\nSimulation Engineering Tools –\n1T – E (PL21)\nRobótica Para Todos - 1T-A1 (OL2)\nRobótica Para Todos - 1T-A2 (OL7)\nTECNOLOGÍAS APLICADAS A LA\nAYUDA A LA DISCAPACIDAD - 1T\n(OA3/OL10)\nTECNOLOGÍAS PARA LA SOCIEDAD\nDIGITAL - 1T (EA5)",
+    "subject_name": "AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T EVOLUCIÓN HISTÓRICA DE LA INGENIERÍA - 1T Herramientas Para Ingeniería De Simulación - 1T-A1 Herramientas Para Ingeniería De Simulación - 1T-A2 Simulation Engineering Tools – 1T – E Robótica Para Todos - 1T-A1 Robótica Para Todos - 1T-A2 TECNOLOGÍAS APLICADAS A LA AYUDA A LA DISCAPACIDAD - 1T TECNOLOGÍAS PARA LA SOCIEDAD DIGITAL - 1T",
+    "rooms": [
+      "SA2",
+      "OA1",
+      "OL11",
+      "OA6",
+      "PL21",
+      "OL2",
+      "OL7",
+      "OA3/OL10",
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "AULA DE VINO: VITICULTURA,\nENOLOGÍA Y MARIDAJE - 1T (SA2)\nRobótica Para Todos - 1T-A1 (OL2)\nRobótica Para Todos - 1T-A2 (OL7)\nTECNOLOGÍAS APLICADAS A LA\nAYUDA A LA DISCAPACIDAD - 1T\n(OA3/OL10)\nTECNOLOGÍAS PARA LA SOCIEDAD\nDIGITAL - 1T (EA5)",
+    "subject_name": "AULA DE VINO: VITICULTURA, ENOLOGÍA Y MARIDAJE - 1T Robótica Para Todos - 1T-A1 Robótica Para Todos - 1T-A2 TECNOLOGÍAS APLICADAS A LA AYUDA A LA DISCAPACIDAD - 1T TECNOLOGÍAS PARA LA SOCIEDAD DIGITAL - 1T",
+    "rooms": [
+      "SA2",
+      "OL2",
+      "OL7",
+      "OA3/OL10",
+      "EA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "LABORATORIO DE QUÍMICA PARA",
+    "subject_name": "LABORATORIO DE QUÍMICA PARA",
+    "rooms": [],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "16:00",
+    "time_end": "18:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+    "subject_name": "LABORATORIO DE QUÍMICA PARA INGENIEROS - 1T",
+    "rooms": [],
+    "non_room_annotations": [
+      "*",
+      "LabQ"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "17:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)\nTRABAJO EN EQUIPO,\nPRESENTACIÓN Y DEBATE - 1T -A\n(Pabellón GALA Sala 7)",
+    "subject_name": "LABORATORIO DE QUÍMICA PARA INGENIEROS - 1T TRABAJO EN EQUIPO, PRESENTACIÓN Y DEBATE - 1T -A",
+    "rooms": [
+      "Pabellón GALA Sala 7"
+    ],
+    "non_room_annotations": [
+      "*",
+      "LabQ"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+    "subject_name": "LABORATORIO DE QUÍMICA PARA INGENIEROS - 1T",
+    "rooms": [],
+    "non_room_annotations": [
+      "*",
+      "LabQ"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "16:00",
+    "time_end": "18:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+    "subject_name": "LABORATORIO DE QUÍMICA PARA INGENIEROS - 1T",
+    "rooms": [],
+    "non_room_annotations": [
+      "*",
+      "LabQ"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+    "subject_name": "LABORATORIO DE QUÍMICA PARA INGENIEROS - 1T",
+    "rooms": [],
+    "non_room_annotations": [
+      "*",
+      "LabQ"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "BÚSQUEDA Y GESTIÓN DE LA\nINFORMACIÓN Y RECURSOS\nMULTIMEDIA (1C) - 1T (EA6)\nLABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+    "subject_name": "BÚSQUEDA Y GESTIÓN DE LA INFORMACIÓN Y RECURSOS MULTIMEDIA - 1T LABORATORIO DE QUÍMICA PARA INGENIEROS - 1T",
+    "rooms": [
+      "1C",
+      "EA6"
+    ],
+    "non_room_annotations": [
+      "*",
+      "LabQ"
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Búsqueda Y Gestión De La\nInformación Y Recursos Multimedia\n(1C) - 1T-A1 (EA6)",
+    "subject_name": "Búsqueda Y Gestión De La Información Y Recursos Multimedia - 1T-A1",
+    "rooms": [
+      "1C",
+      "EA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      4
+    ],
+    "degree": null,
+    "group": "1ºT",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "16:00",
+    "time_end": "18:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+    "subject_name": "LABORATORIO DE QUÍMICA PARA INGENIEROS - 1T",
+    "rooms": [],
+    "non_room_annotations": [
+      "*",
+      "LabQ"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

@@ -1637,7 +1637,190 @@
     ]
   },
   {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 4,
+    "table_index": 0,
+    "strategy": "text",
+    "reason": "no_day_header",
+    "detail": "Row 0 doesn't look like a day-name header -- it's probably a title line or subject content pdfplumber pulled into row 0: ['GRADO', 'EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES', '(G370)']",
+    "rows": [
+      [
+        "GRADO",
+        "EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES",
+        "(G370)"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "UATRIMESTRE 7º (Curso 4º, Semestre 1",
+        "º) Curso 2026/2027",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "HORA LUNES",
+        "MARTES MIÉRCOLES",
+        "JUEVE"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "Computer Vision - 4E1 (OL8) Comput",
+        "er Vision -"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "Computer Vision - 4E1 (OL8) Comput",
+        "er Vision -"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null
+      ]
+    ]
+  },
+  {
     "source_file": "Semestre2-GIC.pdf",
+    "page": 7,
+    "table_index": 0,
+    "strategy": "lines",
+    "reason": "too_few_rows",
+    "detail": "Table has only 1 row(s), nothing to build entries from.",
+    "rows": [
+      [
+        "17:00/17:55",
+        "Modelado De Sistemas\nComputacionales - 3A5 (OL6)\nModelado De Sistemas\nComputacionales - 3A6 (OL5)",
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
     "page": 7,
     "table_index": 0,
     "strategy": "lines",

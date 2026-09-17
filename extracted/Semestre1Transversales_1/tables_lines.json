@@ -1,0 +1,429 @@
+[
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      152.29,
+      787.25,
+      525.7
+    ],
+    "n_rows": 5,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        "CAPACITACIÓN EN EL USO DE LAS\nTIC (1C) - 1T (NL8)"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        "CAPACITACIÓN EN EL USO DE LAS\nTIC (1C) - 1T (NL8)"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        "CAPACITACIÓN EN EL USO DE LAS\nTIC (1C) - 1T (NL8)\nAULA DE VINO: VITICULTURA,\nENOLOGÍA Y MARIDAJE - 1T (SA2)\nEVOLUCIÓN HISTÓRICA DE LA\nINGENIERÍA - 1T (OA1)\nHerramientas Para Ingeniería De\nSimulación - 1T-A1 (OL11)\nHerramientas Para Ingeniería De\nSimulación - 1T-A2 (OA6)\nSimulation Engineering Tools –\n1T – E (PL21)\nROBÓTICA PARA TODOS - 1T (OL2)\nTECNOLOGÍAS APLICADAS A LA\nAYUDA A LA DISCAPACIDAD - 1T\n(OA3)\nTECNOLOGÍAS PARA LA SOCIEDAD\nDIGITAL - 1T (EA5)"
+      ],
+      [
+        "i11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        "CAPACITACIÓN EN EL USO DE LAS\nTIC (1C) - 1T (NL8)\nAULA DE VINO: VITICULTURA,\nENOLOGÍA Y MARIDAJE - 1T (SA2)\nEVOLUCIÓN HISTÓRICA DE LA"
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 1, col 5",
+        "table_index": 0,
+        "row_index": 1,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 2, col 5",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 5",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 5",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 5
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      5.14,
+      787.25,
+      532.0
+    ],
+    "n_rows": 5,
+    "n_cols": 6,
+    "rows": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "INGENIERÍA - 1T (OA1)\nHerramientas Para Ingeniería De\nSimulación - 1T-A1 (OL11)\nHerramientas Para Ingeniería De\nSimulación - 1T-A2 (OA6)\nSimulation Engineering Tools –\n1T – E (PL21)\nROBÓTICA PARA TODOS - 1T (OL2)\nTECNOLOGÍAS APLICADAS A LA\nAYUDA A LA DISCAPACIDAD - 1T\n(OA3)\nTECNOLOGÍAS PARA LA SOCIEDAD\nDIGITAL - 1T (EA5)"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        "AULA DE VINO: VITICULTURA,\nENOLOGÍA Y MARIDAJE - 1T (SA2)\nEVOLUCIÓN HISTÓRICA DE LA\nINGENIERÍA - 1T (OA1)\nHerramientas Para Ingeniería De\nSimulación - 1T-A1 (OL11)\nHerramientas Para Ingeniería De\nSimulación - 1T-A2 (OA6)\nSimulation Engineering Tools –\n1T – E (PL21)\nRobótica Para Todos - 1T-A1 (OL2)\nRobótica Para Todos - 1T-A2 (OL7)\nTECNOLOGÍAS APLICADAS A LA\nAYUDA A LA DISCAPACIDAD - 1T\n(OA3/OL10)\nTECNOLOGÍAS PARA LA SOCIEDAD\nDIGITAL - 1T (EA5)"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        "AULA DE VINO: VITICULTURA,\nENOLOGÍA Y MARIDAJE - 1T (SA2)\nRobótica Para Todos - 1T-A1 (OL2)\nRobótica Para Todos - 1T-A2 (OL7)\nTECNOLOGÍAS APLICADAS A LA\nAYUDA A LA DISCAPACIDAD - 1T\n(OA3/OL10)\nTECNOLOGÍAS PARA LA SOCIEDAD\nDIGITAL - 1T (EA5)"
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "LABORATORIO DE QUÍMICA PARA",
+        "LABORATORIO DE QUÍMICA PARA",
+        "LABORATORIO DE QUÍMICA PARA",
+        "LABORATORIO DE QUÍMICA PARA",
+        "LABORATORIO DE QUÍMICA PARA"
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 0, col 5",
+        "table_index": 0,
+        "row_index": 0,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 1, col 5",
+        "table_index": 0,
+        "row_index": 1,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 2, col 5",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 5
+      }
+    ]
+  },
+  {
+    "source_file": "Semestre1Transversales_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      5.14,
+      787.25,
+      356.56
+    ],
+    "n_rows": 6,
+    "n_cols": 6,
+    "rows": [
+      [
+        null,
+        "INGENIEROS (*) - 1T (LabQ)",
+        "INGENIEROS (*) - 1T (LabQ)\nTRABAJO EN EQUIPO,\nPRESENTACIÓN Y DEBATE - 1T -A\n(Pabellón GALA Sala 7)",
+        "INGENIEROS (*) - 1T (LabQ)",
+        "INGENIEROS (*) - 1T (LabQ)",
+        "INGENIEROS (*) - 1T (LabQ)"
+      ],
+      [
+        "16:00/16:55",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)\nTRABAJO EN EQUIPO,\nPRESENTACIÓN Y DEBATE - 1T -A\n(Pabellón GALA Sala 7)",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)"
+      ],
+      [
+        "17:00/17:55",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)\nTRABAJO EN EQUIPO,\nPRESENTACIÓN Y DEBATE - 1T -A\n(Pabellón GALA Sala 7)",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+        "BÚSQUEDA Y GESTIÓN DE LA\nINFORMACIÓN Y RECURSOS\nMULTIMEDIA (1C) - 1T (EA6)\nLABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)"
+      ],
+      [
+        "18:00/18:55",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+        "BÚSQUEDA Y GESTIÓN DE LA\nINFORMACIÓN Y RECURSOS\nMULTIMEDIA (1C) - 1T (EA6)\nLABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)",
+        "LABORATORIO DE QUÍMICA PARA\nINGENIEROS (*) - 1T (LabQ)"
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        "Búsqueda Y Gestión De La\nInformación Y Recursos Multimedia\n(1C) - 1T-A1 (EA6)",
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        "Búsqueda Y Gestión De La\nInformación Y Recursos Multimedia\n(1C) - 1T-A1 (EA6)",
+        null
+      ]
+    ],
+    "warnings": [
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 0, col 2",
+        "table_index": 0,
+        "row_index": 0,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 1, col 1",
+        "table_index": 0,
+        "row_index": 1,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 1, col 2",
+        "table_index": 0,
+        "row_index": 1,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 1, col 3",
+        "table_index": 0,
+        "row_index": 1,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 1, col 4",
+        "table_index": 0,
+        "row_index": 1,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 1, col 5",
+        "table_index": 0,
+        "row_index": 1,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 2, col 1",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 2, col 2",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 2, col 3",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 2, col 4",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 2, col 5",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 1",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 1
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 2",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 2
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 3",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 3
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 4",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 3, col 5",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 5
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 4, col 4",
+        "table_index": 0,
+        "row_index": 4,
+        "col_index": 4
+      },
+      {
+        "code": "multiline_cell",
+        "message": "Multiline cell detected at row 5, col 4",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 1, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 1
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 2, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 2
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 3, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 3
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 4, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 5,
+        "col_index": 4
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 2,
+        "col_index": 5
+      },
+      {
+        "code": "repeated_cell_value",
+        "message": "Column 5, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "table_index": 0,
+        "row_index": 3,
+        "col_index": 5
+      }
+    ]
+  }
+]

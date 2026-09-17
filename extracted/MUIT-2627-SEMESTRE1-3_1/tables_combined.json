@@ -1,0 +1,421 @@
+[
+  {
+    "source_file": "MUIT-2627-SEMESTRE1-3_1.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      113.52,
+      179.39,
+      1266.19,
+      284.8
+    ],
+    "n_rows": 11,
+    "n_cols": 6,
+    "rows": [
+      [
+        null,
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00-16:00",
+        "DISEÑO DE SISTEMAS ELECTRÓNICOS",
+        "DISEÑO DE REDES DE COMUNICACIÓN",
+        "DISEÑO DE REDES DE COMUNICACIÓN",
+        "DISEÑO DE SISTEMAS ELECTRÓNICOS",
+        "SISTEMAS DE INSTRUMENTACIÓN"
+      ],
+      [
+        "16:00-17:00",
+        "(GP) SA1",
+        "(GG) SA1",
+        "(GP) SA1",
+        "(GG) SA1",
+        "AVANZADA (GG) SA1"
+      ],
+      [
+        "17:00-18:00",
+        "GESTIÓN DE PROYECTOS (GG)",
+        "COMUNICACIONES DIGITALES DE ALTA",
+        "GESTIÓN DE PROYECTOS (GG)",
+        "COMUNICACIONES DIGITALES DE ALTA",
+        "SISTEMAS DE INSTRUMENTACIÓN"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00-19:00",
+        "NA6",
+        "CAPACIDAD (GP) SA1",
+        "NA6",
+        "CAPACIDAD (GG) SA1",
+        "AVANZADA (GP1) SA1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00:20:00",
+        null,
+        null,
+        null,
+        null,
+        "SISTEMAS DE INSTRUMENTACIÓN"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00-21:00",
+        null,
+        null,
+        null,
+        null,
+        "AVANZADA (GP2) SA1"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE1-3_1.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 1,
+    "bbox": [
+      113.52,
+      366.96,
+      1266.19,
+      469.79
+    ],
+    "n_rows": 18,
+    "n_cols": 6,
+    "rows": [
+      [
+        null,
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00-16:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "TÉCNICAS DE BÚSQUEDA Y",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00-17:00",
+        "FUNDAMENTOS DE LA SEGURIDAD EN",
+        "TECNOLOGÍA FOTÓNICA (SA6)",
+        "TECNOLOGÍA MICROELETRÓNICA (SA6)",
+        "OPTIMIZACIÓN (AULA 5*)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00-18:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "EL SW Y EN LOS COMPONENTES (SA6)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00-19:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "TECNOLOGÍA MICROELETRÓNICA (SA6)",
+        null,
+        "MÁQUINAS DE APRENDIZAJE",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00-20:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "AUTOMÁTICO (AULA 5*)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00-21:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "MUIT-2627-SEMESTRE1-3_1.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 2,
+    "bbox": [
+      113.52,
+      488.8,
+      1266.19,
+      593.85
+    ],
+    "n_rows": 17,
+    "n_cols": 6,
+    "rows": [
+      [
+        null,
+        "Lunes",
+        "Martes",
+        "Miercoles",
+        "Jueves",
+        "Viernes"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00-16:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00-17:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "COMUNICACIONES SEGURAS",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00-18:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00-19:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00-20:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00-21:00",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

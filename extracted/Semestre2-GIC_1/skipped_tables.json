@@ -1,0 +1,20 @@
+[
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 7,
+    "table_index": 0,
+    "strategy": "lines",
+    "reason": "too_few_rows",
+    "detail": "Table has only 1 row(s), nothing to build entries from.",
+    "rows": [
+      [
+        "17:00/17:55",
+        "Modelado De Sistemas\nComputacionales - 3A5 (OL6)\nModelado De Sistemas\nComputacionales - 3A6 (OL5)",
+        null,
+        null,
+        null,
+        null
+      ]
+    ]
+  }
+]

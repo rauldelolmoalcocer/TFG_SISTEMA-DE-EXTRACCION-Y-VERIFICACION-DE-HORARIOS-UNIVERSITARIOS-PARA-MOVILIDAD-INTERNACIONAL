@@ -1,0 +1,2742 @@
+[
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ESTRUCTURAS DISCRETAS - 1A\n(EA4)",
+    "subject_name": "ESTRUCTURAS DISCRETAS - 1A",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Estructuras Discretas - 1A1 (EA4)\nEstructuras Discretas - 1A2 (EA8)",
+    "subject_name": "Estructuras Discretas - 1A1 Estructuras Discretas - 1A2",
+    "rooms": [
+      "EA4",
+      "EA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Estructura Y Organización De\nComputadores - 1A2 (NL5)",
+    "subject_name": "Estructura Y Organización De Computadores - 1A2",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ESTRUCTURA Y ORGANIZACION DE\nCOMPUTADORES - 1A (NA2)",
+    "subject_name": "ESTRUCTURA Y ORGANIZACION DE COMPUTADORES - 1A",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Estructura Y Organización De\nComputadores - 1A1 (NL5)",
+    "subject_name": "Estructura Y Organización De Computadores - 1A1",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      10
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "17:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "Gestión Empresarial - 1A (NA3)",
+    "subject_name": "Gestión Empresarial - 1A",
+    "rooms": [
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Desarrollo Del Software - 1A2 (lab)",
+    "subject_name": "Desarrollo Del Software - 1A2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "DESARROLLO DEL SOFTWARE - 1A\n(EA4)",
+    "subject_name": "DESARROLLO DEL SOFTWARE - 1A",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºA",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Desarrollo Del Software - 1A1 (NL8)",
+    "subject_name": "Desarrollo Del Software - 1A1",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Estructuras Discretas - 1B1 (EA7)\nEstructuras Discretas - 1B2 (EA8)",
+    "subject_name": "Estructuras Discretas - 1B1 Estructuras Discretas - 1B2",
+    "rooms": [
+      "EA7",
+      "EA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ESTRUCTURAS DISCRETAS - 1B\n(EA7)",
+    "subject_name": "ESTRUCTURAS DISCRETAS - 1B",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      10
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "17:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "Gestión Empresarial - 1B (NA3)",
+    "subject_name": "Gestión Empresarial - 1B",
+    "rooms": [
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Estructura Y Organización De\nComputadores - 1B1 (NL5)",
+    "subject_name": "Estructura Y Organización De Computadores - 1B1",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ESTRUCTURA Y ORGANIZACION DE\nCOMPUTADORES - 1B (NA2)",
+    "subject_name": "ESTRUCTURA Y ORGANIZACION DE COMPUTADORES - 1B",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      12,
+      13
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Estructura Y Organización De\nComputadores - 1B2 (NL5)",
+    "subject_name": "Estructura Y Organización De Computadores - 1B2",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Desarrollo Del Software - 1B1 (NL9)",
+    "subject_name": "Desarrollo Del Software - 1B1",
+    "rooms": [
+      "NL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "DESARROLLO DEL SOFTWARE - 1B\n(EA4)",
+    "subject_name": "DESARROLLO DEL SOFTWARE - 1B",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      12,
+      13
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºB",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Desarrollo Del Software - 1B2 (NL9)",
+    "subject_name": "Desarrollo Del Software - 1B2",
+    "rooms": [
+      "NL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Computer Structure And\nOrganization - 1EM1 (NL5)",
+    "subject_name": "Computer Structure And Organization - 1EM1",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Computer Structure And\nOrganization - 1EA (NA2)",
+    "subject_name": "Computer Structure And Organization - 1EA",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Computer Structure And\nOrganization - 1EB (NA2)",
+    "subject_name": "Computer Structure And Organization - 1EB",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Computer Structure And\nOrganization - 1ET1 (NL5)",
+    "subject_name": "Computer Structure And Organization - 1ET1",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Computer Structure And\nOrganization - 1EM2 (NL5)",
+    "subject_name": "Computer Structure And Organization - 1EM2",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Computer Structure And\nOrganization - 1EM3 (EL7)",
+    "subject_name": "Computer Structure And Organization - 1EM3",
+    "rooms": [
+      "EL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "1ºE",
+    "semester": 2,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Computer Structure And\nOrganization - 1ET2 (NL5)",
+    "subject_name": "Computer Structure And Organization - 1ET2",
+    "rooms": [
+      "NL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Programación Avanzada - 2A1\n(lab)",
+    "subject_name": "Programación Avanzada - 2A1",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "PROGRAMACIÓN AVANZADA - 2A\n(NA3)",
+    "subject_name": "PROGRAMACIÓN AVANZADA - 2A",
+    "rooms": [
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Programación Avanzada - 2A2\n(NL11)",
+    "subject_name": "Programación Avanzada - 2A2",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "PROGRAMACIÓN AVANZADA - 2B\n(NA1)",
+    "subject_name": "PROGRAMACIÓN AVANZADA - 2B",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Programación Avanzada - 2B1\n(NL11)",
+    "subject_name": "Programación Avanzada - 2B1",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "REDES DE COMPUTADORES - 2A (NA1)",
+    "subject_name": "REDES DE COMPUTADORES - 2A",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Redes De Computadores - 2A1 (EL10)\nRedes De Computadores - 2A2 (EL11)\nRedes De Computadores - 2A3 (OL24)",
+    "subject_name": "Redes De Computadores - 2A1 Redes De Computadores - 2A2 Redes De Computadores - 2A3",
+    "rooms": [
+      "EL10",
+      "EL11",
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Arquitectura E Ingeniería De\nComputadores - 2A2 (OL24)",
+    "subject_name": "Arquitectura E Ingeniería De Computadores - 2A2",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Arquitectura E Ingeniería De\nComputadores - 2A1 (OL24)",
+    "subject_name": "Arquitectura E Ingeniería De Computadores - 2A1",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ARQUITECTURA E INGENIERÍA DE\nCOMPUTADORES - 2A (NA1)",
+    "subject_name": "ARQUITECTURA E INGENIERÍA DE COMPUTADORES - 2A",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Arquitectura E Ingeniería De\nComputadores - 2A3 (OL24)",
+    "subject_name": "Arquitectura E Ingeniería De Computadores - 2A3",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Análisis De Circuitos - 2A1\n(SL11/NA1)",
+    "subject_name": "Análisis De Circuitos - 2A1",
+    "rooms": [
+      "SL11/NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ANÁLISIS DE CIRCUITOS - 2A (NA1)",
+    "subject_name": "ANÁLISIS DE CIRCUITOS - 2A",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Análisis De Circuitos - 2A2\n(SL11/NA1)",
+    "subject_name": "Análisis De Circuitos - 2A2",
+    "rooms": [
+      "SL11/NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Ingeniería Del Software - 2A1 (NL7)",
+    "subject_name": "Ingeniería Del Software - 2A1",
+    "rooms": [
+      "NL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "INGENIERÍA DEL SOFTWARE - 2A\n(NA1)",
+    "subject_name": "INGENIERÍA DEL SOFTWARE - 2A",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Ingeniería Del Software - 2A2 (NL9)",
+    "subject_name": "Ingeniería Del Software - 2A2",
+    "rooms": [
+      "NL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "INGENIERÍA DEL SOFTWARE - 2B\n(NA1)",
+    "subject_name": "INGENIERÍA DEL SOFTWARE - 2B",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºA",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Ingeniería Del Software - 2B1 (lab)",
+    "subject_name": "Ingeniería Del Software - 2B1",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SOFTWARE ENGINEERING - 2E\n(SA5A)",
+    "subject_name": "SOFTWARE ENGINEERING - 2E",
+    "rooms": [
+      "SA5A"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Software Engineering - 2E1 (NL7)",
+    "subject_name": "Software Engineering - 2E1",
+    "rooms": [
+      "NL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "CIRCUIT ANALYSIS - 2E (SA5A)",
+    "subject_name": "CIRCUIT ANALYSIS - 2E",
+    "rooms": [
+      "SA5A"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Circuit Analysis - 2E1 (SA5A-SL11)",
+    "subject_name": "Circuit Analysis - 2E1",
+    "rooms": [
+      "SA5A-SL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "COMPUTER NETWORKS - 2E (NA6)",
+    "subject_name": "COMPUTER NETWORKS - 2E",
+    "rooms": [
+      "NA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Advanced Programming - 2E1\n(NL11)",
+    "subject_name": "Advanced Programming - 2E1",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ADVANCED PROGRAMMING - 2E\n(SA5B)",
+    "subject_name": "ADVANCED PROGRAMMING - 2E",
+    "rooms": [
+      "SA5B"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "2ºE",
+    "semester": 4,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Computer Networks - 2E1 (EL11)",
+    "subject_name": "Computer Networks - 2E1",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Modelado De Sistemas\nComputacionales - 3A3 (OL6)\nModelado De Sistemas\nComputacionales - 3A4 (OL2)",
+    "subject_name": "Modelado De Sistemas Computacionales - 3A3 Modelado De Sistemas Computacionales - 3A4",
+    "rooms": [
+      "OL6",
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "MODELADO DE SISTEMAS\nCOMPUTACIONALES - 3A (SA7)",
+    "subject_name": "MODELADO DE SISTEMAS COMPUTACIONALES - 3A",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Modelado De Sistemas\nComputacionales - 3A1 (OL6)\nModelado De Sistemas\nComputacionales - 3A2 (OL2)",
+    "subject_name": "Modelado De Sistemas Computacionales - 3A1 Modelado De Sistemas Computacionales - 3A2",
+    "rooms": [
+      "OL6",
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Modelado De Sistemas\nComputacionales - 3A5 (OL6)\nModelado De Sistemas\nComputacionales - 3A6 (OL5)",
+    "subject_name": "Modelado De Sistemas Computacionales - 3A5 Modelado De Sistemas Computacionales - 3A6",
+    "rooms": [
+      "OL6",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Gestión De Proyectos - 3A1 (NL6)",
+    "subject_name": "Gestión De Proyectos - 3A1",
+    "rooms": [
+      "NL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "GESTIÓN DE PROYECTOS - 3A (SA7)",
+    "subject_name": "GESTIÓN DE PROYECTOS - 3A",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Gestión De Proyectos - 3A2 (NL12)",
+    "subject_name": "Gestión De Proyectos - 3A2",
+    "rooms": [
+      "NL12"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Sistemas En Tiempo Real - 3A1 (EL8)",
+    "subject_name": "Sistemas En Tiempo Real - 3A1",
+    "rooms": [
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS EN TIEMPO REAL - 3A\n(OA2)",
+    "subject_name": "SISTEMAS EN TIEMPO REAL - 3A",
+    "rooms": [
+      "OA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas En Tiempo Real - 3A2 (EL8)",
+    "subject_name": "Sistemas En Tiempo Real - 3A2",
+    "rooms": [
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas En Tiempo Real - 3A3 (lab)",
+    "subject_name": "Sistemas En Tiempo Real - 3A3",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Percepción Y Control - 3A3 (OL5)\nPercepción Y Control - 3A4 (PL21)",
+    "subject_name": "Percepción Y Control - 3A3 Percepción Y Control - 3A4",
+    "rooms": [
+      "OL5",
+      "PL21"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "PERCEPCIÓN Y CONTROL - 3A\n(NA2)",
+    "subject_name": "PERCEPCIÓN Y CONTROL - 3A",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Percepción Y Control - 3A1 (OL5)\nPercepción Y Control - 3A2 (PL21)",
+    "subject_name": "Percepción Y Control - 3A1 Percepción Y Control - 3A2",
+    "rooms": [
+      "OL5",
+      "PL21"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Sistemas Empotrados - 3A3 (EL5)",
+    "subject_name": "Sistemas Empotrados - 3A3",
+    "rooms": [
+      "EL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS EMPOTRADOS - 3A\n(NA2)",
+    "subject_name": "SISTEMAS EMPOTRADOS - 3A",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºA",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas Empotrados - 3A1 (EL5)\nSistemas Empotrados - 3A2 (EL4)",
+    "subject_name": "Sistemas Empotrados - 3A1 Sistemas Empotrados - 3A2",
+    "rooms": [
+      "EL5",
+      "EL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 1,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºE",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "PROJECT MANAGEMENT - 3E\n(NA3)",
+    "subject_name": "PROJECT MANAGEMENT - 3E",
+    "rooms": [
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 1,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "3ºE",
+    "semester": 6,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Project Management - 3E1 (NL4)",
+    "subject_name": "Project Management - 3E1",
+    "rooms": [
+      "NL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Seguridad - 4A1 (EL11)",
+    "subject_name": "Seguridad - 4A1",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SEGURIDAD - 4A (NA6)",
+    "subject_name": "SEGURIDAD - 4A",
+    "rooms": [
+      "NA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Seguridad - 4A2 (EL11)",
+    "subject_name": "Seguridad - 4A2",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "14:00",
+    "time_end": "15:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Fund. Del Comercio Electrónico - 4A2 (NL4)",
+    "subject_name": "Fund. Del Comercio Electrónico - 4A2",
+    "rooms": [
+      "NL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "FUND. DEL COMERCIO ELECTRÓNICO – 4A (NA2)",
+    "subject_name": "FUND. DEL COMERCIO ELECTRÓNICO – 4A",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      10
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "17:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "17:00/17:55",
+    "subject_raw": "Fund. Comercio Electrónico – 4A1 (NL4)\nFund. Comercio Electrónico - 4A3 (lab)",
+    "subject_name": "Fund. Comercio Electrónico – 4A1 Fund. Comercio Electrónico - 4A3",
+    "rooms": [
+      "NL4",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      11,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "18:00",
+    "time_end": "18:55",
+    "time_start_raw": "18:00/18:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Fund. Comercio Electrónico - 4A1 (NL4)\nFund. Comercio Electrónico - 4A3 (lab)",
+    "subject_name": "Fund. Comercio Electrónico - 4A1 Fund. Comercio Electrónico - 4A3",
+    "rooms": [
+      "NL4",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "13:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "GESTIÓN Y DESARROLLO DEL\nTALENTO - 4A (EA8)",
+    "subject_name": "GESTIÓN Y DESARROLLO DEL TALENTO - 4A",
+    "rooms": [
+      "EA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "18:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Sist. de Visión Artificial – 4A (OL5)",
+    "subject_name": "Sist. de Visión Artificial – 4A",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "SEG. EN SISTEMAS DISTRIBUIDOS - 4A (NA5)",
+    "subject_name": "SEG. EN SISTEMAS DISTRIBUIDOS - 4A",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Seguridad En Sistemas Distribuidos - 4A1 (SA1)\nSeguridad En Sistemas Distribuidos - 4A2 (SA2)",
+    "subject_name": "Seguridad En Sistemas Distribuidos - 4A1 Seguridad En Sistemas Distribuidos - 4A2",
+    "rooms": [
+      "SA1",
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      12,
+      13
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Seguridad En Sistemas Distribuidos - 4A3 (SA1)\nSeguridad En Sistemas Distribuidos - 4A4 (SA2)",
+    "subject_name": "Seguridad En Sistemas Distribuidos - 4A3 Seguridad En Sistemas Distribuidos - 4A4",
+    "rooms": [
+      "SA1",
+      "SA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Bioingeniería – 4A2\n(OL4)",
+    "subject_name": "Bioingeniería – 4A2",
+    "rooms": [
+      "OL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "BIOINGENIERIA - 4A\n(SA6)",
+    "subject_name": "BIOINGENIERIA - 4A",
+    "rooms": [
+      "SA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºA",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Bioingeniería - 4A1\n(OL4)",
+    "subject_name": "Bioingeniería - 4A1",
+    "rooms": [
+      "OL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºE",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "SECURITY – 4E (Aula)",
+    "subject_name": "SECURITY – 4E",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºE",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Security – 4E1 (Aula)",
+    "subject_name": "Security – 4E1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºE",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "SOFTWARE QUALITY, TESTING AND\nMAINTENANCE – 4E (Aula)",
+    "subject_name": "SOFTWARE QUALITY, TESTING AND MAINTENANCE – 4E",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre2-GIC_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA DE COMPUTADORES (G591) (GIC)",
+    "group": "4ºE",
+    "semester": 8,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Software Quality, Testing and\nMaintenance – 4E1 (Aula)",
+    "subject_name": "Software Quality, Testing and Maintenance – 4E1",
+    "rooms": [],
+    "non_room_annotations": [
+      "Aula"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

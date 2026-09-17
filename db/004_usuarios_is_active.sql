@@ -1,3 +1,7 @@
+-- ⚠ SOLO PARA BASES DE DATOS YA EXISTENTES creadas antes de
+-- db/init/02_usuarios.sql (que ya incluye la columna is_active desde el
+-- principio). Una instalación nueva no necesita este script.
+--
 -- =========================================================
 -- Registro público con aprobación: estado activo/inactivo de la cuenta.
 --

@@ -1,0 +1,3558 @@
+[
+  {
+    "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      187.75,
+      787.55,
+      510.2
+    ],
+    "n_rows": 43,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1A3 (EL6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        "Teoría De Circuitos - 1A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1A3 (EL6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        "Teoría De Circuitos - 1A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1A1 (EL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Cálculo I - 1A2 (EA6)",
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "ÁLGEBRA LINEAL - 1A (EA5)",
+        "CÁLCULO I - 1A (SA2)",
+        null,
+        "Teoría De Circuitos - 1A3",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Álgebra Lineal - 1A1 (EA8)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1A1 (EL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Cálculo I - 1A2 (EA6)",
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "ÁLGEBRA LINEAL - 1A (EA5)",
+        "CÁLCULO I - 1A (SA2)",
+        null,
+        "Teoría De Circuitos - 1A3",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Álgebra Lineal - 1A1 (EA8)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1A2 (EL6)",
+        null
+      ],
+      [
+        null,
+        "SISTEMAS INFORMÁTICOS - 1A",
+        null,
+        "Cálculo I - 1A1 (EA6)",
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "TEORÍA DE CIRCUITOS - 1A (SA2)",
+        null,
+        "Teoría De Circuitos - 1A1",
+        null
+      ],
+      [
+        null,
+        "(NA5)",
+        null,
+        "Álgebra Lineal - 1A2 (EA8)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1A2 (EL6)",
+        null
+      ],
+      [
+        null,
+        "SISTEMAS INFORMÁTICOS - 1A",
+        null,
+        "Cálculo I - 1A1 (EA6)",
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "TEORÍA DE CIRCUITOS - 1A (SA2)",
+        null,
+        "Teoría De Circuitos - 1A1",
+        null
+      ],
+      [
+        null,
+        "(NA5)",
+        null,
+        "Álgebra Lineal - 1A2 (EA8)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA3/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      175.15,
+      787.55,
+      528.15
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Teoría De Circuitos - 1B2",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        "(SA8/SL11)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas Informáticos - 1B3 (EL4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Teoría De Circuitos - 1B2",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        "(SA8/SL11)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas Informáticos - 1B3 (EL4)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Teoría De Circuitos - 1B1",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "SISTEMAS INFORMÁTICOS - 1B",
+        null,
+        "Cálculo I - 1B2 (EA6)",
+        null
+      ],
+      [
+        "10:00/10:55",
+        "(SA8/SL11)",
+        null,
+        "CÁLCULO I - 1B (SA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA5)",
+        null,
+        "Álgebra Lineal - 1B1 (EA8)",
+        null
+      ],
+      [
+        null,
+        "Sistemas Informáticos - 1B2 (EL5)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Teoría De Circuitos - 1B1",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "SISTEMAS INFORMÁTICOS - 1B",
+        null,
+        "Cálculo I - 1B2 (EA6)",
+        null
+      ],
+      [
+        "11:00/11:55",
+        "(SA8/SL11)",
+        null,
+        "CÁLCULO I - 1B (SA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA5)",
+        null,
+        "Álgebra Lineal - 1B1 (EA8)",
+        null
+      ],
+      [
+        null,
+        "Sistemas Informáticos - 1B2 (EL5)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Teoría De Circuitos - 1B3",
+        null,
+        null,
+        "Cálculo I - 1B1 (EA6)",
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "ÁLGEBRA LINEAL - 1B (EA5)",
+        "TEORÍA DE CIRCUITOS - 1B (SA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA8/SL11)",
+        null,
+        null,
+        "Álgebra Lineal - 1B2 (EA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Teoría De Circuitos - 1B3",
+        null,
+        null,
+        "Cálculo I - 1B1 (EA6)",
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "ÁLGEBRA LINEAL - 1B (EA5)",
+        "TEORÍA DE CIRCUITOS - 1B (SA4)",
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA8/SL11)",
+        null,
+        null,
+        "Álgebra Lineal - 1B2 (EA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      187.25,
+      787.55,
+      503.75
+    ],
+    "n_rows": 41,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Teoría De Circuitos - 1C2 (SA8/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Informáticos - 1C3 (EL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Teoría De Circuitos - 1C2 (SA8/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Informáticos - 1C3 (EL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Informáticos - 1C2 (OA7)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Cálculo I - 1C1 (EA6)",
+        null,
+        "SISTEMAS INFORMÁTICOS - 1C",
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "Teoría De Circuitos - 1C1",
+        null,
+        "TEORÍA DE CIRCUITOS - 1C (OA4)",
+        null
+      ],
+      [
+        null,
+        "Álgebra Lineal - 1C2 (EA8)",
+        null,
+        "(EA5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA8/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Informáticos - 1C2 (OA7)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Cálculo I - 1C1 (EA6)",
+        null,
+        "SISTEMAS INFORMÁTICOS - 1C",
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "Teoría De Circuitos - 1C1",
+        null,
+        "TEORÍA DE CIRCUITOS - 1C (OA4)",
+        null
+      ],
+      [
+        null,
+        "Álgebra Lineal - 1C2 (EA8)",
+        null,
+        "(EA5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA8/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Informáticos - 1C1 (EL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Cálculo I - 1C2 (EA6)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "Teoría De Circuitos - 1C3",
+        "ÁLGEBRA LINEAL - 1C (EA5)",
+        "CÁLCULO I – 1C (EA2)",
+        null
+      ],
+      [
+        null,
+        "Álgebra Lineal - 1C1 (EA8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA8/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Informáticos - 1C1 (EL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Cálculo I - 1C2 (EA6)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "Teoría De Circuitos - 1C3",
+        "ÁLGEBRA LINEAL - 1C (EA5)",
+        "CÁLCULO I – 1C (EA2)",
+        null
+      ],
+      [
+        null,
+        "Álgebra Lineal - 1C1 (EA8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA8/SL11)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+    "page": 4,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      187.25,
+      787.55,
+      527.95
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1D1 (EL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        "Teoría De Circuitos - 1D3",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(SA1/SL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1D1 (EL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        "Teoría De Circuitos - 1D3",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(SA1/SL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1D2 (EL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Cálculo I - 1D1 (SA5A)",
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "TEORÍA DE CIRCUITOS - 1D (EA2)",
+        null,
+        "Teoría De Circuitos - 1D1",
+        "ÁLGEBRA LINEAL - 1D (SA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Álgebra Lineal - 1D2 (EA6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(SA1/SL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1D2 (EL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Cálculo I - 1D1 (SA5A)",
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "TEORÍA DE CIRCUITOS - 1D (EA2)",
+        null,
+        "Teoría De Circuitos - 1D1",
+        "ÁLGEBRA LINEAL - 1D (SA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Álgebra Lineal - 1D2 (EA6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(SA1/SL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Teoría De Circuitos - 1D2",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Cálculo I - 1D2 (SA5A)",
+        null,
+        "SISTEMAS INFORMÁTICOS - 1D",
+        null
+      ],
+      [
+        "12:00/12:55",
+        "CÁLCULO I - 1D (SA4)",
+        null,
+        "(SA1/SL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Álgebra Lineal - 1D1 (EA6)",
+        null,
+        "(SA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1D3 (EL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Teoría De Circuitos - 1D2",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Cálculo I - 1D2 (SA5A)",
+        null,
+        "SISTEMAS INFORMÁTICOS - 1D",
+        null
+      ],
+      [
+        "13:00/13:55",
+        "CÁLCULO I – 1D (SA4)",
+        null,
+        "(SA1/SL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Álgebra Lineal - 1D1 (EA6)",
+        null,
+        "(SA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1D3 (EL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+    "page": 5,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      187.25,
+      787.55,
+      437.5
+    ],
+    "n_rows": 27,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "Circuits Theory - 1E1 (SA5A/SL8)",
+        "Linear Algebra - 1E1 (EA1B)",
+        "COMPUTING SYSTEMS - 1E (SA5B)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "Circuits Theory - 1E1 (SA5A/SL8)",
+        "Linear Algebra - 1E1 (EA1B)",
+        "COMPUTING SYSTEMS - 1E (SA5B)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        "CALCULUS I - 1E (SA5A)",
+        "CIRCUITS THEORY - 1E (NA2)",
+        "LINEAR ALGEBRA - 1E (SA5B)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        "CALCULUS I - 1E (SA5A)",
+        "CIRCUITS THEORY - 1E (NA2)",
+        "LINEAR ALGEBRA - 1E (SA5B)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Calculus I - 1E1 (SA5B)",
+        "Computing Systems - 1E1 (EL6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Calculus I - 1E1 (SA5B)",
+        "Computing Systems - 1E1 (EL6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+    "page": 6,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      187.25,
+      787.55,
+      519.0
+    ],
+    "n_rows": 43,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1F1 (EL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Cálculo I - 1F2 (EA5)",
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "CÁLCULO I – 1F (EA5)",
+        null,
+        "ÁLGEBRA LINEAL - 1F (SA4)",
+        "Teoría De Circuitos - 1F3",
+        null
+      ],
+      [
+        null,
+        null,
+        "Álgebra Lineal - 1F1 (OA1)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA7/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1F1 (EL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Cálculo I - 1F2 (EA5)",
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "CÁLCULO I - 1F (EA5)",
+        null,
+        "ÁLGEBRA LINEAL - 1F (SA4)",
+        "Teoría De Circuitos - 1F3",
+        null
+      ],
+      [
+        null,
+        null,
+        "Álgebra Lineal - 1F1 (OA1)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA7/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1F2 (EL5)",
+        null
+      ],
+      [
+        null,
+        "SISTEMAS INFORMÁTICOS - 1F",
+        "Cálculo I - 1F1 (EA5)",
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        "TEORÍA DE CIRCUITOS - 1F (SA4)",
+        "Teoría De Circuitos - 1F1",
+        null
+      ],
+      [
+        null,
+        "(EA7)",
+        "Álgebra Lineal - 1F2 (OA1)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA7/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1F2 (EL5)",
+        null
+      ],
+      [
+        null,
+        "SISTEMAS INFORMÁTICOS - 1F",
+        "Cálculo I - 1F1 (EA5)",
+        null,
+        null,
+        null
+      ],
+      [
+        "18_00/18:55",
+        null,
+        null,
+        "TEORÍA DE CIRCUITOS - 1F (SA4)",
+        "Teoría De Circuitos - 1F1",
+        null
+      ],
+      [
+        null,
+        "(EA7)",
+        "Álgebra Lineal - 1F2 (OA1)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(SA7/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Teoría De Circuitos - 1F2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        "Sistemas Informáticos - 1F4 (EL6)",
+        null,
+        null,
+        "(SA7/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1F3 (EL5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Teoría De Circuitos - 1F2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        "Sistemas Informáticos - 1F4 (EL6)",
+        null,
+        null,
+        "(SA7/SL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Informáticos - 1F3 (EL5)",
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+    "page": 7,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      187.25,
+      787.55,
+      461.3
+    ],
+    "n_rows": 35,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        "Fundamentos Fisicos II - 2A2 (SA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        "Fundamentos Fisicos II - 2A2 (SA3)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónica Básica - 2A1 (SA1/OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        "FUNDAMENTOS FISICOS II - 2A",
+        "ARQUITECTURA DE REDES I - 2A",
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        "ESTADÍSTICA - 2A (EA7)",
+        null,
+        null,
+        "Electrónica Básica - 2A3 (SA1/OL8)",
+        "Fundamentos Fisicos II - 2A1 (SA3)"
+      ],
+      [
+        null,
+        null,
+        "(EA7)",
+        "(SA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Señales Y Sistemas - 2A2 (SA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónica Básica - 2A1 (SA1/OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        "FUNDAMENTOS FISICOS II - 2A",
+        "ARQUITECTURA DE REDES I - 2A",
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        "ESTADÍSTICA - 2A (EA7)",
+        null,
+        null,
+        "Electrónica Básica - 2A3 (SA1/OL8)",
+        "Fundamentos Fisicos II - 2A1 (SA3)"
+      ],
+      [
+        null,
+        null,
+        "(EA7)",
+        "(SA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Señales Y Sistemas - 2A2 (SA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Señales Y Sistemas - 2A1 (SA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes I - 2A2 (EL12)"
+      ],
+      [
+        "12:00/12:55",
+        "SEÑALES Y SISTEMAS - 2A (EA7)",
+        "ELECTRÓNICA BÁSICA - 2A (EA7)",
+        "Estadística - 2A1 (OA1)",
+        "Electrónica Básica - 2A2 (SA1/OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes I - 2A3 (EL06)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónica Básica - 2A4 (SA1/OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Señales Y Sistemas - 2A1 (SA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes I - 2A2 (EL12)"
+      ],
+      [
+        "13:00/13:55",
+        "SEÑALES Y SISTEMAS - 2A (EA7)",
+        "ELECTRÓNICA BÁSICA - 2A (EA7)",
+        "Estadística - 2A1 (OA1)",
+        "Electrónica Básica - 2A2 (SA1/OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes I - 2A3 (EL06)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónica Básica - 2A4 (SA1/OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        "ELECTRÓNICA BÁSICA - 2A (SA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+    "page": 8,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      175.15,
+      786.35,
+      485.7
+    ],
+    "n_rows": 39,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        "Fundamentos Fisicos II - 2B2 (SA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        "Fundamentos Fisicos II - 2B2 (SA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Electrónica Básica - 2B2 (EA6/OL8)"
+      ],
+      [
+        null,
+        "Arq. De Redes I - 2B1 (EL12)",
+        null,
+        null,
+        "ARQUITECTURA DE REDES I - 2B",
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "ELECTRÓNICA BÁSICA - 2B (EA4)",
+        "SEÑALES Y SISTEMAS - 2B (EA7)",
+        null,
+        "Electrónica Básica - 2B4 (EA6/OL8)"
+      ],
+      [
+        null,
+        "Arq. De Redes I - 2B2 (EL11)",
+        null,
+        null,
+        "(EA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Señales Y Sistemas - 2B1 (EA8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Electrónica Básica - 2B2 (EA6/OL8)"
+      ],
+      [
+        null,
+        "Arq. De Redes I - 2B1 (EL12)",
+        null,
+        null,
+        "ARQUITECTURA DE REDES I - 2B",
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "ELECTRÓNICA BÁSICA - 2B (EA4)",
+        "SEÑALES Y SISTEMAS - 2B (EA7)",
+        null,
+        "Electrónica Básica - 2B4 (EA6/OL8)"
+      ],
+      [
+        null,
+        "Arq. De Redes I - 2B2 (EL11)",
+        null,
+        null,
+        "(EA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Señales Y Sistemas - 2B1 (EA8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Electrónica Básica - 2B1 (EA6/OL8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "FUNDAMENTOS FISICOS II - 2B",
+        "Fundamentos Fisicos II - 2B1 (SA6)",
+        null
+      ],
+      [
+        "12:00/12:55",
+        "ESTADÍSTICA - 2B (NA4)",
+        "Estadística - 2B1 (EA8)",
+        null,
+        null,
+        "Electrónica Básica - 2B3 (EA6/OL8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(OA2)",
+        "Electrónica Básica - 2B5 (OL10)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Señales Y Sistemas - 2B2 (EA8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Electrónica Básica - 2B1 (EA6/OL8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "FUNDAMENTOS FISICOS II - 2B",
+        "Fundamentos Fisicos II - 2B1 (SA6)",
+        null
+      ],
+      [
+        "13:00/13:55",
+        "ESTADÍSTICA - 2B (NA4)",
+        "Estadística - 2B1 (EA8)",
+        null,
+        null,
+        "Electrónica Básica - 2B3 (EA6/OL8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "(OA2)",
+        "Electrónica Básica - 2B5 (OL10)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Señales Y Sistemas - 2B2 (EA8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        "ELECTRÓNICA BÁSICA - 2B (EA4)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+    "page": 9,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      187.25,
+      787.55,
+      485.5
+    ],
+    "n_rows": 39,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes I - 2C1 (EL12)"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes I - 2C2 (EL06)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes I - 2C1 (EL12)"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        "ELECTRÓNICA BÁSICA - 2C (EA2)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes I - 2C2 (EL06)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Señales Y Sistemas - 2C2 (NA8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ARQUITECTURA DE REDES I - 2C",
+        null,
+        "FUNDAMENTOS FISICOS II - 2C",
+        null
+      ],
+      [
+        "10:00/10:55",
+        "Electrónica Básica - 2C1",
+        null,
+        "ESTADÍSTICA - 2C (EA4)",
+        null,
+        "Fundamentos Fisicos II - 2C2 (SA1)"
+      ],
+      [
+        null,
+        null,
+        "(EA2)",
+        null,
+        "(SA4)",
+        null
+      ],
+      [
+        null,
+        "(SA1/OL12)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Señales Y Sistemas - 2C2 (NA8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ARQUITECTURA DE REDES I - 2C",
+        null,
+        "FUNDAMENTOS FISICOS II - 2C",
+        null
+      ],
+      [
+        "11:00/11:55",
+        "Electrónica Básica - 2C1",
+        null,
+        "ESTADÍSTICA - 2C (EA4)",
+        null,
+        "Fundamentos Fisicos II - 2C2 (SA1)"
+      ],
+      [
+        null,
+        null,
+        "(EA2)",
+        null,
+        "(SA4)",
+        null
+      ],
+      [
+        null,
+        "(SA1/OL12)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Electrónica Básica - 2C2",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Fundamentos Fisicos II - 2C1 (SA1)"
+      ],
+      [
+        "12:00/12:55",
+        "(SA1/OL12)",
+        "Estadística - 2C1 (SA4)",
+        "SEÑALES Y SISTEMAS - 2C (EA7)",
+        "ELECTRÓNICA BÁSICA - 2C (EA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes I - 2C3 (EL11)"
+      ],
+      [
+        null,
+        "Señales Y Sistemas - 2C1 (NA8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Electrónica Básica - 2C2",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Fundamentos Fisicos II - 2C1 (SA1)"
+      ],
+      [
+        "13:00/13:55",
+        "(SA1/OL12)",
+        "Estadística - 2C1 (SA4)",
+        "SEÑALES Y SISTEMAS - 2C (EA7)",
+        "ELECTRÓNICA BÁSICA - 2C (EA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Arq. De Redes I - 2C3 (EL11)"
+      ],
+      [
+        null,
+        "Señales Y Sistemas - 2C1 (NA8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+    "page": 10,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      100.69,
+      201.6,
+      784.46,
+      451.45
+    ],
+    "n_rows": 31,
+    "n_cols": 5,
+    "rows": [
+      [
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Fundamentos Fisicos II - 2D2 (NA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Fundamentos Fisicos II - 2D2 (NA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ELECTRÓNICA BÁSICA - 2D (SA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "FUNDAMENTOS FISICOS II - 2D",
+        null,
+        null,
+        null,
+        "ARQUITECTURA DE REDES I - 2D"
+      ],
+      [
+        null,
+        "SEÑALES Y SISTEMAS - 2D (SA2)",
+        "Estadística - 2D1 (SA2)",
+        "Señales y Sistemas – 2D1 (SA8)",
+        null
+      ],
+      [
+        "(SA2)",
+        null,
+        null,
+        null,
+        "(EA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "FUNDAMENTOS FISICOS II - 2D",
+        null,
+        null,
+        null,
+        "ARQUITECTURA DE REDES I - 2D"
+      ],
+      [
+        null,
+        "SEÑALES Y SISTEMAS - 2D (SA2)",
+        "Estadística - 2D1 (SA2)",
+        "Señales y Sistemas – 2D1 (SA8)",
+        null
+      ],
+      [
+        "(SA2)",
+        null,
+        null,
+        null,
+        "(EA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Electrónica Básica - 2D2 (SA2/OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica Básica - 2D1 (SA2/OL8)",
+        null,
+        "Arq. De Redes I - 2D1 (EL11)"
+      ],
+      [
+        "ELECTRÓNICA BÁSICA - 2D (SA2)",
+        "ESTADÍSTICA - 2D (SA2)",
+        null,
+        "Electrónica Básica - 2D4 (OL10)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica Básica - 2D3 (OL8)",
+        null,
+        "Arq. De Redes I - 2D2 (EL6)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "Fundamentos Fisicos II - 2D1 (EA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Electrónica Básica - 2D2 (SA2/OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica Básica - 2D1 (SA2/OL8)",
+        null,
+        "Arq. De Redes I - 2D1 (EL11)"
+      ],
+      [
+        "ELECTRÓNICA BÁSICA - 2D (SA2)",
+        "ESTADÍSTICA - 2D (SA2)",
+        null,
+        "Electrónica Básica - 2D4 (OL10)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica Básica - 2D3 (OL8)",
+        null,
+        "Arq. De Redes I - 2D2 (EL6)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "Fundamentos Fisicos II - 2D1 (EA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+    "page": 11,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      175.15,
+      787.55,
+      485.9
+    ],
+    "n_rows": 37,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        "Signals And Systems - 2E1 (EA1B)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        "Signals And Systems - 2E1 (EA1B)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentals Of Physics II - 2E1",
+        null,
+        null,
+        "Fundamentals Of Electronics - 2E1",
+        "FUNDAMENTALS OF ELECTRONICS -"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        "SIGNALS AND SYSTEMS - 2E (SA5A)",
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA1B)",
+        null,
+        null,
+        "(EA1B/OL10)",
+        "2E (EA1B)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentals Of Physics II - 2E1",
+        null,
+        null,
+        "Fundamentals Of Electronics - 2E1",
+        "FUNDAMENTALS OF ELECTRONICS -"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        "SIGNALS AND SYSTEMS - 2E (SA5A)",
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA1B)",
+        null,
+        null,
+        "(EA1B/OL10)",
+        "2E (EA1B)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "FUNDAMENTALS OF PHYSICS II - 2E",
+        null,
+        "Network Architecture I - 2E1",
+        "NETWORK ARCHITECTURE I - 2E"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EL2)",
+        null,
+        "(EA1B) → V 10-12 EL11",
+        "(EA1B)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "FUNDAMENTALS OF PHYSICS II - 2E",
+        null,
+        "Network Architecture I - 2E1",
+        "NETWORK ARCHITECTURE I - 2E"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EL2)",
+        null,
+        "(EA1B) → V 10-12 EL11",
+        "(EA1B)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "FUNDAMENTALS OF ELECTRONICS -",
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "2E (EA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

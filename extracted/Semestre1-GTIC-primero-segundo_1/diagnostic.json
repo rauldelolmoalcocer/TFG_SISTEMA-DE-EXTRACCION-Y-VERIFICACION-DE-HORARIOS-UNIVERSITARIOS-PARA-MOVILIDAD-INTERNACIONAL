@@ -1,0 +1,909 @@
+{
+  "source_file": "Semestre1-GTIC-primero-segundo_1.pdf",
+  "page_count": 11,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 210,
+      "line_count": 31,
+      "rect_count": 104,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 10,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                180.79,
+                787.55,
+                513.3
+              ],
+              "warning_count": 21
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 53,
+              "columns": 12,
+              "bbox": [
+                54.35,
+                84.55,
+                643.99,
+                510.2
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 43,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                187.75,
+                787.55,
+                510.2
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 1, col 4",
+        "[lines] Multiline cell detected at row 2, col 4",
+        "[lines] Multiline cell detected at row 3, col 3",
+        "[lines] Multiline cell detected at row 3, col 4",
+        "[lines] Multiline cell detected at row 4, col 3",
+        "[lines] Multiline cell detected at row 4, col 4",
+        "[lines] Multiline cell detected at row 5, col 1",
+        "[lines] Multiline cell detected at row 5, col 3",
+        "[lines] Multiline cell detected at row 5, col 4",
+        "[lines] Multiline cell detected at row 6, col 1",
+        "[lines] Multiline cell detected at row 6, col 3",
+        "[lines] Multiline cell detected at row 6, col 4",
+        "[lines] Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 2,
+      "word_count": 203,
+      "line_count": 37,
+      "rect_count": 134,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 13,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                168.19,
+                787.55,
+                531.3
+              ],
+              "warning_count": 21
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 55,
+              "columns": 14,
+              "bbox": [
+                52.15,
+                84.05,
+                630.49,
+                528.15
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 45,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                175.15,
+                787.55,
+                528.15
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 1, col 1",
+        "[lines] Multiline cell detected at row 2, col 1",
+        "[lines] Multiline cell detected at row 3, col 1",
+        "[lines] Multiline cell detected at row 3, col 2",
+        "[lines] Multiline cell detected at row 3, col 4",
+        "[lines] Multiline cell detected at row 4, col 1",
+        "[lines] Multiline cell detected at row 4, col 2",
+        "[lines] Multiline cell detected at row 4, col 4",
+        "[lines] Multiline cell detected at row 5, col 1",
+        "[lines] Multiline cell detected at row 5, col 4",
+        "[lines] Multiline cell detected at row 6, col 1",
+        "[lines] Multiline cell detected at row 6, col 4",
+        "[lines] Column 1, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 3,
+      "word_count": 211,
+      "line_count": 33,
+      "rect_count": 110,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 11,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                180.29,
+                787.55,
+                506.9
+              ],
+              "warning_count": 21
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 51,
+              "columns": 11,
+              "bbox": [
+                54.35,
+                84.05,
+                622.49,
+                503.75
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 41,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                187.25,
+                787.55,
+                503.75
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 1, col 2",
+        "[lines] Multiline cell detected at row 2, col 2",
+        "[lines] Multiline cell detected at row 3, col 1",
+        "[lines] Multiline cell detected at row 3, col 2",
+        "[lines] Multiline cell detected at row 3, col 3",
+        "[lines] Multiline cell detected at row 4, col 1",
+        "[lines] Multiline cell detected at row 4, col 2",
+        "[lines] Multiline cell detected at row 4, col 3",
+        "[lines] Multiline cell detected at row 5, col 1",
+        "[lines] Multiline cell detected at row 5, col 2",
+        "[lines] Multiline cell detected at row 6, col 1",
+        "[lines] Multiline cell detected at row 6, col 2",
+        "[lines] Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 4,
+      "word_count": 211,
+      "line_count": 33,
+      "rect_count": 114,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 11,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                180.29,
+                787.55,
+                531.1
+              ],
+              "warning_count": 20
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 57,
+              "columns": 13,
+              "bbox": [
+                54.35,
+                84.05,
+                592.1,
+                558.3
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 45,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                187.25,
+                787.55,
+                527.95
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 1, col 3",
+        "[lines] Multiline cell detected at row 2, col 3",
+        "[lines] Multiline cell detected at row 3, col 2",
+        "[lines] Multiline cell detected at row 3, col 3",
+        "[lines] Multiline cell detected at row 4, col 2",
+        "[lines] Multiline cell detected at row 4, col 3",
+        "[lines] Multiline cell detected at row 5, col 2",
+        "[lines] Multiline cell detected at row 5, col 3",
+        "[lines] Multiline cell detected at row 5, col 4",
+        "[lines] Multiline cell detected at row 6, col 2",
+        "[lines] Multiline cell detected at row 6, col 3",
+        "[lines] Multiline cell detected at row 6, col 4",
+        "[lines] Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 5,
+      "word_count": 146,
+      "line_count": 38,
+      "rect_count": 144,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 14,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                180.29,
+                787.55,
+                440.56
+              ],
+              "warning_count": 8
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 37,
+              "columns": 11,
+              "bbox": [
+                54.35,
+                84.05,
+                550.54,
+                437.5
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 27,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                187.25,
+                787.55,
+                437.5
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 6,
+      "word_count": 220,
+      "line_count": 31,
+      "rect_count": 88,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 10,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                180.29,
+                787.55,
+                522.1
+              ],
+              "warning_count": 21
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 53,
+              "columns": 14,
+              "bbox": [
+                53.55,
+                84.05,
+                643.29,
+                519.0
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 43,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                187.25,
+                787.55,
+                519.0
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 4, col 2",
+        "[lines] Multiline cell detected at row 4, col 4",
+        "[lines] Multiline cell detected at row 5, col 2",
+        "[lines] Multiline cell detected at row 5, col 4",
+        "[lines] Multiline cell detected at row 6, col 1",
+        "[lines] Multiline cell detected at row 6, col 2",
+        "[lines] Multiline cell detected at row 6, col 4",
+        "[lines] Multiline cell detected at row 7, col 1",
+        "[lines] Multiline cell detected at row 7, col 2",
+        "[lines] Multiline cell detected at row 7, col 4",
+        "[lines] Multiline cell detected at row 8, col 4",
+        "[lines] Multiline cell detected at row 9, col 4",
+        "[lines] Column 1, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 1, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 7,
+      "word_count": 247,
+      "line_count": 31,
+      "rect_count": 96,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 10,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                180.29,
+                787.55,
+                464.4
+              ],
+              "warning_count": 21
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 45,
+              "columns": 18,
+              "bbox": [
+                54.35,
+                84.05,
+                782.88,
+                461.3
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 35,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                187.25,
+                787.55,
+                461.3
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 3, col 2",
+        "[lines] Multiline cell detected at row 3, col 3",
+        "[lines] Multiline cell detected at row 3, col 4",
+        "[lines] Multiline cell detected at row 4, col 2",
+        "[lines] Multiline cell detected at row 4, col 3",
+        "[lines] Multiline cell detected at row 4, col 4",
+        "[lines] Multiline cell detected at row 5, col 4",
+        "[lines] Multiline cell detected at row 5, col 5",
+        "[lines] Multiline cell detected at row 6, col 4",
+        "[lines] Multiline cell detected at row 6, col 5",
+        "[lines] Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 8,
+      "word_count": 259,
+      "line_count": 35,
+      "rect_count": 124,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 12,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                168.19,
+                786.35,
+                488.8
+              ],
+              "warning_count": 23
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 49,
+              "columns": 19,
+              "bbox": [
+                54.35,
+                86.7,
+                782.97,
+                558.3
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 39,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                175.15,
+                786.35,
+                485.7
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 3, col 1",
+        "[lines] Multiline cell detected at row 3, col 4",
+        "[lines] Multiline cell detected at row 3, col 5",
+        "[lines] Multiline cell detected at row 4, col 1",
+        "[lines] Multiline cell detected at row 4, col 4",
+        "[lines] Multiline cell detected at row 4, col 5",
+        "[lines] Multiline cell detected at row 5, col 3",
+        "[lines] Multiline cell detected at row 5, col 4",
+        "[lines] Multiline cell detected at row 5, col 5",
+        "[lines] Multiline cell detected at row 6, col 3",
+        "[lines] Multiline cell detected at row 6, col 4",
+        "[lines] Multiline cell detected at row 6, col 5",
+        "[lines] Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 9,
+      "word_count": 241,
+      "line_count": 31,
+      "rect_count": 80,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 10,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                180.29,
+                787.55,
+                488.89
+              ],
+              "warning_count": 23
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 47,
+              "columns": 15,
+              "bbox": [
+                54.35,
+                113.55,
+                770.99,
+                558.3
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 39,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                187.25,
+                787.55,
+                485.5
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 1, col 5",
+        "[lines] Multiline cell detected at row 2, col 5",
+        "[lines] Multiline cell detected at row 3, col 1",
+        "[lines] Multiline cell detected at row 3, col 2",
+        "[lines] Multiline cell detected at row 3, col 4",
+        "[lines] Multiline cell detected at row 4, col 1",
+        "[lines] Multiline cell detected at row 4, col 2",
+        "[lines] Multiline cell detected at row 4, col 4",
+        "[lines] Multiline cell detected at row 5, col 1",
+        "[lines] Multiline cell detected at row 5, col 5",
+        "[lines] Multiline cell detected at row 6, col 1",
+        "[lines] Multiline cell detected at row 6, col 5",
+        "[lines] Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 10,
+      "word_count": 235,
+      "line_count": 31,
+      "rect_count": 42,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 10,
+              "columns": 6,
+              "bbox": [
+                46.9,
+                194.67,
+                784.46,
+                454.7
+              ],
+              "warning_count": 21
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 43,
+              "columns": 13,
+              "bbox": [
+                50.1,
+                96.15,
+                768.23,
+                558.3
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 31,
+              "columns": 5,
+              "bbox": [
+                100.69,
+                201.6,
+                784.46,
+                451.45
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 4, col 1",
+        "[lines] Multiline cell detected at row 4, col 5",
+        "[lines] Multiline cell detected at row 5, col 1",
+        "[lines] Multiline cell detected at row 5, col 5",
+        "[lines] Multiline cell detected at row 6, col 3",
+        "[lines] Multiline cell detected at row 6, col 4",
+        "[lines] Multiline cell detected at row 6, col 5",
+        "[lines] Multiline cell detected at row 7, col 3",
+        "[lines] Multiline cell detected at row 7, col 4",
+        "[lines] Multiline cell detected at row 7, col 5",
+        "[lines] Column 1, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 1, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    },
+    {
+      "page_number": 11,
+      "word_count": 180,
+      "line_count": 38,
+      "rect_count": 136,
+      "strategies": {
+        "lines": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 14,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                168.19,
+                787.55,
+                488.96
+              ],
+              "warning_count": 21
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 49,
+              "columns": 10,
+              "bbox": [
+                54.35,
+                84.05,
+                791.49,
+                558.3
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 37,
+              "columns": 6,
+              "bbox": [
+                50.0,
+                175.15,
+                787.55,
+                485.9
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 3, col 1",
+        "[lines] Multiline cell detected at row 3, col 4",
+        "[lines] Multiline cell detected at row 3, col 5",
+        "[lines] Multiline cell detected at row 4, col 1",
+        "[lines] Multiline cell detected at row 4, col 4",
+        "[lines] Multiline cell detected at row 4, col 5",
+        "[lines] Multiline cell detected at row 5, col 2",
+        "[lines] Multiline cell detected at row 5, col 4",
+        "[lines] Multiline cell detected at row 5, col 5",
+        "[lines] Multiline cell detected at row 6, col 2",
+        "[lines] Multiline cell detected at row 6, col 4",
+        "[lines] Multiline cell detected at row 6, col 5",
+        "[lines] Multiline cell detected at row 7, col 2",
+        "[lines] Column 1, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell",
+        "[lines] Column 5, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell"
+      ]
+    }
+  ]
+}

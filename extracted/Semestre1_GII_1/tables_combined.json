@@ -1,0 +1,4268 @@
+[
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      159.3,
+      787.85,
+      536.5
+    ],
+    "n_rows": 49,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "FÍSICA - 1A",
+        null,
+        null,
+        "Fundamentos Matemáticos - 1A1",
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NA7)",
+        null,
+        null,
+        "(NA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "FÍSICA - 1A",
+        null,
+        null,
+        "Fundamentos Matemáticos - 1A1",
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(NA7)",
+        null,
+        null,
+        "(NA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "FUNDAMENTOS DE"
+      ],
+      [
+        null,
+        "FÍSICA - 1A",
+        "ESTADÍSTICA - 1A",
+        "FUNDAMENTOS DE TECNOLOGÍA DE",
+        "FUNDAMENTOS MATEMÁTICOS - 1A",
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN - 1A"
+      ],
+      [
+        null,
+        "(NA7)",
+        "(NA7)",
+        "COMPUTADORES - 1A (NA5)",
+        "(NA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "FUNDAMENTOS DE"
+      ],
+      [
+        null,
+        "FÍSICA - 1A",
+        "ESTADÍSTICA - 1A",
+        "FUNDAMENTOS DE TECNOLOGÍA DE",
+        "FUNDAMENTOS MATEMÁTICOS - 1A",
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        "PROGRAMACIÓN - 1A"
+      ],
+      [
+        null,
+        "(NA7)",
+        "(NA7)",
+        "COMPUTADORES – 1A (NA5)",
+        "(NA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Fundamentos De Programación –"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Física - 1A1",
+        "Estadística - 1A1",
+        "Fundamentos De Tecnología De",
+        "Fundamentos Matemáticos - 1A2",
+        "1A2 (NL8)"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EL1)",
+        "(NL8)",
+        "Computadores – 1A1 (OL24)",
+        "(NA7)",
+        "Fundamentos De Programación –"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "1A1 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Fundamentos De Programación -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Física - 1A1",
+        "Estadística - 1A1",
+        "Fundamentos De Tecnología De",
+        "Fundamentos Matemáticos - 1A2",
+        "1A2 (NL8)"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EL1)",
+        "(NL8)",
+        "Computadores – 1A1 (OL24)",
+        "(NA7)",
+        "Fundamentos De Programación –"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "1A1 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      158.8,
+      787.85,
+      523.7
+    ],
+    "n_rows": 49,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentos De Tecnologia De",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Computadores - 1B1 (OL24)",
+        null,
+        null,
+        "Fundamentos Matemáticos - 1B1",
+        "FUNDAM. DE PROGRAMACIÓN - 1B"
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Estadística – 1B1 (lab)",
+        "FÍSICA - 1B (NA7)",
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentos De Tecnologia De",
+        null,
+        null,
+        "(NA7)",
+        "(NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Computadores – 1B3 (lab)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentos De Tecnologia De",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Computadores – 1B1 (OL24)",
+        null,
+        null,
+        "Fundamentos Matemáticos - 1B1",
+        "FUNDAM. DE PROGRAMACIÓN - 1B"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Estadística – 1B1 (lab)",
+        "FÍSICA - 1B (NA7)",
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentos De Tecnologia De",
+        null,
+        null,
+        "(NA7)",
+        "(NA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Computadores – 1B3 (lab)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Fundam. De Programación - 1B1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "FUNDAMENTOS MATEMÁTICOS -",
+        null
+      ],
+      [
+        null,
+        "FUNDAMENTOS DE TECNOLOGIA",
+        null,
+        null,
+        null,
+        "(NL8)"
+      ],
+      [
+        "17:00/17:55",
+        null,
+        "ESTADISTICA – 1B (NA1)",
+        "FÍSICA - 1B (NA7)",
+        "1B",
+        null
+      ],
+      [
+        null,
+        "DE COMPUTADORES - 1B (NA7)",
+        null,
+        null,
+        null,
+        "Fundam. De Programación - 1B2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(NA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(NL11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Fundam. De Programación - 1B1"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "FUNDAMENTOS MATEMÁTICOS -",
+        null
+      ],
+      [
+        null,
+        "FUNDAMENTOS DE TECNOLOGIA",
+        null,
+        null,
+        null,
+        "(NL8)"
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "ESTADISTICA – 1B (NA1)",
+        "FÍSICA - 1B (NA7)",
+        "1B",
+        null
+      ],
+      [
+        null,
+        "DE COMPUTADORES - 1B (NA7)",
+        null,
+        null,
+        null,
+        "Fundam. De Programación - 1B2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "(NA7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(NL11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentos De Tecnologia De",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        "Estadística – 1B2 (lab)",
+        "Física - 1B1 (SL2)",
+        null,
+        null
+      ],
+      [
+        null,
+        "Computadores - 1B2 (OL24)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Fundamentos De Tecnologia De",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "Estadística – 1B2 (lab)",
+        "Física – 1B1 (SL2)",
+        null,
+        null
+      ],
+      [
+        null,
+        "Computadores – 1B2 (OL24)",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      146.7,
+      787.85,
+      445.35
+    ],
+    "n_rows": 35,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "FUNDAMENTALS OF COMPUTER",
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "TECHNOLOGY - 1E (NA6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "FUNDAMENTALS OF COMPUTER",
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "TECHNOLOGY - 1E (NA6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Fundamentals Of Computer",
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Technology - 1E1 (OL24)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Fundamentals Of Computer",
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Technology - 1E1 (OL24)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      158.8,
+      787.55,
+      493.55
+    ],
+    "n_rows": 43,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas Operativos - 2A1",
+        "Estructuras De Datos - 2A1",
+        null,
+        "Bases De Datos – 2A2 (*)",
+        "Matemáticas Avanzadas - 2A1"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EL6)",
+        "(NL6)",
+        null,
+        "(lab)",
+        "(NA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas Operativos - 2A1",
+        "Estructuras De Datos - 2A1",
+        null,
+        "Bases De Datos - 2A2 (*)",
+        "Matemáticas Avanzadas - 2A1"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EL6)",
+        "(NL6)",
+        null,
+        "(lab)",
+        "(NA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS OPERATIVOS - 2A",
+        "ESTRUCTURAS DE DATOS - 2A",
+        "ARQUITECTURA DE REDES - 2A",
+        "BASES DE DATOS - 2A",
+        "MATEMÁTICAS AVANZADAS - 2A"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA7)",
+        "(NA1)",
+        "(SA7)",
+        "(NA4)",
+        "(NA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS OPERATIVOS - 2A",
+        "ESTRUCTURAS DE DATOS - 2A",
+        "ARQUITECTURA DE REDES - 2A",
+        "BASES DE DATOS - 2A",
+        "MATEMÁTICAS AVANZADAS - 2A"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(SA7)",
+        "(NA1)",
+        "(SA7)",
+        "(NA4)",
+        "(NA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas Operativos - 2A2 (*)",
+        null,
+        "Arquitectura De Redes - 2A1 (EL2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Bases De Datos - 2A1",
+        null
+      ],
+      [
+        null,
+        "(EL6)",
+        "Estructuras De Datos – 2A2 (*)",
+        "Arquitectura De Redes - 2A2 (EL12)",
+        null,
+        "Matemáticas Avanzadas - 2A2"
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        "(lab)",
+        null
+      ],
+      [
+        null,
+        "Sistemas Operativos – 2A4",
+        "(NL6)",
+        "Arquitectura De Redes – 2A3 (*)",
+        null,
+        "(NA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Bases De Datos – 2A3 (lab)",
+        null
+      ],
+      [
+        null,
+        "(EL2)",
+        null,
+        "(EL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas Operativos – 2A2 (*)",
+        null,
+        "Arquitectura De Redes - 2A1 (EL2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Bases De Datos - 2A1",
+        null
+      ],
+      [
+        null,
+        "(EL6)",
+        "Estructuras De Datos – 2A2 (*)",
+        "Arquitectura De Redes - 2A2 (EL12)",
+        null,
+        "Matemáticas Avanzadas - 2A2"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        "(lab)",
+        null
+      ],
+      [
+        null,
+        "Sistemas Operativos – 2A4",
+        "(NL6)",
+        "Arquitectura De Redes – 2A3 (*)",
+        null,
+        "(NA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Bases De Datos – 2A3 (lab)",
+        null
+      ],
+      [
+        null,
+        "(EL2)",
+        null,
+        "(EL11)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "Sistemas Operativos - 2A3 (EL6)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "Sistemas Operativos - 2A3 (EL6)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 5,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      146.7,
+      787.55,
+      493.75
+    ],
+    "n_rows": 43,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Estructuras De Datos - 2B2",
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(NL6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Estructuras De Datos - 2B2",
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(NL6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Estructuras De Datos - 2B1",
+        null,
+        null,
+        "Matemáticas Avanzadas - 2B1"
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(NL6)",
+        null,
+        null,
+        "(NA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Estructuras De Datos - 2B1",
+        null,
+        null,
+        "Matemáticas Avanzadas - 2B1"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(NL6)",
+        null,
+        null,
+        "(NA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ESTRUCTURAS DE DATOS - 2B",
+        null,
+        null,
+        "MATEMÁTICAS AVANZADAS - 2B"
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA4)",
+        null,
+        null,
+        "(NA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ESTRUCTURAS DE DATOS - 2B",
+        null,
+        null,
+        "MATEMÁTICAS AVANZADAS - 2B"
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(SA4)",
+        null,
+        null,
+        "(NA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Matemáticas Avanzadas - 2B2"
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(NA5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Matemáticas Avanzadas - 2B2"
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(NA5)"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 6,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      158.8,
+      787.85,
+      457.45
+    ],
+    "n_rows": 35,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Computer Network Architectures -"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "DATA STRUCTURES - 2E (OA6)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2E1 (EL11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Computer Network Architectures –"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "DATA STRUCTURES - 2E (OA6)",
+        null,
+        "DATABASES - 2E (OA5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "2E1 (EL11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "COMPUTER NETWORK"
+      ],
+      [
+        "12:00/12:55",
+        "Operating Systems - 2E1 (EL4)",
+        "Data Structures - 2E1 (NL4)",
+        null,
+        "DATABASES - 2E (OA5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ARCHITECTURES - 2E (SA6)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "COMPUTER NETWORK"
+      ],
+      [
+        "13:00/13:55",
+        "Operating Systems - 2E1 (EL4)",
+        "Data Structures - 2E1 (NL4)",
+        null,
+        "Databases - 2E1 (OA5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "ARCHITECTURES - 2E (SA6)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        "Databases - 2E1 (OA5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        "OPERATING SYSTEMS - 2E (NA8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        "OPERATING SYSTEMS - 2E (NA8)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      132.8,
+      787.86,
+      534.2
+    ],
+    "n_rows": 53,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas Operativos Avanzados -",
+        "Ingeniería Del Software Avanzada -",
+        "Procesadores Del Lenguaje - 3A1",
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        "Inteligencia Artificial - 3A1 (NL6)",
+        null
+      ],
+      [
+        null,
+        "3A2 (EL5)",
+        "3A1 (NL11)",
+        "(NA8)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas Operativos Avanzados -",
+        "Ingeniería Del Software Avanzada -",
+        "Procesadores Del Lenguaje - 3A1",
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        "Inteligencia Artificial - 3A1 (NL6)",
+        null
+      ],
+      [
+        null,
+        "3A2 (EL5)",
+        "3A1 (NL11)",
+        "(NA8)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS OPERATIVOS",
+        "INGENIERÍA DEL SOFTWARE",
+        "PROCESADORES DEL LENGUAJE - 3A",
+        "INTELIGENCIA ARTIFICIAL - 3A",
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "AVANZADOS – 3A (NA3)",
+        "AVANZADA – 3A (NA5)",
+        "(SA6)",
+        "(NA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "SISTEMAS OPERATIVOS",
+        "INGENIERÍA DEL SOFTWARE",
+        "PROCESADORES DEL LENGUAJE - 3A",
+        "INTELIGENCIA ARTIFICIAL - 3A",
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "AVANZADOS – 3A (NA3)",
+        "AVANZADA - 3A (NA5)",
+        "(SA6)",
+        "(NA2)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas Operativos Avanzados -",
+        "Ingeniería Del Software Avanzada -",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3A1 (EL5)",
+        "3A2 (NL11)",
+        "Procesadores Del Lenguaje - 3A2",
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        "Inteligencia Artificial - 3A2 (NL6)",
+        "Computación Ubicua - 3A1 (NL10)"
+      ],
+      [
+        null,
+        "Sistemas Operativos Avanzados –",
+        "Ingeniería Del Software Avanzada -",
+        "(NA8)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3A3 (EL8)",
+        "3A3 (lab)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas Operativos Avanzados -",
+        "Ingeniería Del Software Avanzada -",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3A1 (EL5)",
+        "3A2 (NL11)",
+        "Procesadores Del Lenguaje - 3A2",
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        "Inteligencia Artificial - 3A2 (NL6)",
+        "Computación Ubicua - 3A1 (NL10)"
+      ],
+      [
+        null,
+        "Sistemas Operativos Avanzados –",
+        "Ingeniería Del Software Avanzada -",
+        "(NA8)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "3A3 (EL8)",
+        "3A3 (lab)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Procesadores Del Lenguaje - 3A3",
+        null,
+        "COMPUTACIÓN UBICUA - 3A"
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        "Inteligencia Artificial - 3A3 (lab)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(NA8)",
+        null,
+        "(SA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Procesadores Del Lenguaje - 3A3",
+        null,
+        "COMPUTACIÓN UBICUA - 3A"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        "Inteligencia Artificial - 3A3 (lab)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(NA8)",
+        null,
+        "(SA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Computación Ubicua - 3A3 (NL9)"
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Computación Ubicua - 3A2 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Computación Ubicua - 3A3 (NL9)"
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Computación Ubicua - 3A2 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 8,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      158.8,
+      787.85,
+      457.45
+    ],
+    "n_rows": 35,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ADVANCED OPERATING SYSTEMS -",
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3E (OA3)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "ADVANCED OPERATING SYSTEMS -",
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3E (OA3)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Advanced Operating Systems - 3E1",
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EL4)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Advanced Operating Systems - 3E1",
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EL4)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      158.8,
+      787.87,
+      541.35
+    ],
+    "n_rows": 57,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Fundamentos De La Ciencia De"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Datos - 4A1 (NL4)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "ARQUITECTURA Y DISEÑO DE",
+        "Fundamentos De La Ciencia De"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "SISTEMAS WEB Y C/S - 4A (NA8)",
+        "Datos - 4A1 (NL4)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "APLICACIONES DEL SOFT-",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "COMPUTING EN ENERGÍA, VOZ E",
+        "Arquitectura Y Diseño De Sistemas",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Audiovisuales Y"
+      ],
+      [
+        null,
+        null,
+        null,
+        "IMAGEN - 4A (OA6)",
+        "Web Y C/S - 4A1 (NL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Aplicaciones Multimedia – 4A2"
+      ],
+      [
+        null,
+        "SISTEMAS DE CONTROL",
+        "Sistemas De Vision Artificial – 4A3",
+        "Sist. Audiovisuales Y Aplicaciones",
+        "Arquitectura Y Diseño De Sistemas",
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        "(SL7)"
+      ],
+      [
+        null,
+        "INTELIGENTE – 4A (NA5)",
+        "(OL2)",
+        "Multimedia - 4A1 (SL7)",
+        "Web Y C/S - 4A2 (lab)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "FUNDAMENTOS DE LA CIENCIA DE"
+      ],
+      [
+        null,
+        null,
+        null,
+        "INTELIGENCIA ARTIFICIAL",
+        "SISTEMAS DE CONTROL PARA",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "DATOS - 4A (SA4)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "GENERATIVA CON GRANDES",
+        "ROBOTS - 4A (NA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "MODELOS DE LENGUAJE – 4A (NA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "APLICACIONES DEL SOFT-",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "COMPUTING EN ENERGÍA, VOZ E",
+        "Arquitectura Y Diseño De Sistemas",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Audiovisuales Y"
+      ],
+      [
+        null,
+        null,
+        null,
+        "IMAGEN – 4A (OA6)",
+        "Web Y C/S - 4A1 (NL11)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Aplicaciones Multimedia - 4A2"
+      ],
+      [
+        null,
+        "SISTEMAS DE CONTROL",
+        "Sistemas De Vision Artificial – 4A3",
+        "Sist. Audiovisuales Y Aplicaciones",
+        "Arquitectura Y Diseño De Sistemas",
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        "(SL7)"
+      ],
+      [
+        null,
+        "INTELIGENTE - 4A (NA5)",
+        "(OL2)",
+        "Multimedia - 4A1 (SL7)",
+        "Web Y C/S - 4A2 (lab)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "FUNDAMENTOS DE LA CIENCIA DE"
+      ],
+      [
+        null,
+        null,
+        null,
+        "INTELIGENCIA ARTIFICIAL",
+        "SISTEMAS DE CONTROL PARA",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "DATOS - 4A (SA4)"
+      ],
+      [
+        null,
+        null,
+        null,
+        "GENERATIVA CON GRANDES",
+        "ROBOTS - 4A (NA8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "MODELOS DE LENGUAJE – 4A (NA3)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Aplicaciones Del Soft-Computing En",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas De Control Inteligente -",
+        null,
+        "Energía, Voz E Imagen - 4A1 (OA6)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Sistemas Audiovisuales Y"
+      ],
+      [
+        null,
+        "4A1 (OL1)",
+        null,
+        "Sist. Audiovisuales Y Aplicaciones",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas De Control Para Robots -",
+        "Aplicaciones Multimedia - 4A2"
+      ],
+      [
+        null,
+        "Sistemas De Control Inteligente -",
+        "Sistemas De Vision Artificial – 4A3",
+        "Multimedia – 4A1 (SL7)",
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        "4A1 (PL21)",
+        "(SL7)"
+      ],
+      [
+        null,
+        "4A2 (OL2)",
+        "(OL2)",
+        "Sistemas De Control Inteligente -",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas De Control Para Robots -",
+        "Fundamentos De La Ciencia De"
+      ],
+      [
+        null,
+        "Sistemas De Control Inteligente -",
+        null,
+        "4B1 (OL1)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "4A2 (OL2)",
+        "Datos - 4A2 (NL4)"
+      ],
+      [
+        null,
+        "4A3 (OL5)",
+        null,
+        "Sistemas De Control Inteligente -",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "4B2 (OL2)",
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      11.25,
+      650.57,
+      505.05
+    ],
+    "n_rows": 73,
+    "n_cols": 5,
+    "rows": [
+      [
+        null,
+        null,
+        null,
+        "Intelig- Artificial Generativa con",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Grandes Modelos de Lenguaje – 4A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(NA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Intelig- Artificial Generativa con",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Grandes Modelos de Lenguaje – 4A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(SA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Aplicaciones Del Soft-Computing En",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Energía, Voz E Imagen - 4A1 (OA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Sist. Audiovisuales Y Aplicaciones",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Multimedia - 4A1 (SL7)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas De Control Inteligente -",
+        null,
+        "Sistemas De Control Inteligente -",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "4A1 (OL1)",
+        null,
+        "4B1 (OL1)",
+        "Sistemas De Control Para Robots -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas De Control Inteligente -",
+        "Sistemas De Vision Artificial – 4A3",
+        "Sistemas De Control Inteligente -",
+        "4A1 (PL21)"
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "4A2 (OL2)",
+        "(OL2)",
+        "4B2 (OL2)",
+        "Sistemas De Control Para Robots -"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas De Control Inteligente -",
+        null,
+        "Intelig- Artificial Generativa con",
+        "4A2 (OL2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "4A3 (OL5)",
+        null,
+        "Grandes Modelos de Lenguaje – 4A1",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(NA3)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Intelig- Artificial Generativa con",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "Grandes Modelos de Lenguaje – 4A2",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(SA6)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas De Vision Artificial - 4A1",
+        "Patrones Software – 4A1 (NA2)",
+        null,
+        "Sistemas De Visión Artificial - 4A2"
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(OL5)",
+        "Sistemas De Visión Artificial - 4A2",
+        null,
+        "(OL5)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Sistemas De Visión Artificial - 4A2"
+      ],
+      [
+        null,
+        null,
+        "Patrones Software - 4A1 (NA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        "Sistemas De Vision Artificial - 4A1",
+        null,
+        null,
+        "(OL5)"
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Sistemas De Vision Artificial – 4A2",
+        null,
+        null
+      ],
+      [
+        null,
+        "(OL5)",
+        null,
+        null,
+        "ARQ. Y DISEÑO DE SISTEMAS WEB Y"
+      ],
+      [
+        null,
+        null,
+        "(OL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "C/S – 4B (NA8)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Arquitectura Y Diseño De Sistemas"
+      ],
+      [
+        "17:00/17:55",
+        null,
+        "PATRONES SOFTWARE - 4A (NA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Web Y C/S - 4B1 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Arquitectura Y Diseño De Sistemas"
+      ],
+      [
+        "18:00/18:55",
+        null,
+        "PATRONES SOFTWARE - 4A (NA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Web Y C/S - 4B1 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Arquitectura Y Diseño De Sistemas"
+      ],
+      [
+        "19:00/19:55",
+        null,
+        "Patrones Software - 4A2 (NA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Web Y C/S - 4B2 (lab)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Arquitectura Y Diseño De Sistemas"
+      ],
+      [
+        "20:00/20:55",
+        null,
+        "Patrones Software - 4A2 (NA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Web Y C/S - 4B2 (lab)"
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 11,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      158.8,
+      787.85,
+      530.05
+    ],
+    "n_rows": 47,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "INTRODUCTION TO QUANTUM",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "MECHANICS AND QUANTUM",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "COMPUTING – 4E (NA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "INTRODUCTION TO QUANTUM",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "MECHANICS AND QUANTUM",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "COMPUTING – 4E (NA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Introduction To Quantum",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "Mechanics And Quantum",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Computing – 4E1 (NA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Introduction To Quantum",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "Mechanics And Quantum",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Computing – 4E1 (NA8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Computer Vision Systems - 4E1",
+        null,
+        "Computer Vision Systems - 4E1",
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL8)",
+        null,
+        "(OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Computer Vision Systems - 4E1",
+        null,
+        "Computer Vision Systems - 4E1",
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL8)",
+        null,
+        "(OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

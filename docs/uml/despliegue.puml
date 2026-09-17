@@ -42,6 +42,8 @@ node "Servidor  (host Docker)" as HOST {
 
   node "Contenedor  tfg_pgadmin\npgAdmin 4\npuerto 5050 -> 80" as PGADMIN
 
+  node "Contenedor  portainer\n(gestión de Docker)" as PORTAINER
+
   folder "Volúmenes y bind-mounts" as VOL {
     artifact "pgdata  (volumen)\n-> /var/lib/postgresql/data"
     artifact "pgadmin_data  (volumen)"
@@ -82,6 +84,13 @@ note bottom of VOL
   del proyecto por bind-mount; la
   extracción y la revisión operan sobre
   JSON en ./extracted, no sobre la BD.
+end note
+
+note bottom of PORTAINER
+  Administra el propio Docker del host
+  (arrancar/parar contenedores, ver logs).
+  No forma parte del flujo funcional de
+  la aplicación ni lo usan los usuarios.
 end note
 
 note top of HOST

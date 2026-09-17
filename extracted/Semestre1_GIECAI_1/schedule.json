@@ -1,0 +1,2056 @@
+[
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ÁLGEBRA LINEAL Y ECUACIONES\nDIFERENCIALES -\n1A/G (GIEAI) (OA4)",
+    "subject_name": "ÁLGEBRA LINEAL Y ECUACIONES DIFERENCIALES - 1A/G",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Física I - 1A1/G(GIEAI) (SA7)",
+    "subject_name": "Física I - 1A1/G",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Física I - 1A1/G (GIEAI) (SA7)",
+    "subject_name": "Física I - 1A1/G",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS INFORMÁTICOS -\n1B (GTIC) (EA5)",
+    "subject_name": "SISTEMAS INFORMÁTICOS - 1B",
+    "rooms": [
+      "EA5"
+    ],
+    "non_room_annotations": [
+      "GTIC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "TEORÍA DE CIRCUITOS - 1G (NA7)",
+    "subject_name": "TEORÍA DE CIRCUITOS - 1G",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Sistemas Informáticos – 1B1 (OA6)",
+    "subject_name": "Sistemas Informáticos – 1B1",
+    "rooms": [
+      "OA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "CÁLCULO I - 1B (GTIC) (SA4)",
+    "subject_name": "CÁLCULO I - 1B",
+    "rooms": [
+      "SA4"
+    ],
+    "non_room_annotations": [
+      "GTIC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "CÁLCULO I - 1B(GTIC) (SA4)",
+    "subject_name": "CÁLCULO I - 1B",
+    "rooms": [
+      "SA4"
+    ],
+    "non_room_annotations": [
+      "GTIC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "FÍSICA I - 1A/G (GIEAI) (OA4)",
+    "subject_name": "FÍSICA I - 1A/G",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Teoría De Circuitos - 1G1 (NA6)",
+    "subject_name": "Teoría De Circuitos - 1G1",
+    "rooms": [
+      "NA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Álgebra Lineal Y Ecuaciones\nDiferenciales -\n1A2/G (GIEAI) (OA3)",
+    "subject_name": "Álgebra Lineal Y Ecuaciones Diferenciales - 1A2/G",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "1ºG",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Cálculo I - 1B1(GTIC) (EA6)",
+    "subject_name": "Cálculo I - 1B1",
+    "rooms": [
+      "EA6"
+    ],
+    "non_room_annotations": [
+      "GTIC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Electrónica Básica - 2G1 (GTIC)\n(OL8)\nElectrónica Básica - 2G2 (GTIC)\n(OL8)",
+    "subject_name": "Electrónica Básica - 2G1 Electrónica Básica - 2G2",
+    "rooms": [
+      "OL8",
+      "OL8"
+    ],
+    "non_room_annotations": [
+      "GTIC",
+      "GTIC"
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "INGENIERÍA TÉRMICA -\n2A/G (GIEAI) (OA4)",
+    "subject_name": "INGENIERÍA TÉRMICA - 2A/G",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "ELECTRÓNICA BÁSICA -\n2C (GTIC) (EA2)",
+    "subject_name": "ELECTRÓNICA BÁSICA - 2C",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [
+      "GTIC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Ingeniería Térmica – 2A3/G\n(GIEAI) (NA4)",
+    "subject_name": "Ingeniería Térmica – 2A3/G",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL -\n2A/G (GIEAI) (NA4)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2A/G",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "SEÑALES Y SISTEMAS – 2D (GTIC)\n(SA2)",
+    "subject_name": "SEÑALES Y SISTEMAS – 2D",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [
+      "GTIC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "ELECTRÓNICA DIGITAL -\n2A (GIEAI) (NA4)",
+    "subject_name": "ELECTRÓNICA DIGITAL - 2A",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "EXPRESIÓN GRÁFICA – 1A/G (GIEAI)\n(OA4)",
+    "subject_name": "EXPRESIÓN GRÁFICA – 1A/G",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ESTADÍSTICA – 2A/G (GIEAI) (SA2)",
+    "subject_name": "ESTADÍSTICA – 2A/G",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Electrónica Digital – 2G1\n(OL7)",
+    "subject_name": "Electrónica Digital – 2G1",
+    "rooms": [
+      "OL7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "ELECTRÓNICA BÁSICA -\n2C (GTIC) (EA7)",
+    "subject_name": "ELECTRÓNICA BÁSICA - 2C",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [
+      "GTIC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Señales Y Sistemas – 2D1 (GTIC)\n(SA8)",
+    "subject_name": "Señales Y Sistemas – 2D1",
+    "rooms": [
+      "SA8"
+    ],
+    "non_room_annotations": [
+      "GTIC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "Estadística – 2A1/G (GIEAI)\n(EL2)",
+    "subject_name": "Estadística – 2A1/G",
+    "rooms": [
+      "EL2"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Estadística – 2A1/G (GIEAI) (EL2)",
+    "subject_name": "Estadística – 2A1/G",
+    "rooms": [
+      "EL2"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "2ºG",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Expresión Gráfica – 1A1/G\n(GIEAI) (OA6)",
+    "subject_name": "Expresión Gráfica – 1A1/G",
+    "rooms": [
+      "OA6"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS ELECTRÓNICOS\nDIGITALES – 3A/G (GIEAI) (SA6)",
+    "subject_name": "SISTEMAS ELECTRÓNICOS DIGITALES – 3A/G",
+    "rooms": [
+      "SA6"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Subsistemas Electrónicos – 3C3\n(GIEC) (OL8)",
+    "subject_name": "Subsistemas Electrónicos – 3C3",
+    "rooms": [
+      "OL8"
+    ],
+    "non_room_annotations": [
+      "GIEC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Sistemas Electrónicos Digitales –\n3A2/G (GIEAI) (OL5)",
+    "subject_name": "Sistemas Electrónicos Digitales – 3A2/G",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Ciencia de los Materiales – 2A1/G\n(GIEAI) (OA3)",
+    "subject_name": "Ciencia de los Materiales – 2A1/G",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "08:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "8:00/8:55",
+    "subject_raw": "AUTOMATIZACIÓN TUTORÍA–\n3A/G (GIEAI) (OA3)",
+    "subject_name": "AUTOMATIZACIÓN TUTORÍA– 3A/G",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "SISTEMAS ELECTRÓNICOS DIGITALES\nTUTORÍA – 3A/G (GIEAI) (OA3)",
+    "subject_name": "SISTEMAS ELECTRÓNICOS DIGITALES TUTORÍA – 3A/G",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ARQUITECTURA DE REDES I –\n2A(GTIC) (SA2)",
+    "subject_name": "ARQUITECTURA DE REDES I – 2A",
+    "rooms": [
+      "SA2"
+    ],
+    "non_room_annotations": [
+      "GTIC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Subsistemas Electrónicos – 3C1\n(GIEC) (SA3/OL8)",
+    "subject_name": "Subsistemas Electrónicos – 3C1",
+    "rooms": [
+      "SA3/OL8"
+    ],
+    "non_room_annotations": [
+      "GIEC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "08:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "8:00/8:55",
+    "subject_raw": "Automatización – 3A1/G (GIEAI)\n(EL9)",
+    "subject_name": "Automatización – 3A1/G",
+    "rooms": [
+      "EL9"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Automatización – 3A1/G GIEAI)\n(EL9)",
+    "subject_name": "Automatización – 3A1/G GIEAI)",
+    "rooms": [
+      "EL9"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "AUTOMATIZACIÓN – 3A/G (GIEAI)\n(SA6)",
+    "subject_name": "AUTOMATIZACIÓN – 3A/G",
+    "rooms": [
+      "SA6"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "SUBSISTEMAS ELECTRÓNICOS – 3C\n(GIEC) (EA4)",
+    "subject_name": "SUBSISTEMAS ELECTRÓNICOS – 3C",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [
+      "GIEC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "CIENCIA DE LOS MATERIALES –\n2A/G (GIEAI) (NA4)",
+    "subject_name": "CIENCIA DE LOS MATERIALES – 2A/G",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "3ºG",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Arquitectura de redes I – 2A1\n(EL11)",
+    "subject_name": "Arquitectura de redes I – 2A1",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "DISEÑO ELECTRÓNICO – 3C (GIEC)\n(EA2)",
+    "subject_name": "DISEÑO ELECTRÓNICO – 3C",
+    "rooms": [
+      "EA2"
+    ],
+    "non_room_annotations": [
+      "GIEC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "14:00",
+    "time_end": "14:55",
+    "time_start_raw": "14:00/14:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "MÁQUINAS ELÉCTRICAS 3B/G\n(GIEAI) (OA3)",
+    "subject_name": "MÁQUINAS ELÉCTRICAS 3B/G",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Máquinas Eléctricas 3B1/G (GIEAI)\n(OA3)",
+    "subject_name": "Máquinas Eléctricas 3B1/G",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "SISTEMAS ROBOTIZADOS 4A/G\n(GIEAI) (NA5)",
+    "subject_name": "SISTEMAS ROBOTIZADOS 4A/G",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Diseño Electrónico 3C1 (GIEC) (OL2)",
+    "subject_name": "Diseño Electrónico 3C1",
+    "rooms": [
+      "OL2"
+    ],
+    "non_room_annotations": [
+      "GIEC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas Robotizados 4A2/G (GIEAI)\n(PL21)",
+    "subject_name": "Sistemas Robotizados 4A2/G",
+    "rooms": [
+      "PL21"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "MÁQUINAS ELÉCTRICAS 3B/G\n(GIEAI) (OA4)",
+    "subject_name": "MÁQUINAS ELÉCTRICAS 3B/G",
+    "rooms": [
+      "OA4"
+    ],
+    "non_room_annotations": [
+      "GIEAI"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "REDES DE COMUNICACIONES 3C\n(GIEC) (EA7)",
+    "subject_name": "REDES DE COMUNICACIONES 3C",
+    "rooms": [
+      "EA7"
+    ],
+    "non_room_annotations": [
+      "GIEC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Redes de Comunicaciones 3C1\n(GIEC) (EL12)",
+    "subject_name": "Redes de Comunicaciones 3C1",
+    "rooms": [
+      "EL12"
+    ],
+    "non_room_annotations": [
+      "GIEC"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Visión Artificial– 4A1 (OL5)\nELECTRÓNICA BIOMÉDICA - 4C\n(EA3)",
+    "subject_name": "Visión Artificial– 4A1 ELECTRÓNICA BIOMÉDICA - 4C",
+    "rooms": [
+      "OL5",
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Visión Artificial – 4A1 (OL5)\nELECTRÓNICA BIOMÉDICA - 4C\n(EA3)",
+    "subject_name": "Visión Artificial – 4A1 ELECTRÓNICA BIOMÉDICA - 4C",
+    "rooms": [
+      "OL5",
+      "EA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "RUIDO E INTERFERENCIAS EN\nSISTEMAS ELECTRÓNICOS - 4C\n(SA5A/OL10)",
+    "subject_name": "RUIDO E INTERFERENCIAS EN SISTEMAS ELECTRÓNICOS - 4C",
+    "rooms": [
+      "SA5A/OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Electrónica Biomédica - 4C2 (OL5)",
+    "subject_name": "Electrónica Biomédica - 4C2",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Visión Artificial – 4A2 (OL5)",
+    "subject_name": "Visión Artificial – 4A2",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Electrónica Biomédica - 4C1 (OL5)",
+    "subject_name": "Electrónica Biomédica - 4C1",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Visión Artificial – 4A2 (OL5)\nRuido E Interferencias En Sistemas\nElectrónicos - 4C1 (EA6/OL10)",
+    "subject_name": "Visión Artificial – 4A2 Ruido E Interferencias En Sistemas Electrónicos - 4C1",
+    "rooms": [
+      "OL5",
+      "EA6/OL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Electrónica Para Energías\nRenovables - 4C1 (NA5)",
+    "subject_name": "Electrónica Para Energías Renovables - 4C1",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "ELECTRÓNICA PARA ENERGÍAS\nRENOVABLES - 4C (OL11/NA5)",
+    "subject_name": "ELECTRÓNICA PARA ENERGÍAS RENOVABLES - 4C",
+    "rooms": [
+      "OL11/NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      7
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "20:00",
+    "time_end": "20:55",
+    "time_start_raw": "20:00/20:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "ELECTRÓNICA PARA ENERGÍAS\nRENOVABLES - 4C (OL11/NA5 )",
+    "subject_name": "ELECTRÓNICA PARA ENERGÍAS RENOVABLES - 4C",
+    "rooms": [
+      "OL11/NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      3
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "4ºG",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Visión Artificial – 4A1 (OL5)\nElectrónica Para Energías\nRenovables - 4C2 (OL2)",
+    "subject_name": "Visión Artificial – 4A1 Electrónica Para Energías Renovables - 4C2",
+    "rooms": [
+      "OL5",
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "5ºG",
+    "semester": 9,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS DE PRODUCCIÓN\nINDUSTRIAL – 4A GIEAI (SA1)",
+    "subject_name": "SISTEMAS DE PRODUCCIÓN INDUSTRIAL – 4A GIEAI",
+    "rooms": [
+      "SA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "5ºG",
+    "semester": 9,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas De Producción Industrial –\n4A1 GIEAI (OA3)",
+    "subject_name": "Sistemas De Producción Industrial – 4A1 GIEAI",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "5ºG",
+    "semester": 9,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Proyectos – 4A1 GIEAI (EA4)",
+    "subject_name": "Proyectos – 4A1 GIEAI",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GIECAI_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "DOBLE GRADO EN INGENIERÍA ELECTRÓNICA DE COMUNICACIONES E INGENIERÍA ELECTRÓNICA Y AUTOMÁTICA INDUSTRIAL",
+    "group": "5ºG",
+    "semester": 9,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "PROYECTOS – 4A GIEAI (EA4)",
+    "subject_name": "PROYECTOS – 4A GIEAI",
+    "rooms": [
+      "EA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

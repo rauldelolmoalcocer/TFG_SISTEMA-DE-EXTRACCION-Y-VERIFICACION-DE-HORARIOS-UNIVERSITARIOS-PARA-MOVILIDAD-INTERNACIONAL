@@ -1,3 +1,10 @@
+-- ⚠ SOLO PARA BASES DE DATOS YA EXISTENTES creadas antes de
+-- db/init/02_usuarios.sql. Una instalación nueva (volumen vacío) ya crea
+-- la tabla `usuarios` completa, con estas mismas columnas, directamente
+-- en db/init/02_usuarios.sql -- este script NO se ejecuta en ese caso.
+-- Consérvalo para poder actualizar a mano un despliegue antiguo que ya
+-- tuviera datos y no pueda simplemente recrear el volumen.
+--
 -- =========================================================
 -- Migración de la tabla `usuarios` para autenticación real
 -- (hash de contraseña) y gestión de usuarios con rol.

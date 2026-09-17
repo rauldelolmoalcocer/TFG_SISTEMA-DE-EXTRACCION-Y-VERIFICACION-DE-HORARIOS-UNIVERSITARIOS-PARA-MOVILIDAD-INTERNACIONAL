@@ -1,3 +1,12 @@
+-- ⚠ SUSTITUIDO: este fichero ya NO se aplica a mano en una instalación
+-- nueva. Su contenido (verificado columna a columna contra el backend)
+-- se copió tal cual a db/init/01_schema.sql, que PostgreSQL ejecuta
+-- automáticamente al inicializar un volumen vacío (ver docker-compose.yml).
+-- Se conserva este fichero como referencia histórica y por si hace falta
+-- aplicar el esquema a mano sobre una base de datos ya existente que no
+-- pasó por la inicialización automática (p. ej. un despliegue anterior a
+-- este cambio). No editar uno sin replicar el cambio en el otro.
+
 -- =========================================================
 -- EXTENSIONES
 -- =========================================================

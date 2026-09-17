@@ -1,0 +1,3585 @@
+[
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "11:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "FÍSICA - 1A\n(NA7)",
+    "subject_name": "FÍSICA - 1A",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Física - 1A1\n(EL1)",
+    "subject_name": "Física - 1A1",
+    "rooms": [
+      "EL1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ESTADÍSTICA - 1A\n(NA7)",
+    "subject_name": "ESTADÍSTICA - 1A",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Estadística - 1A1\n(NL8)",
+    "subject_name": "Estadística - 1A1",
+    "rooms": [
+      "NL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "FUNDAMENTOS DE TECNOLOGÍA DE\nCOMPUTADORES - 1A (NA5)",
+    "subject_name": "FUNDAMENTOS DE TECNOLOGÍA DE COMPUTADORES - 1A",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "FUNDAMENTOS DE TECNOLOGÍA DE\nCOMPUTADORES – 1A (NA5)",
+    "subject_name": "FUNDAMENTOS DE TECNOLOGÍA DE COMPUTADORES – 1A",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Fundamentos De Tecnología De\nComputadores – 1A1 (OL24)",
+    "subject_name": "Fundamentos De Tecnología De Computadores – 1A1",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Fundamentos Matemáticos - 1A1\n(NA7)",
+    "subject_name": "Fundamentos Matemáticos - 1A1",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "FUNDAMENTOS MATEMÁTICOS - 1A\n(NA7)",
+    "subject_name": "FUNDAMENTOS MATEMÁTICOS - 1A",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Fundamentos Matemáticos - 1A2\n(NA7)",
+    "subject_name": "Fundamentos Matemáticos - 1A2",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "FUNDAMENTOS DE\nPROGRAMACIÓN - 1A\n(NA7)",
+    "subject_name": "FUNDAMENTOS DE PROGRAMACIÓN - 1A",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Fundamentos De Programación –\n1A2 (NL8)\nFundamentos De Programación –\n1A1 (lab)",
+    "subject_name": "Fundamentos De Programación – 1A2 Fundamentos De Programación – 1A1",
+    "rooms": [
+      "NL8",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 1,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºA",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Fundamentos De Programación -\n1A2 (NL8)\nFundamentos De Programación –\n1A1 (lab)",
+    "subject_name": "Fundamentos De Programación - 1A2 Fundamentos De Programación – 1A1",
+    "rooms": [
+      "NL8",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Fundamentos De Tecnologia De\nComputadores - 1B1 (OL24)\nFundamentos De Tecnologia De\nComputadores – 1B3 (lab)",
+    "subject_name": "Fundamentos De Tecnologia De Computadores - 1B1 Fundamentos De Tecnologia De Computadores – 1B3",
+    "rooms": [
+      "OL24",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Fundamentos De Tecnologia De\nComputadores – 1B1 (OL24)\nFundamentos De Tecnologia De\nComputadores – 1B3 (lab)",
+    "subject_name": "Fundamentos De Tecnologia De Computadores – 1B1 Fundamentos De Tecnologia De Computadores – 1B3",
+    "rooms": [
+      "OL24",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "FUNDAMENTOS DE TECNOLOGIA\nDE COMPUTADORES - 1B (NA7)",
+    "subject_name": "FUNDAMENTOS DE TECNOLOGIA DE COMPUTADORES - 1B",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Fundamentos De Tecnologia De\nComputadores - 1B2 (OL24)",
+    "subject_name": "Fundamentos De Tecnologia De Computadores - 1B2",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      10
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "20:00",
+    "time_end": "20:55",
+    "time_start_raw": "20:00/20:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Fundamentos De Tecnologia De\nComputadores – 1B2 (OL24)",
+    "subject_name": "Fundamentos De Tecnologia De Computadores – 1B2",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Estadística – 1B1 (lab)",
+    "subject_name": "Estadística – 1B1",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ESTADISTICA – 1B (NA1)",
+    "subject_name": "ESTADISTICA – 1B",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      10
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Estadística – 1B2 (lab)",
+    "subject_name": "Estadística – 1B2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "18:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "FÍSICA - 1B (NA7)",
+    "subject_name": "FÍSICA - 1B",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      9,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "19:00",
+    "time_end": "19:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "19:00/19:55",
+    "subject_raw": "Física - 1B1 (SL2)",
+    "subject_name": "Física - 1B1",
+    "rooms": [
+      "SL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      10
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "20:00",
+    "time_end": "20:55",
+    "time_start_raw": "20:00/20:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Física – 1B1 (SL2)",
+    "subject_name": "Física – 1B1",
+    "rooms": [
+      "SL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Fundamentos Matemáticos - 1B1\n(NA7)",
+    "subject_name": "Fundamentos Matemáticos - 1B1",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "FUNDAMENTOS MATEMÁTICOS -\n1B\n(NA7)",
+    "subject_name": "FUNDAMENTOS MATEMÁTICOS - 1B",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "FUNDAM. DE PROGRAMACIÓN - 1B\n(NA7)",
+    "subject_name": "FUNDAM. DE PROGRAMACIÓN - 1B",
+    "rooms": [
+      "NA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 2,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      7,
+      8
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºB",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Fundam. De Programación - 1B1\n(NL8)\nFundam. De Programación - 1B2\n(NL11)",
+    "subject_name": "Fundam. De Programación - 1B1 Fundam. De Programación - 1B2",
+    "rooms": [
+      "NL8",
+      "NL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºE",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "FUNDAMENTALS OF COMPUTER\nTECHNOLOGY - 1E (NA6)",
+    "subject_name": "FUNDAMENTALS OF COMPUTER TECHNOLOGY - 1E",
+    "rooms": [
+      "NA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 3,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "1ºE",
+    "semester": 1,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Fundamentals Of Computer\nTechnology - 1E1 (OL24)",
+    "subject_name": "Fundamentals Of Computer Technology - 1E1",
+    "rooms": [
+      "OL24"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Sistemas Operativos - 2A1\n(EL6)",
+    "subject_name": "Sistemas Operativos - 2A1",
+    "rooms": [
+      "EL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS OPERATIVOS - 2A\n(SA7)",
+    "subject_name": "SISTEMAS OPERATIVOS - 2A",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Sistemas Operativos - 2A2 (*)\n(EL6)\nSistemas Operativos – 2A4\n(EL2)",
+    "subject_name": "Sistemas Operativos - 2A2 Sistemas Operativos – 2A4",
+    "rooms": [
+      "EL6",
+      "EL2"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas Operativos – 2A2 (*)\n(EL6)\nSistemas Operativos – 2A4\n(EL2)",
+    "subject_name": "Sistemas Operativos – 2A2 Sistemas Operativos – 2A4",
+    "rooms": [
+      "EL6",
+      "EL2"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas Operativos - 2A3 (EL6)",
+    "subject_name": "Sistemas Operativos - 2A3",
+    "rooms": [
+      "EL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Estructuras De Datos - 2A1\n(NL6)",
+    "subject_name": "Estructuras De Datos - 2A1",
+    "rooms": [
+      "NL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ESTRUCTURAS DE DATOS - 2A\n(NA1)",
+    "subject_name": "ESTRUCTURAS DE DATOS - 2A",
+    "rooms": [
+      "NA1"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Estructuras De Datos – 2A2 (*)\n(NL6)",
+    "subject_name": "Estructuras De Datos – 2A2",
+    "rooms": [
+      "NL6"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "ARQUITECTURA DE REDES - 2A\n(SA7)",
+    "subject_name": "ARQUITECTURA DE REDES - 2A",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Arquitectura De Redes - 2A1 (EL2)\nArquitectura De Redes - 2A2 (EL12)\nArquitectura De Redes – 2A3 (*)\n(EL11)",
+    "subject_name": "Arquitectura De Redes - 2A1 Arquitectura De Redes - 2A2 Arquitectura De Redes – 2A3",
+    "rooms": [
+      "EL2",
+      "EL12",
+      "EL11"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      1
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "08:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "8:00/8:55",
+    "subject_raw": "Bases De Datos – 2A2 (*)\n(lab)",
+    "subject_name": "Bases De Datos – 2A2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Bases De Datos - 2A2 (*)\n(lab)",
+    "subject_name": "Bases De Datos - 2A2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [
+      "*"
+    ],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "BASES DE DATOS - 2A\n(NA4)",
+    "subject_name": "BASES DE DATOS - 2A",
+    "rooms": [
+      "NA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Bases De Datos - 2A1\n(lab)\nBases De Datos – 2A3 (lab)",
+    "subject_name": "Bases De Datos - 2A1 Bases De Datos – 2A3",
+    "rooms": [
+      "lab",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Matemáticas Avanzadas - 2A1\n(NA5)",
+    "subject_name": "Matemáticas Avanzadas - 2A1",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "MATEMÁTICAS AVANZADAS - 2A\n(NA5)",
+    "subject_name": "MATEMÁTICAS AVANZADAS - 2A",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 4,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºA",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Matemáticas Avanzadas - 2A2\n(NA5)",
+    "subject_name": "Matemáticas Avanzadas - 2A2",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Estructuras De Datos - 2B2\n(NL6)",
+    "subject_name": "Estructuras De Datos - 2B2",
+    "rooms": [
+      "NL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Estructuras De Datos - 2B1\n(NL6)",
+    "subject_name": "Estructuras De Datos - 2B1",
+    "rooms": [
+      "NL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "ESTRUCTURAS DE DATOS - 2B\n(SA4)",
+    "subject_name": "ESTRUCTURAS DE DATOS - 2B",
+    "rooms": [
+      "SA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Matemáticas Avanzadas - 2B1\n(NA5)",
+    "subject_name": "Matemáticas Avanzadas - 2B1",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "MATEMÁTICAS AVANZADAS - 2B\n(NA5)",
+    "subject_name": "MATEMÁTICAS AVANZADAS - 2B",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 5,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      12,
+      13
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºB",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Matemáticas Avanzadas - 2B2\n(NA5)",
+    "subject_name": "Matemáticas Avanzadas - 2B2",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Operating Systems - 2E1 (EL4)",
+    "subject_name": "Operating Systems - 2E1",
+    "rooms": [
+      "EL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "OPERATING SYSTEMS - 2E (NA8)",
+    "subject_name": "OPERATING SYSTEMS - 2E",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "DATA STRUCTURES - 2E (OA6)",
+    "subject_name": "DATA STRUCTURES - 2E",
+    "rooms": [
+      "OA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Data Structures - 2E1 (NL4)",
+    "subject_name": "Data Structures - 2E1",
+    "rooms": [
+      "NL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "11:00",
+    "time_end": "12:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "DATABASES - 2E (OA5)",
+    "subject_name": "DATABASES - 2E",
+    "rooms": [
+      "OA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "13:00",
+    "time_end": "14:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "14:00/14:55",
+    "subject_raw": "Databases - 2E1 (OA5)",
+    "subject_name": "Databases - 2E1",
+    "rooms": [
+      "OA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "Computer Network Architectures -\n2E1 (EL11)",
+    "subject_name": "Computer Network Architectures - 2E1",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Computer Network Architectures –\n2E1 (EL11)",
+    "subject_name": "Computer Network Architectures – 2E1",
+    "rooms": [
+      "EL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 6,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "2ºE",
+    "semester": 3,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "COMPUTER NETWORK\nARCHITECTURES - 2E (SA6)",
+    "subject_name": "COMPUTER NETWORK ARCHITECTURES - 2E",
+    "rooms": [
+      "SA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Sistemas Operativos Avanzados -\n3A2 (EL5)",
+    "subject_name": "Sistemas Operativos Avanzados - 3A2",
+    "rooms": [
+      "EL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS OPERATIVOS\nAVANZADOS – 3A (NA3)",
+    "subject_name": "SISTEMAS OPERATIVOS AVANZADOS – 3A",
+    "rooms": [
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas Operativos Avanzados -\n3A1 (EL5)\nSistemas Operativos Avanzados –\n3A3 (EL8)",
+    "subject_name": "Sistemas Operativos Avanzados - 3A1 Sistemas Operativos Avanzados – 3A3",
+    "rooms": [
+      "EL5",
+      "EL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Ingeniería Del Software Avanzada -\n3A1 (NL11)",
+    "subject_name": "Ingeniería Del Software Avanzada - 3A1",
+    "rooms": [
+      "NL11"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "INGENIERÍA DEL SOFTWARE\nAVANZADA – 3A (NA5)",
+    "subject_name": "INGENIERÍA DEL SOFTWARE AVANZADA – 3A",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "INGENIERÍA DEL SOFTWARE\nAVANZADA - 3A (NA5)",
+    "subject_name": "INGENIERÍA DEL SOFTWARE AVANZADA - 3A",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Ingeniería Del Software Avanzada -\n3A2 (NL11)\nIngeniería Del Software Avanzada -\n3A3 (lab)",
+    "subject_name": "Ingeniería Del Software Avanzada - 3A2 Ingeniería Del Software Avanzada - 3A3",
+    "rooms": [
+      "NL11",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Procesadores Del Lenguaje - 3A1\n(NA8)",
+    "subject_name": "Procesadores Del Lenguaje - 3A1",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "PROCESADORES DEL LENGUAJE - 3A\n(SA6)",
+    "subject_name": "PROCESADORES DEL LENGUAJE - 3A",
+    "rooms": [
+      "SA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Procesadores Del Lenguaje - 3A2\n(NA8)",
+    "subject_name": "Procesadores Del Lenguaje - 3A2",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Procesadores Del Lenguaje - 3A3\n(NA8)",
+    "subject_name": "Procesadores Del Lenguaje - 3A3",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Inteligencia Artificial - 3A1 (NL6)",
+    "subject_name": "Inteligencia Artificial - 3A1",
+    "rooms": [
+      "NL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "INTELIGENCIA ARTIFICIAL - 3A\n(NA2)",
+    "subject_name": "INTELIGENCIA ARTIFICIAL - 3A",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Inteligencia Artificial - 3A2 (NL6)",
+    "subject_name": "Inteligencia Artificial - 3A2",
+    "rooms": [
+      "NL6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Inteligencia Artificial - 3A3 (lab)",
+    "subject_name": "Inteligencia Artificial - 3A3",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Computación Ubicua - 3A1 (NL10)",
+    "subject_name": "Computación Ubicua - 3A1",
+    "rooms": [
+      "NL10"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "COMPUTACIÓN UBICUA - 3A\n(SA7)",
+    "subject_name": "COMPUTACIÓN UBICUA - 3A",
+    "rooms": [
+      "SA7"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 7,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºA",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Computación Ubicua - 3A3 (NL9)\nComputación Ubicua - 3A2 (lab)",
+    "subject_name": "Computación Ubicua - 3A3 Computación Ubicua - 3A2",
+    "rooms": [
+      "NL9",
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "ADVANCED OPERATING SYSTEMS -\n3E (OA3)",
+    "subject_name": "ADVANCED OPERATING SYSTEMS - 3E",
+    "rooms": [
+      "OA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 8,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      10,
+      11
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "3ºE",
+    "semester": 5,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Advanced Operating Systems - 3E1\n(EL4)",
+    "subject_name": "Advanced Operating Systems - 3E1",
+    "rooms": [
+      "EL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "SISTEMAS DE CONTROL\nINTELIGENTE – 4A (NA5)",
+    "subject_name": "SISTEMAS DE CONTROL INTELIGENTE – 4A",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "SISTEMAS DE CONTROL\nINTELIGENTE - 4A (NA5)",
+    "subject_name": "SISTEMAS DE CONTROL INTELIGENTE - 4A",
+    "rooms": [
+      "NA5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Sistemas De Control Inteligente -\n4A1 (OL1)\nSistemas De Control Inteligente -\n4A2 (OL2)\nSistemas De Control Inteligente -\n4A3 (OL5)",
+    "subject_name": "Sistemas De Control Inteligente - 4A1 Sistemas De Control Inteligente - 4A2 Sistemas De Control Inteligente - 4A3",
+    "rooms": [
+      "OL1",
+      "OL2",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "12:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Sistemas De Vision Artificial – 4A3\n(OL2)",
+    "subject_name": "Sistemas De Vision Artificial – 4A3",
+    "rooms": [
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "APLICACIONES DEL SOFT-\nCOMPUTING EN ENERGÍA, VOZ E\nIMAGEN - 4A (OA6)\nSist. Audiovisuales Y Aplicaciones\nMultimedia - 4A1 (SL7)\nINTELIGENCIA ARTIFICIAL\nGENERATIVA CON GRANDES\nMODELOS DE LENGUAJE – 4A (NA3)",
+    "subject_name": "APLICACIONES DEL SOFT- COMPUTING EN ENERGÍA, VOZ E IMAGEN - 4A Sist. Audiovisuales Y Aplicaciones Multimedia - 4A1 INTELIGENCIA ARTIFICIAL GENERATIVA CON GRANDES MODELOS DE LENGUAJE – 4A",
+    "rooms": [
+      "OA6",
+      "SL7",
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "APLICACIONES DEL SOFT-\nCOMPUTING EN ENERGÍA, VOZ E\nIMAGEN – 4A (OA6)\nSist. Audiovisuales Y Aplicaciones\nMultimedia - 4A1 (SL7)\nINTELIGENCIA ARTIFICIAL\nGENERATIVA CON GRANDES\nMODELOS DE LENGUAJE – 4A (NA3)",
+    "subject_name": "APLICACIONES DEL SOFT- COMPUTING EN ENERGÍA, VOZ E IMAGEN – 4A Sist. Audiovisuales Y Aplicaciones Multimedia - 4A1 INTELIGENCIA ARTIFICIAL GENERATIVA CON GRANDES MODELOS DE LENGUAJE – 4A",
+    "rooms": [
+      "OA6",
+      "SL7",
+      "NA3"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Aplicaciones Del Soft-Computing En\nEnergía, Voz E Imagen - 4A1 (OA6)\nSist. Audiovisuales Y Aplicaciones\nMultimedia – 4A1 (SL7)\nSistemas De Control Inteligente -\n4B1 (OL1)\nSistemas De Control Inteligente -\n4B2 (OL2)",
+    "subject_name": "Aplicaciones Del Soft-Computing En Energía, Voz E Imagen - 4A1 Sist. Audiovisuales Y Aplicaciones Multimedia – 4A1 Sistemas De Control Inteligente - 4B1 Sistemas De Control Inteligente - 4B2",
+    "rooms": [
+      "OA6",
+      "SL7",
+      "OL1",
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "09:00",
+    "time_end": "09:55",
+    "time_start_raw": "9:00/9:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "ARQUITECTURA Y DISEÑO DE\nSISTEMAS WEB Y C/S - 4A (NA8)",
+    "subject_name": "ARQUITECTURA Y DISEÑO DE SISTEMAS WEB Y C/S - 4A",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Arquitectura Y Diseño De Sistemas\nWeb Y C/S - 4A1 (NL11)\nArquitectura Y Diseño De Sistemas\nWeb Y C/S - 4A2 (lab)\nSISTEMAS DE CONTROL PARA\nROBOTS - 4A (NA8)",
+    "subject_name": "Arquitectura Y Diseño De Sistemas Web Y C/S - 4A1 Arquitectura Y Diseño De Sistemas Web Y C/S - 4A2 SISTEMAS DE CONTROL PARA ROBOTS - 4A",
+    "rooms": [
+      "NL11",
+      "lab",
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Sistemas De Control Para Robots -\n4A1 (PL21)\nSistemas De Control Para Robots -\n4A2 (OL2)",
+    "subject_name": "Sistemas De Control Para Robots - 4A1 Sistemas De Control Para Robots - 4A2",
+    "rooms": [
+      "PL21",
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      1,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "08:00",
+    "time_end": "09:55",
+    "time_start_raw": "8:00/8:55",
+    "time_end_raw": "9:00/9:55",
+    "subject_raw": "Fundamentos De La Ciencia De\nDatos - 4A1 (NL4)",
+    "subject_name": "Fundamentos De La Ciencia De Datos - 4A1",
+    "rooms": [
+      "NL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      3
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "10:00",
+    "time_end": "10:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "10:00/10:55",
+    "subject_raw": "Sistemas Audiovisuales Y\nAplicaciones Multimedia – 4A2\n(SL7)\nFUNDAMENTOS DE LA CIENCIA DE\nDATOS - 4A (SA4)",
+    "subject_name": "Sistemas Audiovisuales Y Aplicaciones Multimedia – 4A2 FUNDAMENTOS DE LA CIENCIA DE DATOS - 4A",
+    "rooms": [
+      "SL7",
+      "SA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "11:00",
+    "time_end": "11:55",
+    "time_start_raw": "11:00/11:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "Sistemas Audiovisuales Y\nAplicaciones Multimedia - 4A2\n(SL7)\nFUNDAMENTOS DE LA CIENCIA DE\nDATOS - 4A (SA4)",
+    "subject_name": "Sistemas Audiovisuales Y Aplicaciones Multimedia - 4A2 FUNDAMENTOS DE LA CIENCIA DE DATOS - 4A",
+    "rooms": [
+      "SL7",
+      "SA4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 9,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "12:00",
+    "time_end": "12:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "12:00/12:55",
+    "subject_raw": "Sistemas Audiovisuales Y\nAplicaciones Multimedia - 4A2\n(SL7)\nFundamentos De La Ciencia De\nDatos - 4A2 (NL4)",
+    "subject_name": "Sistemas Audiovisuales Y Aplicaciones Multimedia - 4A2 Fundamentos De La Ciencia De Datos - 4A2",
+    "rooms": [
+      "SL7",
+      "NL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py)."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas De Control Inteligente -\n4A1 (OL1)\nSistemas De Control Inteligente -\n4A2 (OL2)\nSistemas De Control Inteligente -\n4A3 (OL5)",
+    "subject_name": "Sistemas De Control Inteligente - 4A1 Sistemas De Control Inteligente - 4A2 Sistemas De Control Inteligente - 4A3",
+    "rooms": [
+      "OL1",
+      "OL2",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "LUNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas De Vision Artificial - 4A1\n(OL5)",
+    "subject_name": "Sistemas De Vision Artificial - 4A1",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas De Vision Artificial – 4A3\n(OL2)",
+    "subject_name": "Sistemas De Vision Artificial – 4A3",
+    "rooms": [
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Patrones Software – 4A1 (NA2)\nSistemas De Visión Artificial - 4A2\n(OL5)",
+    "subject_name": "Patrones Software – 4A1 Sistemas De Visión Artificial - 4A2",
+    "rooms": [
+      "NA2",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Patrones Software - 4A1 (NA2)\nSistemas De Vision Artificial – 4A2\n(OL5)",
+    "subject_name": "Patrones Software - 4A1 Sistemas De Vision Artificial – 4A2",
+    "rooms": [
+      "NA2",
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "PATRONES SOFTWARE - 4A (NA2)",
+    "subject_name": "PATRONES SOFTWARE - 4A",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Patrones Software - 4A2 (NA2)",
+    "subject_name": "Patrones Software - 4A2",
+    "rooms": [
+      "NA2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MIÉRCOLES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Aplicaciones Del Soft-Computing En\nEnergía, Voz E Imagen - 4A1 (OA6)\nSist. Audiovisuales Y Aplicaciones\nMultimedia - 4A1 (SL7)\nSistemas De Control Inteligente -\n4B1 (OL1)\nSistemas De Control Inteligente -\n4B2 (OL2)\nIntelig- Artificial Generativa con\nGrandes Modelos de Lenguaje – 4A1\n(NA3)\nIntelig- Artificial Generativa con\nGrandes Modelos de Lenguaje – 4A2\n(SA6)",
+    "subject_name": "Aplicaciones Del Soft-Computing En Energía, Voz E Imagen - 4A1 Sist. Audiovisuales Y Aplicaciones Multimedia - 4A1 Sistemas De Control Inteligente - 4B1 Sistemas De Control Inteligente - 4B2 Intelig- Artificial Generativa con Grandes Modelos de Lenguaje – 4A1 Intelig- Artificial Generativa con Grandes Modelos de Lenguaje – 4A2",
+    "rooms": [
+      "OA6",
+      "SL7",
+      "OL1",
+      "OL2",
+      "NA3",
+      "SA6"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas De Control Para Robots -\n4A1 (PL21)\nSistemas De Control Para Robots -\n4A2 (OL2)",
+    "subject_name": "Sistemas De Control Para Robots - 4A1 Sistemas De Control Para Robots - 4A2",
+    "rooms": [
+      "PL21",
+      "OL2"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "15:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "15:00/15:55",
+    "subject_raw": "Sistemas De Visión Artificial - 4A2\n(OL5)",
+    "subject_name": "Sistemas De Visión Artificial - 4A2",
+    "rooms": [
+      "OL5"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "16:00",
+    "time_end": "16:55",
+    "time_start_raw": "16:00/16:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas De Visión Artificial - 4A2\n(OL5)\nARQ. Y DISEÑO DE SISTEMAS WEB Y\nC/S – 4B (NA8)",
+    "subject_name": "Sistemas De Visión Artificial - 4A2 ARQ. Y DISEÑO DE SISTEMAS WEB Y C/S – 4B",
+    "rooms": [
+      "OL5",
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      6,
+      7
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "17:00",
+    "time_end": "18:55",
+    "time_start_raw": "17:00/17:55",
+    "time_end_raw": "18:00/18:55",
+    "subject_raw": "Arquitectura Y Diseño De Sistemas\nWeb Y C/S - 4B1 (lab)",
+    "subject_name": "Arquitectura Y Diseño De Sistemas Web Y C/S - 4B1",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "19:00",
+    "time_end": "20:55",
+    "time_start_raw": "19:00/19:55",
+    "time_end_raw": "20:00/20:55",
+    "subject_raw": "Arquitectura Y Diseño De Sistemas\nWeb Y C/S - 4B2 (lab)",
+    "subject_name": "Arquitectura Y Diseño De Sistemas Web Y C/S - 4B2",
+    "rooms": [
+      "lab"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      2,
+      2
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "13:00",
+    "time_end": "13:55",
+    "time_start_raw": "13:00/13:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Sistemas Audiovisuales Y\nAplicaciones Multimedia - 4A2\n(SL7)\nFundamentos De La Ciencia De\nDatos - 4A2 (NL4)",
+    "subject_name": "Sistemas Audiovisuales Y Aplicaciones Multimedia - 4A2 Fundamentos De La Ciencia De Datos - 4A2",
+    "rooms": [
+      "SL7",
+      "NL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 10,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      4,
+      5
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºA",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "VIERNES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Sistemas De Vision Artificial - 4A1\n(OL5)\nFundamentos De La Ciencia De\nDatos - 4A3 (NL4)",
+    "subject_name": "Sistemas De Vision Artificial - 4A1 Fundamentos De La Ciencia De Datos - 4A3",
+    "rooms": [
+      "OL5",
+      "NL4"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": true,
+    "warnings": [
+      "Cell contains more than one room-like reference; it may hold two overlapping classes that were not split (see cell_parser.py).",
+      "This table had no day-header row of its own; the day header and degree/group/semester/course_year were inherited from the nearest previous page with one, because this looks like a schedule grid that the source PDF paginated across two pages. Please double-check."
+    ],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      3,
+      4
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºE",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "10:00",
+    "time_end": "11:55",
+    "time_start_raw": "10:00/10:55",
+    "time_end_raw": "11:00/11:55",
+    "subject_raw": "INTRODUCTION TO QUANTUM\nMECHANICS AND QUANTUM\nCOMPUTING – 4E (NA8)",
+    "subject_name": "INTRODUCTION TO QUANTUM MECHANICS AND QUANTUM COMPUTING – 4E",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      5,
+      6
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºE",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "12:00",
+    "time_end": "13:55",
+    "time_start_raw": "12:00/12:55",
+    "time_end_raw": "13:00/13:55",
+    "subject_raw": "Introduction To Quantum\nMechanics And Quantum\nComputing – 4E1 (NA8)",
+    "subject_name": "Introduction To Quantum Mechanics And Quantum Computing – 4E1",
+    "rooms": [
+      "NA8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºE",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "MARTES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Computer Vision Systems - 4E1\n(OL8)",
+    "subject_name": "Computer Vision Systems - 4E1",
+    "rooms": [
+      "OL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  },
+  {
+    "source_file": "Semestre1_GII_1.pdf",
+    "page": 11,
+    "strategy": "lines",
+    "table_index": 0,
+    "row_span": [
+      8,
+      9
+    ],
+    "degree": "GRADO EN INGENIERÍA INFORMÁTICA (G781) (GII)",
+    "group": "4ºE",
+    "semester": 7,
+    "course_year": "2026/2027",
+    "day": "JUEVES",
+    "time_start": "15:00",
+    "time_end": "16:55",
+    "time_start_raw": "15:00/15:55",
+    "time_end_raw": "16:00/16:55",
+    "subject_raw": "Computer Vision Systems - 4E1\n(OL8)",
+    "subject_name": "Computer Vision Systems - 4E1",
+    "rooms": [
+      "OL8"
+    ],
+    "non_room_annotations": [],
+    "multiple_entries_suspected": false,
+    "warnings": [],
+    "llm_reviewed": false,
+    "llm_confidence": null,
+    "llm_note": null
+  }
+]

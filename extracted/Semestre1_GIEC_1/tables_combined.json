@@ -1,0 +1,1318 @@
+[
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 1,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      158.8,
+      787.85,
+      535.6
+    ],
+    "n_rows": 53,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Redes De Comunicaciones - 3C2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica De Potencia - 3C2",
+        null,
+        "Diseño Electrónico - 3C3 (OL6)",
+        "(EL10)"
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL11)",
+        null,
+        "Diseño Electrónico – 3C4 (OL11)",
+        "Redes de comunicaciones – 3R2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(EL11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Redes De Comunicaciones - 3C2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica De Potencia - 3C2",
+        "SISTEMAS ELECTRÓNICOS DIGITALES",
+        "Diseño Electrónico - 3C3 (OL6)",
+        "(EL10)"
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL11)",
+        "- 3C (EA7)",
+        "Diseño Electrónico – 3C4 (OL11)",
+        "Redes de comunicaciones – 3R2"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        "(EL11)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Electrónicos Digitales -",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ELECTRONICA DE POTENCIA - 3C",
+        "3C1 (OL5)",
+        "Diseño Electrónico - 3C1 (OL2)",
+        "SISTEMAS ELECTRÓNICOS",
+        "REDES DE COMUNICACIONES - 3C"
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA3)",
+        "Subsistemas Electrónicos - 3C2",
+        "Diseño Electrónico - 3C2 (OL6)",
+        "DIGITALES - 3C (EA4)",
+        "(EA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Electrónicos Digitales -",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ELECTRONICA DE POTENCIA - 3C",
+        "3C1 (OL5)",
+        "Diseño Electrónico - 3C1 (OL2)",
+        "SISTEMAS ELECTRÓNICOS",
+        "REDES DE COMUNICACIONES - 3C"
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "(EA3)",
+        "Subsistemas Electrónicos - 3C2",
+        "Diseño Electrónico - 3C2 (OL6)",
+        "DIGITALES - 3C (EA4)",
+        "(EA7)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL8)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica De Potencia - 3C1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL11)",
+        "Subsistemas Electrónicos - 3C1",
+        "SUBSISTEMAS ELECTRONICOS - 3C",
+        "Redes De Comunicaciones - 3C1"
+      ],
+      [
+        "12:00/12:55",
+        "DISEÑO ELECTRÓNICO - 3C (EA2)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Electrónicos Digitales -",
+        "(SA3)",
+        "(EA4)",
+        "(EL10)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3C2 (OL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Electrónica De Potencia - 3C1",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(OL11)",
+        "Subsistemas Electrónicos - 3C1",
+        "SUBSISTEMAS ELECTRONICOS - 3C",
+        "Redes De Comunicaciones - 3C1"
+      ],
+      [
+        "13:00/13:55",
+        "DISEÑO ELECTRÓNICO - 3C (EA2)",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Sistemas Electrónicos Digitales -",
+        "(SA3)",
+        "(EA4)",
+        "(EL10)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "3C2 (OL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 2,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      158.8,
+      787.55,
+      433.25
+    ],
+    "n_rows": 31,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "DIGITAL ELECTRONIC SYSTEMS - 3E",
+        "DIGITAL ELECTRONIC SYSTEMS - 3E",
+        "Digital Electronic Systems - 3E1",
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "(EA6)",
+        "(EA6)",
+        "(OL1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "DIGITAL ELECTRONIC SYSTEMS - 3E",
+        "Digital Electronic Systems - 3E1",
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "(EA6)",
+        "(OL1)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 3,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      158.8,
+      787.85,
+      505.65
+    ],
+    "n_rows": 45,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        "Visión Artificial – 4A3 (OL2)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        "Visión Artificial – 4A3 (OL2)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        "Visión Artificial – 4A3 (OL2)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        "Visión Artificial – 4A3 (OL2)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "SISTEMAS ELECTRÓNICOS DIGITALES",
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "AVANZADOS - 4C TUTORÍA (EA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Visión Artificial – 4A2 (OL5)",
+        "Visión Artificial – 4A1 (OL5)"
+      ],
+      [
+        null,
+        "Visión Artificial– 4A1 (OL5)",
+        "Visión Artificial – 4A2 (OL5)",
+        "SISTEMAS ELECTRÓNICOS DIGITALES",
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        null,
+        null,
+        "Ruido E Interferencias En Sistemas",
+        "Electrónica Para Energías"
+      ],
+      [
+        null,
+        "ELECT. BIOMÉDICA - 4C (EA3)",
+        "PROG. VISUAL - 4D (EL5)",
+        "AVANZADOS - 4C (EA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónicos - 4C1 (EA6/OL10)",
+        "Renovables - 4C2 (OL2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Visión Artificial – 4A2 (OL5)",
+        "Visión Artificial – 4A1 (OL5)"
+      ],
+      [
+        null,
+        "Visión Artificial – 4A1 (OL5)",
+        "Visión Artificial – 4A2 (OL5)",
+        "SISTEMAS ELECTRÓNICOS DIGITALES",
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        null,
+        null,
+        "Ruido E Interferencias En Sistemas",
+        "Electrónica Para Energías"
+      ],
+      [
+        null,
+        "ELECT. BIOMÉDICA - 4C (EA3)",
+        "PROG. VISUAL – 4D (EL5)",
+        "AVANZADOS - 4C (EA2)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "Electrónicos - 4C1 (EA6/OL10)",
+        "Renovables - 4C2 (OL2)"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "RUIDO E INTERF. EN SISTEMAS",
+        "CONTROL INDUSTRIAL - 4C (OL1)",
+        "Sistemas Electrónicos Digitales",
+        "Electrónica Para Energías",
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ELECTRÓNICOS - 4C (SA5A/OL10)",
+        "Programación Visual - 4D1 (EL5)",
+        "Avanzados - 4C1 (OL5)",
+        "Renovables - 4C1 (NA5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "RUIDO E INTERF. EN SISTEMAS",
+        "CONTROL INDUSTRIAL - 4C (OL1)",
+        "Sistemas Electrónicos Digitales",
+        "Electrónica Para Energías",
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ELECTRÓNICOS - 4C (SA5A/OL10)",
+        "Programación Visual - 4D1 (EL5)",
+        "Avanzados - 4C1 (OL5)",
+        "Renovables - 4C1 (NA5)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Control Industrial - 4C1 (OL1)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "ELECTRÓNICA PARA ENERGÍAS",
+        null
+      ],
+      [
+        "19:00/19:55",
+        "Electrónica Biomédica - 4C2 (OL5)",
+        "Sistemas Electrónicos Digitales",
+        "Electrónica Biomédica - 4C1 (OL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "RENOVABLES - 4C (OL11/NA5)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Avanzados - 4C2 (OL5)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "Control Industrial - 4C1 (OL1)",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "ELECTRÓNICA PARA ENERGÍAS",
+        null
+      ],
+      [
+        "20:00/20:55",
+        "Electrónica Biomédica - 4C2 (OL5)",
+        "Sistemas Electrónicos Digitales",
+        "Electrónica Biomédica - 4C1 (OL5)",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "RENOVABLES - 4C (OL11/NA5)",
+        null
+      ],
+      [
+        null,
+        null,
+        "Avanzados - 4C2 (OL5)",
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  },
+  {
+    "source_file": "Semestre1_GIEC_1.pdf",
+    "page": 4,
+    "strategy": "combined",
+    "table_index": 0,
+    "bbox": [
+      50.0,
+      146.7,
+      787.85,
+      396.95
+    ],
+    "n_rows": 27,
+    "n_cols": 6,
+    "rows": [
+      [
+        "HORA",
+        "LUNES",
+        "MARTES",
+        "MIÉRCOLES",
+        "JUEVES",
+        "VIERNES"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "8:00/8:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "9:00/9:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "10:00/10:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "11:00/11:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "12:00/12:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "13:00/13:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "14:00/14:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "15:00/15:55",
+        null,
+        "Computer Vision - 4E1 (OL8)",
+        null,
+        "Computer Vision - 4E1 (OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "16:00/16:55",
+        null,
+        "Computer Vision - 4E1 (OL8)",
+        null,
+        "Computer Vision - 4E1 (OL8)",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "17:00/17:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "18:00/18:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "19:00/19:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "20:00/20:55",
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "warnings": []
+  }
+]

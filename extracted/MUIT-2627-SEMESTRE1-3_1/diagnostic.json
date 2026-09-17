@@ -1,0 +1,127 @@
+{
+  "source_file": "MUIT-2627-SEMESTRE1-3_1.pdf",
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "word_count": 174,
+      "line_count": 50,
+      "rect_count": 84,
+      "strategies": {
+        "lines": {
+          "tables_detected": 3,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 7,
+              "columns": 6,
+              "bbox": [
+                113.52,
+                175.15,
+                1266.19,
+                284.49
+              ],
+              "warning_count": 11
+            },
+            {
+              "table_index": 1,
+              "rows": 7,
+              "columns": 6,
+              "bbox": [
+                113.52,
+                362.72,
+                1266.19,
+                469.14
+              ],
+              "warning_count": 0
+            },
+            {
+              "table_index": 2,
+              "rows": 7,
+              "columns": 6,
+              "bbox": [
+                113.52,
+                484.57,
+                1266.19,
+                593.21
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "text": {
+          "tables_detected": 1,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 58,
+              "columns": 13,
+              "bbox": [
+                123.51,
+                95.67,
+                1221.04,
+                914.08
+              ],
+              "warning_count": 0
+            }
+          ]
+        },
+        "combined": {
+          "tables_detected": 3,
+          "tables": [
+            {
+              "table_index": 0,
+              "rows": 11,
+              "columns": 6,
+              "bbox": [
+                113.52,
+                179.39,
+                1266.19,
+                284.8
+              ],
+              "warning_count": 0
+            },
+            {
+              "table_index": 1,
+              "rows": 18,
+              "columns": 6,
+              "bbox": [
+                113.52,
+                366.96,
+                1266.19,
+                469.79
+              ],
+              "warning_count": 0
+            },
+            {
+              "table_index": 2,
+              "rows": 17,
+              "columns": 6,
+              "bbox": [
+                113.52,
+                488.8,
+                1266.19,
+                593.85
+              ],
+              "warning_count": 0
+            }
+          ]
+        }
+      },
+      "best_strategy": "lines",
+      "warnings": [
+        "[lines] Multiline cell detected at row 1, col 1",
+        "[lines] Multiline cell detected at row 1, col 2",
+        "[lines] Multiline cell detected at row 1, col 3",
+        "[lines] Multiline cell detected at row 1, col 4",
+        "[lines] Multiline cell detected at row 1, col 5",
+        "[lines] Multiline cell detected at row 3, col 1",
+        "[lines] Multiline cell detected at row 3, col 2",
+        "[lines] Multiline cell detected at row 3, col 3",
+        "[lines] Multiline cell detected at row 3, col 4",
+        "[lines] Multiline cell detected at row 3, col 5",
+        "[lines] Multiline cell detected at row 5, col 5"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+PDF: Semestre1_GISI_1.pdf
+
+Pages: 9
+
+PAGE 1
+----------------------------
+
+Words detected: 205
+Lines detected: 33
+Rectangles detected: 124
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 12  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 39  Columns: 19
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 35  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 1, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Multiline cell detected at row 1, col 1
+- [lines] Multiline cell detected at row 1, col 2
+- [lines] Multiline cell detected at row 1, col 4
+- [lines] Multiline cell detected at row 2, col 1
+- [lines] Multiline cell detected at row 2, col 2
+- [lines] Multiline cell detected at row 2, col 4
+- [lines] Multiline cell detected at row 2, col 5
+- [lines] Multiline cell detected at row 3, col 1
+- [lines] Multiline cell detected at row 3, col 2
+- [lines] Multiline cell detected at row 3, col 4
+- [lines] Multiline cell detected at row 3, col 5
+- [lines] Multiline cell detected at row 4, col 1
+- [lines] Multiline cell detected at row 4, col 2
+- [lines] Multiline cell detected at row 4, col 4
+- [lines] Multiline cell detected at row 4, col 5
+- [lines] Multiline cell detected at row 5, col 1
+- [lines] Multiline cell detected at row 5, col 2
+- [lines] Multiline cell detected at row 5, col 4
+- [lines] Multiline cell detected at row 6, col 1
+- [lines] Multiline cell detected at row 6, col 2
+- [lines] Multiline cell detected at row 6, col 4
+
+PAGE 2
+----------------------------
+
+Words detected: 217
+Lines detected: 31
+Rectangles detected: 124
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 12  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 47  Columns: 17
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 45  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 1, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 1, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 1, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Multiline cell detected at row 10, col 1
+- [lines] Multiline cell detected at row 10, col 2
+- [lines] Multiline cell detected at row 10, col 4
+- [lines] Multiline cell detected at row 11, col 1
+- [lines] Multiline cell detected at row 11, col 2
+- [lines] Multiline cell detected at row 11, col 4
+- [lines] Multiline cell detected at row 5, col 5
+- [lines] Multiline cell detected at row 6, col 1
+- [lines] Multiline cell detected at row 6, col 2
+- [lines] Multiline cell detected at row 6, col 4
+- [lines] Multiline cell detected at row 6, col 5
+- [lines] Multiline cell detected at row 7, col 1
+- [lines] Multiline cell detected at row 7, col 2
+- [lines] Multiline cell detected at row 7, col 4
+- [lines] Multiline cell detected at row 7, col 5
+- [lines] Multiline cell detected at row 8, col 1
+- [lines] Multiline cell detected at row 8, col 2
+- [lines] Multiline cell detected at row 8, col 4
+- [lines] Multiline cell detected at row 9, col 1
+- [lines] Multiline cell detected at row 9, col 2
+- [lines] Multiline cell detected at row 9, col 4
+
+PAGE 3
+----------------------------
+
+Words detected: 285
+Lines detected: 35
+Rectangles detected: 116
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 14  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 43  Columns: 21
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 39  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 1, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 1, row 13 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 1, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 1, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 10 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 11 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Multiline cell detected at row 10, col 1
+- [lines] Multiline cell detected at row 10, col 2
+- [lines] Multiline cell detected at row 10, col 3
+- [lines] Multiline cell detected at row 11, col 1
+- [lines] Multiline cell detected at row 11, col 2
+- [lines] Multiline cell detected at row 3, col 1
+- [lines] Multiline cell detected at row 4, col 1
+- [lines] Multiline cell detected at row 8, col 2
+- [lines] Multiline cell detected at row 8, col 3
+- [lines] Multiline cell detected at row 8, col 5
+- [lines] Multiline cell detected at row 9, col 2
+- [lines] Multiline cell detected at row 9, col 3
+- [lines] Multiline cell detected at row 9, col 5
+
+PAGE 4
+----------------------------
+
+Words detected: 81
+Lines detected: 35
+Rectangles detected: 124
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 14  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 31  Columns: 5
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 27  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 7 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+
+PAGE 5
+----------------------------
+
+Words detected: 252
+Lines detected: 30
+Rectangles detected: 112
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 11  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 53  Columns: 17
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 51  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 1, row 10 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Multiline cell detected at row 1, col 3
+- [lines] Multiline cell detected at row 10, col 1
+- [lines] Multiline cell detected at row 10, col 2
+- [lines] Multiline cell detected at row 10, col 3
+- [lines] Multiline cell detected at row 10, col 4
+- [lines] Multiline cell detected at row 10, col 5
+- [lines] Multiline cell detected at row 2, col 3
+- [lines] Multiline cell detected at row 3, col 2
+- [lines] Multiline cell detected at row 3, col 3
+- [lines] Multiline cell detected at row 4, col 2
+- [lines] Multiline cell detected at row 4, col 3
+- [lines] Multiline cell detected at row 5, col 2
+- [lines] Multiline cell detected at row 5, col 3
+- [lines] Multiline cell detected at row 6, col 2
+- [lines] Multiline cell detected at row 6, col 3
+- [lines] Multiline cell detected at row 8, col 2
+- [lines] Multiline cell detected at row 8, col 3
+- [lines] Multiline cell detected at row 8, col 5
+- [lines] Multiline cell detected at row 9, col 1
+- [lines] Multiline cell detected at row 9, col 2
+- [lines] Multiline cell detected at row 9, col 3
+- [lines] Multiline cell detected at row 9, col 4
+- [lines] Multiline cell detected at row 9, col 5
+
+PAGE 6
+----------------------------
+
+Words detected: 127
+Lines detected: 16
+Rectangles detected: 36
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 4  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 21  Columns: 11
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 21  Columns: 5
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 2, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 2 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 3 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Multiline cell detected at row 0, col 2
+- [lines] Multiline cell detected at row 1, col 1
+- [lines] Multiline cell detected at row 1, col 2
+- [lines] Multiline cell detected at row 1, col 3
+- [lines] Multiline cell detected at row 1, col 4
+- [lines] Multiline cell detected at row 1, col 5
+- [lines] Multiline cell detected at row 2, col 2
+- [lines] Multiline cell detected at row 2, col 3
+- [lines] Multiline cell detected at row 2, col 4
+- [lines] Multiline cell detected at row 2, col 5
+- [lines] Multiline cell detected at row 3, col 2
+- [lines] Multiline cell detected at row 3, col 3
+- [lines] Multiline cell detected at row 3, col 5
+
+PAGE 7
+----------------------------
+
+Words detected: 288
+Lines detected: 20
+Rectangles detected: 62
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 6  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 61  Columns: 19
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 57  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 5 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 3, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Multiline cell detected at row 2, col 4
+- [lines] Multiline cell detected at row 3, col 2
+- [lines] Multiline cell detected at row 3, col 3
+- [lines] Multiline cell detected at row 3, col 4
+- [lines] Multiline cell detected at row 3, col 5
+- [lines] Multiline cell detected at row 4, col 2
+- [lines] Multiline cell detected at row 4, col 3
+- [lines] Multiline cell detected at row 4, col 4
+- [lines] Multiline cell detected at row 4, col 5
+- [lines] Multiline cell detected at row 5, col 1
+- [lines] Multiline cell detected at row 5, col 2
+- [lines] Multiline cell detected at row 5, col 3
+- [lines] Multiline cell detected at row 5, col 4
+- [lines] Multiline cell detected at row 5, col 5
+
+PAGE 8
+----------------------------
+
+Words detected: 327
+Lines detected: 27
+Rectangles detected: 86
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 9  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 71  Columns: 24
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 65  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 1, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 8 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 8 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 5, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Multiline cell detected at row 0, col 3
+- [lines] Multiline cell detected at row 1, col 1
+- [lines] Multiline cell detected at row 1, col 2
+- [lines] Multiline cell detected at row 1, col 3
+- [lines] Multiline cell detected at row 1, col 4
+- [lines] Multiline cell detected at row 1, col 5
+- [lines] Multiline cell detected at row 3, col 1
+- [lines] Multiline cell detected at row 3, col 2
+- [lines] Multiline cell detected at row 3, col 4
+- [lines] Multiline cell detected at row 3, col 5
+- [lines] Multiline cell detected at row 4, col 1
+- [lines] Multiline cell detected at row 4, col 2
+- [lines] Multiline cell detected at row 4, col 4
+- [lines] Multiline cell detected at row 4, col 5
+- [lines] Multiline cell detected at row 5, col 2
+- [lines] Multiline cell detected at row 5, col 4
+- [lines] Multiline cell detected at row 6, col 2
+- [lines] Multiline cell detected at row 6, col 4
+- [lines] Multiline cell detected at row 7, col 4
+- [lines] Multiline cell detected at row 8, col 4
+
+PAGE 9
+----------------------------
+
+Words detected: 109
+Lines detected: 35
+Rectangles detected: 144
+
+Strategy: lines
+Tables detected: 1
+  Table 0: Rows: 14  Columns: 6
+
+Strategy: text
+Tables detected: 1
+  Table 0: Rows: 51  Columns: 4
+
+Strategy: combined
+Tables detected: 1
+  Table 0: Rows: 47  Columns: 6
+
+BEST CANDIDATE: strategy = lines
+
+Warnings:
+- [lines] Column 2, row 4 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 6 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 2, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Column 4, row 9 repeats the same non-empty content as the row above -- likely part of a multi-slot merged cell
+- [lines] Multiline cell detected at row 3, col 2
+- [lines] Multiline cell detected at row 4, col 2
+- [lines] Multiline cell detected at row 5, col 2
+- [lines] Multiline cell detected at row 6, col 2
+- [lines] Multiline cell detected at row 8, col 2
+- [lines] Multiline cell detected at row 8, col 4
+- [lines] Multiline cell detected at row 9, col 2
+- [lines] Multiline cell detected at row 9, col 4
